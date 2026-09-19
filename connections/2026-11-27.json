@@ -1,0 +1,41 @@
+{
+  "id": "conn-345",
+  "groups": [
+    {
+      "name": "Vesnická náves",
+      "words": [
+        "KAPLIČKA",
+        "LÍPA",
+        "STUDNA",
+        "POMNÍK"
+      ]
+    },
+    {
+      "name": "Hospodářská stavení",
+      "words": [
+        "STODOLA",
+        "CHLÉV",
+        "SÝPKA",
+        "KOLNA"
+      ]
+    },
+    {
+      "name": "Zvířata ve dvoře",
+      "words": [
+        "KOHOUT",
+        "PES",
+        "KOČKA",
+        "HUSA"
+      ]
+    },
+    {
+      "name": "Selský ___",
+      "words": [
+        "ROZUM",
+        "DVŮR",
+        "STATEK",
+        "ZVYK"
+      ]
+    }
+  ]
+}

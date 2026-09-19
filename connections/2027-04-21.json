@@ -1,0 +1,41 @@
+{
+  "id": "conn-125",
+  "groups": [
+    {
+      "name": "Malířské techniky",
+      "words": [
+        "AKVAREL",
+        "OLEJ",
+        "TEMPERA",
+        "PASTEL"
+      ]
+    },
+    {
+      "name": "V ateliéru",
+      "words": [
+        "STOJAN",
+        "PLÁTNO",
+        "PALETA",
+        "ŠTĚTEC"
+      ]
+    },
+    {
+      "name": "Odstíny červené",
+      "words": [
+        "KARMÍN",
+        "PURPUR",
+        "ŠARLAT",
+        "RUBÍNOVÁ"
+      ]
+    },
+    {
+      "name": "Živá ___",
+      "words": [
+        "BARVA",
+        "DEBATA",
+        "PŘÍRODA",
+        "HUDBA"
+      ]
+    }
+  ]
+}

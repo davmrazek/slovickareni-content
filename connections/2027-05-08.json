@@ -1,0 +1,41 @@
+{
+  "id": "conn-142",
+  "groups": [
+    {
+      "name": "Pravěk",
+      "words": [
+        "PAZOUREK",
+        "MAMUT",
+        "JESKYNĚ",
+        "OHNIŠTĚ"
+      ]
+    },
+    {
+      "name": "Doba bronzová",
+      "words": [
+        "SLITINA",
+        "MOHYLA",
+        "SPONA",
+        "HRADIŠTĚ"
+      ]
+    },
+    {
+      "name": "Archeologie",
+      "words": [
+        "SONDA",
+        "VÝKOP",
+        "ŠTĚTEC",
+        "DATOVÁNÍ"
+      ]
+    },
+    {
+      "name": "Starý ___",
+      "words": [
+        "ZÁKON",
+        "KONTINENT",
+        "ZVYK",
+        "PŘÍTEL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "2027-05-21",
+  "date": "2027-05-21",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "P",
+      "O",
+      "D",
+      "#"
+    ],
+    [
+      "S",
+      "O",
+      "K",
+      "O",
+      "L"
+    ],
+    [
+      "E",
+      "R",
+      "O",
+      "Z",
+      "E"
+    ],
+    [
+      "N",
+      "A",
+      "L",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "D",
+      "I",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Předložka označující nižší polohu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rozrušování půdy vodou a větrem"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Naplnit sklenici až po okraj"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Odehrávat se, přihodit se"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Neustále"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Prostředí kolem nějakého místa"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Strávit zbytek života"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Obrazy ve spánku; nebo velká touha"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+    }
+  ]
+}

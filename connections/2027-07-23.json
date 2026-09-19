@@ -1,0 +1,41 @@
+{
+  "id": "conn-218",
+  "groups": [
+    {
+      "name": "Tenisový kurt",
+      "words": [
+        "SÍŤ",
+        "ANTUKA",
+        "PODÁNÍ",
+        "DVOREC"
+      ]
+    },
+    {
+      "name": "Tenisové údery",
+      "words": [
+        "FOREHAND",
+        "BEKHEND",
+        "VOLEJ",
+        "SMEČ"
+      ]
+    },
+    {
+      "name": "Grandslamová města",
+      "words": [
+        "LONDÝN",
+        "PAŘÍŽ",
+        "MELBOURNE",
+        "NEWYORK"
+      ]
+    },
+    {
+      "name": "Vítězný ___",
+      "words": [
+        "OBLOUK",
+        "MÍČEK",
+        "TAH",
+        "POCHOD"
+      ]
+    }
+  ]
+}

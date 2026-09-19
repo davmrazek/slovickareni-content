@@ -1,0 +1,41 @@
+{
+  "id": "conn-341",
+  "groups": [
+    {
+      "name": "Kutilství",
+      "words": [
+        "VRTAČKA",
+        "BRUSKA",
+        "HMOŽDINKA",
+        "TMEL"
+      ]
+    },
+    {
+      "name": "Malování pokoje",
+      "words": [
+        "VÁLEČEK",
+        "ŠTĚTKA",
+        "PÁSKA",
+        "BARVA"
+      ]
+    },
+    {
+      "name": "Podlahy",
+      "words": [
+        "PARKETY",
+        "DLAŽBA",
+        "KOBEREC",
+        "VINYL"
+      ]
+    },
+    {
+      "name": "Nový ___",
+      "words": [
+        "NÁTĚR",
+        "ZAČÁTEK",
+        "SOUSED",
+        "DOMOV"
+      ]
+    }
+  ]
+}

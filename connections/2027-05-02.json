@@ -1,0 +1,41 @@
+{
+  "id": "conn-136",
+  "groups": [
+    {
+      "name": "Myslivost",
+      "words": [
+        "POSED",
+        "KRMELEC",
+        "OBORA",
+        "TROUBENÍ"
+      ]
+    },
+    {
+      "name": "Stopy zvěře",
+      "words": [
+        "OTISK",
+        "TRUS",
+        "SRST",
+        "PAROŽÍ"
+      ]
+    },
+    {
+      "name": "Lesní práce",
+      "words": [
+        "KÁCENÍ",
+        "SÁZENÍ",
+        "PROBÍRKA",
+        "ODVOZ"
+      ]
+    },
+    {
+      "name": "Divoká ___",
+      "words": [
+        "ZVĚŘ",
+        "KACHNA",
+        "JÍZDA",
+        "RŮŽE"
+      ]
+    }
+  ]
+}

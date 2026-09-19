@@ -1,0 +1,116 @@
+{
+  "id": "2027-05-18",
+  "date": "2027-05-18",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "O",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "T",
+      "V",
+      "R",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "C",
+      "H"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Předložka označující nižší polohu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dějinné období, epocha"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Část města; také jeden díl ze čtyř"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Nízká dřevina bez kmene"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce podivu či bolesti"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zděné zařízení k tavení nebo topení"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Vodorovná důlní chodba"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Odměřené množství léku"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Mluvený projev; také jazyk národa"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Místo, kde se prodává a nakupuje"
+    }
+  ]
+}

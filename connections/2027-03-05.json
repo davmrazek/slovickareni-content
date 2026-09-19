@@ -1,0 +1,41 @@
+{
+  "id": "conn-78",
+  "groups": [
+    {
+      "name": "Na trhu",
+      "words": [
+        "STÁNEK",
+        "VÁHA",
+        "KOŠÍK",
+        "PRODAVAČ"
+      ]
+    },
+    {
+      "name": "Luštěniny",
+      "words": [
+        "ČOČKA",
+        "FAZOLE",
+        "HRÁCH",
+        "CIZRNA"
+      ]
+    },
+    {
+      "name": "Druhy mouky",
+      "words": [
+        "HLADKÁ",
+        "POLOHRUBÁ",
+        "HRUBÁ",
+        "CELOZRNNÁ"
+      ]
+    },
+    {
+      "name": "Selský ___",
+      "words": [
+        "ROZUM",
+        "DVŮR",
+        "GRUNT",
+        "CHLÉB"
+      ]
+    }
+  ]
+}

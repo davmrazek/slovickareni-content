@@ -1,0 +1,41 @@
+{
+  "id": "conn-241",
+  "groups": [
+    {
+      "name": "Ve včelařském roce",
+      "words": [
+        "MEDOBRANÍ",
+        "ZAZIMOVÁNÍ",
+        "ROJENÍ",
+        "KRMENÍ"
+      ]
+    },
+    {
+      "name": "Sladké lahůdky",
+      "words": [
+        "PERNÍK",
+        "BAKLAVA",
+        "NUGÁT",
+        "KARAMEL"
+      ]
+    },
+    {
+      "name": "Hmyzí opylovači",
+      "words": [
+        "ČMELÁK",
+        "MOTÝL",
+        "PESTŘENKA",
+        "SAMOTÁŘKA"
+      ]
+    },
+    {
+      "name": "Pilný jako ___",
+      "words": [
+        "VČELKA",
+        "MRAVENEC",
+        "BOBR",
+        "STUDENT"
+      ]
+    }
+  ]
+}

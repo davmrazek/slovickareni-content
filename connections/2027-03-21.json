@@ -1,0 +1,41 @@
+{
+  "id": "conn-94",
+  "groups": [
+    {
+      "name": "Ve včelíně",
+      "words": [
+        "ÚL",
+        "RÁMEK",
+        "MATKA",
+        "ROJ"
+      ]
+    },
+    {
+      "name": "Produkty úlu",
+      "words": [
+        "VOSK",
+        "PROPOLIS",
+        "PLÁST",
+        "PYL"
+      ]
+    },
+    {
+      "name": "Sladidla",
+      "words": [
+        "SIRUP",
+        "STÉVIE",
+        "MELASA",
+        "FRUKTÓZA"
+      ]
+    },
+    {
+      "name": "Sladký jako ___",
+      "words": [
+        "MED",
+        "CUKR",
+        "SEN",
+        "POLIBEK"
+      ]
+    }
+  ]
+}

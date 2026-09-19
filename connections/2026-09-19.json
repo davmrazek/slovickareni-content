@@ -1,0 +1,41 @@
+{
+  "id": "conn-276",
+  "groups": [
+    {
+      "name": "Sad na podzim",
+      "words": [
+        "ŽEBŘÍK",
+        "BEDNA",
+        "TRHÁNÍ",
+        "PADANKY"
+      ]
+    },
+    {
+      "name": "Odrůdy hrušek",
+      "words": [
+        "WILLIAMS",
+        "KONFERENCE",
+        "LUCASOVA",
+        "CLAPPOVA"
+      ]
+    },
+    {
+      "name": "Moštárna",
+      "words": [
+        "LIS",
+        "ŠŤÁVA",
+        "PASTERIZACE",
+        "DEMIŽON"
+      ]
+    },
+    {
+      "name": "Šťavnatý ___",
+      "words": [
+        "PLOD",
+        "STEAK",
+        "DETAIL",
+        "PŘÍBĚH"
+      ]
+    }
+  ]
+}

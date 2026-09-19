@@ -1,0 +1,41 @@
+{
+  "id": "conn-119",
+  "groups": [
+    {
+      "name": "V bance",
+      "words": [
+        "VKLAD",
+        "ÚROK",
+        "POBOČKA",
+        "TREZOR"
+      ]
+    },
+    {
+      "name": "Druhy pojištění",
+      "words": [
+        "ŽIVOTNÍ",
+        "POVINNÉ",
+        "CESTOVNÍ",
+        "MAJETKOVÉ"
+      ]
+    },
+    {
+      "name": "Účetnictví",
+      "words": [
+        "FAKTURA",
+        "ROZVAHA",
+        "DOKLAD",
+        "AUDIT"
+      ]
+    },
+    {
+      "name": "Kulatý ___",
+      "words": [
+        "STŮL",
+        "SOUČET",
+        "TALÍŘ",
+        "OBLIČEJ"
+      ]
+    }
+  ]
+}

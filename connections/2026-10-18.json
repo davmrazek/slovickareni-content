@@ -1,0 +1,41 @@
+{
+  "id": "conn-305",
+  "groups": [
+    {
+      "name": "Vynálezci",
+      "words": [
+        "EDISON",
+        "TESLA",
+        "WATT",
+        "MORSE"
+      ]
+    },
+    {
+      "name": "České vynálezy",
+      "words": [
+        "RUCHADLO",
+        "POLAROGRAF",
+        "SEMTEX",
+        "ROBOT"
+      ]
+    },
+    {
+      "name": "Objevy vědy",
+      "words": [
+        "PENICILIN",
+        "RENTGEN",
+        "OČKOVÁNÍ",
+        "DNA"
+      ]
+    },
+    {
+      "name": "Nová ___",
+      "words": [
+        "ÉRA",
+        "KREV",
+        "TVÁŘ",
+        "NADĚJE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-58",
+  "groups": [
+    {
+      "name": "Na túře",
+      "words": [
+        "BATOH",
+        "MAPA",
+        "STEZKA",
+        "CHATA"
+      ]
+    },
+    {
+      "name": "Táboření",
+      "words": [
+        "STAN",
+        "SPACÁK",
+        "OHNIŠTĚ",
+        "KOTLÍK"
+      ]
+    },
+    {
+      "name": "Alpské země",
+      "words": [
+        "RAKOUSKO",
+        "ŠVÝCARSKO",
+        "SLOVINSKO",
+        "ITÁLIE"
+      ]
+    },
+    {
+      "name": "___ cesta",
+      "words": [
+        "KŘÍŽOVÁ",
+        "POLNÍ",
+        "SLEPÁ",
+        "HEDVÁBNÁ"
+      ]
+    }
+  ]
+}

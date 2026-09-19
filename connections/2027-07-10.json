@@ -1,0 +1,41 @@
+{
+  "id": "conn-205",
+  "groups": [
+    {
+      "name": "Zmrzlinárna",
+      "words": [
+        "KORNOUT",
+        "KOPEČEK",
+        "POLEVA",
+        "POHÁR"
+      ]
+    },
+    {
+      "name": "Dortové ozdoby",
+      "words": [
+        "MARCIPÁN",
+        "ŠLEHAČKA",
+        "OŘÍŠKY",
+        "POSYP"
+      ]
+    },
+    {
+      "name": "Čokoláda",
+      "words": [
+        "HOŘKÁ",
+        "MLÉČNÁ",
+        "BÍLÁ",
+        "PLNĚNÁ"
+      ]
+    },
+    {
+      "name": "Ledová ___",
+      "words": [
+        "TŘÍŠŤ",
+        "KÁVA",
+        "DŘEŇ",
+        "KRÁLOVNA"
+      ]
+    }
+  ]
+}

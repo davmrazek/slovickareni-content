@@ -1,0 +1,41 @@
+{
+  "id": "conn-97",
+  "groups": [
+    {
+      "name": "Na poště",
+      "words": [
+        "ZNÁMKA",
+        "OBÁLKA",
+        "BALÍK",
+        "POUKÁZKA"
+      ]
+    },
+    {
+      "name": "Sběratelství",
+      "words": [
+        "FILATELIE",
+        "NUMISMATIKA",
+        "ALBUM",
+        "KATALOG"
+      ]
+    },
+    {
+      "name": "Staré platidlo",
+      "words": [
+        "TOLAR",
+        "GROŠ",
+        "DUKÁT",
+        "HALÉŘ"
+      ]
+    },
+    {
+      "name": "Cenný ___",
+      "words": [
+        "PAPÍR",
+        "NÁLEZ",
+        "KOV",
+        "ÚLOVEK"
+      ]
+    }
+  ]
+}

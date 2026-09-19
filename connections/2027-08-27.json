@@ -1,0 +1,41 @@
+{
+  "id": "conn-253",
+  "groups": [
+    {
+      "name": "V koupelně",
+      "words": [
+        "UMYVADLO",
+        "KOUT",
+        "OBKLAD",
+        "RUČNÍK"
+      ]
+    },
+    {
+      "name": "Hygiena",
+      "words": [
+        "MÝDLO",
+        "ŽÍNKA",
+        "KARTÁČEK",
+        "DEODORANT"
+      ]
+    },
+    {
+      "name": "Instalatérské práce",
+      "words": [
+        "SIFON",
+        "BATERIE",
+        "TĚSNĚNÍ",
+        "ODPAD"
+      ]
+    },
+    {
+      "name": "Teplá ___",
+      "words": [
+        "VODA",
+        "DEKA",
+        "BARVA",
+        "PŘEDPOVĚĎ"
+      ]
+    }
+  ]
+}

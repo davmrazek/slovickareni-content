@@ -1,0 +1,41 @@
+{
+  "id": "conn-145",
+  "groups": [
+    {
+      "name": "Objevné plavby",
+      "words": [
+        "KARAVELA",
+        "KOMPAS",
+        "MAPA",
+        "PŘÍSTAV"
+      ]
+    },
+    {
+      "name": "Piráti",
+      "words": [
+        "POKLAD",
+        "PAPOUŠEK",
+        "ŠAVLE",
+        "VLAJKA"
+      ]
+    },
+    {
+      "name": "Koření z dálek",
+      "words": [
+        "SKOŘICE",
+        "HŘEBÍČEK",
+        "MUŠKÁT",
+        "VANILKA"
+      ]
+    },
+    {
+      "name": "Nový ___",
+      "words": [
+        "SVĚT",
+        "ROK",
+        "ZAČÁTEK",
+        "SOUSED"
+      ]
+    }
+  ]
+}

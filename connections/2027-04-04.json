@@ -1,0 +1,41 @@
+{
+  "id": "conn-108",
+  "groups": [
+    {
+      "name": "Maják a navigace",
+      "words": [
+        "KOMPAS",
+        "SEXTANT",
+        "MAPA",
+        "SVĚTLO"
+      ]
+    },
+    {
+      "name": "Mořské proudy a jevy",
+      "words": [
+        "PŘÍLIV",
+        "ODLIV",
+        "VLNOBITÍ",
+        "BOUŘE"
+      ]
+    },
+    {
+      "name": "Potápění",
+      "words": [
+        "MASKA",
+        "ŠNORCHL",
+        "BOMBA",
+        "NEOPREN"
+      ]
+    },
+    {
+      "name": "Hluboký ___",
+      "words": [
+        "SPÁNEK",
+        "DECH",
+        "LES",
+        "SMUTEK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "2027-05-22",
+  "date": "2027-05-22",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "C",
+      "A",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "H",
+      "L",
+      "T"
+    ],
+    [
+      "Z",
+      "L",
+      "A",
+      "T",
+      "O"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Plyne a měříme ho hodinami"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Jedno velké polknutí; na jeden ~"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Oslavná báseň, třeba na radost"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Rekreační stavení"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Hluboký ženský hlas"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Deset desítek; také bankovka s Karlem IV."
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Opak dobra; vybírá se vždy to menší"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zmrzlá voda; v nápoji chrastí"
+    }
+  ]
+}

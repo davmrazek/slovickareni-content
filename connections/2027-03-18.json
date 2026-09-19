@@ -1,0 +1,41 @@
+{
+  "id": "conn-91",
+  "groups": [
+    {
+      "name": "Horolezectví",
+      "words": [
+        "LANO",
+        "KARABINA",
+        "SEDÁK",
+        "JISTÍTKO"
+      ]
+    },
+    {
+      "name": "Alpské vrcholy",
+      "words": [
+        "MONTBLANC",
+        "MATTERHORN",
+        "EIGER",
+        "GROSSGLOCKNER"
+      ]
+    },
+    {
+      "name": "Vysokohorské jevy",
+      "words": [
+        "LEDOVEC",
+        "LAVINA",
+        "MORÉNA",
+        "SUŤ"
+      ]
+    },
+    {
+      "name": "Strmý ___",
+      "words": [
+        "SVAH",
+        "SRÁZ",
+        "PÁD",
+        "VÝSTUP"
+      ]
+    }
+  ]
+}

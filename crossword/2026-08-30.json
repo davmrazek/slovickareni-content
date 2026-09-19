@@ -1,0 +1,116 @@
+{
+  "id": "2026-08-30",
+  "date": "2026-08-30",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "I",
+      "R"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "S",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "K",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Původce chřipky; také rotující proud vody (vir i vír)"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Zubní ~; hustá mazlavá hmota"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Projev vděčnosti, poděkování"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Knižní odporovací spojka: ale, jenže"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Nalévat; nebo ~ jako z konve"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Dějinné období, epocha"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Předložka označující nižší polohu"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-225",
+  "groups": [
+    {
+      "name": "Divadelní hry",
+      "words": [
+        "KOMEDIE",
+        "TRAGÉDIE",
+        "FRAŠKA",
+        "MUZIKÁL"
+      ]
+    },
+    {
+      "name": "Kostýmy",
+      "words": [
+        "PARUKA",
+        "LÍČIDLO",
+        "PLÁŠŤ",
+        "MASKA"
+      ]
+    },
+    {
+      "name": "Jeviště",
+      "words": [
+        "RAMPA",
+        "PROPADLO",
+        "TOČNA",
+        "OPONA"
+      ]
+    },
+    {
+      "name": "Zlatá ___",
+      "words": [
+        "KAPLIČKA",
+        "ULIČKA",
+        "NEDĚLE",
+        "MLÁDEŽ"
+      ]
+    }
+  ]
+}

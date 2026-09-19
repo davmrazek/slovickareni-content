@@ -1,0 +1,41 @@
+{
+  "id": "conn-257",
+  "groups": [
+    {
+      "name": "Investice",
+      "words": [
+        "AKCIE",
+        "DLUHOPIS",
+        "PORTFOLIO",
+        "VÝNOS"
+      ]
+    },
+    {
+      "name": "Spoření",
+      "words": [
+        "ÚČET",
+        "REZERVA",
+        "ÚROK",
+        "VKLAD"
+      ]
+    },
+    {
+      "name": "Rizika",
+      "words": [
+        "INFLACE",
+        "PROPAD",
+        "BUBLINA",
+        "ZTRÁTA"
+      ]
+    },
+    {
+      "name": "Rychlý ___",
+      "words": [
+        "ZISK",
+        "SPÁD",
+        "ODBYT",
+        "SLED"
+      ]
+    }
+  ]
+}

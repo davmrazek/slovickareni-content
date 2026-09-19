@@ -1,0 +1,41 @@
+{
+  "id": "conn-199",
+  "groups": [
+    {
+      "name": "Bydlení",
+      "words": [
+        "NÁJEM",
+        "HYPOTÉKA",
+        "STĚHOVÁNÍ",
+        "KOLAUDACE"
+      ]
+    },
+    {
+      "name": "Byt",
+      "words": [
+        "PŘEDSÍŇ",
+        "BALKON",
+        "KOMORA",
+        "SKLEP"
+      ]
+    },
+    {
+      "name": "Řemeslníci v domě",
+      "words": [
+        "INSTALATÉR",
+        "ELEKTRIKÁŘ",
+        "MALÍŘ",
+        "OBKLADAČ"
+      ]
+    },
+    {
+      "name": "Otevřené ___",
+      "words": [
+        "DVEŘE",
+        "MOŘE",
+        "KARTY",
+        "SRDCE"
+      ]
+    }
+  ]
+}

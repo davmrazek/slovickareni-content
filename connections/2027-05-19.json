@@ -1,0 +1,41 @@
+{
+  "id": "conn-153",
+  "groups": [
+    {
+      "name": "Kancelářský software",
+      "words": [
+        "TABULKA",
+        "PREZENTACE",
+        "DOKUMENT",
+        "KALENDÁŘ"
+      ]
+    },
+    {
+      "name": "Klávesnice",
+      "words": [
+        "MEZERNÍK",
+        "ENTER",
+        "ŠIPKY",
+        "TABULÁTOR"
+      ]
+    },
+    {
+      "name": "Tiskárna",
+      "words": [
+        "TONER",
+        "PAPÍR",
+        "SKENER",
+        "ZÁSOBNÍK"
+      ]
+    },
+    {
+      "name": "Prázdný ___",
+      "words": [
+        "LIST",
+        "ŽALUDEK",
+        "SLIB",
+        "PROSTOR"
+      ]
+    }
+  ]
+}

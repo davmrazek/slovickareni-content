@@ -1,0 +1,41 @@
+{
+  "id": "conn-113",
+  "groups": [
+    {
+      "name": "Skauting",
+      "words": [
+        "ODDÍL",
+        "SLIB",
+        "UZEL",
+        "TÁBOR"
+      ]
+    },
+    {
+      "name": "Ohňové dovednosti",
+      "words": [
+        "KŘESADLO",
+        "TROUD",
+        "ZÁPALKA",
+        "JISKRA"
+      ]
+    },
+    {
+      "name": "Uzly",
+      "words": [
+        "AMBULANČNÍ",
+        "LODNÍ",
+        "OSMIČKA",
+        "DRAČÍ"
+      ]
+    },
+    {
+      "name": "Živý ___",
+      "words": [
+        "PLOT",
+        "TVOR",
+        "OHEŇ",
+        "ZÁJEM"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-101",
+  "groups": [
+    {
+      "name": "Vodní ptáci na rybníce",
+      "words": [
+        "LYSKA",
+        "POTÁPKA",
+        "VOLAVKA",
+        "POLÁK"
+      ]
+    },
+    {
+      "name": "Ptačí tělo",
+      "words": [
+        "BRK",
+        "ZOBÁK",
+        "VOLE",
+        "DRÁPY"
+      ]
+    },
+    {
+      "name": "Tažní ptáci",
+      "words": [
+        "ČÁP",
+        "VLAŠTOVKA",
+        "ŠPAČEK",
+        "JEŘÁB"
+      ]
+    },
+    {
+      "name": "Lehký jako ___",
+      "words": [
+        "PÍRKO",
+        "VÁNEK",
+        "VZDUCH",
+        "MOTÝL"
+      ]
+    }
+  ]
+}

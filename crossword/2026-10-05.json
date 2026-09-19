@@ -1,0 +1,116 @@
+{
+  "id": "2026-10-05",
+  "date": "2026-10-05",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "L",
+      "Z",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "E",
+      "T"
+    ],
+    [
+      "H",
+      "L",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "S",
+      "E",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Je možné (~ to udělat)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pro tchána i tchyni manžel jejich dcery"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Zemina na keramiku"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vládní síla; nebo velmi"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Katolická bohoslužba"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Příbor na polévku"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Buddhistický směr meditace"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Sedmé písmeno řecké abecedy"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Citoslovce zamyšlení či váhání"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+    }
+  ]
+}

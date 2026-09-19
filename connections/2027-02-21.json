@@ -1,0 +1,41 @@
+{
+  "id": "conn-66",
+  "groups": [
+    {
+      "name": "Do postele",
+      "words": [
+        "POLŠTÁŘ",
+        "PEŘINA",
+        "PROSTĚRADLO",
+        "MATRACE"
+      ]
+    },
+    {
+      "name": "V koupelně",
+      "words": [
+        "VANA",
+        "SPRCHA",
+        "ZRCADLO",
+        "UMYVADLO"
+      ]
+    },
+    {
+      "name": "Úklid",
+      "words": [
+        "KOŠTĚ",
+        "HADR",
+        "KBELÍK",
+        "VYSAVAČ"
+      ]
+    },
+    {
+      "name": "___ spánek",
+      "words": [
+        "ZIMNÍ",
+        "VĚČNÝ",
+        "TVRDÝ",
+        "LEHKÝ"
+      ]
+    }
+  ]
+}

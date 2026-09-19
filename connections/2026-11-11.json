@@ -1,0 +1,41 @@
+{
+  "id": "conn-329",
+  "groups": [
+    {
+      "name": "Mléčné produkty",
+      "words": [
+        "KEFÍR",
+        "PODMÁSLÍ",
+        "TVAROH",
+        "SYROVÁTKA"
+      ]
+    },
+    {
+      "name": "Výroba sýra",
+      "words": [
+        "SÝŘENÍ",
+        "ZRÁNÍ",
+        "SOLENÍ",
+        "FORMA"
+      ]
+    },
+    {
+      "name": "Sýry ze světa",
+      "words": [
+        "GOUDA",
+        "ČEDAR",
+        "BRIE",
+        "FETA"
+      ]
+    },
+    {
+      "name": "Kyselá ___",
+      "words": [
+        "SMETANA",
+        "PŘÍCHUŤ",
+        "REAKCE",
+        "TVÁŘ"
+      ]
+    }
+  ]
+}

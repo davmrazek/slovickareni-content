@@ -1,0 +1,41 @@
+{
+  "id": "conn-3",
+  "groups": [
+    {
+      "name": "Domácí zvířata",
+      "words": [
+        "PES",
+        "KOČKA",
+        "KRÁLÍK",
+        "KŮŇ"
+      ]
+    },
+    {
+      "name": "Ostrý ___",
+      "words": [
+        "JAZYK",
+        "ZUB",
+        "ÚHEL",
+        "SÝR"
+      ]
+    },
+    {
+      "name": "Karetní barvy",
+      "words": [
+        "SRDCE",
+        "KŘÍŽ",
+        "PIK",
+        "KÁRO"
+      ]
+    },
+    {
+      "name": "Zabijačkové speciality",
+      "words": [
+        "OVAR",
+        "JELITO",
+        "JITRNICE",
+        "TLAČENKA"
+      ]
+    }
+  ]
+}

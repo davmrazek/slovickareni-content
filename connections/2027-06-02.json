@@ -1,0 +1,41 @@
+{
+  "id": "conn-167",
+  "groups": [
+    {
+      "name": "Matematické operace",
+      "words": [
+        "SČÍTÁNÍ",
+        "DĚLENÍ",
+        "MOCNINA",
+        "ODMOCNINA"
+      ]
+    },
+    {
+      "name": "Geometrie",
+      "words": [
+        "ÚHLOPŘÍČKA",
+        "OBVOD",
+        "OSA",
+        "TĚŽIŠTĚ"
+      ]
+    },
+    {
+      "name": "Číselné množiny",
+      "words": [
+        "PŘIROZENÁ",
+        "CELÁ",
+        "RACIONÁLNÍ",
+        "REÁLNÁ"
+      ]
+    },
+    {
+      "name": "Pravý ___",
+      "words": [
+        "ÚHEL",
+        "OPAK",
+        "BŘEH",
+        "DŮVOD"
+      ]
+    }
+  ]
+}

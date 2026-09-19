@@ -1,0 +1,116 @@
+{
+  "id": "2026-10-13",
+  "date": "2026-10-13",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "M",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "S",
+      "O",
+      "K",
+      "O",
+      "L"
+    ],
+    [
+      "U",
+      "D",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "M",
+      "E",
+      "N",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "L",
+      "A",
+      "K",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Vlastnit; nebo ~ se k světu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Níže položené místo mezi kopci"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Přetvářet do jiné podoby; také ~ peníze v bance"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nátěr na nehty nebo na dřevo"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Náboženský obraz; nebo symbol na displeji"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Takové množství (~ práce)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nalévat; nebo ~ jako z konve"
+    }
+  ]
+}

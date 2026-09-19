@@ -1,0 +1,116 @@
+{
+  "id": "2026-12-08",
+  "date": "2026-12-08",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "D",
+      "V",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "E",
+      "C"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "C",
+      "H"
+    ],
+    [
+      "L",
+      "O",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "Z",
+      "D",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Číslo mezi jedničkou a trojkou"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Mluvený projev; také jazyk národa"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Jemné suché částice; nebo střelný ~"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Divadelní hra s vážným dějem"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Předmět; nebo záležitost"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Citoslovce podivu či bolesti"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
+    }
+  ]
+}

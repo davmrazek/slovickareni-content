@@ -1,0 +1,41 @@
+{
+  "id": "conn-20",
+  "groups": [
+    {
+      "name": "Zahradní nářadí",
+      "words": [
+        "HRÁBĚ",
+        "LOPATA",
+        "MOTYKA",
+        "KOSA"
+      ]
+    },
+    {
+      "name": "Pohádkové bytosti",
+      "words": [
+        "ČERT",
+        "VÍLA",
+        "DRAK",
+        "JEŽIBABA"
+      ]
+    },
+    {
+      "name": "Měsíce",
+      "words": [
+        "ÚNOR",
+        "DUBEN",
+        "KVĚTEN",
+        "ČERVENEC"
+      ]
+    },
+    {
+      "name": "Medvědí ___",
+      "words": [
+        "SLUŽBA",
+        "ČESNEK",
+        "TLAPA",
+        "BRLOH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-214",
+  "groups": [
+    {
+      "name": "Kempink",
+      "words": [
+        "STAN",
+        "KOLÍK",
+        "CELTA",
+        "VAŘIČ"
+      ]
+    },
+    {
+      "name": "Karavan",
+      "words": [
+        "PŘÍVĚS",
+        "MARKÝZA",
+        "PŘÍPOJKA",
+        "NÁDRŽ"
+      ]
+    },
+    {
+      "name": "Noc pod širákem",
+      "words": [
+        "HVĚZDY",
+        "KOMÁŘI",
+        "ROSA",
+        "OHNIŠTĚ"
+      ]
+    },
+    {
+      "name": "Letní ___",
+      "words": [
+        "NOC",
+        "KINO",
+        "ČAS",
+        "BUNDA"
+      ]
+    }
+  ]
+}

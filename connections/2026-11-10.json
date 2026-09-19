@@ -1,0 +1,41 @@
+{
+  "id": "conn-328",
+  "groups": [
+    {
+      "name": "Pekařské výrobky",
+      "words": [
+        "ŽEMLE",
+        "KAISERKA",
+        "PLETÝNKA",
+        "ROHLÍK"
+      ]
+    },
+    {
+      "name": "Sladké pečivo",
+      "words": [
+        "BUCHTA",
+        "KOLÁČ",
+        "ŠÁTEČEK",
+        "LOUPÁK"
+      ]
+    },
+    {
+      "name": "Náplně",
+      "words": [
+        "MÁK",
+        "TVAROH",
+        "POVIDLA",
+        "OŘECHY"
+      ]
+    },
+    {
+      "name": "Čerstvě ___",
+      "words": [
+        "UPEČENO",
+        "NATOČENO",
+        "UVAŘENO",
+        "NAMLETO"
+      ]
+    }
+  ]
+}

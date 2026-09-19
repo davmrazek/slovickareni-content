@@ -1,0 +1,41 @@
+{
+  "id": "conn-132",
+  "groups": [
+    {
+      "name": "Ložní prádlo",
+      "words": [
+        "POVLAK",
+        "PROSTĚRADLO",
+        "PEŘINA",
+        "POLŠTÁŘ"
+      ]
+    },
+    {
+      "name": "Spánkové fáze",
+      "words": [
+        "USÍNÁNÍ",
+        "SNĚNÍ",
+        "PROBUZENÍ",
+        "CHRÁPÁNÍ"
+      ]
+    },
+    {
+      "name": "Noční obloha",
+      "words": [
+        "MĚSÍC",
+        "HVĚZDA",
+        "KOMETA",
+        "PLANETA"
+      ]
+    },
+    {
+      "name": "Zdravý ___",
+      "words": [
+        "SPÁNEK",
+        "ROZUM",
+        "VZDUCH",
+        "ÚSUDEK"
+      ]
+    }
+  ]
+}

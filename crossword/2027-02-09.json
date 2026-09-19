@@ -1,0 +1,116 @@
+{
+  "id": "2027-02-09",
+  "date": "2027-02-09",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "P",
+      "O",
+      "D",
+      "#"
+    ],
+    [
+      "Z",
+      "A",
+      "B",
+      "I",
+      "T"
+    ],
+    [
+      "U",
+      "N",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "V",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "K",
+      "A",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Předložka označující nižší polohu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Připravit o život"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vyčerpání po námaze"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Poskytovat zábavu"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Kdo vykonává popravu"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Malá sklenka tvrdého alkoholu; nebo figurka"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Strach z budoucího"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Být překvapen (~ se)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nástroj ke kousání v ústech"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Měnit se z ledu ve vodu"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-261",
+  "groups": [
+    {
+      "name": "Hlavolam kostka",
+      "words": [
+        "OTOČKA",
+        "STĚNA",
+        "ALGORITMUS",
+        "SKLÁDÁNÍ"
+      ]
+    },
+    {
+      "name": "Sudoku",
+      "words": [
+        "ŘÁDEK",
+        "SLOUPEC",
+        "ČTVEREC",
+        "KANDIDÁT"
+      ]
+    },
+    {
+      "name": "Křížovka",
+      "words": [
+        "TAJENKA",
+        "LEGENDA",
+        "POLÍČKO",
+        "VODOROVNĚ"
+      ]
+    },
+    {
+      "name": "Skrytá ___",
+      "words": [
+        "ZPRÁVA",
+        "VADA",
+        "HROZBA",
+        "KAMERA"
+      ]
+    }
+  ]
+}

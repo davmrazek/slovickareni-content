@@ -1,0 +1,41 @@
+{
+  "id": "conn-61",
+  "groups": [
+    {
+      "name": "Čeští panovníci",
+      "words": [
+        "KAREL",
+        "PŘEMYSL",
+        "VÁCLAV",
+        "RUDOLF"
+      ]
+    },
+    {
+      "name": "Pražské čtvrti",
+      "words": [
+        "VINOHRADY",
+        "ŽIŽKOV",
+        "SMÍCHOV",
+        "DEJVICE"
+      ]
+    },
+    {
+      "name": "Moravská města",
+      "words": [
+        "BRNO",
+        "OLOMOUC",
+        "ZLÍN",
+        "ZNOJMO"
+      ]
+    },
+    {
+      "name": "___ most",
+      "words": [
+        "KARLŮV",
+        "PADACÍ",
+        "VZDUŠNÝ",
+        "ZUBNÍ"
+      ]
+    }
+  ]
+}

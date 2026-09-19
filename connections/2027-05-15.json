@@ -1,0 +1,41 @@
+{
+  "id": "conn-149",
+  "groups": [
+    {
+      "name": "Novinařina",
+      "words": [
+        "REDAKCE",
+        "TITULEK",
+        "ROZHOVOR",
+        "UZÁVĚRKA"
+      ]
+    },
+    {
+      "name": "Rozhlas",
+      "words": [
+        "VYSÍLÁNÍ",
+        "MODERÁTOR",
+        "FREKVENCE",
+        "ZPRÁVY"
+      ]
+    },
+    {
+      "name": "Reklama",
+      "words": [
+        "SLOGAN",
+        "BILLBOARD",
+        "SPOT",
+        "ZNAČKA"
+      ]
+    },
+    {
+      "name": "Horký ___",
+      "words": [
+        "KANDIDÁT",
+        "ČAJ",
+        "VZDUCH",
+        "TIP"
+      ]
+    }
+  ]
+}

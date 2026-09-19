@@ -1,0 +1,116 @@
+{
+  "id": "2027-03-16",
+  "date": "2027-03-16",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "J",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "N",
+      "U"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "I",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "K",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Hra s raketou přes síť"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Jiným způsobem, odlišně"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Jeden odlomený či oddělený díl"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Na onom místě, opak sem"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Dějinné období, epocha"
+    }
+  ]
+}

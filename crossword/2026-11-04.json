@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-04",
+  "date": "2026-11-04",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "S",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "U",
+      "R"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "S",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Deset desítek; také bankovka s Karlem IV."
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Místo s varhanami v kostele"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pohybová soutěž"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Čtyřnohý společník na vodítku (4. pád)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Způsobená ztráta; také mladoboleslavská značka"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Vodorovná důlní chodba"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Řemen kolem beder; také doklad na cesty"
+    }
+  ]
+}

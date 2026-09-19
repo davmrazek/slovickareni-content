@@ -1,0 +1,41 @@
+{
+  "id": "conn-294",
+  "groups": [
+    {
+      "name": "Zeměpisné souřadnice",
+      "words": [
+        "ROVNOBĚŽKA",
+        "POLEDNÍK",
+        "ROVNÍK",
+        "OBRATNÍK"
+      ]
+    },
+    {
+      "name": "Mapové značky",
+      "words": [
+        "MĚŘÍTKO",
+        "LEGENDA",
+        "SEVERKA",
+        "VÝŠKOPIS"
+      ]
+    },
+    {
+      "name": "Krajinné celky",
+      "words": [
+        "NÍŽINA",
+        "VRCHOVINA",
+        "PLANINA",
+        "KOTLINA"
+      ]
+    },
+    {
+      "name": "Jižní ___",
+      "words": [
+        "PÓL",
+        "SVAH",
+        "KŘÍŽ",
+        "VÍTR"
+      ]
+    }
+  ]
+}

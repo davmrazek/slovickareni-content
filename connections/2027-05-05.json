@@ -1,0 +1,41 @@
+{
+  "id": "conn-139",
+  "groups": [
+    {
+      "name": "Optika",
+      "words": [
+        "HRANOL",
+        "ZRCADLO",
+        "PAPRSEK",
+        "LOM"
+      ]
+    },
+    {
+      "name": "Barvy spektra",
+      "words": [
+        "INDIGO",
+        "FIALOVÁ",
+        "ORANŽOVÁ",
+        "ZELENÁ"
+      ]
+    },
+    {
+      "name": "Světelné zdroje",
+      "words": [
+        "ŽÁROVKA",
+        "SVÍCE",
+        "DIODA",
+        "POCHODEŇ"
+      ]
+    },
+    {
+      "name": "Jasná ___",
+      "words": [
+        "ODPOVĚĎ",
+        "OBLOHA",
+        "HVĚZDA",
+        "ZPRÁVA"
+      ]
+    }
+  ]
+}

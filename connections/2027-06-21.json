@@ -1,0 +1,41 @@
+{
+  "id": "conn-186",
+  "groups": [
+    {
+      "name": "Světové metropole",
+      "words": [
+        "TOKIO",
+        "KÁHIRA",
+        "LIMA",
+        "SYDNEY"
+      ]
+    },
+    {
+      "name": "Světové stavby",
+      "words": [
+        "PYRAMIDA",
+        "KOLOSEUM",
+        "AKROPOLE",
+        "TÁDŽMAHAL"
+      ]
+    },
+    {
+      "name": "Cestovní doklady",
+      "words": [
+        "VÍZUM",
+        "LETENKA",
+        "POJIŠTĚNÍ",
+        "REZERVACE"
+      ]
+    },
+    {
+      "name": "Světový ___",
+      "words": [
+        "REKORD",
+        "MÍR",
+        "POHÁR",
+        "NÁZOR"
+      ]
+    }
+  ]
+}

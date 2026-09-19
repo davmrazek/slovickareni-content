@@ -1,0 +1,41 @@
+{
+  "id": "conn-210",
+  "groups": [
+    {
+      "name": "Hotelové služby",
+      "words": [
+        "RECEPCE",
+        "POKOJSKÁ",
+        "SNÍDANĚ",
+        "WELLNESS"
+      ]
+    },
+    {
+      "name": "Typy pokojů",
+      "words": [
+        "JEDNOLŮŽKOVÝ",
+        "APARTMÁ",
+        "DVOULŮŽKOVÝ",
+        "STUDIO"
+      ]
+    },
+    {
+      "name": "Na dovolené",
+      "words": [
+        "VÝLET",
+        "PRŮVODCE",
+        "PLÁŽ",
+        "SUVENÝR"
+      ]
+    },
+    {
+      "name": "Volné ___",
+      "words": [
+        "MÍSTO",
+        "POLE",
+        "SDRUŽENÍ",
+        "PRŮCHOD"
+      ]
+    }
+  ]
+}

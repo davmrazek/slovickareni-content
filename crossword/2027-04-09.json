@@ -1,0 +1,116 @@
+{
+  "id": "2027-04-09",
+  "date": "2027-04-09",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "J",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "O",
+      "R"
+    ],
+    [
+      "C",
+      "T",
+      "E",
+      "N",
+      "I"
+    ],
+    [
+      "L",
+      "I",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pohybovat se pěšky"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zhoubná nakažlivá nemoc"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vnímání textu"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Sladkovodní ryba se slizkou kůží"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zrakový orgán; také poutko na provaze"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Jak se kdo nazývá"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Elektricky nabitá částice"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Počet nohou stativu"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Poplatek za dovoz zboží přes hranice"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nervový záškub oka"
+    }
+  ]
+}

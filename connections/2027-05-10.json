@@ -1,0 +1,41 @@
+{
+  "id": "conn-144",
+  "groups": [
+    {
+      "name": "Klášter",
+      "words": [
+        "OPAT",
+        "REFEKTÁŘ",
+        "AMBIT",
+        "CELA"
+      ]
+    },
+    {
+      "name": "Rukopisy",
+      "words": [
+        "PERGAMEN",
+        "INICIÁLA",
+        "BRK",
+        "ILUMINACE"
+      ]
+    },
+    {
+      "name": "Církevní hodnosti",
+      "words": [
+        "BISKUP",
+        "KARDINÁL",
+        "FARÁŘ",
+        "JÁHEN"
+      ]
+    },
+    {
+      "name": "Tichý ___",
+      "words": [
+        "OCEÁN",
+        "SPOLEČNÍK",
+        "SOUHLAS",
+        "HLAS"
+      ]
+    }
+  ]
+}

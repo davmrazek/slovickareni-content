@@ -1,0 +1,116 @@
+{
+  "id": "2026-09-08",
+  "date": "2026-09-08",
+  "size": 5,
+  "grid": [
+    [
+      "N",
+      "E",
+      "Z",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "H",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "M",
+      "R",
+      "A",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "N",
+      "U"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "I",
+      "P"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojka ve srovnání (větší ~ ty)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Citoslovce náhlého pochopení"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nepříjemný zápach"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Odhad, sázka na výsledek"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (~ dům)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vydávat jasné světlo"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zvuk těžkého kroku"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-206",
+  "groups": [
+    {
+      "name": "Kuchyňské roboty",
+      "words": [
+        "METLA",
+        "HÁK",
+        "NÁSTAVEC",
+        "MISKA"
+      ]
+    },
+    {
+      "name": "Pečení dortu",
+      "words": [
+        "KORPUS",
+        "KRÉM",
+        "FORMA",
+        "PIŠKOT"
+      ]
+    },
+    {
+      "name": "Kypřidla",
+      "words": [
+        "DROŽDÍ",
+        "KVASNICE",
+        "PRÁŠEK",
+        "SODA"
+      ]
+    },
+    {
+      "name": "Nadýchaný jako ___",
+      "words": [
+        "OBLAK",
+        "PEŘINA",
+        "PĚNA",
+        "VATA"
+      ]
+    }
+  ]
+}

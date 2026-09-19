@@ -1,0 +1,41 @@
+{
+  "id": "conn-171",
+  "groups": [
+    {
+      "name": "Ekosystémy",
+      "words": [
+        "TAJGA",
+        "SAVANA",
+        "TUNDRA",
+        "PRALES"
+      ]
+    },
+    {
+      "name": "Ochrana přírody",
+      "words": [
+        "REZERVACE",
+        "REVITALIZACE",
+        "MONITORING",
+        "ZÁKAZ"
+      ]
+    },
+    {
+      "name": "Recyklace",
+      "words": [
+        "PLAST",
+        "PAPÍR",
+        "SKLO",
+        "KOV"
+      ]
+    },
+    {
+      "name": "Čistý ___",
+      "words": [
+        "VZDUCH",
+        "ZISK",
+        "STŘIH",
+        "ÚMYSL"
+      ]
+    }
+  ]
+}

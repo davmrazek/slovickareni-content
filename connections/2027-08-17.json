@@ -1,0 +1,41 @@
+{
+  "id": "conn-243",
+  "groups": [
+    {
+      "name": "Pavučina",
+      "words": [
+        "VLÁKNO",
+        "SÍŤ",
+        "KOŘIST",
+        "ZÁCHVĚV"
+      ]
+    },
+    {
+      "name": "Naši pavouci",
+      "words": [
+        "KŘIŽÁK",
+        "SEKÁČ",
+        "SLÍĎÁK",
+        "SNOVAČKA"
+      ]
+    },
+    {
+      "name": "Bodavý hmyz",
+      "words": [
+        "KOMÁR",
+        "OVÁD",
+        "MUŠKA",
+        "BLECHA"
+      ]
+    },
+    {
+      "name": "Lepkavý ___",
+      "words": [
+        "PAPÍR",
+        "PRST",
+        "SIRUP",
+        "POVRCH"
+      ]
+    }
+  ]
+}

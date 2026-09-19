@@ -1,0 +1,116 @@
+{
+  "id": "2027-04-02",
+  "date": "2027-04-02",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "T",
+      "Y",
+      "L"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "A",
+      "Z",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Potom, následně"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Hmyz s barevnými křídly, býval housenkou"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vada; také díra v zubu"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Překážka, která práci zdrží"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojka účelu (~ ses učil)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Usazenina, bahno na dně"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+    }
+  ]
+}

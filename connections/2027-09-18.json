@@ -1,0 +1,41 @@
+{
+  "id": "conn-275",
+  "groups": [
+    {
+      "name": "Předpověď počasí",
+      "words": [
+        "FRONTA",
+        "TEPLOTY",
+        "OBLAČNOST",
+        "SRÁŽKY"
+      ]
+    },
+    {
+      "name": "Podzimní jevy",
+      "words": [
+        "MLHA",
+        "JINOVATKA",
+        "ROSA",
+        "LISTOPAD"
+      ]
+    },
+    {
+      "name": "Podzimní práce",
+      "words": [
+        "HRABÁNÍ",
+        "SKLIZEŇ",
+        "SÁZENÍ",
+        "ZAZIMOVÁNÍ"
+      ]
+    },
+    {
+      "name": "Barevné ___",
+      "words": [
+        "LISTÍ",
+        "SKLO",
+        "VIDĚNÍ",
+        "TUŽKY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-211",
+  "groups": [
+    {
+      "name": "Autobusové nádraží",
+      "words": [
+        "JÍZDENKA",
+        "ZASTÁVKA",
+        "ODJEZD",
+        "PERON"
+      ]
+    },
+    {
+      "name": "Ve vlaku",
+      "words": [
+        "KUPÉ",
+        "PRŮVODČÍ",
+        "LŮŽKO",
+        "ZAVAZADLO"
+      ]
+    },
+    {
+      "name": "Metro",
+      "words": [
+        "ESKALÁTOR",
+        "SOUPRAVA",
+        "STANICE",
+        "TUNEL"
+      ]
+    },
+    {
+      "name": "Zpáteční ___",
+      "words": [
+        "LÍSTEK",
+        "CESTA",
+        "LET",
+        "ADRESA"
+      ]
+    }
+  ]
+}

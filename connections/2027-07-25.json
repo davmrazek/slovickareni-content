@@ -1,0 +1,41 @@
+{
+  "id": "conn-220",
+  "groups": [
+    {
+      "name": "Běžecké tratě",
+      "words": [
+        "MARATON",
+        "PŮLMARATON",
+        "SPRINT",
+        "KROS"
+      ]
+    },
+    {
+      "name": "Běžecká výbava",
+      "words": [
+        "TRETRY",
+        "ČIP",
+        "ČELENKA",
+        "STOPKY"
+      ]
+    },
+    {
+      "name": "Trénink",
+      "words": [
+        "ROZCVIČKA",
+        "INTERVAL",
+        "TEMPO",
+        "REGENERACE"
+      ]
+    },
+    {
+      "name": "Druhý ___",
+      "words": [
+        "DECH",
+        "POKUS",
+        "DOMOV",
+        "PLÁN"
+      ]
+    }
+  ]
+}

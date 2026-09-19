@@ -1,0 +1,41 @@
+{
+  "id": "conn-79",
+  "groups": [
+    {
+      "name": "Svatba",
+      "words": [
+        "PRSTEN",
+        "KYTICE",
+        "ŽENICH",
+        "NEVĚSTA"
+      ]
+    },
+    {
+      "name": "Oslava",
+      "words": [
+        "DORT",
+        "SVÍČKY",
+        "PŘÍPITEK",
+        "DÁREK"
+      ]
+    },
+    {
+      "name": "U moře",
+      "words": [
+        "PLÁŽ",
+        "SLUNEČNÍK",
+        "LEHÁTKO",
+        "PLAVKY"
+      ]
+    },
+    {
+      "name": "Šťastná ___",
+      "words": [
+        "HVĚZDA",
+        "NÁHODA",
+        "SEDMIČKA",
+        "VOLBA"
+      ]
+    }
+  ]
+}

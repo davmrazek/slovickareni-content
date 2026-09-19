@@ -1,0 +1,41 @@
+{
+  "id": "conn-226",
+  "groups": [
+    {
+      "name": "Televizní pořady",
+      "words": [
+        "SERIÁL",
+        "ZPRÁVY",
+        "SOUTĚŽ",
+        "DOKUMENT"
+      ]
+    },
+    {
+      "name": "Ovladač",
+      "words": [
+        "TLAČÍTKO",
+        "BATERIE",
+        "HLASITOST",
+        "PROGRAM"
+      ]
+    },
+    {
+      "name": "Streamování",
+      "words": [
+        "EPIZODA",
+        "PŘEDPLATNÉ",
+        "TITULKY",
+        "OFFLINE"
+      ]
+    },
+    {
+      "name": "Malá ___",
+      "words": [
+        "OBRAZOVKA",
+        "VELIKOST",
+        "POZORNOST",
+        "PŘESTÁVKA"
+      ]
+    }
+  ]
+}

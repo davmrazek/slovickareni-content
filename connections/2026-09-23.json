@@ -1,0 +1,41 @@
+{
+  "id": "conn-280",
+  "groups": [
+    {
+      "name": "Masopustní průvod",
+      "words": [
+        "MEDVĚD",
+        "LAUFR",
+        "KOBYLA",
+        "ŠAŠEK"
+      ]
+    },
+    {
+      "name": "Zabijačka",
+      "words": [
+        "JELITO",
+        "TLAČENKA",
+        "OVAR",
+        "ŠKVARKY"
+      ]
+    },
+    {
+      "name": "Půst",
+      "words": [
+        "ODŘÍKÁNÍ",
+        "STŘÍDMOST",
+        "POKÁNÍ",
+        "POPELEC"
+      ]
+    },
+    {
+      "name": "Mastný ___",
+      "words": [
+        "FLEK",
+        "PAPÍR",
+        "ÚČET",
+        "KRÉM"
+      ]
+    }
+  ]
+}

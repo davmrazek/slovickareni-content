@@ -1,0 +1,41 @@
+{
+  "id": "conn-111",
+  "groups": [
+    {
+      "name": "Masopust",
+      "words": [
+        "PRŮVOD",
+        "MASKA",
+        "KOBLIHA",
+        "MEDVĚD"
+      ]
+    },
+    {
+      "name": "Velikonoce",
+      "words": [
+        "POMLÁZKA",
+        "KRASLICE",
+        "BERÁNEK",
+        "ŘEHTAČKA"
+      ]
+    },
+    {
+      "name": "Dušičky",
+      "words": [
+        "SVÍČKA",
+        "HŘBITOV",
+        "VĚNEC",
+        "VZPOMÍNKA"
+      ]
+    },
+    {
+      "name": "Zelený ___",
+      "words": [
+        "ČTVRTEK",
+        "ČAJ",
+        "ZÁKAL",
+        "SALÁT"
+      ]
+    }
+  ]
+}

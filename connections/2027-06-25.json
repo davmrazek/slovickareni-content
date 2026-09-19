@@ -1,0 +1,41 @@
+{
+  "id": "conn-190",
+  "groups": [
+    {
+      "name": "Řecká mytologie",
+      "words": [
+        "ZEUS",
+        "HÉRA",
+        "POSEIDON",
+        "HÁDES"
+      ]
+    },
+    {
+      "name": "Široký ___",
+      "words": [
+        "ZÁBĚR",
+        "VÝBĚR",
+        "ROZHLED",
+        "ÚSMĚV"
+      ]
+    },
+    {
+      "name": "Olympijské hry",
+      "words": [
+        "POCHODEŇ",
+        "KRUHY",
+        "MEDAILE",
+        "VESNICE"
+      ]
+    },
+    {
+      "name": "Řecké ostrovy",
+      "words": [
+        "KRÉTA",
+        "RHODOS",
+        "KORFU",
+        "SANTORINI"
+      ]
+    }
+  ]
+}

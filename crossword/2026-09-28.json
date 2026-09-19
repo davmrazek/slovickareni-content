@@ -1,0 +1,116 @@
+{
+  "id": "2026-09-28",
+  "date": "2026-09-28",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "K",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "T",
+      "E",
+      "Z",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "V",
+      "E",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tázací zájmeno po osobě"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Předložka vyšší polohy"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nejlepší vrstva ve svém oboru"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Knižně: také"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Latinský pozdrav v modlitbě"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vysoký šlechtický titul pod králem"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Poskytnout, věnovat"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Oslavná báseň, třeba na radost"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Sedmé písmeno řecké abecedy"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Král zvířat"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-154",
+  "groups": [
+    {
+      "name": "Sociální sítě",
+      "words": [
+        "PROFIL",
+        "SDÍLENÍ",
+        "KOMENTÁŘ",
+        "SLEDUJÍCÍ"
+      ]
+    },
+    {
+      "name": "E-mail",
+      "words": [
+        "PŘÍLOHA",
+        "PŘEDMĚT",
+        "SCHRÁNKA",
+        "ODESLAT"
+      ]
+    },
+    {
+      "name": "Nakupování online",
+      "words": [
+        "KOŠÍK",
+        "DOPRAVA",
+        "RECENZE",
+        "VRÁCENÍ"
+      ]
+    },
+    {
+      "name": "Rychlý ___",
+      "words": [
+        "INTERNET",
+        "OBĚD",
+        "SPÁD",
+        "ÚSUDEK"
+      ]
+    }
+  ]
+}

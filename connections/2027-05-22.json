@@ -1,0 +1,41 @@
+{
+  "id": "conn-156",
+  "groups": [
+    {
+      "name": "Smysly",
+      "words": [
+        "ZRAK",
+        "SLUCH",
+        "HMAT",
+        "ČICH"
+      ]
+    },
+    {
+      "name": "Oko",
+      "words": [
+        "ZORNICE",
+        "DUHOVKA",
+        "SÍTNICE",
+        "VÍČKO"
+      ]
+    },
+    {
+      "name": "U očního",
+      "words": [
+        "DIOPTRIE",
+        "OBROUČKY",
+        "ČOČKA",
+        "TABULKA"
+      ]
+    },
+    {
+      "name": "Bystré ___",
+      "words": [
+        "OKO",
+        "DÍTĚ",
+        "UŠI",
+        "TEMPO"
+      ]
+    }
+  ]
+}

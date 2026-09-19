@@ -1,0 +1,41 @@
+{
+  "id": "conn-31",
+  "groups": [
+    {
+      "name": "Pěvci",
+      "words": [
+        "SKŘIVAN",
+        "SLAVÍK",
+        "KOS",
+        "SÝKORA"
+      ]
+    },
+    {
+      "name": "Malířské potřeby",
+      "words": [
+        "ŠTĚTEC",
+        "PALETA",
+        "PLÁTNO",
+        "STOJAN"
+      ]
+    },
+    {
+      "name": "Znamení zvěrokruhu",
+      "words": [
+        "BERAN",
+        "BÝK",
+        "LEV",
+        "RYBY"
+      ]
+    },
+    {
+      "name": "Kyselý ___",
+      "words": [
+        "DÉŠŤ",
+        "ÚSMĚV",
+        "BONBON",
+        "OBLIČEJ"
+      ]
+    }
+  ]
+}

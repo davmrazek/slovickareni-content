@@ -1,0 +1,41 @@
+{
+  "id": "conn-118",
+  "groups": [
+    {
+      "name": "Hlavolamy",
+      "words": [
+        "KOSTKA",
+        "SUDOKU",
+        "KŘÍŽOVKA",
+        "REBUS"
+      ]
+    },
+    {
+      "name": "Slovní hry",
+      "words": [
+        "PŘESMYČKA",
+        "OSMISMĚRKA",
+        "ŠIBENICE",
+        "SCRABBLE"
+      ]
+    },
+    {
+      "name": "Logika",
+      "words": [
+        "DEDUKCE",
+        "PREMISA",
+        "DŮKAZ",
+        "PARADOX"
+      ]
+    },
+    {
+      "name": "Tvrdý ___",
+      "words": [
+        "OŘÍŠEK",
+        "SPÁNEK",
+        "ÚDER",
+        "DISK"
+      ]
+    }
+  ]
+}

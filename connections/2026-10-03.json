@@ -1,0 +1,41 @@
+{
+  "id": "conn-290",
+  "groups": [
+    {
+      "name": "Vlaková souprava",
+      "words": [
+        "LOKOMOTIVA",
+        "VAGON",
+        "SPŘÁHLO",
+        "BRZDA"
+      ]
+    },
+    {
+      "name": "Nádraží",
+      "words": [
+        "POKLADNA",
+        "ČEKÁRNA",
+        "TABULE",
+        "PODCHOD"
+      ]
+    },
+    {
+      "name": "Železniční trať",
+      "words": [
+        "KOLEJNICE",
+        "PRAŽEC",
+        "NÁSEP",
+        "PŘEJEZD"
+      ]
+    },
+    {
+      "name": "Slepá ___",
+      "words": [
+        "KOLEJ",
+        "ULICE",
+        "DŮVĚRA",
+        "SKVRNA"
+      ]
+    }
+  ]
+}

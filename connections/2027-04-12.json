@@ -1,0 +1,41 @@
+{
+  "id": "conn-116",
+  "groups": [
+    {
+      "name": "Basketbal",
+      "words": [
+        "KOŠ",
+        "DRIBLINK",
+        "DOSKOK",
+        "TROJKA"
+      ]
+    },
+    {
+      "name": "Volejbal",
+      "words": [
+        "SMEČ",
+        "BLOK",
+        "NAHRÁVKA",
+        "PODÁNÍ"
+      ]
+    },
+    {
+      "name": "Házená",
+      "words": [
+        "SEDMIČKA",
+        "KŘÍDLO",
+        "SPOJKA",
+        "PIVOT"
+      ]
+    },
+    {
+      "name": "Vysoký ___",
+      "words": [
+        "SKOK",
+        "ÚČET",
+        "TLAK",
+        "VÝKON"
+      ]
+    }
+  ]
+}

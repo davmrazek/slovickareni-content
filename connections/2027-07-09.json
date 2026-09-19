@@ -1,0 +1,41 @@
+{
+  "id": "conn-204",
+  "groups": [
+    {
+      "name": "Snídaňové nápoje",
+      "words": [
+        "KAKAO",
+        "DŽUS",
+        "LATTE",
+        "CIKORKA"
+      ]
+    },
+    {
+      "name": "Kávová příprava",
+      "words": [
+        "ESPRESO",
+        "KONVIČKA",
+        "MLÝNEK",
+        "NAPĚŇOVAČ"
+      ]
+    },
+    {
+      "name": "Přísady do kávy",
+      "words": [
+        "MLÉKO",
+        "CUKR",
+        "SKOŘICE",
+        "SIRUP"
+      ]
+    },
+    {
+      "name": "Silná ___",
+      "words": [
+        "KÁVA",
+        "STRÁNKA",
+        "VŮLE",
+        "SLOVA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-283",
+  "groups": [
+    {
+      "name": "Letní vedra",
+      "words": [
+        "TROPY",
+        "ŽÍZEŇ",
+        "STÍN",
+        "VENTILÁTOR"
+      ]
+    },
+    {
+      "name": "U vody",
+      "words": [
+        "MATRACE",
+        "PLOVÁRNA",
+        "SKOKAN",
+        "OSUŠKA"
+      ]
+    },
+    {
+      "name": "Opalování",
+      "words": [
+        "KRÉM",
+        "FAKTOR",
+        "SPÁLENÍ",
+        "BRONZ"
+      ]
+    },
+    {
+      "name": "Letní ___",
+      "words": [
+        "BOUŘKA",
+        "SLUNOVRAT",
+        "PRÁZDNINY",
+        "DEN"
+      ]
+    }
+  ]
+}

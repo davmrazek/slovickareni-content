@@ -1,0 +1,41 @@
+{
+  "id": "conn-110",
+  "groups": [
+    {
+      "name": "Na jarmarku",
+      "words": [
+        "STÁNEK",
+        "PERNÍK",
+        "KOLOTOČ",
+        "TRDELNÍK"
+      ]
+    },
+    {
+      "name": "Lidová řemesla",
+      "words": [
+        "HRNČÍŘ",
+        "KOŠÍKÁŘ",
+        "DRÁTENÍK",
+        "PODKOVÁŘ"
+      ]
+    },
+    {
+      "name": "Kroj",
+      "words": [
+        "ŠÁTEK",
+        "ZÁSTĚRA",
+        "VESTA",
+        "SUKNĚ"
+      ]
+    },
+    {
+      "name": "Lidová ___",
+      "words": [
+        "PÍSEŇ",
+        "SLOVESNOST",
+        "MOUDROST",
+        "TVOŘIVOST"
+      ]
+    }
+  ]
+}

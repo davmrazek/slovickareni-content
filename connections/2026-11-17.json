@@ -1,0 +1,41 @@
+{
+  "id": "conn-335",
+  "groups": [
+    {
+      "name": "Vinná réva",
+      "words": [
+        "KEŘ",
+        "HROZEN",
+        "LIST",
+        "ÚPONEK"
+      ]
+    },
+    {
+      "name": "Práce ve vinici",
+      "words": [
+        "ŘEZ",
+        "VYVAZOVÁNÍ",
+        "POSTŘIK",
+        "SBĚR"
+      ]
+    },
+    {
+      "name": "Přívlastky vína",
+      "words": [
+        "KABINET",
+        "POZDNÍ",
+        "VÝBĚR",
+        "LEDOVÉ"
+      ]
+    },
+    {
+      "name": "Bílé ___",
+      "words": [
+        "VÍNO",
+        "ZLATO",
+        "SVĚDOMÍ",
+        "PLÁTNO"
+      ]
+    }
+  ]
+}

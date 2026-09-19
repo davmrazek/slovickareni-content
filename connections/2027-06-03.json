@@ -1,0 +1,41 @@
+{
+  "id": "conn-168",
+  "groups": [
+    {
+      "name": "Fyzikální veličiny",
+      "words": [
+        "HMOTNOST",
+        "RYCHLOST",
+        "TEPLOTA",
+        "ENERGIE"
+      ]
+    },
+    {
+      "name": "Jednotky SI",
+      "words": [
+        "KELVIN",
+        "AMPÉR",
+        "KANDELA",
+        "MOL"
+      ]
+    },
+    {
+      "name": "Mechanika",
+      "words": [
+        "PÁKA",
+        "KLADKA",
+        "TŘENÍ",
+        "SETRVAČNOST"
+      ]
+    },
+    {
+      "name": "Volný ___",
+      "words": [
+        "PÁD",
+        "VÝBĚH",
+        "DEN",
+        "PRŮCHOD"
+      ]
+    }
+  ]
+}

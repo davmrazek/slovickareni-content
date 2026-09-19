@@ -1,0 +1,41 @@
+{
+  "id": "conn-129",
+  "groups": [
+    {
+      "name": "Asijská kuchyně",
+      "words": [
+        "SUŠI",
+        "KARI",
+        "WOK",
+        "NUDLE"
+      ]
+    },
+    {
+      "name": "Sójové výrobky",
+      "words": [
+        "TOFU",
+        "TEMPEH",
+        "MISO",
+        "OMÁČKA"
+      ]
+    },
+    {
+      "name": "Kuchyňské náčiní",
+      "words": [
+        "MISKA",
+        "PÁNEV",
+        "PARNÍK",
+        "SÍTKO"
+      ]
+    },
+    {
+      "name": "Pálivý ___",
+      "words": [
+        "CHILLI",
+        "ZÁZVOR",
+        "PEPŘ",
+        "KŘEN"
+      ]
+    }
+  ]
+}

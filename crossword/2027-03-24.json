@@ -1,0 +1,116 @@
+{
+  "id": "2027-03-24",
+  "date": "2027-03-24",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "B",
+      "U",
+      "H",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "U",
+      "T",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "K",
+      "O",
+      "N",
+      "E",
+      "C"
+    ],
+    [
+      "#",
+      "N",
+      "I",
+      "C",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nejvyšší božská bytost"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Skoro, bezmála"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Druhý den týdne"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Opak začátku; když je dobrý, všechno je dobré"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Naprostá absence čehokoli"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Směs cementu, písku a vody"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Malířství, hudba, sochařství — jedním slovem"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Ten, kdo hraje role"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mastná složka potravy"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nářadí na kopání záhonu, šlape se na něj"
+    }
+  ]
+}

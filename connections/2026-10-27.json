@@ -1,0 +1,41 @@
+{
+  "id": "conn-314",
+  "groups": [
+    {
+      "name": "Fotografické žánry",
+      "words": [
+        "PORTRÉT",
+        "KRAJINA",
+        "ZÁTIŠÍ",
+        "REPORTÁŽ"
+      ]
+    },
+    {
+      "name": "Nastavení aparátu",
+      "words": [
+        "EXPOZICE",
+        "CITLIVOST",
+        "OHNISKO",
+        "VYVÁŽENÍ"
+      ]
+    },
+    {
+      "name": "Vybavení fotografa",
+      "words": [
+        "STATIV",
+        "BLESK",
+        "FILTR",
+        "BRAŠNA"
+      ]
+    },
+    {
+      "name": "Zlaté ___",
+      "words": [
+        "HODINY",
+        "TELE",
+        "DNO",
+        "ROUNO"
+      ]
+    }
+  ]
+}

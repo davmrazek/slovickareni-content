@@ -1,0 +1,41 @@
+{
+  "id": "conn-134",
+  "groups": [
+    {
+      "name": "Sadařství",
+      "words": [
+        "ROUBOVÁNÍ",
+        "ŘEZ",
+        "PODNOŽ",
+        "ŠKOLKA"
+      ]
+    },
+    {
+      "name": "Peckoviny",
+      "words": [
+        "MERUŇKA",
+        "BROSKEV",
+        "TŘEŠEŇ",
+        "SLÍVA"
+      ]
+    },
+    {
+      "name": "Zpracování ovoce",
+      "words": [
+        "MOŠT",
+        "POVIDLA",
+        "SUŠENÍ",
+        "PÁLENKA"
+      ]
+    },
+    {
+      "name": "Kyselé ___",
+      "words": [
+        "JABLKO",
+        "ZELÍ",
+        "MLÉKO",
+        "OKURKY"
+      ]
+    }
+  ]
+}

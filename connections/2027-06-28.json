@@ -1,0 +1,41 @@
+{
+  "id": "conn-193",
+  "groups": [
+    {
+      "name": "Narozeniny",
+      "words": [
+        "SVÍČKY",
+        "PŘÁNÍ",
+        "PŘÍPITEK",
+        "OSLAVENEC"
+      ]
+    },
+    {
+      "name": "Dárkové balení",
+      "words": [
+        "STUHA",
+        "PAPÍR",
+        "MAŠLE",
+        "KRABICE"
+      ]
+    },
+    {
+      "name": "Party výbava",
+      "words": [
+        "BALÓNKY",
+        "KONFETY",
+        "GIRLANDA",
+        "PLAYLIST"
+      ]
+    },
+    {
+      "name": "Kulaté ___",
+      "words": [
+        "VÝROČÍ",
+        "ČÍSLO",
+        "OKNO",
+        "BŘÍŠKO"
+      ]
+    }
+  ]
+}

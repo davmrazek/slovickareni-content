@@ -1,0 +1,41 @@
+{
+  "id": "conn-165",
+  "groups": [
+    {
+      "name": "Ve třídě",
+      "words": [
+        "KATEDRA",
+        "LAVICE",
+        "TABULE",
+        "ŽÁK"
+      ]
+    },
+    {
+      "name": "Známkování",
+      "words": [
+        "JEDNIČKA",
+        "VYSVĚDČENÍ",
+        "ZKOUŠENÍ",
+        "PRŮMĚR"
+      ]
+    },
+    {
+      "name": "Školní akce",
+      "words": [
+        "VÝLET",
+        "BESÍDKA",
+        "OLYMPIÁDA",
+        "PROJEKT"
+      ]
+    },
+    {
+      "name": "Velká ___",
+      "words": [
+        "PŘESTÁVKA",
+        "VODA",
+        "CENA",
+        "RADOST"
+      ]
+    }
+  ]
+}

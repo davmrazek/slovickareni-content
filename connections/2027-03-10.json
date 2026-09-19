@@ -1,0 +1,41 @@
+{
+  "id": "conn-83",
+  "groups": [
+    {
+      "name": "Ranní rituál",
+      "words": [
+        "BUDÍK",
+        "SPRCHA",
+        "KÁVA",
+        "ZUBY"
+      ]
+    },
+    {
+      "name": "Cereálie",
+      "words": [
+        "VLOČKY",
+        "GRANOLA",
+        "KAŠE",
+        "LUPÍNKY"
+      ]
+    },
+    {
+      "name": "Druhy vajec",
+      "words": [
+        "SÁZENÁ",
+        "MÍCHANÁ",
+        "NATVRDO",
+        "ZTRACENÁ"
+      ]
+    },
+    {
+      "name": "Ranní ___",
+      "words": [
+        "PTÁČE",
+        "ZORA",
+        "ROSA",
+        "SMĚNA"
+      ]
+    }
+  ]
+}

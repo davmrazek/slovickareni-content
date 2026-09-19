@@ -1,0 +1,41 @@
+{
+  "id": "conn-304",
+  "groups": [
+    {
+      "name": "Malíři",
+      "words": [
+        "MUCHA",
+        "ALEŠ",
+        "ŠVABINSKÝ",
+        "KUPKA"
+      ]
+    },
+    {
+      "name": "Světové obrazy",
+      "words": [
+        "GUERNICA",
+        "KŘIK",
+        "SLUNEČNICE",
+        "GIOCONDA"
+      ]
+    },
+    {
+      "name": "Umělecké směry",
+      "words": [
+        "KUBISMUS",
+        "SECESE",
+        "BAROKO",
+        "IMPRESE"
+      ]
+    },
+    {
+      "name": "Modrá ___",
+      "words": [
+        "PERIODA",
+        "KREV",
+        "PLANETA",
+        "OBLOHA"
+      ]
+    }
+  ]
+}

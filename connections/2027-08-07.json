@@ -1,0 +1,41 @@
+{
+  "id": "conn-233",
+  "groups": [
+    {
+      "name": "Obuvnictví",
+      "words": [
+        "PODRÁŽKA",
+        "TKANIČKA",
+        "KOPYTO",
+        "STÉLKA"
+      ]
+    },
+    {
+      "name": "Druhy bot",
+      "words": [
+        "LODIČKY",
+        "SANDÁLY",
+        "KOTNÍKOVÉ",
+        "TENISKY"
+      ]
+    },
+    {
+      "name": "Péče o boty",
+      "words": [
+        "KRÉM",
+        "KARTÁČ",
+        "IMPREGNACE",
+        "NAPÍNÁK"
+      ]
+    },
+    {
+      "name": "Bosá ___",
+      "words": [
+        "NOHA",
+        "CHŮZE",
+        "PATA",
+        "STOPA"
+      ]
+    }
+  ]
+}

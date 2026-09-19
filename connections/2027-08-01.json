@@ -1,0 +1,41 @@
+{
+  "id": "conn-227",
+  "groups": [
+    {
+      "name": "Deskové hry",
+      "words": [
+        "FIGURKA",
+        "KOSTKA",
+        "PLÁN",
+        "KARTIČKA"
+      ]
+    },
+    {
+      "name": "Kvízy",
+      "words": [
+        "OTÁZKA",
+        "NÁPOVĚDA",
+        "ODPOVĚĎ",
+        "BODY"
+      ]
+    },
+    {
+      "name": "Hrací automaty",
+      "words": [
+        "ŽETON",
+        "PÁKA",
+        "VÝHRA",
+        "SYMBOL"
+      ]
+    },
+    {
+      "name": "Šťastný ___",
+      "words": [
+        "TAH",
+        "KONEC",
+        "ČLOVĚK",
+        "OTEC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-26",
+  "groups": [
+    {
+      "name": "Lesní savci",
+      "words": [
+        "JELEN",
+        "SRNA",
+        "LIŠKA",
+        "DIVOČÁK"
+      ]
+    },
+    {
+      "name": "Geometrické tvary",
+      "words": [
+        "ČTVEREC",
+        "KRUH",
+        "TROJÚHELNÍK",
+        "OBDÉLNÍK"
+      ]
+    },
+    {
+      "name": "Papírový ___",
+      "words": [
+        "DRAK",
+        "KAPESNÍK",
+        "TYGR",
+        "SÁČEK"
+      ]
+    },
+    {
+      "name": "Druhy kávy",
+      "words": [
+        "ESPRESSO",
+        "LATTE",
+        "CAPPUCCINO",
+        "RISTRETTO"
+      ]
+    }
+  ]
+}

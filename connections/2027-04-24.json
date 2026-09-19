@@ -1,0 +1,41 @@
+{
+  "id": "conn-128",
+  "groups": [
+    {
+      "name": "Grilování",
+      "words": [
+        "ROŠT",
+        "UHLÍ",
+        "MARINÁDA",
+        "KLEŠTĚ"
+      ]
+    },
+    {
+      "name": "Grilované maso",
+      "words": [
+        "KLOBÁSA",
+        "KRKOVICE",
+        "ŽEBRA",
+        "KŘÍDLA"
+      ]
+    },
+    {
+      "name": "Saláty",
+      "words": [
+        "COLESLAW",
+        "ŠOPSKÝ",
+        "BRAMBOROVÝ",
+        "CAESAR"
+      ]
+    },
+    {
+      "name": "Uzené ___",
+      "words": [
+        "MASO",
+        "KOLENO",
+        "KUŘE",
+        "TOFU"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-339",
+  "groups": [
+    {
+      "name": "Zavařovací den",
+      "words": [
+        "SKLENICE",
+        "VÍČKO",
+        "OKURKA",
+        "NÁLEV"
+      ]
+    },
+    {
+      "name": "Sušení a mrazení",
+      "words": [
+        "SUŠIČKA",
+        "SÁČEK",
+        "MRAZÁK",
+        "DATUM"
+      ]
+    },
+    {
+      "name": "Špíž",
+      "words": [
+        "POLICE",
+        "ZÁSOBA",
+        "CHLAD",
+        "TMA"
+      ]
+    },
+    {
+      "name": "Domácí ___",
+      "words": [
+        "MARMELÁDA",
+        "ZABIJAČKA",
+        "VÍNO",
+        "STRAVA"
+      ]
+    }
+  ]
+}

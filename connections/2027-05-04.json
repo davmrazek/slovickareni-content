@@ -1,0 +1,41 @@
+{
+  "id": "conn-138",
+  "groups": [
+    {
+      "name": "Bouřka",
+      "words": [
+        "BLESK",
+        "HROM",
+        "PRŮTRŽ",
+        "KROUPY"
+      ]
+    },
+    {
+      "name": "Elektrické veličiny",
+      "words": [
+        "NAPĚTÍ",
+        "PROUD",
+        "ODPOR",
+        "VÝKON"
+      ]
+    },
+    {
+      "name": "V rozvaděči",
+      "words": [
+        "JISTIČ",
+        "SVORKA",
+        "KABEL",
+        "POJISTKA"
+      ]
+    },
+    {
+      "name": "Krátké ___",
+      "words": [
+        "SPOJENÍ",
+        "VLASY",
+        "SLOVO",
+        "KALHOTY"
+      ]
+    }
+  ]
+}

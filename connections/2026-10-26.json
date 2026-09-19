@@ -1,0 +1,41 @@
+{
+  "id": "conn-313",
+  "groups": [
+    {
+      "name": "Herní žánry",
+      "words": [
+        "STRATEGIE",
+        "PLOŠINOVKA",
+        "SIMULÁTOR",
+        "HOROR"
+      ]
+    },
+    {
+      "name": "Ovládání",
+      "words": [
+        "MYŠ",
+        "GAMEPAD",
+        "KLÁVESA",
+        "JOYSTICK"
+      ]
+    },
+    {
+      "name": "Ve hře",
+      "words": [
+        "LEVEL",
+        "ULOŽENÍ",
+        "BOSS",
+        "ODMĚNA"
+      ]
+    },
+    {
+      "name": "Vysoké ___",
+      "words": [
+        "SKÓRE",
+        "NAPĚTÍ",
+        "ČELO",
+        "OČEKÁVÁNÍ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-201",
+  "groups": [
+    {
+      "name": "V samoobsluze",
+      "words": [
+        "VOZÍK",
+        "POKLADNA",
+        "REGÁL",
+        "AKCE"
+      ]
+    },
+    {
+      "name": "Mléčný pult",
+      "words": [
+        "JOGURT",
+        "TVAROH",
+        "SMETANA",
+        "PODMÁSLÍ"
+      ]
+    },
+    {
+      "name": "Pečivo",
+      "words": [
+        "HOUSKA",
+        "BAGETA",
+        "VEKA",
+        "ŠÁTEČEK"
+      ]
+    },
+    {
+      "name": "Čerstvý ___",
+      "words": [
+        "VZDUCH",
+        "SÝR",
+        "VÍTR",
+        "NÁPAD"
+      ]
+    }
+  ]
+}

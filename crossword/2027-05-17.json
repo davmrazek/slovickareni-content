@@ -1,0 +1,116 @@
+{
+  "id": "2027-05-17",
+  "date": "2027-05-17",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "K",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "E",
+      "J"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "Z",
+      "D",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tázací zájmeno po osobě"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Divoký vír tance"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Domácí zvíře na zabijačku"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vlastnost toho, co se líbí"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Silná hrůza"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tyč, za kterou táhne kůň vůz"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
+    }
+  ]
+}

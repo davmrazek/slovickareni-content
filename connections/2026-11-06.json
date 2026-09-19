@@ -1,0 +1,41 @@
+{
+  "id": "conn-324",
+  "groups": [
+    {
+      "name": "Řecké báje",
+      "words": [
+        "MINOTAURUS",
+        "LABYRINT",
+        "IKAROS",
+        "HYDRA"
+      ]
+    },
+    {
+      "name": "Severská mytologie",
+      "words": [
+        "ÓDIN",
+        "THOR",
+        "VALHALA",
+        "RUNY"
+      ]
+    },
+    {
+      "name": "Slovanské báje",
+      "words": [
+        "PERUN",
+        "MORANA",
+        "VELES",
+        "DIVOŽENKA"
+      ]
+    },
+    {
+      "name": "Bájný ___",
+      "words": [
+        "TVOR",
+        "OSTROV",
+        "PTÁK",
+        "POKLAD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-147",
+  "groups": [
+    {
+      "name": "Automobilová historie",
+      "words": [
+        "VETERÁN",
+        "KLIKA",
+        "BLATNÍK",
+        "STUPAČKA"
+      ]
+    },
+    {
+      "name": "Motorsport",
+      "words": [
+        "OKRUH",
+        "BOXY",
+        "KVALIFIKACE",
+        "ŠACHOVNICE"
+      ]
+    },
+    {
+      "name": "Motocykly",
+      "words": [
+        "PŘILBA",
+        "SEDLO",
+        "ŘETĚZ",
+        "PLYN"
+      ]
+    },
+    {
+      "name": "Závodní ___",
+      "words": [
+        "DRÁHA",
+        "KŮŇ",
+        "JÍDELNA",
+        "AUTO"
+      ]
+    }
+  ]
+}

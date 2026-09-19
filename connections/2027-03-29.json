@@ -1,0 +1,41 @@
+{
+  "id": "conn-102",
+  "groups": [
+    {
+      "name": "Krejčovství",
+      "words": [
+        "METR",
+        "NÁPRSTEK",
+        "STEH",
+        "STŘIH"
+      ]
+    },
+    {
+      "name": "Části kalhot",
+      "words": [
+        "PÁSEK",
+        "NOHAVICE",
+        "ZIP",
+        "KAPSA"
+      ]
+    },
+    {
+      "name": "Zapínání",
+      "words": [
+        "PATENTKA",
+        "PŘEZKA",
+        "KNOFLÍK",
+        "HÁČEK"
+      ]
+    },
+    {
+      "name": "Šitý na ___",
+      "words": [
+        "MÍRU",
+        "TĚLO",
+        "STROJI",
+        "ZAKÁZKU"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-115",
+  "groups": [
+    {
+      "name": "Gymnastika",
+      "words": [
+        "KLADINA",
+        "BRADLA",
+        "KRUHY",
+        "PŘESKOK"
+      ]
+    },
+    {
+      "name": "Atletické disciplíny",
+      "words": [
+        "OŠTĚP",
+        "KOULE",
+        "DÁLKA",
+        "PŘEKÁŽKY"
+      ]
+    },
+    {
+      "name": "Cyklistika",
+      "words": [
+        "PELOTON",
+        "ETAPA",
+        "DRES",
+        "SPURT"
+      ]
+    },
+    {
+      "name": "Rychlý jako ___",
+      "words": [
+        "BLESK",
+        "VÍTR",
+        "ŠÍP",
+        "GEPARD"
+      ]
+    }
+  ]
+}

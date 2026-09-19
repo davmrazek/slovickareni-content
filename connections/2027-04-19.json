@@ -1,0 +1,41 @@
+{
+  "id": "conn-123",
+  "groups": [
+    {
+      "name": "Rocková kapela",
+      "words": [
+        "KYTARA",
+        "BICÍ",
+        "BASA",
+        "ZPĚVÁK"
+      ]
+    },
+    {
+      "name": "Na koncertě",
+      "words": [
+        "PÓDIUM",
+        "PŘÍDAVEK",
+        "VSTUPENKA",
+        "ZESILOVAČ"
+      ]
+    },
+    {
+      "name": "Nahrávání",
+      "words": [
+        "STUDIO",
+        "MIKROFON",
+        "MIX",
+        "MASTER"
+      ]
+    },
+    {
+      "name": "Falešná ___",
+      "words": [
+        "NOTA",
+        "STOPA",
+        "SKROMNOST",
+        "NADĚJE"
+      ]
+    }
+  ]
+}

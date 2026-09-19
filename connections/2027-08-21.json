@@ -1,0 +1,41 @@
+{
+  "id": "conn-247",
+  "groups": [
+    {
+      "name": "Sklárna",
+      "words": [
+        "TAVENINA",
+        "PÍŠŤALA",
+        "FOUKÁNÍ",
+        "FORMA"
+      ]
+    },
+    {
+      "name": "Keramika",
+      "words": [
+        "KRUH",
+        "GLAZURA",
+        "VÝPAL",
+        "HLÍNA"
+      ]
+    },
+    {
+      "name": "Umělecká řemesla",
+      "words": [
+        "ŘEZBÁŘ",
+        "SKLÁŘ",
+        "PASÍŘ",
+        "KAMENÍK"
+      ]
+    },
+    {
+      "name": "Ruční ___",
+      "words": [
+        "PRÁCE",
+        "BRZDA",
+        "PSANÍ",
+        "ZAVAZADLO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-9",
+  "groups": [
+    {
+      "name": "Sladkovodní ryby",
+      "words": [
+        "KAPR",
+        "PSTRUH",
+        "ŠTIKA",
+        "SUMEC"
+      ]
+    },
+    {
+      "name": "Nábytek",
+      "words": [
+        "STŮL",
+        "ŽIDLE",
+        "SKŘÍŇ",
+        "POSTEL"
+      ]
+    },
+    {
+      "name": "Školní předměty",
+      "words": [
+        "MATEMATIKA",
+        "CHEMIE",
+        "DĚJEPIS",
+        "ZEMĚPIS"
+      ]
+    },
+    {
+      "name": "___ pták",
+      "words": [
+        "NOČNÍ",
+        "RANNÍ",
+        "TAŽNÝ",
+        "DRAVÝ"
+      ]
+    }
+  ]
+}

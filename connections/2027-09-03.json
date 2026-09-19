@@ -1,0 +1,41 @@
+{
+  "id": "conn-260",
+  "groups": [
+    {
+      "name": "Šachová partie",
+      "words": [
+        "ZAHÁJENÍ",
+        "HODINY",
+        "KONCOVKA",
+        "TAH"
+      ]
+    },
+    {
+      "name": "Šachové figury",
+      "words": [
+        "JEZDEC",
+        "STŘELEC",
+        "DÁMA",
+        "PĚŠEC"
+      ]
+    },
+    {
+      "name": "Šachové pojmy",
+      "words": [
+        "ŠACH",
+        "OBĚŤ",
+        "VAZBA",
+        "PROMĚNA"
+      ]
+    },
+    {
+      "name": "Bílé ___",
+      "words": [
+        "POLE",
+        "MASO",
+        "PRÁDLO",
+        "NOCI"
+      ]
+    }
+  ]
+}

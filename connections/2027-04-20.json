@@ -1,0 +1,41 @@
+{
+  "id": "conn-124",
+  "groups": [
+    {
+      "name": "Balet",
+      "words": [
+        "ŠPIČKY",
+        "PIRUETA",
+        "TUTU",
+        "CHOREOGRAFIE"
+      ]
+    },
+    {
+      "name": "Společenské tance",
+      "words": [
+        "VALČÍK",
+        "TANGO",
+        "POLKA",
+        "ČAČA"
+      ]
+    },
+    {
+      "name": "Na plese",
+      "words": [
+        "ROBA",
+        "MOTÝLEK",
+        "TOMBOLA",
+        "PŘEDTANEČNÍK"
+      ]
+    },
+    {
+      "name": "Lehká ___",
+      "words": [
+        "ATLETIKA",
+        "VÁHA",
+        "MYSL",
+        "ČETBA"
+      ]
+    }
+  ]
+}

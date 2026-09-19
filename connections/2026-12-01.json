@@ -1,0 +1,41 @@
+{
+  "id": "conn-349",
+  "groups": [
+    {
+      "name": "Jarní kolo sportů",
+      "words": [
+        "PŘÍPRAVA",
+        "SOUSTŘEDĚNÍ",
+        "TESTY",
+        "FORMA"
+      ]
+    },
+    {
+      "name": "Atletický ovál",
+      "words": [
+        "DRÁHA",
+        "BLOKY",
+        "PŘEDÁVKA",
+        "CÍL"
+      ]
+    },
+    {
+      "name": "Skoky",
+      "words": [
+        "TROJSKOK",
+        "TYČKA",
+        "LAŤKA",
+        "DOSKOČIŠTĚ"
+      ]
+    },
+    {
+      "name": "Vysoký ___",
+      "words": [
+        "SKOK",
+        "STANDARD",
+        "NÁKLAD",
+        "STROP"
+      ]
+    }
+  ]
+}

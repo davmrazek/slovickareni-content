@@ -1,0 +1,116 @@
+{
+  "id": "2027-06-04",
+  "date": "2027-06-04",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "Z",
+      "D",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "U",
+      "M"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "L",
+      "U"
+    ],
+    [
+      "R",
+      "A",
+      "Z",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "R",
+      "I",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Knižně: tady"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zvuk výbuchu"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Společně"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Svérázná povaha kraje nebo stavby"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Předložka blízkosti (~ cestě)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Co se prodává v regálech"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Australský neletící pták"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Dva k sobě patřící; nebo několik málo"
+    }
+  ]
+}

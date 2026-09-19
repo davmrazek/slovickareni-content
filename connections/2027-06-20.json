@@ -1,0 +1,41 @@
+{
+  "id": "conn-185",
+  "groups": [
+    {
+      "name": "Evropské státy",
+      "words": [
+        "PORTUGALSKO",
+        "FINSKO",
+        "IRSKO",
+        "CHORVATSKO"
+      ]
+    },
+    {
+      "name": "Hlavní města",
+      "words": [
+        "LISABON",
+        "HELSINKY",
+        "DUBLIN",
+        "ZÁHŘEB"
+      ]
+    },
+    {
+      "name": "Evropské řeky",
+      "words": [
+        "RÝN",
+        "DUNAJ",
+        "SEINA",
+        "PÁD"
+      ]
+    },
+    {
+      "name": "Severní ___",
+      "words": [
+        "MOŘE",
+        "PÓL",
+        "SVAH",
+        "ITÁLIE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-309",
+  "groups": [
+    {
+      "name": "Politika",
+      "words": [
+        "SNĚMOVNA",
+        "SENÁT",
+        "VLÁDA",
+        "OPOZICE"
+      ]
+    },
+    {
+      "name": "Volební systém",
+      "words": [
+        "MANDÁT",
+        "KVORUM",
+        "KANDIDÁTKA",
+        "PREFERENCE"
+      ]
+    },
+    {
+      "name": "Mezinárodní",
+      "words": [
+        "SUMMIT",
+        "SMLOUVA",
+        "AMBASÁDA",
+        "SANKCE"
+      ]
+    },
+    {
+      "name": "Kulaté ___",
+      "words": [
+        "VÝROČÍ",
+        "RAZÍTKO",
+        "ČÍSLO",
+        "DATUM"
+      ]
+    }
+  ]
+}

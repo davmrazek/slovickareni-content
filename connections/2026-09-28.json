@@ -1,0 +1,41 @@
+{
+  "id": "conn-285",
+  "groups": [
+    {
+      "name": "Balíme kufr",
+      "words": [
+        "SEZNAM",
+        "NABÍJEČKA",
+        "PLAVKY",
+        "PASY"
+      ]
+    },
+    {
+      "name": "Letecká přeprava",
+      "words": [
+        "ODBAVENÍ",
+        "GATE",
+        "TRANZIT",
+        "CELNICE"
+      ]
+    },
+    {
+      "name": "Na palubě",
+      "words": [
+        "SEDADLO",
+        "PÁS",
+        "OKÉNKO",
+        "OBČERSTVENÍ"
+      ]
+    },
+    {
+      "name": "Nouzový ___",
+      "words": [
+        "VÝCHOD",
+        "STAV",
+        "PŘISTÁNÍ",
+        "REŽIM"
+      ]
+    }
+  ]
+}

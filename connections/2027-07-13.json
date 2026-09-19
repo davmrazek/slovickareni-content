@@ -1,0 +1,41 @@
+{
+  "id": "conn-208",
+  "groups": [
+    {
+      "name": "Ryby na talíři",
+      "words": [
+        "PSTRUH",
+        "LOSOS",
+        "TRESKA",
+        "SARDINKA"
+      ]
+    },
+    {
+      "name": "Úprava ryby",
+      "words": [
+        "FILET",
+        "KUCHÁNÍ",
+        "ŠUPINY",
+        "MARINÁDA"
+      ]
+    },
+    {
+      "name": "Mořské plody",
+      "words": [
+        "KREVETA",
+        "MUŠLE",
+        "CHOBOTNICE",
+        "KRAB"
+      ]
+    },
+    {
+      "name": "Slaný ___",
+      "words": [
+        "ROZTOK",
+        "VZDUCH",
+        "KARAMEL",
+        "PRAMEN"
+      ]
+    }
+  ]
+}

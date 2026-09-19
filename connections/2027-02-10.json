@@ -1,0 +1,41 @@
+{
+  "id": "conn-55",
+  "groups": [
+    {
+      "name": "Peníze",
+      "words": [
+        "MINCE",
+        "BANKOVKA",
+        "ŠEK",
+        "HOTOVOST"
+      ]
+    },
+    {
+      "name": "V obchodě",
+      "words": [
+        "ZÁKAZNÍK",
+        "VÝLOHA",
+        "REGÁL",
+        "SLEVA"
+      ]
+    },
+    {
+      "name": "V restauraci",
+      "words": [
+        "JÍDELNÍČEK",
+        "ČÍŠNÍK",
+        "SPROPITNÉ",
+        "OBJEDNÁVKA"
+      ]
+    },
+    {
+      "name": "___ karta",
+      "words": [
+        "PLATEBNÍ",
+        "ŽLUTÁ",
+        "TRUMFOVÁ",
+        "ČERVENÁ"
+      ]
+    }
+  ]
+}

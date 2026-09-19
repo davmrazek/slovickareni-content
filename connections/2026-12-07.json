@@ -1,0 +1,41 @@
+{
+  "id": "conn-355",
+  "groups": [
+    {
+      "name": "Rodinné povinnosti",
+      "words": [
+        "ÚKLID",
+        "NÁKUP",
+        "PRANÍ",
+        "VAŘENÍ"
+      ]
+    },
+    {
+      "name": "Kapesné a odměny",
+      "words": [
+        "ODMĚNA",
+        "SPOŘENÍ",
+        "PRASÁTKO",
+        "SLIB"
+      ]
+    },
+    {
+      "name": "Výchovné pojmy",
+      "words": [
+        "DŮSLEDNOST",
+        "HRANICE",
+        "POCHVALA",
+        "PŘÍKLAD"
+      ]
+    },
+    {
+      "name": "Domácí ___",
+      "words": [
+        "PRÁCE",
+        "POHODA",
+        "ROZPOČET",
+        "ŘÁD"
+      ]
+    }
+  ]
+}

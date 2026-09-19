@@ -1,0 +1,41 @@
+{
+  "id": "conn-343",
+  "groups": [
+    {
+      "name": "Stěhování",
+      "words": [
+        "KRABICE",
+        "FÓLIE",
+        "DODÁVKA",
+        "NOSIČ"
+      ]
+    },
+    {
+      "name": "Nový byt",
+      "words": [
+        "PROHLÍDKA",
+        "PŘEDÁNÍ",
+        "KLÍČE",
+        "ODEČET"
+      ]
+    },
+    {
+      "name": "Realitní pojmy",
+      "words": [
+        "MAKLÉŘ",
+        "KATASTR",
+        "NÁJEM",
+        "ZÁSTAVA"
+      ]
+    },
+    {
+      "name": "Vlastní ___",
+      "words": [
+        "BYDLENÍ",
+        "STŘECHA",
+        "ÚSUDEK",
+        "PĚST"
+      ]
+    }
+  ]
+}

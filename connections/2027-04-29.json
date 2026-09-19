@@ -1,0 +1,41 @@
+{
+  "id": "conn-133",
+  "groups": [
+    {
+      "name": "Zahradní stavby",
+      "words": [
+        "ALTÁN",
+        "PERGOLA",
+        "SKLENÍK",
+        "KŮLNA"
+      ]
+    },
+    {
+      "name": "Trvalky",
+      "words": [
+        "PIVOŇKA",
+        "KOSATEC",
+        "LEVANDULE",
+        "MACEŠKA"
+      ]
+    },
+    {
+      "name": "Kompost",
+      "words": [
+        "LISTÍ",
+        "SLUPKY",
+        "TRÁVA",
+        "ŽÍŽALA"
+      ]
+    },
+    {
+      "name": "Zelené ___",
+      "words": [
+        "HNOJENÍ",
+        "SVĚTLO",
+        "MĚSTO",
+        "PLÍCE"
+      ]
+    }
+  ]
+}

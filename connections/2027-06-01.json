@@ -1,0 +1,41 @@
+{
+  "id": "conn-166",
+  "groups": [
+    {
+      "name": "Mateřská škola",
+      "words": [
+        "ŠKOLKA",
+        "ŘÍKANKA",
+        "PÍSKOVIŠTĚ",
+        "ODPOČINEK"
+      ]
+    },
+    {
+      "name": "Dětské hry",
+      "words": [
+        "SCHOVÁVANÁ",
+        "HONIČKA",
+        "SKÁKÁNÍ",
+        "PANÁK"
+      ]
+    },
+    {
+      "name": "Na pískovišti",
+      "words": [
+        "BÁBOVKA",
+        "LOPATKA",
+        "KYBLÍK",
+        "HRABIČKY"
+      ]
+    },
+    {
+      "name": "Malá ___",
+      "words": [
+        "KOPANÁ",
+        "DUŠIČKA",
+        "CHVÍLE",
+        "NÁSOBILKA"
+      ]
+    }
+  ]
+}

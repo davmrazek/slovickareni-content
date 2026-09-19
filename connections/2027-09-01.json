@@ -1,0 +1,41 @@
+{
+  "id": "conn-258",
+  "groups": [
+    {
+      "name": "Sportovní klub",
+      "words": [
+        "ČLENSTVÍ",
+        "TRENÉR",
+        "SEZONA",
+        "PŘESTUP"
+      ]
+    },
+    {
+      "name": "Turnaj",
+      "words": [
+        "PAVOUK",
+        "SKUPINA",
+        "FINÁLE",
+        "LOSOVÁNÍ"
+      ]
+    },
+    {
+      "name": "Ocenění",
+      "words": [
+        "PLAKETA",
+        "POHÁR",
+        "DIPLOM",
+        "TITUL"
+      ]
+    },
+    {
+      "name": "Stříbrná ___",
+      "words": [
+        "MEDAILE",
+        "SVATBA",
+        "LIŠKA",
+        "LŽIČKA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-13",
+  "groups": [
+    {
+      "name": "Tropické ovoce",
+      "words": [
+        "BANÁN",
+        "ANANAS",
+        "MANGO",
+        "KOKOS"
+      ]
+    },
+    {
+      "name": "Obuv",
+      "words": [
+        "TENISKY",
+        "SANDÁLY",
+        "HOLÍNKY",
+        "BAČKORY"
+      ]
+    },
+    {
+      "name": "Mořští živočichové",
+      "words": [
+        "VELRYBA",
+        "DELFÍN",
+        "ŽRALOK",
+        "CHOBOTNICE"
+      ]
+    },
+    {
+      "name": "Rybí ___",
+      "words": [
+        "OKO",
+        "TUK",
+        "POLÉVKA",
+        "KOST"
+      ]
+    }
+  ]
+}

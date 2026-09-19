@@ -1,0 +1,41 @@
+{
+  "id": "conn-157",
+  "groups": [
+    {
+      "name": "U zubaře",
+      "words": [
+        "VRTAČKA",
+        "PLOMBA",
+        "SLINTÁK",
+        "ZRCÁTKO"
+      ]
+    },
+    {
+      "name": "Ústní hygiena",
+      "words": [
+        "KARTÁČEK",
+        "PASTA",
+        "NIT",
+        "VÝPLACH"
+      ]
+    },
+    {
+      "name": "Zubní potíže",
+      "words": [
+        "KAZ",
+        "ZÁNĚT",
+        "CITLIVOST",
+        "KÁMEN"
+      ]
+    },
+    {
+      "name": "Bílý ___",
+      "words": [
+        "ÚSMĚV",
+        "PLÁŠŤ",
+        "KŮŇ",
+        "ŠUM"
+      ]
+    }
+  ]
+}

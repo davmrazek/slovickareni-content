@@ -1,0 +1,41 @@
+{
+  "id": "conn-120",
+  "groups": [
+    {
+      "name": "Na úřadě",
+      "words": [
+        "RAZÍTKO",
+        "FORMULÁŘ",
+        "PŘEPÁŽKA",
+        "LHŮTA"
+      ]
+    },
+    {
+      "name": "Doklady",
+      "words": [
+        "OBČANKA",
+        "PAS",
+        "ŘIDIČÁK",
+        "VÝPIS"
+      ]
+    },
+    {
+      "name": "Volby",
+      "words": [
+        "URNA",
+        "LÍSTEK",
+        "KANDIDÁT",
+        "OKRSEK"
+      ]
+    },
+    {
+      "name": "Bílé ___",
+      "words": [
+        "MÍSTO",
+        "VÍNO",
+        "MASO",
+        "ZLATO"
+      ]
+    }
+  ]
+}

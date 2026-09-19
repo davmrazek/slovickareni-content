@@ -1,0 +1,41 @@
+{
+  "id": "conn-219",
+  "groups": [
+    {
+      "name": "Plavecké styly",
+      "words": [
+        "KRAUL",
+        "MOTÝLEK",
+        "ZNAK",
+        "PRSA"
+      ]
+    },
+    {
+      "name": "V bazénu",
+      "words": [
+        "DRÁHA",
+        "BLOK",
+        "OBRÁTKA",
+        "ČEPICE"
+      ]
+    },
+    {
+      "name": "Skoky do vody",
+      "words": [
+        "MŮSTEK",
+        "VĚŽ",
+        "SALTO",
+        "VRUT"
+      ]
+    },
+    {
+      "name": "Hluboká ___",
+      "words": [
+        "VODA",
+        "ÚCTA",
+        "NOC",
+        "MYŠLENKA"
+      ]
+    }
+  ]
+}

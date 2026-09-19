@@ -1,0 +1,41 @@
+{
+  "id": "conn-88",
+  "groups": [
+    {
+      "name": "Ve mlýně",
+      "words": [
+        "KÁMEN",
+        "NÁSYPKA",
+        "KOLO",
+        "PYTEL"
+      ]
+    },
+    {
+      "name": "Pekárna",
+      "words": [
+        "KVÁSEK",
+        "TĚSTO",
+        "PEC",
+        "VÁLEK"
+      ]
+    },
+    {
+      "name": "Druhy rohlíků",
+      "words": [
+        "CELOZRNNÝ",
+        "MÁSLOVÝ",
+        "GRAHAMOVÝ",
+        "SEZAMOVÝ"
+      ]
+    },
+    {
+      "name": "Bílý jako ___",
+      "words": [
+        "STĚNA",
+        "MOUKA",
+        "SNÍH",
+        "KŘÍDA"
+      ]
+    }
+  ]
+}

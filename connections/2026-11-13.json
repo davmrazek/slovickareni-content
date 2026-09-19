@@ -1,0 +1,41 @@
+{
+  "id": "conn-331",
+  "groups": [
+    {
+      "name": "Vegetariánská kuchyně",
+      "words": [
+        "LUŠTĚNINY",
+        "TOFU",
+        "SEITAN",
+        "OŘECHY"
+      ]
+    },
+    {
+      "name": "Přílohy k obědu",
+      "words": [
+        "BULGUR",
+        "KUSKUS",
+        "QUINOA",
+        "POHANKA"
+      ]
+    },
+    {
+      "name": "Zeleninové úpravy",
+      "words": [
+        "DUŠENÍ",
+        "GRILOVÁNÍ",
+        "BLANŠÍROVÁNÍ",
+        "STROUHÁNÍ"
+      ]
+    },
+    {
+      "name": "Zdravá ___",
+      "words": [
+        "STRAVA",
+        "SVAČINA",
+        "KŮŽE",
+        "KONKURENCE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-112",
+  "groups": [
+    {
+      "name": "Ve škole v přírodě",
+      "words": [
+        "CHATA",
+        "STEZKA",
+        "OHNIŠTĚ",
+        "HRA"
+      ]
+    },
+    {
+      "name": "Turistické značení",
+      "words": [
+        "ČERVENÁ",
+        "ROZCESTNÍK",
+        "ŠIPKA",
+        "MODRÁ"
+      ]
+    },
+    {
+      "name": "V batohu",
+      "words": [
+        "PLÁŠTĚNKA",
+        "MAPA",
+        "BAGETA",
+        "LÉKÁRNIČKA"
+      ]
+    },
+    {
+      "name": "Dlouhá ___",
+      "words": [
+        "CHVÍLE",
+        "CESTA",
+        "ZIMA",
+        "TRAŤ"
+      ]
+    }
+  ]
+}

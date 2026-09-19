@@ -1,0 +1,41 @@
+{
+  "id": "conn-297",
+  "groups": [
+    {
+      "name": "Národní parky",
+      "words": [
+        "ŠUMAVA",
+        "PODYJÍ",
+        "TATRY",
+        "YELLOWSTONE"
+      ]
+    },
+    {
+      "name": "Chráněná zvířata",
+      "words": [
+        "RYS",
+        "VYDRA",
+        "TETŘEV",
+        "ČÁP"
+      ]
+    },
+    {
+      "name": "Ochranné pásmo",
+      "words": [
+        "ZÓNA",
+        "ZÁKAZ",
+        "STRÁŽCE",
+        "REZERVACE"
+      ]
+    },
+    {
+      "name": "Přírodní ___",
+      "words": [
+        "PAMÁTKA",
+        "KRÁSA",
+        "VÝBĚR",
+        "MATERIÁL"
+      ]
+    }
+  ]
+}

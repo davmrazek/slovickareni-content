@@ -1,0 +1,41 @@
+{
+  "id": "conn-239",
+  "groups": [
+    {
+      "name": "U veterináře",
+      "words": [
+        "OČKOVÁNÍ",
+        "ČIPOVÁNÍ",
+        "PRŮKAZ",
+        "PROHLÍDKA"
+      ]
+    },
+    {
+      "name": "Zvířecí potrava",
+      "words": [
+        "SENO",
+        "KONZERVA",
+        "PAMLSEK",
+        "ZRNÍ"
+      ]
+    },
+    {
+      "name": "Zvířata na statku",
+      "words": [
+        "PRASE",
+        "KRÁVA",
+        "HUSA",
+        "OSEL"
+      ]
+    },
+    {
+      "name": "Domácí ___",
+      "words": [
+        "MAZLÍČEK",
+        "VĚZENÍ",
+        "ŘÁD",
+        "ŠTĚSTÍ"
+      ]
+    }
+  ]
+}

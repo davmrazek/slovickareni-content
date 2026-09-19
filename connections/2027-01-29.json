@@ -1,0 +1,41 @@
+{
+  "id": "conn-43",
+  "groups": [
+    {
+      "name": "Čeští spisovatelé",
+      "words": [
+        "ČAPEK",
+        "NĚMCOVÁ",
+        "HAŠEK",
+        "SEIFERT"
+      ]
+    },
+    {
+      "name": "Pokrývky hlavy",
+      "words": [
+        "ČEPICE",
+        "BARET",
+        "CYLINDR",
+        "ŠÁTEK"
+      ]
+    },
+    {
+      "name": "Horniny",
+      "words": [
+        "ŽULA",
+        "VÁPENEC",
+        "PÍSKOVEC",
+        "BŘIDLICE"
+      ]
+    },
+    {
+      "name": "___ kámen",
+      "words": [
+        "ÚHELNÝ",
+        "MLÝNSKÝ",
+        "ZÁKLADNÍ",
+        "NÁHROBNÍ"
+      ]
+    }
+  ]
+}

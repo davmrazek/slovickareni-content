@@ -1,0 +1,41 @@
+{
+  "id": "conn-34",
+  "groups": [
+    {
+      "name": "Druhy chleba",
+      "words": [
+        "ŽITNÝ",
+        "KMÍNOVÝ",
+        "CELOZRNNÝ",
+        "KVÁSKOVÝ"
+      ]
+    },
+    {
+      "name": "Létající hmyz",
+      "words": [
+        "VÁŽKA",
+        "VOSA",
+        "MOUCHA",
+        "SRŠEŇ"
+      ]
+    },
+    {
+      "name": "Filmové žánry",
+      "words": [
+        "HOROR",
+        "THRILLER",
+        "WESTERN",
+        "ROMANTIKA"
+      ]
+    },
+    {
+      "name": "Noční ___",
+      "words": [
+        "MŮRA",
+        "KOŠILE",
+        "SMĚNA",
+        "OBLOHA"
+      ]
+    }
+  ]
+}

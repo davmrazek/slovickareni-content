@@ -1,0 +1,41 @@
+{
+  "id": "conn-70",
+  "groups": [
+    {
+      "name": "V laboratoři",
+      "words": [
+        "ZKUMAVKA",
+        "KAHAN",
+        "PIPETA",
+        "BAŇKA"
+      ]
+    },
+    {
+      "name": "Chemické prvky",
+      "words": [
+        "VODÍK",
+        "KYSLÍK",
+        "DUSÍK",
+        "UHLÍK"
+      ]
+    },
+    {
+      "name": "Matematika",
+      "words": [
+        "ZLOMEK",
+        "ROVNICE",
+        "MOCNINA",
+        "ODMOCNINA"
+      ]
+    },
+    {
+      "name": "___ reakce",
+      "words": [
+        "ŘETĚZOVÁ",
+        "CHEMICKÁ",
+        "ALERGICKÁ",
+        "OKAMŽITÁ"
+      ]
+    }
+  ]
+}

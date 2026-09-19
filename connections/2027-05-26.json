@@ -1,0 +1,41 @@
+{
+  "id": "conn-160",
+  "groups": [
+    {
+      "name": "Právní pojmy",
+      "words": [
+        "ŽALOBA",
+        "SMLOUVA",
+        "ODVOLÁNÍ",
+        "ROZSUDEK"
+      ]
+    },
+    {
+      "name": "Účastníci procesu",
+      "words": [
+        "SOUDCE",
+        "ADVOKÁT",
+        "POROTA",
+        "OBŽALOVANÝ"
+      ]
+    },
+    {
+      "name": "Trestní sazby",
+      "words": [
+        "POKUTA",
+        "PODMÍNKA",
+        "VĚZENÍ",
+        "ZÁKAZ"
+      ]
+    },
+    {
+      "name": "Poslední ___",
+      "words": [
+        "INSTANCE",
+        "VŮLE",
+        "TAH",
+        "PŘÁNÍ"
+      ]
+    }
+  ]
+}

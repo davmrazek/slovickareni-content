@@ -1,0 +1,41 @@
+{
+  "id": "conn-207",
+  "groups": [
+    {
+      "name": "Polévky",
+      "words": [
+        "VÝVAR",
+        "KRÉMOVÁ",
+        "GULÁŠOVKA",
+        "ČOČKOVÁ"
+      ]
+    },
+    {
+      "name": "Vložky do polévky",
+      "words": [
+        "NUDLE",
+        "KAPÁNÍ",
+        "KRUTONY",
+        "KNEDLÍČKY"
+      ]
+    },
+    {
+      "name": "Luštěniny",
+      "words": [
+        "HRÁCH",
+        "FAZOLE",
+        "CIZRNA",
+        "SÓJA"
+      ]
+    },
+    {
+      "name": "Hustý jako ___",
+      "words": [
+        "KAŠE",
+        "MLHA",
+        "LES",
+        "SIRUP"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-77",
+  "groups": [
+    {
+      "name": "Televize",
+      "words": [
+        "VYSÍLÁNÍ",
+        "OBRAZOVKA",
+        "ANTÉNA",
+        "MODERÁTOR"
+      ]
+    },
+    {
+      "name": "V knihovně",
+      "words": [
+        "VÝPŮJČKA",
+        "KATALOG",
+        "ČTENÁŘ",
+        "REGÁL"
+      ]
+    },
+    {
+      "name": "Literární žánry",
+      "words": [
+        "ROMÁN",
+        "POVÍDKA",
+        "BÁSEŇ",
+        "ESEJ"
+      ]
+    },
+    {
+      "name": "___ list",
+      "words": [
+        "KŘESTNÍ",
+        "BOBKOVÝ",
+        "RODNÝ",
+        "VÝUČNÍ"
+      ]
+    }
+  ]
+}

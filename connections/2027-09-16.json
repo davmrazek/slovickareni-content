@@ -1,0 +1,41 @@
+{
+  "id": "conn-273",
+  "groups": [
+    {
+      "name": "Wellness",
+      "words": [
+        "SAUNA",
+        "VÍŘIVKA",
+        "OCHLAZOVNA",
+        "ODPOČÍVÁRNA"
+      ]
+    },
+    {
+      "name": "Lázeňská léčba",
+      "words": [
+        "PRAMEN",
+        "KÚRA",
+        "KOLONÁDA",
+        "PROCEDURA"
+      ]
+    },
+    {
+      "name": "Masáže",
+      "words": [
+        "KLASICKÁ",
+        "LÁVOVÁ",
+        "REFLEXNÍ",
+        "SPORTOVNÍ"
+      ]
+    },
+    {
+      "name": "Léčivá ___",
+      "words": [
+        "VODA",
+        "BYLINA",
+        "SÍLA",
+        "MAST"
+      ]
+    }
+  ]
+}

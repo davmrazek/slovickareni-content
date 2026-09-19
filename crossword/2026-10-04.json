@@ -1,0 +1,116 @@
+{
+  "id": "2026-10-04",
+  "date": "2026-10-04",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "H",
+      "N",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "M",
+      "A",
+      "M",
+      "A"
+    ],
+    [
+      "P",
+      "O",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "U",
+      "T",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "B",
+      "A",
+      "Z",
+      "E",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Bez odkladu"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Důvěrně matka"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vnitřní prožitek"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Strmá skalní stěna nad mořem"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Základna; opak kyseliny"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Látka, z níž se skládají tělesa"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "A potom, a nato"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Poskytnout, věnovat"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Anglická hospoda"
+    }
+  ]
+}

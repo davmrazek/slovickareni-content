@@ -1,0 +1,116 @@
+{
+  "id": "2026-09-19",
+  "date": "2026-09-19",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "M",
+      "U",
+      "J",
+      "#"
+    ],
+    [
+      "V",
+      "O",
+      "N",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "Z",
+      "I",
+      "V",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "L",
+      "A",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno první osoby"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Šířit příjemný pach"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Strach z budoucího"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Zajišťovat obživu"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Telefon, který nosíme v kapse"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vyčerpání po námaze"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Ukazovat se navenek (~ se)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Povoz tažený koňmi"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Měnit se z ledu ve vodu"
+    }
+  ]
+}

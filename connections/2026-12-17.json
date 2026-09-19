@@ -1,0 +1,41 @@
+{
+  "id": "conn-365",
+  "groups": [
+    {
+      "name": "Konec roku",
+      "words": [
+        "BILANCE",
+        "ÚČTOVÁNÍ",
+        "OHLÉDNUTÍ",
+        "PLÁNY"
+      ]
+    },
+    {
+      "name": "Novoroční přání",
+      "words": [
+        "ZDRAVÍ",
+        "ŠTĚSTÍ",
+        "ÚSPĚCH",
+        "KLID"
+      ]
+    },
+    {
+      "name": "Symboly štěstí",
+      "words": [
+        "ČTYŘLÍSTEK",
+        "PODKOVA",
+        "KOMINÍK",
+        "PRASÁTKO"
+      ]
+    },
+    {
+      "name": "Šťastný ___",
+      "words": [
+        "NÁVRAT",
+        "KONEC",
+        "DEN",
+        "ÚSMĚV"
+      ]
+    }
+  ]
+}

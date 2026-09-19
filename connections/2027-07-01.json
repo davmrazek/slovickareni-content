@@ -1,0 +1,41 @@
+{
+  "id": "conn-196",
+  "groups": [
+    {
+      "name": "Rodinné vztahy",
+      "words": [
+        "ŠVAGR",
+        "SYNOVEC",
+        "TCHÁN",
+        "SESTŘENICE"
+      ]
+    },
+    {
+      "name": "Životní události",
+      "words": [
+        "KŘTINY",
+        "PROMOCE",
+        "SVATBA",
+        "POHŘEB"
+      ]
+    },
+    {
+      "name": "Rodokmen",
+      "words": [
+        "PŘEDEK",
+        "POTOMEK",
+        "VĚTEV",
+        "GENERACE"
+      ]
+    },
+    {
+      "name": "Rodinné ___",
+      "words": [
+        "STŘÍBRO",
+        "STAVENÍ",
+        "SETKÁNÍ",
+        "ŠTĚSTÍ"
+      ]
+    }
+  ]
+}

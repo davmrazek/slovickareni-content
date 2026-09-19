@@ -1,0 +1,41 @@
+{
+  "id": "conn-256",
+  "groups": [
+    {
+      "name": "Podnikání",
+      "words": [
+        "ŽIVNOST",
+        "FAKTURA",
+        "ZAKÁZKA",
+        "MARŽE"
+      ]
+    },
+    {
+      "name": "Daně",
+      "words": [
+        "PŘIZNÁNÍ",
+        "ODPOČET",
+        "SAZBA",
+        "ZÁLOHA"
+      ]
+    },
+    {
+      "name": "Trh",
+      "words": [
+        "NABÍDKA",
+        "POPTÁVKA",
+        "CENA",
+        "KONKURENCE"
+      ]
+    },
+    {
+      "name": "Volný ___",
+      "words": [
+        "OBCHOD",
+        "STYL",
+        "PROSTOR",
+        "ČAS"
+      ]
+    }
+  ]
+}

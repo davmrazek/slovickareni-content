@@ -1,0 +1,41 @@
+{
+  "id": "conn-117",
+  "groups": [
+    {
+      "name": "Šachy",
+      "words": [
+        "MAT",
+        "ROŠÁDA",
+        "GAMBIT",
+        "REMÍZA"
+      ]
+    },
+    {
+      "name": "Karty",
+      "words": [
+        "MARIÁŠ",
+        "ŽOLÍK",
+        "TRUMF",
+        "LICITACE"
+      ]
+    },
+    {
+      "name": "Kostky a žetony",
+      "words": [
+        "HÁZENÍ",
+        "BANK",
+        "SÁZKA",
+        "PLÁN"
+      ]
+    },
+    {
+      "name": "Čistá ___",
+      "words": [
+        "HRA",
+        "VODA",
+        "NÁHODA",
+        "PRÁCE"
+      ]
+    }
+  ]
+}

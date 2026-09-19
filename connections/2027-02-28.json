@@ -1,0 +1,41 @@
+{
+  "id": "conn-73",
+  "groups": [
+    {
+      "name": "Sopka",
+      "words": [
+        "LÁVA",
+        "KRÁTER",
+        "POPEL",
+        "MAGMA"
+      ]
+    },
+    {
+      "name": "Pouště",
+      "words": [
+        "SAHARA",
+        "GOBI",
+        "KALAHARI",
+        "ATACAMA"
+      ]
+    },
+    {
+      "name": "Přírodní katastrofy",
+      "words": [
+        "POVODEŇ",
+        "TORNÁDO",
+        "LAVINA",
+        "SUCHO"
+      ]
+    },
+    {
+      "name": "___ vlna",
+      "words": [
+        "HORKÁ",
+        "ZVUKOVÁ",
+        "MEXICKÁ",
+        "PŘÍLIVOVÁ"
+      ]
+    }
+  ]
+}

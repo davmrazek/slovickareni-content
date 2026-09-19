@@ -1,0 +1,41 @@
+{
+  "id": "conn-182",
+  "groups": [
+    {
+      "name": "České řeky",
+      "words": [
+        "SÁZAVA",
+        "BEROUNKA",
+        "JIZERA",
+        "DYJE"
+      ]
+    },
+    {
+      "name": "Česká pohoří",
+      "words": [
+        "ŠUMAVA",
+        "KRKONOŠE",
+        "JESENÍKY",
+        "BESKYDY"
+      ]
+    },
+    {
+      "name": "Krajské město",
+      "words": [
+        "OSTRAVA",
+        "PLZEŇ",
+        "LIBEREC",
+        "ZLÍN"
+      ]
+    },
+    {
+      "name": "Český ___",
+      "words": [
+        "RÁJ",
+        "KRUMLOV",
+        "LEV",
+        "JAZYK"
+      ]
+    }
+  ]
+}

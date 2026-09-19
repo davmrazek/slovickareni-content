@@ -1,0 +1,41 @@
+{
+  "id": "conn-59",
+  "groups": [
+    {
+      "name": "Kadeřnictví",
+      "words": [
+        "HŘEBEN",
+        "NŮŽKY",
+        "FÉN",
+        "ŽEHLIČKA"
+      ]
+    },
+    {
+      "name": "Kosmetika",
+      "words": [
+        "ŘASENKA",
+        "RTĚNKA",
+        "PUDR",
+        "KRÉM"
+      ]
+    },
+    {
+      "name": "Účesy",
+      "words": [
+        "COP",
+        "DRDOL",
+        "MIKÁDO",
+        "OFINA"
+      ]
+    },
+    {
+      "name": "Umělá ___",
+      "words": [
+        "INTELIGENCE",
+        "HMOTA",
+        "LEDVINA",
+        "KŮŽE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-282",
+  "groups": [
+    {
+      "name": "Jarní probouzení",
+      "words": [
+        "SNĚŽENKA",
+        "PUPEN",
+        "MLÁDĚ",
+        "TÁNÍ"
+      ]
+    },
+    {
+      "name": "Jarní práce",
+      "words": [
+        "ROUBOVÁNÍ",
+        "SETÍ",
+        "HRABÁNÍ",
+        "PŘESAZOVÁNÍ"
+      ]
+    },
+    {
+      "name": "Alergie na jaře",
+      "words": [
+        "PYL",
+        "KÝCHÁNÍ",
+        "SVĚDĚNÍ",
+        "KAPKY"
+      ]
+    },
+    {
+      "name": "První ___",
+      "words": [
+        "MÍSTO",
+        "POMOC",
+        "LIGA",
+        "DOJEM"
+      ]
+    }
+  ]
+}

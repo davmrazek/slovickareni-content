@@ -1,0 +1,41 @@
+{
+  "id": "conn-350",
+  "groups": [
+    {
+      "name": "Míčové hry",
+      "words": [
+        "FOTBAL",
+        "RAGBY",
+        "BASEBALL",
+        "KRIKET"
+      ]
+    },
+    {
+      "name": "Míč a náčiní",
+      "words": [
+        "PÁLKA",
+        "RUKAVICE",
+        "SÍŤKA",
+        "KUŽEL"
+      ]
+    },
+    {
+      "name": "Herní posty",
+      "words": [
+        "ÚTOČNÍK",
+        "OBRÁNCE",
+        "ZÁLOŽNÍK",
+        "BRANKÁŘ"
+      ]
+    },
+    {
+      "name": "Vlastní ___",
+      "words": [
+        "GÓL",
+        "KREV",
+        "PĚST",
+        "VÁHA"
+      ]
+    }
+  ]
+}

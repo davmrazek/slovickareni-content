@@ -1,0 +1,41 @@
+{
+  "id": "conn-272",
+  "groups": [
+    {
+      "name": "Zdravá strava",
+      "words": [
+        "VLÁKNINA",
+        "BÍLKOVINA",
+        "VITAMIN",
+        "MINERÁL"
+      ]
+    },
+    {
+      "name": "Dietní pojmy",
+      "words": [
+        "KALORIE",
+        "PORCE",
+        "JÍDELNÍČEK",
+        "REŽIM"
+      ]
+    },
+    {
+      "name": "Bez lepku a spol.",
+      "words": [
+        "ALERGIE",
+        "INTOLERANCE",
+        "CELIAKIE",
+        "LEPEK"
+      ]
+    },
+    {
+      "name": "Lehký ___",
+      "words": [
+        "OBĚD",
+        "SPÁNEK",
+        "ÚKOL",
+        "VÁNEK"
+      ]
+    }
+  ]
+}

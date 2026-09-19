@@ -1,0 +1,41 @@
+{
+  "id": "conn-215",
+  "groups": [
+    {
+      "name": "Turistické cíle",
+      "words": [
+        "ROZHLEDNA",
+        "ZŘÍCENINA",
+        "SKANZEN",
+        "JESKYNĚ"
+      ]
+    },
+    {
+      "name": "Naučná stezka",
+      "words": [
+        "PANEL",
+        "ZASTAVENÍ",
+        "KVÍZ",
+        "ODPOČÍVADLO"
+      ]
+    },
+    {
+      "name": "Vysokohorská turistika",
+      "words": [
+        "SEDLO",
+        "TRAVERZ",
+        "STOUPÁNÍ",
+        "PŘEVÝŠENÍ"
+      ]
+    },
+    {
+      "name": "Krásný ___",
+      "words": [
+        "VÝHLED",
+        "DEN",
+        "SEN",
+        "ZVYK"
+      ]
+    }
+  ]
+}

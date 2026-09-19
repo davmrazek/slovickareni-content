@@ -1,0 +1,41 @@
+{
+  "id": "conn-197",
+  "groups": [
+    {
+      "name": "Na horách v zimě",
+      "words": [
+        "VLEK",
+        "SJEZDOVKA",
+        "CHATA",
+        "ROLBA"
+      ]
+    },
+    {
+      "name": "Lyžařská výzbroj",
+      "words": [
+        "HOLE",
+        "VÁZÁNÍ",
+        "BRÝLE",
+        "VOSK"
+      ]
+    },
+    {
+      "name": "Zimní radovánky",
+      "words": [
+        "BOBY",
+        "KOULOVAČKA",
+        "BRUSLENÍ",
+        "SNĚHULÁK"
+      ]
+    },
+    {
+      "name": "Sněhová ___",
+      "words": [
+        "VLOČKA",
+        "NADÍLKA",
+        "KOULE",
+        "POKRÝVKA"
+      ]
+    }
+  ]
+}

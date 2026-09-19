@@ -1,0 +1,41 @@
+{
+  "id": "conn-23",
+  "groups": [
+    {
+      "name": "Plazi",
+      "words": [
+        "HAD",
+        "JEŠTĚRKA",
+        "KROKODÝL",
+        "ŽELVA"
+      ]
+    },
+    {
+      "name": "Teplé nápoje",
+      "words": [
+        "ČAJ",
+        "KÁVA",
+        "KAKAO",
+        "GROG"
+      ]
+    },
+    {
+      "name": "Fotbalové posty",
+      "words": [
+        "BRANKÁŘ",
+        "OBRÁNCE",
+        "ZÁLOŽNÍK",
+        "ÚTOČNÍK"
+      ]
+    },
+    {
+      "name": "Zlý ___",
+      "words": [
+        "DUCH",
+        "SEN",
+        "JAZYK",
+        "OSUD"
+      ]
+    }
+  ]
+}

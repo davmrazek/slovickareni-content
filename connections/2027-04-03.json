@@ -1,0 +1,41 @@
+{
+  "id": "conn-107",
+  "groups": [
+    {
+      "name": "V přístavu",
+      "words": [
+        "MOLO",
+        "KOTVA",
+        "JEŘÁB",
+        "DOK"
+      ]
+    },
+    {
+      "name": "Námořní hodnosti",
+      "words": [
+        "KAPITÁN",
+        "KORMIDELNÍK",
+        "LODNÍK",
+        "PLAVČÍK"
+      ]
+    },
+    {
+      "name": "Typy plavidel",
+      "words": [
+        "PLACHETNICE",
+        "TANKER",
+        "TRAJEKT",
+        "KATAMARÁN"
+      ]
+    },
+    {
+      "name": "Slaná ___",
+      "words": [
+        "VODA",
+        "CHUŤ",
+        "TYČINKA",
+        "SLZA"
+      ]
+    }
+  ]
+}

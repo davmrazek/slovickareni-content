@@ -1,0 +1,41 @@
+{
+  "id": "conn-281",
+  "groups": [
+    {
+      "name": "Ve sněhu",
+      "words": [
+        "STOPA",
+        "ZÁVĚJ",
+        "LOPATA",
+        "SÁŇKY"
+      ]
+    },
+    {
+      "name": "Zimní ptáci",
+      "words": [
+        "BRHLÍK",
+        "STRAKAPOUD",
+        "HÝL",
+        "ZVONEK"
+      ]
+    },
+    {
+      "name": "Zimní strom",
+      "words": [
+        "JMELÍ",
+        "KŮRA",
+        "PUPEN",
+        "JEHLIČÍ"
+      ]
+    },
+    {
+      "name": "Mrazivá ___",
+      "words": [
+        "NOC",
+        "ATMOSFÉRA",
+        "KRÁSA",
+        "PŘEDPOVĚĎ"
+      ]
+    }
+  ]
+}

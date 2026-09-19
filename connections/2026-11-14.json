@@ -1,0 +1,41 @@
+{
+  "id": "conn-332",
+  "groups": [
+    {
+      "name": "Koření z Orientu",
+      "words": [
+        "KURKUMA",
+        "KARDAMOM",
+        "ŠAFRÁN",
+        "BADYÁN"
+      ]
+    },
+    {
+      "name": "Naše bylinky",
+      "words": [
+        "ŠALVĚJ",
+        "PAŽITKA",
+        "LIBEČEK",
+        "MAJORÁNKA"
+      ]
+    },
+    {
+      "name": "Kořenky",
+      "words": [
+        "MLÝNEK",
+        "SKLENIČKA",
+        "ŠTÍTEK",
+        "STOJÁNEK"
+      ]
+    },
+    {
+      "name": "Pikantní ___",
+      "words": [
+        "OMÁČKA",
+        "DETAIL",
+        "SMĚS",
+        "VŮNĚ"
+      ]
+    }
+  ]
+}

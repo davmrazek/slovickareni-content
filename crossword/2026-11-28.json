@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-28",
+  "date": "2026-11-28",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "K",
+      "R"
+    ],
+    [
+      "K",
+      "A",
+      "R",
+      "T",
+      "A"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Potom, následně"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Žlutohnědý přírodní pigment"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "List v balíčku na hraní; platební"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dějinné období, epocha"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Neustále"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dějství divadelní hry; také úřední listina"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Plovoucí ledová deska"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nízká dřevina bez kmene"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
+    }
+  ]
+}

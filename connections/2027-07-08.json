@@ -1,0 +1,41 @@
+{
+  "id": "conn-203",
+  "groups": [
+    {
+      "name": "Exotické ovoce",
+      "words": [
+        "MANGO",
+        "PAPÁJA",
+        "LIČI",
+        "GUAVA"
+      ]
+    },
+    {
+      "name": "Citrusy",
+      "words": [
+        "POMERANČ",
+        "MANDARINKA",
+        "LIMETKA",
+        "GREP"
+      ]
+    },
+    {
+      "name": "Ořechy",
+      "words": [
+        "MANDLE",
+        "PISTÁCIE",
+        "KEŠU",
+        "ARAŠÍD"
+      ]
+    },
+    {
+      "name": "Kyselý ___",
+      "words": [
+        "CITRON",
+        "DÉŠŤ",
+        "VÝRAZ",
+        "OBLIČEJ"
+      ]
+    }
+  ]
+}

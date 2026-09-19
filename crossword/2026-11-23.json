@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-23",
+  "date": "2026-11-23",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "R",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "V",
+      "E",
+      "T",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "I",
+      "D"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Předložka blízkosti (~ cestě)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pletený oděv na zimu"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Obyvatelstvo země"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plavecký styl; nebo část hrudníku"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Knižně: hrob"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Počet nohou stativu"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+    }
+  ]
+}

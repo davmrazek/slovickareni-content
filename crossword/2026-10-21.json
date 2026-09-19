@@ -1,0 +1,116 @@
+{
+  "id": "2026-10-21",
+  "date": "2026-10-21",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "S",
+      "P",
+      "O",
+      "J"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "L",
+      "O",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Rovněž, taktéž"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Dělo z dob plachetnic"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dravec ve státním znaku"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Výsledek tvůrčí práce"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Pokročilý věk"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Plochý díl; také ovládací deska"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Kolem dokola"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pouze, nic víc; také japonská měna"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šifra; posloupnost znaků k odemčení"
+    }
+  ]
+}

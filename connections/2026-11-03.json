@@ -1,0 +1,41 @@
+{
+  "id": "conn-321",
+  "groups": [
+    {
+      "name": "V knihovně",
+      "words": [
+        "VÝPŮJČKA",
+        "PRŮKAZ",
+        "REZERVACE",
+        "ČÍTÁRNA"
+      ]
+    },
+    {
+      "name": "Části novin",
+      "words": [
+        "STRANA",
+        "SLOUPEK",
+        "FOTKA",
+        "POPISEK"
+      ]
+    },
+    {
+      "name": "Části knihy",
+      "words": [
+        "KAPITOLA",
+        "ODSTAVEC",
+        "POZNÁMKA",
+        "MOTTO"
+      ]
+    },
+    {
+      "name": "Tichá ___",
+      "words": [
+        "ČETBA",
+        "VODA",
+        "NOC",
+        "SPOLUPRÁCE"
+      ]
+    }
+  ]
+}

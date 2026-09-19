@@ -1,0 +1,41 @@
+{
+  "id": "conn-298",
+  "groups": [
+    {
+      "name": "Klimatické pásy",
+      "words": [
+        "POLÁRNÍ",
+        "MÍRNÝ",
+        "SUBTROPY",
+        "TROPICKÝ"
+      ]
+    },
+    {
+      "name": "Skleníkové plyny",
+      "words": [
+        "METAN",
+        "OXID",
+        "OZON",
+        "PÁRA"
+      ]
+    },
+    {
+      "name": "Změna klimatu",
+      "words": [
+        "OTEPLOVÁNÍ",
+        "SUCHO",
+        "HLADINA",
+        "EXTRÉM"
+      ]
+    },
+    {
+      "name": "Uhlíková ___",
+      "words": [
+        "STOPA",
+        "NEUTRALITA",
+        "DAŇ",
+        "VLÁKNA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-161",
+  "groups": [
+    {
+      "name": "Ve sklenářství",
+      "words": [
+        "TABULE",
+        "DIAMANT",
+        "TMEL",
+        "VITRÁŽ"
+      ]
+    },
+    {
+      "name": "Sklářské výrobky",
+      "words": [
+        "POHÁR",
+        "VÁZA",
+        "LUSTR",
+        "TĚŽÍTKO"
+      ]
+    },
+    {
+      "name": "Křehké materiály",
+      "words": [
+        "PORCELÁN",
+        "KERAMIKA",
+        "LED",
+        "SKOŘÁPKA"
+      ]
+    },
+    {
+      "name": "Křišťálově ___",
+      "words": [
+        "ČISTÝ",
+        "PRŮZRAČNÝ",
+        "JASNÝ",
+        "ČIRÝ"
+      ]
+    }
+  ]
+}

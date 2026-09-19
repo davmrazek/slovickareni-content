@@ -1,0 +1,41 @@
+{
+  "id": "conn-164",
+  "groups": [
+    {
+      "name": "V papírnictví",
+      "words": [
+        "SEŠIT",
+        "BLOK",
+        "SPONKY",
+        "LEPIDLO"
+      ]
+    },
+    {
+      "name": "Psací potřeby",
+      "words": [
+        "PERO",
+        "TUŽKA",
+        "FIX",
+        "PASTELKA"
+      ]
+    },
+    {
+      "name": "Rýsování",
+      "words": [
+        "KRUŽÍTKO",
+        "PRAVÍTKO",
+        "TROJÚHELNÍK",
+        "ŠABLONA"
+      ]
+    },
+    {
+      "name": "Bílý ___",
+      "words": [
+        "PAPÍR",
+        "DEN",
+        "PRÁŠEK",
+        "SPORT"
+      ]
+    }
+  ]
+}

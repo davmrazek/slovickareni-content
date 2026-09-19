@@ -1,0 +1,41 @@
+{
+  "id": "conn-155",
+  "groups": [
+    {
+      "name": "Lidská kostra",
+      "words": [
+        "LEBKA",
+        "PÁTEŘ",
+        "ŽEBRO",
+        "PÁNEV"
+      ]
+    },
+    {
+      "name": "Klouby",
+      "words": [
+        "KOLENO",
+        "LOKET",
+        "RAMENO",
+        "KOTNÍK"
+      ]
+    },
+    {
+      "name": "Rehabilitace",
+      "words": [
+        "MASÁŽ",
+        "CVIČENÍ",
+        "OBKLAD",
+        "BERLE"
+      ]
+    },
+    {
+      "name": "Zlomený ___",
+      "words": [
+        "PRST",
+        "SLIB",
+        "HLAS",
+        "REKORD"
+      ]
+    }
+  ]
+}

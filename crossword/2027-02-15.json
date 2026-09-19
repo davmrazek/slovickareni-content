@@ -1,0 +1,116 @@
+{
+  "id": "2027-02-15",
+  "date": "2027-02-15",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "R",
+      "O",
+      "K",
+      "#"
+    ],
+    [
+      "D",
+      "U",
+      "V",
+      "O",
+      "D"
+    ],
+    [
+      "I",
+      "K",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "K",
+      "A",
+      "C",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "V",
+      "E",
+      "C",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Příčina jednání"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Náboženský obraz; nebo symbol na displeji"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Porážet stromy"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Předmět; nebo záležitost"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Část oděvu na paži"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Sladké plody stromů"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Opak začátku; když je dobrý, všechno je dobré"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Projev vděčnosti, poděkování"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Poskytnout, věnovat"
+    }
+  ]
+}

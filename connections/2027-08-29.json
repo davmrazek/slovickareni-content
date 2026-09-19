@@ -1,0 +1,41 @@
+{
+  "id": "conn-255",
+  "groups": [
+    {
+      "name": "Hledání práce",
+      "words": [
+        "INZERÁT",
+        "ŽIVOTOPIS",
+        "POHOVOR",
+        "NÁBOR"
+      ]
+    },
+    {
+      "name": "Pracovní poměr",
+      "words": [
+        "SMLOUVA",
+        "ÚVAZEK",
+        "DOVOLENÁ",
+        "VÝPOVĚĎ"
+      ]
+    },
+    {
+      "name": "Profese",
+      "words": [
+        "ÚČETNÍ",
+        "PRÁVNÍK",
+        "KUCHAŘ",
+        "ŘIDIČ"
+      ]
+    },
+    {
+      "name": "Pracovní ___",
+      "words": [
+        "DOBA",
+        "OBĚD",
+        "NÁPLŇ",
+        "ÚRAZ"
+      ]
+    }
+  ]
+}

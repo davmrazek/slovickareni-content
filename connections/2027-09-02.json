@@ -1,0 +1,41 @@
+{
+  "id": "conn-259",
+  "groups": [
+    {
+      "name": "Fanoušci",
+      "words": [
+        "ŠÁLA",
+        "CHOREO",
+        "POKŘIK",
+        "VLAJKA"
+      ]
+    },
+    {
+      "name": "Sportovní přenos",
+      "words": [
+        "KOMENTÁTOR",
+        "STUDIO",
+        "OPAKOVAČKA",
+        "STATISTIKA"
+      ]
+    },
+    {
+      "name": "Sázení",
+      "words": [
+        "KURZ",
+        "TIKET",
+        "PODÁNÍ",
+        "VÝHRA"
+      ]
+    },
+    {
+      "name": "Domácí ___",
+      "words": [
+        "PROSTŘEDÍ",
+        "PORÁŽKA",
+        "ZÁPAS",
+        "ÚKOL"
+      ]
+    }
+  ]
+}

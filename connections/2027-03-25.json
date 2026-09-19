@@ -1,0 +1,41 @@
+{
+  "id": "conn-98",
+  "groups": [
+    {
+      "name": "Hodinářství",
+      "words": [
+        "RUČIČKA",
+        "PÉRO",
+        "SETRVAČNÍK",
+        "CIFERNÍK"
+      ]
+    },
+    {
+      "name": "Měření času",
+      "words": [
+        "BUDÍK",
+        "ORLOJ",
+        "STOPKY",
+        "KYVADLO"
+      ]
+    },
+    {
+      "name": "Jemná mechanika",
+      "words": [
+        "PINZETA",
+        "LUPA",
+        "ŠROUBEK",
+        "OZUBENÍ"
+      ]
+    },
+    {
+      "name": "Přesný jako ___",
+      "words": [
+        "HODINKY",
+        "STROJ",
+        "LASER",
+        "VÝPOČET"
+      ]
+    }
+  ]
+}

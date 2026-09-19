@@ -1,0 +1,41 @@
+{
+  "id": "conn-352",
+  "groups": [
+    {
+      "name": "V posilovně",
+      "words": [
+        "ČINKA",
+        "LAVICE",
+        "KOTOUČ",
+        "STOJAN"
+      ]
+    },
+    {
+      "name": "Cviky",
+      "words": [
+        "DŘEP",
+        "KLIK",
+        "SHYB",
+        "PLANK"
+      ]
+    },
+    {
+      "name": "Sportovní výživa",
+      "words": [
+        "PROTEIN",
+        "SACHARID",
+        "KREATIN",
+        "ELEKTROLYTY"
+      ]
+    },
+    {
+      "name": "Silová ___",
+      "words": [
+        "VÝDRŽ",
+        "POZICE",
+        "ZKOUŠKA",
+        "PŘEVAHA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-245",
+  "groups": [
+    {
+      "name": "Vodní elektrárna",
+      "words": [
+        "TURBÍNA",
+        "SPÁD",
+        "PŘEHRADA",
+        "GENERÁTOR"
+      ]
+    },
+    {
+      "name": "Obnovitelné zdroje",
+      "words": [
+        "SOLÁRNÍ",
+        "VĚTRNÁ",
+        "GEOTERMÁLNÍ",
+        "BIOPLYN"
+      ]
+    },
+    {
+      "name": "V elektrárně",
+      "words": [
+        "KOMÍN",
+        "REAKTOR",
+        "ROZVODNA",
+        "DISPEČINK"
+      ]
+    },
+    {
+      "name": "Zelená ___",
+      "words": [
+        "ENERGIE",
+        "KARTA",
+        "VLNA",
+        "STŘECHA"
+      ]
+    }
+  ]
+}

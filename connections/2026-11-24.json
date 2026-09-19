@@ -1,0 +1,41 @@
+{
+  "id": "conn-342",
+  "groups": [
+    {
+      "name": "Nábytek do obýváku",
+      "words": [
+        "POHOVKA",
+        "KOMODA",
+        "STOLEK",
+        "KNIHOVNA"
+      ]
+    },
+    {
+      "name": "Bytové doplňky",
+      "words": [
+        "POLŠTÁŘ",
+        "SVÍCEN",
+        "OBRAZ",
+        "VÁZA"
+      ]
+    },
+    {
+      "name": "Osvětlení",
+      "words": [
+        "LUSTR",
+        "LAMPA",
+        "BODOVKA",
+        "PÁSEK"
+      ]
+    },
+    {
+      "name": "Útulný ___",
+      "words": [
+        "DOMOV",
+        "KOUTEK",
+        "BYT",
+        "VEČER"
+      ]
+    }
+  ]
+}

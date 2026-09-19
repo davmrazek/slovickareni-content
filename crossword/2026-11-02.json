@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-02",
+  "date": "2026-11-02",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "M",
+      "U",
+      "Z",
+      "#"
+    ],
+    [
+      "P",
+      "O",
+      "Z",
+      "A",
+      "R"
+    ],
+    [
+      "U",
+      "T",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "L",
+      "I",
+      "M",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "V",
+      "I",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Dospělý člověk, kterému se říká pán"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nekontrolovaný oheň"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Druhý den týdne"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nejzazší mez"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Splétat věnec z kvítí"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Pohnutka; opakující se prvek"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vymezená část země, teritorium"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Vydávat jasné světlo"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Polovina (~ litru)"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zarývat se do země jako krtek"
+    }
+  ]
+}

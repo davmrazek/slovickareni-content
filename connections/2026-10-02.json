@@ -1,0 +1,41 @@
+{
+  "id": "conn-289",
+  "groups": [
+    {
+      "name": "Motorky",
+      "words": [
+        "SILNIČNÍ",
+        "ENDURO",
+        "SKÚTR",
+        "CHOPPER"
+      ]
+    },
+    {
+      "name": "Autodíly",
+      "words": [
+        "SPOJKA",
+        "TLUMIČ",
+        "ALTERNÁTOR",
+        "PŘEVODOVKA"
+      ]
+    },
+    {
+      "name": "Pohonné hmoty",
+      "words": [
+        "BENZIN",
+        "NAFTA",
+        "LPG",
+        "ELEKTŘINA"
+      ]
+    },
+    {
+      "name": "Ostrý ___",
+      "words": [
+        "PROVOZ",
+        "START",
+        "ZVUK",
+        "KONTRAST"
+      ]
+    }
+  ]
+}

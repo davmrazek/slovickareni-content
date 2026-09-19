@@ -1,0 +1,41 @@
+{
+  "id": "conn-244",
+  "groups": [
+    {
+      "name": "Sladkovodní ryby",
+      "words": [
+        "ŠTIKA",
+        "OKOUN",
+        "CANDÁT",
+        "SUMEC"
+      ]
+    },
+    {
+      "name": "Rybářské náčiní",
+      "words": [
+        "PRUT",
+        "NAVIJÁK",
+        "SPLÁVEK",
+        "HÁČEK"
+      ]
+    },
+    {
+      "name": "Návnady",
+      "words": [
+        "ŽÍŽALA",
+        "BOILIE",
+        "TĚSTO",
+        "TŘPYTKA"
+      ]
+    },
+    {
+      "name": "Zlatá ___",
+      "words": [
+        "RYBKA",
+        "HOREČKA",
+        "ÉRA",
+        "ŽÍLA"
+      ]
+    }
+  ]
+}

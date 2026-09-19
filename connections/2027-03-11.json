@@ -1,0 +1,41 @@
+{
+  "id": "conn-84",
+  "groups": [
+    {
+      "name": "Dřeviny v parku",
+      "words": [
+        "PLATAN",
+        "KAŠTAN",
+        "JÍROVEC",
+        "AKÁT"
+      ]
+    },
+    {
+      "name": "Ptačí hnízdění",
+      "words": [
+        "BUDKA",
+        "SNŮŠKA",
+        "VEJCE",
+        "MLÁDĚ"
+      ]
+    },
+    {
+      "name": "Zvuky ptáků",
+      "words": [
+        "TRYLEK",
+        "KRÁKÁNÍ",
+        "HOUKÁNÍ",
+        "ŠTĚBETÁNÍ"
+      ]
+    },
+    {
+      "name": "Volný jako ___",
+      "words": [
+        "PTÁK",
+        "VÍTR",
+        "OBLAK",
+        "VZDUCH"
+      ]
+    }
+  ]
+}

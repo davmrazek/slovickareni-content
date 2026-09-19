@@ -1,0 +1,41 @@
+{
+  "id": "conn-364",
+  "groups": [
+    {
+      "name": "Louka v létě",
+      "words": [
+        "KOPRETINA",
+        "ZVONEK",
+        "JETEL",
+        "ŠALVĚJ"
+      ]
+    },
+    {
+      "name": "Senoseč",
+      "words": [
+        "KOSA",
+        "OBRACENÍ",
+        "BALÍK",
+        "SENÍK"
+      ]
+    },
+    {
+      "name": "Hmyz na louce",
+      "words": [
+        "KOBYLKA",
+        "CVRČEK",
+        "SARANČE",
+        "SLUNÉČKO"
+      ]
+    },
+    {
+      "name": "Zelená ___",
+      "words": [
+        "LOUKA",
+        "NADĚJE",
+        "BARVA",
+        "STŘECHA"
+      ]
+    }
+  ]
+}

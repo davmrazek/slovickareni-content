@@ -1,0 +1,41 @@
+{
+  "id": "conn-75",
+  "groups": [
+    {
+      "name": "V zaměstnání",
+      "words": [
+        "VÝPLATA",
+        "DOVOLENÁ",
+        "SMLOUVA",
+        "POHOVOR"
+      ]
+    },
+    {
+      "name": "Na cestách",
+      "words": [
+        "LETENKA",
+        "PAS",
+        "VÍZUM",
+        "ZAVAZADLO"
+      ]
+    },
+    {
+      "name": "V hotelu",
+      "words": [
+        "RECEPCE",
+        "POKOJ",
+        "KLÍČ",
+        "SNÍDANĚ"
+      ]
+    },
+    {
+      "name": "___ doba",
+      "words": [
+        "PRACOVNÍ",
+        "OTEVÍRACÍ",
+        "LEDOVÁ",
+        "KAMENNÁ"
+      ]
+    }
+  ]
+}

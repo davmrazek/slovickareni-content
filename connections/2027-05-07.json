@@ -1,0 +1,41 @@
+{
+  "id": "conn-141",
+  "groups": [
+    {
+      "name": "Geologické éry",
+      "words": [
+        "PRVOHORY",
+        "DRUHOHORY",
+        "TŘETIHORY",
+        "ČTVRTOHORY"
+      ]
+    },
+    {
+      "name": "Dinosauři",
+      "words": [
+        "BRONTOSAURUS",
+        "TRICERATOPS",
+        "PTERODAKTYL",
+        "VELOCIRAPTOR"
+      ]
+    },
+    {
+      "name": "Zkameněliny",
+      "words": [
+        "OTISK",
+        "AMONIT",
+        "TRILOBIT",
+        "JANTAR"
+      ]
+    },
+    {
+      "name": "Dávná ___",
+      "words": [
+        "MINULOST",
+        "DOBA",
+        "CIVILIZACE",
+        "VZPOMÍNKA"
+      ]
+    }
+  ]
+}

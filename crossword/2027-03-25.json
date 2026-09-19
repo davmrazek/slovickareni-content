@@ -1,0 +1,116 @@
+{
+  "id": "2027-03-25",
+  "date": "2027-03-25",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "M",
+      "U",
+      "J",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "E",
+      "C"
+    ],
+    [
+      "U",
+      "L",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "P",
+      "I",
+      "L",
+      "I",
+      "R"
+    ],
+    [
+      "#",
+      "R",
+      "Y",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno první osoby"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Zvíře mužského pohlaví"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pocit po odeznění tíhy"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Mohutná svislá podpěra mostu"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zarývat se do země jako krtek"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Kdo maluje obrazy nebo stěny"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vyrobený, ne přírodní"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Ukazovat se navenek (~ se)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mrchožravý dravec"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Ruský panovník, třeba Petr Veliký"
+    }
+  ]
+}

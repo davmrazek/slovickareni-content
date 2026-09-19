@@ -1,0 +1,41 @@
+{
+  "id": "conn-338",
+  "groups": [
+    {
+      "name": "Kuchařská abeceda",
+      "words": [
+        "RECEPT",
+        "POSTUP",
+        "SUROVINY",
+        "PORCE"
+      ]
+    },
+    {
+      "name": "Tepelné úpravy",
+      "words": [
+        "SMAŽENÍ",
+        "PEČENÍ",
+        "VAŘENÍ",
+        "DUŠENÍ"
+      ]
+    },
+    {
+      "name": "Míry v kuchyni",
+      "words": [
+        "LŽÍCE",
+        "ŠPETKA",
+        "HRNEK",
+        "DECILITR"
+      ]
+    },
+    {
+      "name": "Vařené ___",
+      "words": [
+        "BRAMBORY",
+        "VEJCE",
+        "MASO",
+        "ZELÍ"
+      ]
+    }
+  ]
+}

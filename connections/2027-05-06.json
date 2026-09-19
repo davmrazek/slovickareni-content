@@ -1,0 +1,41 @@
+{
+  "id": "conn-140",
+  "groups": [
+    {
+      "name": "Astronomie",
+      "words": [
+        "DALEKOHLED",
+        "HVĚZDÁRNA",
+        "KOMETA",
+        "ZATMĚNÍ"
+      ]
+    },
+    {
+      "name": "Souhvězdí",
+      "words": [
+        "ORION",
+        "KASIOPEJA",
+        "LABUŤ",
+        "VOZKA"
+      ]
+    },
+    {
+      "name": "Vesmírné mise",
+      "words": [
+        "RAKETA",
+        "SONDA",
+        "MODUL",
+        "PŘISTÁNÍ"
+      ]
+    },
+    {
+      "name": "Černá ___",
+      "words": [
+        "DÍRA",
+        "HODINKA",
+        "MŮRA",
+        "MAGIE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-39",
+  "groups": [
+    {
+      "name": "Jehličnaté stromy",
+      "words": [
+        "BOROVICE",
+        "JEDLE",
+        "MODŘÍN",
+        "TIS"
+      ]
+    },
+    {
+      "name": "Příchutě zmrzliny",
+      "words": [
+        "VANILKA",
+        "JAHODA",
+        "OŘECH",
+        "KARAMEL"
+      ]
+    },
+    {
+      "name": "Jednotky času",
+      "words": [
+        "SEKUNDA",
+        "MINUTA",
+        "HODINA",
+        "TÝDEN"
+      ]
+    },
+    {
+      "name": "Otevřený ___",
+      "words": [
+        "DOPIS",
+        "PROSTOR",
+        "OHEŇ",
+        "KONEC"
+      ]
+    }
+  ]
+}

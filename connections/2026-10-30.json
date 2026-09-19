@@ -1,0 +1,41 @@
+{
+  "id": "conn-317",
+  "groups": [
+    {
+      "name": "Rozhlasové stanice",
+      "words": [
+        "PŘIJÍMAČ",
+        "FREKVENCE",
+        "LADĚNÍ",
+        "ANTÉNA"
+      ]
+    },
+    {
+      "name": "Podcast",
+      "words": [
+        "EPIZODA",
+        "HOST",
+        "MIKROFON",
+        "ODBĚR"
+      ]
+    },
+    {
+      "name": "Hudební formáty",
+      "words": [
+        "DESKA",
+        "KAZETA",
+        "CÉDÉČKO",
+        "STREAM"
+      ]
+    },
+    {
+      "name": "Krátká ___",
+      "words": [
+        "ZPRÁVA",
+        "PAMĚŤ",
+        "PAUZA",
+        "VLNA"
+      ]
+    }
+  ]
+}

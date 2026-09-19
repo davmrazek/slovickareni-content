@@ -1,0 +1,41 @@
+{
+  "id": "conn-51",
+  "groups": [
+    {
+      "name": "Hokej",
+      "words": [
+        "PUK",
+        "HOKEJKA",
+        "BRANKA",
+        "MANTINEL"
+      ]
+    },
+    {
+      "name": "Tenis",
+      "words": [
+        "RAKETA",
+        "SÍŤ",
+        "MÍČEK",
+        "KURT"
+      ]
+    },
+    {
+      "name": "Olympiáda",
+      "words": [
+        "MEDAILE",
+        "POCHODEŇ",
+        "KRUHY",
+        "VLAJKA"
+      ]
+    },
+    {
+      "name": "___ hra",
+      "words": [
+        "ČISTÁ",
+        "FALEŠNÁ",
+        "DĚTSKÁ",
+        "HAZARDNÍ"
+      ]
+    }
+  ]
+}

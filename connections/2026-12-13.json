@@ -1,0 +1,41 @@
+{
+  "id": "conn-361",
+  "groups": [
+    {
+      "name": "Podzimní příroda",
+      "words": [
+        "ŽALUDY",
+        "KAŠTANY",
+        "PAVUČINY",
+        "STRNIŠTĚ"
+      ]
+    },
+    {
+      "name": "Draci a vítr",
+      "words": [
+        "OCÁSEK",
+        "PROVÁZEK",
+        "VZLET",
+        "POLE"
+      ]
+    },
+    {
+      "name": "Podzimní chutě",
+      "words": [
+        "DÝNĚ",
+        "ŠVESTKY",
+        "OŘECHY",
+        "MOŠT"
+      ]
+    },
+    {
+      "name": "Podzimní ___",
+      "words": [
+        "ROVNODENNOST",
+        "DEPRESE",
+        "PRÁZDNINY",
+        "ÚKLID"
+      ]
+    }
+  ]
+}

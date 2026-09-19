@@ -1,0 +1,41 @@
+{
+  "id": "conn-230",
+  "groups": [
+    {
+      "name": "Šperkařství",
+      "words": [
+        "ZLATNÍK",
+        "PUNC",
+        "BROUŠENÍ",
+        "ŘETÍZEK"
+      ]
+    },
+    {
+      "name": "Drahé kameny",
+      "words": [
+        "SMARAGD",
+        "SAFÍR",
+        "OPÁL",
+        "TOPAZ"
+      ]
+    },
+    {
+      "name": "Hodinky",
+      "words": [
+        "ŘEMÍNEK",
+        "RUČIČKA",
+        "SKLÍČKO",
+        "NATAHOVÁNÍ"
+      ]
+    },
+    {
+      "name": "Vzácný ___",
+      "words": [
+        "KOV",
+        "HOST",
+        "NÁLEZ",
+        "OKAMŽIK"
+      ]
+    }
+  ]
+}

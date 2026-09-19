@@ -1,0 +1,116 @@
+{
+  "id": "2026-08-09",
+  "date": "2026-08-09",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "T",
+      "A",
+      "K",
+      "#"
+    ],
+    [
+      "K",
+      "A",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "U",
+      "Z",
+      "E",
+      "M",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "B",
+      "E",
+      "H"
+    ],
+    [
+      "#",
+      "T",
+      "O",
+      "N",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Umělé vodní koryto; nebo stoka"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vymezená část země, teritorium"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rozběh; nebo počáteční fáze"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zvuk určité výšky"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Klást otázky, ptát se"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vylučovací spojka (buď – ~)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Domácí kopytník tažný a jezdecký"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Etanol, základ tvrdého alkoholu"
+    }
+  ]
+}

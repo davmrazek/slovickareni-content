@@ -1,0 +1,41 @@
+{
+  "id": "conn-36",
+  "groups": [
+    {
+      "name": "Pavoukovci",
+      "words": [
+        "PAVOUK",
+        "ŠTÍR",
+        "SEKÁČ",
+        "KLÍŠTĚ"
+      ]
+    },
+    {
+      "name": "Jarní ___",
+      "words": [
+        "ÚNAVA",
+        "ÚKLID",
+        "DEŠTĚ",
+        "PRÁZDNINY"
+      ]
+    },
+    {
+      "name": "Pohoří",
+      "words": [
+        "ALPY",
+        "HIMÁLAJ",
+        "ANDY",
+        "KARPATY"
+      ]
+    },
+    {
+      "name": "Košťálová zelenina",
+      "words": [
+        "KVĚTÁK",
+        "BROKOLICE",
+        "KAPUSTA",
+        "KEDLUBEN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-65",
+  "groups": [
+    {
+      "name": "Australská zvířata",
+      "words": [
+        "KLOKAN",
+        "KOALA",
+        "EMU",
+        "VOMBAT"
+      ]
+    },
+    {
+      "name": "Polární zvířata",
+      "words": [
+        "TULEŇ",
+        "MROŽ",
+        "SOB",
+        "LIŠKA"
+      ]
+    },
+    {
+      "name": "Horská zvířata",
+      "words": [
+        "KAMZÍK",
+        "SVIŠŤ",
+        "KOZOROŽEC",
+        "ORLOSUP"
+      ]
+    },
+    {
+      "name": "Velká ___",
+      "words": [
+        "VODA",
+        "CENA",
+        "PÍSMENA",
+        "RYBA"
+      ]
+    }
+  ]
+}

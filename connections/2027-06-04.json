@@ -1,0 +1,41 @@
+{
+  "id": "conn-169",
+  "groups": [
+    {
+      "name": "V laboratoři",
+      "words": [
+        "KÁDINKA",
+        "KAHAN",
+        "ZKUMAVKA",
+        "PIPETA"
+      ]
+    },
+    {
+      "name": "Skupenství",
+      "words": [
+        "PEVNÉ",
+        "KAPALNÉ",
+        "PLYNNÉ",
+        "PLAZMA"
+      ]
+    },
+    {
+      "name": "Chemické děje",
+      "words": [
+        "VAR",
+        "TÁNÍ",
+        "OXIDACE",
+        "NEUTRALIZACE"
+      ]
+    },
+    {
+      "name": "Těžká ___",
+      "words": [
+        "VODA",
+        "TECHNIKA",
+        "ATLETIKA",
+        "HODINA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-326",
+  "groups": [
+    {
+      "name": "Maškarní výbava",
+      "words": [
+        "BENÁTSKÁ",
+        "ŠKRABOŠKA",
+        "LÍČENÍ",
+        "PLÁŠŤ"
+      ]
+    },
+    {
+      "name": "Halloween",
+      "words": [
+        "DÝNĚ",
+        "DUCH",
+        "NETOPÝR",
+        "SLADKOSTI"
+      ]
+    },
+    {
+      "name": "Strašidla",
+      "words": [
+        "BUBÁK",
+        "PŘÍZRAK",
+        "UPÍR",
+        "KOSTLIVEC"
+      ]
+    },
+    {
+      "name": "Strašidelný ___",
+      "words": [
+        "ZÁMEK",
+        "PŘÍBĚH",
+        "TICHO",
+        "LES"
+      ]
+    }
+  ]
+}

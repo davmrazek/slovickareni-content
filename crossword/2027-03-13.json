@@ -1,0 +1,116 @@
+{
+  "id": "2027-03-13",
+  "date": "2027-03-13",
+  "size": 5,
+  "grid": [
+    [
+      "J",
+      "A",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "I",
+      "C",
+      "H",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "Y",
+      "J"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "L",
+      "E"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Naprostý klid bez zvuku"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Prostá dřevěná zbraň pravěku"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pohybovat se dopravním prostředkem"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Domácí mazlíček, který přede"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Pěvec s červenou hrudí u zimního krmítka"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tyč, za kterou táhne kůň vůz"
+    }
+  ]
+}

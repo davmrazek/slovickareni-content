@@ -1,0 +1,41 @@
+{
+  "id": "conn-41",
+  "groups": [
+    {
+      "name": "Houby",
+      "words": [
+        "HŘIB",
+        "KOZÁK",
+        "LIŠKA",
+        "ŽAMPION"
+      ]
+    },
+    {
+      "name": "Části košile",
+      "words": [
+        "LÍMEC",
+        "MANŽETA",
+        "KNOFLÍK",
+        "RUKÁV"
+      ]
+    },
+    {
+      "name": "Vodní plochy",
+      "words": [
+        "JEZERO",
+        "RYBNÍK",
+        "PŘEHRADA",
+        "TŮŇ"
+      ]
+    },
+    {
+      "name": "___ ruka",
+      "words": [
+        "PRAVÁ",
+        "ŠTĚDRÁ",
+        "PEVNÁ",
+        "VOLNÁ"
+      ]
+    }
+  ]
+}

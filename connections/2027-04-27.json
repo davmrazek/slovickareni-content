@@ -1,0 +1,41 @@
+{
+  "id": "conn-131",
+  "groups": [
+    {
+      "name": "Domácí spotřebiče",
+      "words": [
+        "TROUBA",
+        "MYČKA",
+        "PRAČKA",
+        "SUŠIČKA"
+      ]
+    },
+    {
+      "name": "Prací prostředky",
+      "words": [
+        "PRÁŠEK",
+        "AVIVÁŽ",
+        "GEL",
+        "ODSTRAŇOVAČ"
+      ]
+    },
+    {
+      "name": "Praní prádla",
+      "words": [
+        "MÁCHÁNÍ",
+        "ŽDÍMÁNÍ",
+        "SUŠÁK",
+        "ŽEHLIČKA"
+      ]
+    },
+    {
+      "name": "Čistá ___",
+      "words": [
+        "KOŠILE",
+        "PRAVDA",
+        "MYSL",
+        "MZDA"
+      ]
+    }
+  ]
+}

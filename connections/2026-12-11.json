@@ -1,0 +1,41 @@
+{
+  "id": "conn-359",
+  "groups": [
+    {
+      "name": "Svatební přípravy",
+      "words": [
+        "OBŘAD",
+        "HOSTINA",
+        "SVĚDEK",
+        "PRSTENY"
+      ]
+    },
+    {
+      "name": "Svatební zvyky",
+      "words": [
+        "HÁZENÍ",
+        "TALÍŘ",
+        "ÚNOS",
+        "ČEPENÍ"
+      ]
+    },
+    {
+      "name": "Fotograf na svatbě",
+      "words": [
+        "SKUPINOVKA",
+        "DETAIL",
+        "REPORTÁŽ",
+        "ALBUM"
+      ]
+    },
+    {
+      "name": "Bílá ___",
+      "words": [
+        "PANÍ",
+        "HOLUBICE",
+        "VRÁNA",
+        "ČÁRA"
+      ]
+    }
+  ]
+}

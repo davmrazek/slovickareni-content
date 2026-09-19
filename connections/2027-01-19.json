@@ -1,0 +1,41 @@
+{
+  "id": "conn-33",
+  "groups": [
+    {
+      "name": "Africká zvířata",
+      "words": [
+        "SLON",
+        "ŽIRAFA",
+        "ZEBRA",
+        "NOSOROŽEC"
+      ]
+    },
+    {
+      "name": "Slané pochutiny",
+      "words": [
+        "CHIPSY",
+        "PRECLÍK",
+        "TYČINKY",
+        "KŘUPKY"
+      ]
+    },
+    {
+      "name": "Části knihy",
+      "words": [
+        "OBSAH",
+        "KAPITOLA",
+        "STRANA",
+        "OBÁLKA"
+      ]
+    },
+    {
+      "name": "Velký ___",
+      "words": [
+        "VŮZ",
+        "TŘESK",
+        "PÁTEK",
+        "BRATR"
+      ]
+    }
+  ]
+}

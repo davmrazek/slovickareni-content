@@ -1,0 +1,116 @@
+{
+  "id": "2027-02-13",
+  "date": "2027-02-13",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "M",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "V",
+      "S",
+      "T",
+      "U",
+      "P"
+    ],
+    [
+      "R",
+      "A",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "M",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Vlastnit; nebo ~ se k světu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vejití; nebo poplatek za vpuštění"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nepřítomnost světla; bojí se jí děti"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Ženský rodič"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Odhad, sázka na výsledek"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hloubený otvor do země"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zcela bez doprovodu"
+    }
+  ]
+}

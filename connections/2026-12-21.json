@@ -1,0 +1,41 @@
+{
+  "id": "conn-4",
+  "groups": [
+    {
+      "name": "Zelenina",
+      "words": [
+        "MRKEV",
+        "CIBULE",
+        "PAPRIKA",
+        "OKURKA"
+      ]
+    },
+    {
+      "name": "Světové strany",
+      "words": [
+        "SEVER",
+        "JIH",
+        "VÝCHOD",
+        "ZÁPAD"
+      ]
+    },
+    {
+      "name": "Hudební nástroje",
+      "words": [
+        "KYTARA",
+        "HOUSLE",
+        "PIANO",
+        "FLÉTNA"
+      ]
+    },
+    {
+      "name": "Mrtvý ___",
+      "words": [
+        "BOD",
+        "ÚHEL",
+        "JAZYK",
+        "INVENTÁŘ"
+      ]
+    }
+  ]
+}

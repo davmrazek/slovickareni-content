@@ -1,0 +1,41 @@
+{
+  "id": "conn-248",
+  "groups": [
+    {
+      "name": "Textilní továrna",
+      "words": [
+        "PŘÁDELNA",
+        "TKALCOVNA",
+        "BARVÍRNA",
+        "CÍVKA"
+      ]
+    },
+    {
+      "name": "Šicí stroj",
+      "words": [
+        "JEHLA",
+        "ŠPULKA",
+        "PATKA",
+        "PODAVAČ"
+      ]
+    },
+    {
+      "name": "Střihy a míry",
+      "words": [
+        "PAS",
+        "BOKY",
+        "HRUDNÍK",
+        "DÉLKA"
+      ]
+    },
+    {
+      "name": "Jemné ___",
+      "words": [
+        "PŘÁDLO",
+        "PEČIVO",
+        "VLÁKNO",
+        "CHOVÁNÍ"
+      ]
+    }
+  ]
+}

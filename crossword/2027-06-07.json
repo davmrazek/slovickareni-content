@@ -1,0 +1,116 @@
+{
+  "id": "2027-06-07",
+  "date": "2027-06-07",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "H",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "E",
+      "C"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "C",
+      "H"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "#",
+      "#"
+    ],
+    [
+      "Z",
+      "D",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zábava podle pravidel; také divadelní text"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Knižní spojka odporovací"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Jemné suché částice; nebo střelný ~"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pronásledování zvěře"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Nejvyšší část těla"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Mluvený projev; také jazyk národa"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Citoslovce podivu či bolesti"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
+    }
+  ]
+}

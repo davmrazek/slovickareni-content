@@ -1,0 +1,116 @@
+{
+  "id": "2026-10-16",
+  "date": "2026-10-16",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "T",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "P",
+      "A",
+      "P",
+      "E",
+      "Z"
+    ],
+    [
+      "#",
+      "K",
+      "A",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "V tomto okamžiku"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kostěný sloup zad"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Strach z budoucího"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Hlava katolické církve"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Kdo vykonává popravu"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Úsek cesty nebo vývoje, fáze"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Číslo před desítkou"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hudba z rádiových hitparád"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Svérázná povaha kraje nebo stavby"
+    }
+  ]
+}

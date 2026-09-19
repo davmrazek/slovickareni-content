@@ -1,0 +1,41 @@
+{
+  "id": "conn-21",
+  "groups": [
+    {
+      "name": "České hory",
+      "words": [
+        "SNĚŽKA",
+        "PRADĚD",
+        "LYSÁ",
+        "KLÍNOVEC"
+      ]
+    },
+    {
+      "name": "Kuchyňské náčiní",
+      "words": [
+        "NŮŽ",
+        "VAŘEČKA",
+        "METLA",
+        "STĚRKA"
+      ]
+    },
+    {
+      "name": "Druhy tance",
+      "words": [
+        "VALČÍK",
+        "POLKA",
+        "TANGO",
+        "SAMBA"
+      ]
+    },
+    {
+      "name": "Černá ___",
+      "words": [
+        "DÍRA",
+        "OVCE",
+        "LISTINA",
+        "SKŘÍŇKA"
+      ]
+    }
+  ]
+}

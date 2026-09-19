@@ -1,0 +1,41 @@
+{
+  "id": "conn-54",
+  "groups": [
+    {
+      "name": "Na zahradě",
+      "words": [
+        "ZÁHON",
+        "SKLENÍK",
+        "KOMPOST",
+        "PLOT"
+      ]
+    },
+    {
+      "name": "Ovocné keře",
+      "words": [
+        "RYBÍZ",
+        "ANGREŠT",
+        "MALINA",
+        "OSTRUŽINA"
+      ]
+    },
+    {
+      "name": "Zahradní škůdci",
+      "words": [
+        "SLIMÁK",
+        "MŠICE",
+        "KRTEK",
+        "HRABOŠ"
+      ]
+    },
+    {
+      "name": "Zelená ___",
+      "words": [
+        "KARTA",
+        "VLNA",
+        "LOUKA",
+        "HRANICE"
+      ]
+    }
+  ]
+}

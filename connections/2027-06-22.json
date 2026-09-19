@@ -1,0 +1,41 @@
+{
+  "id": "conn-187",
+  "groups": [
+    {
+      "name": "Jazykové rodiny",
+      "words": [
+        "SLOVANSKÉ",
+        "GERMÁNSKÉ",
+        "ROMÁNSKÉ",
+        "KELTSKÉ"
+      ]
+    },
+    {
+      "name": "Slovní druhy",
+      "words": [
+        "ZÁJMENO",
+        "SLOVESO",
+        "PŘÍSLOVCE",
+        "SPOJKA"
+      ]
+    },
+    {
+      "name": "Pravopis",
+      "words": [
+        "ČÁRKA",
+        "HÁČEK",
+        "DIKTÁT",
+        "SHODA"
+      ]
+    },
+    {
+      "name": "Mateřský ___",
+      "words": [
+        "JAZYK",
+        "PUD",
+        "KLÍN",
+        "PODNIK"
+      ]
+    }
+  ]
+}

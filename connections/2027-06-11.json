@@ -1,0 +1,41 @@
+{
+  "id": "conn-176",
+  "groups": [
+    {
+      "name": "Naši savci",
+      "words": [
+        "JEŽEK",
+        "RYS",
+        "LASICE",
+        "PLCH"
+      ]
+    },
+    {
+      "name": "Zimní spánek",
+      "words": [
+        "HIBERNACE",
+        "DOUPĚ",
+        "TUK",
+        "PROBUZENÍ"
+      ]
+    },
+    {
+      "name": "Ptačí krmítko",
+      "words": [
+        "SÝKORA",
+        "ZRNÍ",
+        "LOJ",
+        "STŘÍŠKA"
+      ]
+    },
+    {
+      "name": "Studený ___",
+      "words": [
+        "BUFET",
+        "POT",
+        "OBKLAD",
+        "ČUMÁK"
+      ]
+    }
+  ]
+}

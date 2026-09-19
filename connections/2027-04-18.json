@@ -1,0 +1,41 @@
+{
+  "id": "conn-122",
+  "groups": [
+    {
+      "name": "Klavír",
+      "words": [
+        "KLÁVESA",
+        "PEDÁL",
+        "KLADÍVKO",
+        "VÍKO"
+      ]
+    },
+    {
+      "name": "Notový zápis",
+      "words": [
+        "KLÍČ",
+        "PAUZA",
+        "TAKT",
+        "PŘEDZNAMENÁNÍ"
+      ]
+    },
+    {
+      "name": "Tempová označení",
+      "words": [
+        "ADAGIO",
+        "ALLEGRO",
+        "ANDANTE",
+        "PRESTO"
+      ]
+    },
+    {
+      "name": "Tichá ___",
+      "words": [
+        "POŠTA",
+        "DOMÁCNOST",
+        "VZPOMÍNKA",
+        "DOHODA"
+      ]
+    }
+  ]
+}

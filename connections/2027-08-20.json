@@ -1,0 +1,41 @@
+{
+  "id": "conn-246",
+  "groups": [
+    {
+      "name": "Těžký průmysl",
+      "words": [
+        "HUŤ",
+        "VÁLCOVNA",
+        "SLÉVÁRNA",
+        "KOKSOVNA"
+      ]
+    },
+    {
+      "name": "Kovy",
+      "words": [
+        "MĚĎ",
+        "HLINÍK",
+        "ZINEK",
+        "NIKL"
+      ]
+    },
+    {
+      "name": "Povrchová úprava",
+      "words": [
+        "POZINKOVÁNÍ",
+        "LAKOVÁNÍ",
+        "LEŠTĚNÍ",
+        "SMALT"
+      ]
+    },
+    {
+      "name": "Železný ___",
+      "words": [
+        "ŠROT",
+        "ZÁKON",
+        "STISK",
+        "KŘÍŽ"
+      ]
+    }
+  ]
+}

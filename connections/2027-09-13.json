@@ -1,0 +1,41 @@
+{
+  "id": "conn-270",
+  "groups": [
+    {
+      "name": "Lékárnička",
+      "words": [
+        "NÁPLAST",
+        "OBINADLO",
+        "DEZINFEKCE",
+        "PINZETA"
+      ]
+    },
+    {
+      "name": "Bolesti",
+      "words": [
+        "HLAVY",
+        "ZUBŮ",
+        "ZAD",
+        "BŘICHA"
+      ]
+    },
+    {
+      "name": "Léky",
+      "words": [
+        "TABLETA",
+        "SIRUP",
+        "ČÍPEK",
+        "KAPSLE"
+      ]
+    },
+    {
+      "name": "Tupá ___",
+      "words": [
+        "BOLEST",
+        "ČEPEL",
+        "HRANA",
+        "ODPOVĚĎ"
+      ]
+    }
+  ]
+}

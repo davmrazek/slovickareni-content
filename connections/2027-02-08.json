@@ -1,0 +1,41 @@
+{
+  "id": "conn-53",
+  "groups": [
+    {
+      "name": "V divadle",
+      "words": [
+        "JEVIŠTĚ",
+        "OPONA",
+        "HLEDIŠTĚ",
+        "KULISY"
+      ]
+    },
+    {
+      "name": "Filmový štáb",
+      "words": [
+        "KAMERA",
+        "REŽISÉR",
+        "SCÉNÁŘ",
+        "STŘIH"
+      ]
+    },
+    {
+      "name": "Noviny",
+      "words": [
+        "TITULEK",
+        "REDAKCE",
+        "SLOUPEK",
+        "INZERÁT"
+      ]
+    },
+    {
+      "name": "___ role",
+      "words": [
+        "HLAVNÍ",
+        "VEDLEJŠÍ",
+        "ŽIVOTNÍ",
+        "DVOJÍ"
+      ]
+    }
+  ]
+}

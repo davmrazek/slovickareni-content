@@ -1,0 +1,41 @@
+{
+  "id": "conn-311",
+  "groups": [
+    {
+      "name": "Statistika",
+      "words": [
+        "PRŮMĚR",
+        "MEDIÁN",
+        "VÝBĚR",
+        "GRAF"
+      ]
+    },
+    {
+      "name": "Průzkumy",
+      "words": [
+        "DOTAZNÍK",
+        "RESPONDENT",
+        "VZOREK",
+        "TREND"
+      ]
+    },
+    {
+      "name": "Data",
+      "words": [
+        "TABULKA",
+        "SLOUPEC",
+        "FILTR",
+        "EXPORT"
+      ]
+    },
+    {
+      "name": "Tvrdá ___",
+      "words": [
+        "DATA",
+        "PRÁCE",
+        "VODA",
+        "SLOVA"
+      ]
+    }
+  ]
+}

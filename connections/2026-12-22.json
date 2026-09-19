@@ -1,0 +1,41 @@
+{
+  "id": "conn-5",
+  "groups": [
+    {
+      "name": "Měsíce",
+      "words": [
+        "LEDEN",
+        "BŘEZEN",
+        "SRPEN",
+        "ŘÍJEN"
+      ]
+    },
+    {
+      "name": "Ptáci",
+      "words": [
+        "SOVA",
+        "VRABEC",
+        "OREL",
+        "HOLUB"
+      ]
+    },
+    {
+      "name": "Vlčí ___",
+      "words": [
+        "MÁK",
+        "SMEČKA",
+        "ZÁKON",
+        "BOB"
+      ]
+    },
+    {
+      "name": "Druhy pečiva",
+      "words": [
+        "ROHLÍK",
+        "HOUSKA",
+        "DALAMÁNEK",
+        "VEKA"
+      ]
+    }
+  ]
+}

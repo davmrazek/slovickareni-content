@@ -1,0 +1,41 @@
+{
+  "id": "conn-106",
+  "groups": [
+    {
+      "name": "Na letišti",
+      "words": [
+        "ODBAVENÍ",
+        "TERMINÁL",
+        "BRÁNA",
+        "PÁS"
+      ]
+    },
+    {
+      "name": "Letecký personál",
+      "words": [
+        "PILOT",
+        "STEVARD",
+        "DISPEČER",
+        "MECHANIK"
+      ]
+    },
+    {
+      "name": "Zavazadla",
+      "words": [
+        "KUFR",
+        "BATOH",
+        "TAŠKA",
+        "KABELA"
+      ]
+    },
+    {
+      "name": "Palubní ___",
+      "words": [
+        "LÍSTEK",
+        "DENÍK",
+        "DESKA",
+        "PERSONÁL"
+      ]
+    }
+  ]
+}

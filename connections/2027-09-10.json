@@ -1,0 +1,41 @@
+{
+  "id": "conn-267",
+  "groups": [
+    {
+      "name": "Maturita",
+      "words": [
+        "OTÁZKA",
+        "POTÍTKO",
+        "KOMISE",
+        "VYSVĚDČENÍ"
+      ]
+    },
+    {
+      "name": "Vysoká škola",
+      "words": [
+        "PŘEDNÁŠKA",
+        "SEMINÁŘ",
+        "INDEX",
+        "KREDIT"
+      ]
+    },
+    {
+      "name": "Diplomová práce",
+      "words": [
+        "TÉMA",
+        "VEDOUCÍ",
+        "OBHAJOBA",
+        "CITACE"
+      ]
+    },
+    {
+      "name": "Zkušební ___",
+      "words": [
+        "OBDOBÍ",
+        "PROVOZ",
+        "JÍZDA",
+        "VZOREK"
+      ]
+    }
+  ]
+}

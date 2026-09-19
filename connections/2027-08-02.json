@@ -1,0 +1,41 @@
+{
+  "id": "conn-228",
+  "groups": [
+    {
+      "name": "Sběratelé",
+      "words": [
+        "ZNÁMKA",
+        "MINCE",
+        "POHLEDNICE",
+        "ODZNAK"
+      ]
+    },
+    {
+      "name": "Modelářství",
+      "words": [
+        "LEPIDLO",
+        "MĚŘÍTKO",
+        "SOUPRAVA",
+        "BARVIČKY"
+      ]
+    },
+    {
+      "name": "Ruční práce",
+      "words": [
+        "PLETENÍ",
+        "HÁČKOVÁNÍ",
+        "VYŠÍVÁNÍ",
+        "MAKRAMÉ"
+      ]
+    },
+    {
+      "name": "Zlaté ___",
+      "words": [
+        "RUCE",
+        "DNO",
+        "PRAVIDLO",
+        "STŘEVÍCE"
+      ]
+    }
+  ]
+}

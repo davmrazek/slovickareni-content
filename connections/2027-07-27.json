@@ -1,0 +1,41 @@
+{
+  "id": "conn-222",
+  "groups": [
+    {
+      "name": "Zahradní slavnost",
+      "words": [
+        "GRIL",
+        "LAMPIONY",
+        "LAVICE",
+        "HUDBA"
+      ]
+    },
+    {
+      "name": "Ohňostroj",
+      "words": [
+        "RAKETA",
+        "JISKRY",
+        "PRSKAVKA",
+        "VÝBUCH"
+      ]
+    },
+    {
+      "name": "Letní festival",
+      "words": [
+        "STAGE",
+        "KEMP",
+        "NÁRAMEK",
+        "HEADLINER"
+      ]
+    },
+    {
+      "name": "Ohnivá ___",
+      "words": [
+        "SHOW",
+        "KOULE",
+        "POVAHA",
+        "ZKOUŠKA"
+      ]
+    }
+  ]
+}

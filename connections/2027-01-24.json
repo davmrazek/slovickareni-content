@@ -1,0 +1,41 @@
+{
+  "id": "conn-38",
+  "groups": [
+    {
+      "name": "Exotičtí ptáci",
+      "words": [
+        "PAPOUŠEK",
+        "TUKAN",
+        "PLAMEŇÁK",
+        "KOLIBŘÍK"
+      ]
+    },
+    {
+      "name": "Pálivé koření",
+      "words": [
+        "CHILLI",
+        "KARI",
+        "WASABI",
+        "PEPŘ"
+      ]
+    },
+    {
+      "name": "Části počítače",
+      "words": [
+        "PROCESOR",
+        "KLÁVESNICE",
+        "MONITOR",
+        "MYŠ"
+      ]
+    },
+    {
+      "name": "První ___",
+      "words": [
+        "POMOC",
+        "LÁSKA",
+        "LIGA",
+        "DÁMA"
+      ]
+    }
+  ]
+}

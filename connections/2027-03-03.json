@@ -1,0 +1,41 @@
+{
+  "id": "conn-76",
+  "groups": [
+    {
+      "name": "Umělecké slohy",
+      "words": [
+        "KUBISMUS",
+        "BAROKO",
+        "GOTIKA",
+        "SECESE"
+      ]
+    },
+    {
+      "name": "V muzeu",
+      "words": [
+        "EXPONÁT",
+        "VITRÍNA",
+        "PRŮVODCE",
+        "SBÍRKA"
+      ]
+    },
+    {
+      "name": "Fotografování",
+      "words": [
+        "OBJEKTIV",
+        "BLESK",
+        "EXPOZICE",
+        "STATIV"
+      ]
+    },
+    {
+      "name": "Živý ___",
+      "words": [
+        "PLOT",
+        "OBRAZ",
+        "PŘENOS",
+        "TVOR"
+      ]
+    }
+  ]
+}

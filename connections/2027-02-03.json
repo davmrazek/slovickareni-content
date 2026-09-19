@@ -1,0 +1,41 @@
+{
+  "id": "conn-48",
+  "groups": [
+    {
+      "name": "Části hodin",
+      "words": [
+        "RUČIČKA",
+        "CIFERNÍK",
+        "KYVADLO",
+        "ZÁVAŽÍ"
+      ]
+    },
+    {
+      "name": "Denní doby",
+      "words": [
+        "RÁNO",
+        "POLEDNE",
+        "VEČER",
+        "PŮLNOC"
+      ]
+    },
+    {
+      "name": "Deskové hry",
+      "words": [
+        "ŠACHY",
+        "DÁMA",
+        "MLÝN",
+        "DOMINO"
+      ]
+    },
+    {
+      "name": "___ čas",
+      "words": [
+        "LETNÍ",
+        "VOLNÝ",
+        "PRACOVNÍ",
+        "VÁNOČNÍ"
+      ]
+    }
+  ]
+}

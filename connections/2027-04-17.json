@@ -1,0 +1,41 @@
+{
+  "id": "conn-121",
+  "groups": [
+    {
+      "name": "V opeře",
+      "words": [
+        "ÁRIE",
+        "LIBRETO",
+        "PŘEDEHRA",
+        "SBOR"
+      ]
+    },
+    {
+      "name": "Smyčcové nástroje",
+      "words": [
+        "HOUSLE",
+        "VIOLA",
+        "CELLO",
+        "KONTRABAS"
+      ]
+    },
+    {
+      "name": "Části houslí",
+      "words": [
+        "SMYČEC",
+        "KOBYLKA",
+        "STRUNA",
+        "KOLÍČEK"
+      ]
+    },
+    {
+      "name": "Absolutní ___",
+      "words": [
+        "SLUCH",
+        "NULA",
+        "MOC",
+        "VĚTŠINA"
+      ]
+    }
+  ]
+}

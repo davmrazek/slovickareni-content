@@ -1,0 +1,41 @@
+{
+  "id": "conn-44",
+  "groups": [
+    {
+      "name": "Železnice",
+      "words": [
+        "NÁDRAŽÍ",
+        "KOLEJ",
+        "LOKOMOTIVA",
+        "NÁSTUPIŠTĚ"
+      ]
+    },
+    {
+      "name": "Zimní oblečení",
+      "words": [
+        "ŠÁLA",
+        "RUKAVICE",
+        "KABÁT",
+        "KUKLA"
+      ]
+    },
+    {
+      "name": "Maškarní",
+      "words": [
+        "MASKA",
+        "KOSTÝM",
+        "PARUKA",
+        "LÍČIDLO"
+      ]
+    },
+    {
+      "name": "___ vzduch",
+      "words": [
+        "ČERSTVÝ",
+        "HORKÝ",
+        "STLAČENÝ",
+        "MOŘSKÝ"
+      ]
+    }
+  ]
+}

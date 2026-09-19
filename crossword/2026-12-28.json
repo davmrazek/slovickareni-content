@@ -1,0 +1,116 @@
+{
+  "id": "2026-12-28",
+  "date": "2026-12-28",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "Z",
+      "D",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "A",
+      "G"
+    ],
+    [
+      "J",
+      "M",
+      "E",
+      "N",
+      "O"
+    ],
+    [
+      "H",
+      "O",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Knižně: tady"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Čaroděj, kouzelník"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Jak se kdo nazývá"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Štvanice na zvěř"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Oslavná báseň, třeba na radost"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Přechod do jiného stavu"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Povinná platba státu"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Vlastní já; nafouklé bývá u hvězd"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dřevo na krku tažného dobytka; útlak"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Herní úprava od fanoušků"
+    }
+  ]
+}

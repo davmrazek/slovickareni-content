@@ -1,0 +1,41 @@
+{
+  "id": "conn-60",
+  "groups": [
+    {
+      "name": "Vánoce",
+      "words": [
+        "STROMEK",
+        "KAPR",
+        "BETLÉM",
+        "KOLEDA"
+      ]
+    },
+    {
+      "name": "Zimní jevy",
+      "words": [
+        "JINOVATKA",
+        "RAMPOUCH",
+        "ZÁVĚJ",
+        "LEDOVKA"
+      ]
+    },
+    {
+      "name": "Silvestr",
+      "words": [
+        "PETARDA",
+        "PŘÍPITEK",
+        "PŮLNOC",
+        "PŘEDSEVZETÍ"
+      ]
+    },
+    {
+      "name": "Ledová ___",
+      "words": [
+        "SPRCHA",
+        "KRA",
+        "PLOCHA",
+        "KRÁLOVNA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "2027-05-04",
+  "date": "2027-05-04",
+  "size": 5,
+  "grid": [
+    [
+      "K",
+      "D",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "U",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "Z",
+      "L",
+      "A",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "A",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "H",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Míč za postranní čárou"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Volný ~ z výšky; čeština jich má sedm"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce náhlého pochopení"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vada; také díra v zubu"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Úsek cesty nebo vývoje, fáze"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Pohyb figurkou; nebo silné vytažení"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Oslavná báseň, třeba na radost"
+    }
+  ]
+}

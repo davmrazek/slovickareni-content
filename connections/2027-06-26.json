@@ -1,0 +1,41 @@
+{
+  "id": "conn-191",
+  "groups": [
+    {
+      "name": "Kalendář",
+      "words": [
+        "SVÁTEK",
+        "TÝDEN",
+        "ČTVRTLETÍ",
+        "LETOPOČET"
+      ]
+    },
+    {
+      "name": "Fáze Měsíce",
+      "words": [
+        "NOV",
+        "DORŮSTÁNÍ",
+        "ÚPLNĚK",
+        "COUVÁNÍ"
+      ]
+    },
+    {
+      "name": "Roční mezníky",
+      "words": [
+        "ROVNODENNOST",
+        "SLUNOVRAT",
+        "ADVENT",
+        "DOŽÍNKY"
+      ]
+    },
+    {
+      "name": "Nový ___",
+      "words": [
+        "MĚSÍC",
+        "ROK",
+        "REKORD",
+        "DOMOV"
+      ]
+    }
+  ]
+}

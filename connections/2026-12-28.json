@@ -1,0 +1,41 @@
+{
+  "id": "conn-11",
+  "groups": [
+    {
+      "name": "Kontinenty",
+      "words": [
+        "AFRIKA",
+        "ASIE",
+        "EVROPA",
+        "AUSTRÁLIE"
+      ]
+    },
+    {
+      "name": "Mléčné výrobky",
+      "words": [
+        "SÝR",
+        "JOGURT",
+        "MÁSLO",
+        "SMETANA"
+      ]
+    },
+    {
+      "name": "Hmyz",
+      "words": [
+        "MRAVENEC",
+        "VČELA",
+        "MOTÝL",
+        "KOMÁR"
+      ]
+    },
+    {
+      "name": "Zlatá ___",
+      "words": [
+        "RYBKA",
+        "HOREČKA",
+        "SVATBA",
+        "MEDAILE"
+      ]
+    }
+  ]
+}

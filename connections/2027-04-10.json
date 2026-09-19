@@ -1,0 +1,41 @@
+{
+  "id": "conn-114",
+  "groups": [
+    {
+      "name": "Šermíř",
+      "words": [
+        "KORD",
+        "FLERET",
+        "MASKA",
+        "VÝPAD"
+      ]
+    },
+    {
+      "name": "Bojová umění",
+      "words": [
+        "JUDO",
+        "KARATE",
+        "AIKIDO",
+        "TAEKWONDO"
+      ]
+    },
+    {
+      "name": "Lukostřelba",
+      "words": [
+        "TĚTIVA",
+        "ŠÍP",
+        "TERČ",
+        "TOULEC"
+      ]
+    },
+    {
+      "name": "Ostrá ___",
+      "words": [
+        "ČEPEL",
+        "ZATÁČKA",
+        "SLOVA",
+        "PAPRIKA"
+      ]
+    }
+  ]
+}

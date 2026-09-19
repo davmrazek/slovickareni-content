@@ -1,0 +1,41 @@
+{
+  "id": "conn-180",
+  "groups": [
+    {
+      "name": "Poušť",
+      "words": [
+        "OÁZA",
+        "DUNA",
+        "KARAVANA",
+        "VELBLOUD"
+      ]
+    },
+    {
+      "name": "Pouštní zvířata",
+      "words": [
+        "ŠKORPION",
+        "FENEK",
+        "VARAN",
+        "TARANTULE"
+      ]
+    },
+    {
+      "name": "Sucho a horko",
+      "words": [
+        "ŽÍZEŇ",
+        "STÍN",
+        "SPÁLENINA",
+        "ÚPAL"
+      ]
+    },
+    {
+      "name": "Písečná ___",
+      "words": [
+        "BOUŘE",
+        "PLÁŽ",
+        "KOSA",
+        "STEZKA"
+      ]
+    }
+  ]
+}

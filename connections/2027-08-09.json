@@ -1,0 +1,41 @@
+{
+  "id": "conn-235",
+  "groups": [
+    {
+      "name": "Jarní úklid",
+      "words": [
+        "OKNA",
+        "KOBERCE",
+        "SKŘÍNĚ",
+        "VĚTRÁNÍ"
+      ]
+    },
+    {
+      "name": "Čisticí prostředky",
+      "words": [
+        "SAVO",
+        "OCET",
+        "SODA",
+        "HOUBIČKA"
+      ]
+    },
+    {
+      "name": "Nářadí na úklid",
+      "words": [
+        "VYSAVAČ",
+        "SMETÁK",
+        "HADR",
+        "KBELÍK"
+      ]
+    },
+    {
+      "name": "Čisté ___",
+      "words": [
+        "SVĚDOMÍ",
+        "PRÁDLO",
+        "NEBE",
+        "VÍTĚZSTVÍ"
+      ]
+    }
+  ]
+}

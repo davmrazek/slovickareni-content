@@ -1,0 +1,116 @@
+{
+  "id": "2026-08-13",
+  "date": "2026-08-13",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "R",
+      "O",
+      "K",
+      "#"
+    ],
+    [
+      "N",
+      "A",
+      "P",
+      "O",
+      "J"
+    ],
+    [
+      "U",
+      "D",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "Z",
+      "I",
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "C",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Co se pije"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Níže položené místo mezi kopci"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Upřeně a udiveně hledět"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Podnos na roznášení"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Dávat doporučení"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Ten, o koho se lze opřít"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Kulaté pečivo s tvarohem a povidly"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nástroj ke krájení"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pohybovat se pěšky"
+    }
+  ]
+}

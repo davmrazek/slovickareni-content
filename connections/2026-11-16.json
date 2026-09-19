@@ -1,0 +1,41 @@
+{
+  "id": "conn-334",
+  "groups": [
+    {
+      "name": "Destiláty",
+      "words": [
+        "SLIVOVICE",
+        "WHISKY",
+        "RUM",
+        "VODKA"
+      ]
+    },
+    {
+      "name": "Míchané nápoje",
+      "words": [
+        "MOJITO",
+        "SPRITZ",
+        "DAIQUIRI",
+        "MARGARITA"
+      ]
+    },
+    {
+      "name": "Barové sklo",
+      "words": [
+        "SKLENKA",
+        "TUMBLER",
+        "PANÁK",
+        "KARAFA"
+      ]
+    },
+    {
+      "name": "Tvrdý ___",
+      "words": [
+        "ALKOHOL",
+        "CHLEBA",
+        "OŘÍŠEK",
+        "POSTOJ"
+      ]
+    }
+  ]
+}

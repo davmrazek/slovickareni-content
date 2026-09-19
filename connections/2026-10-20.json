@@ -1,0 +1,41 @@
+{
+  "id": "conn-307",
+  "groups": [
+    {
+      "name": "Významné bitvy",
+      "words": [
+        "MARATON",
+        "LIPANY",
+        "SLAVKOV",
+        "KRESČAK"
+      ]
+    },
+    {
+      "name": "Vojenské pojmy",
+      "words": [
+        "ŠIK",
+        "PĚCHOTA",
+        "JÍZDA",
+        "TÝL"
+      ]
+    },
+    {
+      "name": "Pevnosti",
+      "words": [
+        "BASTION",
+        "PŘÍKOP",
+        "VALY",
+        "HRADBY"
+      ]
+    },
+    {
+      "name": "Bílá ___",
+      "words": [
+        "HORA",
+        "VLAJKA",
+        "MYŠ",
+        "TABULE"
+      ]
+    }
+  ]
+}

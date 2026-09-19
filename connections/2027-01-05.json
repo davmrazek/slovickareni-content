@@ -1,0 +1,41 @@
+{
+  "id": "conn-19",
+  "groups": [
+    {
+      "name": "Jazyky",
+      "words": [
+        "ČEŠTINA",
+        "NĚMČINA",
+        "ANGLIČTINA",
+        "FRANCOUZŠTINA"
+      ]
+    },
+    {
+      "name": "Sladkosti",
+      "words": [
+        "ČOKOLÁDA",
+        "BONBON",
+        "ZMRZLINA",
+        "KOLÁČ"
+      ]
+    },
+    {
+      "name": "Živly",
+      "words": [
+        "OHEŇ",
+        "VODA",
+        "ZEMĚ",
+        "VZDUCH"
+      ]
+    },
+    {
+      "name": "Koňská ___",
+      "words": [
+        "SÍLA",
+        "DÁVKA",
+        "HLAVA",
+        "HŘÍVA"
+      ]
+    }
+  ]
+}

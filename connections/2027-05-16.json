@@ -1,0 +1,41 @@
+{
+  "id": "conn-150",
+  "groups": [
+    {
+      "name": "Divadelní zákulisí",
+      "words": [
+        "NÁPOVĚDA",
+        "KULISA",
+        "REKVIZITA",
+        "GARDEROBA"
+      ]
+    },
+    {
+      "name": "Herecké obory",
+      "words": [
+        "KOMIK",
+        "TRAGÉD",
+        "MIM",
+        "DABÉR"
+      ]
+    },
+    {
+      "name": "Potlesk a ocenění",
+      "words": [
+        "OVACE",
+        "OPONA",
+        "KYTICE",
+        "CENA"
+      ]
+    },
+    {
+      "name": "Hlavní ___",
+      "words": [
+        "ROLE",
+        "MĚSTO",
+        "CHOD",
+        "VCHOD"
+      ]
+    }
+  ]
+}

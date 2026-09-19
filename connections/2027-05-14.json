@@ -1,0 +1,41 @@
+{
+  "id": "conn-148",
+  "groups": [
+    {
+      "name": "V knihkupectví",
+      "words": [
+        "REGÁL",
+        "NOVINKA",
+        "VÝTISK",
+        "PODPIS"
+      ]
+    },
+    {
+      "name": "Části knihy",
+      "words": [
+        "PŘEBAL",
+        "TIRÁŽ",
+        "DOSLOV",
+        "REJSTŘÍK"
+      ]
+    },
+    {
+      "name": "Knižní žánry",
+      "words": [
+        "THRILLER",
+        "SÁGA",
+        "CESTOPIS",
+        "MEMOÁRY"
+      ]
+    },
+    {
+      "name": "Otevřená ___",
+      "words": [
+        "KNIHA",
+        "OTÁZKA",
+        "NÁRUČ",
+        "ZLOMENINA"
+      ]
+    }
+  ]
+}

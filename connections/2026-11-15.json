@@ -1,0 +1,41 @@
+{
+  "id": "conn-333",
+  "groups": [
+    {
+      "name": "Nealko",
+      "words": [
+        "LIMONÁDA",
+        "MINERÁLKA",
+        "MOŠT",
+        "SIRUP"
+      ]
+    },
+    {
+      "name": "Bublinky",
+      "words": [
+        "PROSECCO",
+        "SODA",
+        "TONIC",
+        "SEKT"
+      ]
+    },
+    {
+      "name": "Ledové nápoje",
+      "words": [
+        "FRAPPÉ",
+        "SMOOTHIE",
+        "KOKTEJL",
+        "TŘÍŠŤ"
+      ]
+    },
+    {
+      "name": "Ochucená ___",
+      "words": [
+        "VODA",
+        "SŮL",
+        "KÁVA",
+        "SMETANA"
+      ]
+    }
+  ]
+}

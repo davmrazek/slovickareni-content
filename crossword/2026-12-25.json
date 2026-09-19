@@ -1,0 +1,116 @@
+{
+  "id": "2026-12-25",
+  "date": "2026-12-25",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "K",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "E",
+      "J"
+    ],
+    [
+      "V",
+      "S",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "D",
+      "Y",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tázací zájmeno po osobě"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Divoký vír tance"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Na všech místech"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce času"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Nemilosrdný"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Otec rodiče"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tyč, za kterou táhne kůň vůz"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Barva popela, mezi bílou a černou"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-348",
+  "groups": [
+    {
+      "name": "Bruslení",
+      "words": [
+        "OSMIČKA",
+        "PIRUETA",
+        "BRUSLE",
+        "MANTINEL"
+      ]
+    },
+    {
+      "name": "Zimní stadion",
+      "words": [
+        "ROLBA",
+        "TRIBUNA",
+        "KABINA",
+        "STŘÍDAČKA"
+      ]
+    },
+    {
+      "name": "Zimní olympiáda",
+      "words": [
+        "BIATLON",
+        "SJEZD",
+        "SKOKY",
+        "BOBY"
+      ]
+    },
+    {
+      "name": "Ledová ___",
+      "words": [
+        "PLOCHA",
+        "SOCHA",
+        "KRA",
+        "SPRCHA"
+      ]
+    }
+  ]
+}

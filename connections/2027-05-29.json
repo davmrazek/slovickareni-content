@@ -1,0 +1,41 @@
+{
+  "id": "conn-163",
+  "groups": [
+    {
+      "name": "Zámečnictví",
+      "words": [
+        "ZÁVIT",
+        "MATICE",
+        "PODLOŽKA",
+        "ŠROUB"
+      ]
+    },
+    {
+      "name": "Ruční nářadí",
+      "words": [
+        "KLADIVO",
+        "KLÍČ",
+        "PILNÍK",
+        "ŠROUBOVÁK"
+      ]
+    },
+    {
+      "name": "Měřidla",
+      "words": [
+        "POSUVKA",
+        "METR",
+        "ÚHELNÍK",
+        "MIKROMETR"
+      ]
+    },
+    {
+      "name": "Zlatý ___",
+      "words": [
+        "ŘEZ",
+        "VĚK",
+        "DŮL",
+        "STŘED"
+      ]
+    }
+  ]
+}

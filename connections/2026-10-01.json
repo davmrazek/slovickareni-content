@@ -1,0 +1,41 @@
+{
+  "id": "conn-288",
+  "groups": [
+    {
+      "name": "Cyklistický závod",
+      "words": [
+        "ETAPA",
+        "ÚNIK",
+        "VRCHAŘ",
+        "ČASOVKA"
+      ]
+    },
+    {
+      "name": "Kolo do terénu",
+      "words": [
+        "ODPRUŽENÍ",
+        "PLÁŠŤ",
+        "PŘEVOD",
+        "BRZDA"
+      ]
+    },
+    {
+      "name": "Servis kola",
+      "words": [
+        "MAZÁNÍ",
+        "CENTROVÁNÍ",
+        "SEŘÍZENÍ",
+        "VÝMĚNA"
+      ]
+    },
+    {
+      "name": "Rychlé ___",
+      "words": [
+        "ŠÍPY",
+        "TEMPO",
+        "OBČERSTVENÍ",
+        "ROZHODNUTÍ"
+      ]
+    }
+  ]
+}

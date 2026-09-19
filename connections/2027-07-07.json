@@ -1,0 +1,41 @@
+{
+  "id": "conn-202",
+  "groups": [
+    {
+      "name": "Na tržnici",
+      "words": [
+        "STÁNEK",
+        "VÁHA",
+        "PŘEPRAVKA",
+        "SMLOUVÁNÍ"
+      ]
+    },
+    {
+      "name": "Kořenová zelenina",
+      "words": [
+        "MRKEV",
+        "PETRŽEL",
+        "CELER",
+        "ŘEDKEV"
+      ]
+    },
+    {
+      "name": "Listová zelenina",
+      "words": [
+        "ŠPENÁT",
+        "SALÁT",
+        "RUKOLA",
+        "MANGOLD"
+      ]
+    },
+    {
+      "name": "Zelený ___",
+      "words": [
+        "HRÁŠEK",
+        "ZÁKAL",
+        "ČTVRTEK",
+        "ČAJ"
+      ]
+    }
+  ]
+}

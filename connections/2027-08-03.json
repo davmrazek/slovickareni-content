@@ -1,0 +1,41 @@
+{
+  "id": "conn-229",
+  "groups": [
+    {
+      "name": "Kosmetická taštička",
+      "words": [
+        "ŘASENKA",
+        "RTĚNKA",
+        "PUDR",
+        "ŠTĚTEC"
+      ]
+    },
+    {
+      "name": "Péče o vlasy",
+      "words": [
+        "ŠAMPON",
+        "KONDICIONÉR",
+        "HŘEBEN",
+        "FÉN"
+      ]
+    },
+    {
+      "name": "Manikúra",
+      "words": [
+        "PILNÍK",
+        "LAK",
+        "NŮŽKY",
+        "KŮŽIČKA"
+      ]
+    },
+    {
+      "name": "Umělé ___",
+      "words": [
+        "ŘASY",
+        "SVĚTLO",
+        "HEDVÁBÍ",
+        "DÝCHÁNÍ"
+      ]
+    }
+  ]
+}

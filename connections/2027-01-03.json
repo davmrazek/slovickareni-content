@@ -1,0 +1,41 @@
+{
+  "id": "conn-17",
+  "groups": [
+    {
+      "name": "Kořenová zelenina",
+      "words": [
+        "ŘEPA",
+        "CELER",
+        "PETRŽEL",
+        "KŘEN"
+      ]
+    },
+    {
+      "name": "Oceány",
+      "words": [
+        "ATLANTSKÝ",
+        "TICHÝ",
+        "INDICKÝ",
+        "SEVERNÍ"
+      ]
+    },
+    {
+      "name": "Školní potřeby",
+      "words": [
+        "TUŽKA",
+        "GUMA",
+        "PRAVÍTKO",
+        "SEŠIT"
+      ]
+    },
+    {
+      "name": "Šedá ___",
+      "words": [
+        "EMINENCE",
+        "ZÓNA",
+        "KŮRA",
+        "MYŠ"
+      ]
+    }
+  ]
+}

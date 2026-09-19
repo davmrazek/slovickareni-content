@@ -1,0 +1,41 @@
+{
+  "id": "conn-189",
+  "groups": [
+    {
+      "name": "Pohádkové bytosti",
+      "words": [
+        "VODNÍK",
+        "JEZINKA",
+        "RUSALKA",
+        "HEJKAL"
+      ]
+    },
+    {
+      "name": "Kouzelné předměty",
+      "words": [
+        "PRSTEN",
+        "KOŠTĚ",
+        "LAMPA",
+        "ZRCADLO"
+      ]
+    },
+    {
+      "name": "Zlá kouzla",
+      "words": [
+        "KLETBA",
+        "UHRANUTÍ",
+        "ZAKLETÍ",
+        "UŘKNUTÍ"
+      ]
+    },
+    {
+      "name": "Zlatá ___",
+      "words": [
+        "RYBKA",
+        "BRÁNA",
+        "HUSA",
+        "JABLKA"
+      ]
+    }
+  ]
+}

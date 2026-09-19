@@ -1,0 +1,116 @@
+{
+  "id": "2026-10-10",
+  "date": "2026-10-10",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "T",
+      "R",
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "O",
+      "R"
+    ],
+    [
+      "V",
+      "L",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "D",
+      "Y",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Místo, kde se prodává a nakupuje"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zhoubná nakažlivá nemoc"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Sbor ministrů"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pronásledování zvěře"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce času"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Málo světlý, blízký černé"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zábava podle pravidel; také divadelní text"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Plavidlo; také hlavní prostor kostela"
+    }
+  ]
+}

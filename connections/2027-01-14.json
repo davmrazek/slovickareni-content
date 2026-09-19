@@ -1,0 +1,41 @@
+{
+  "id": "conn-28",
+  "groups": [
+    {
+      "name": "Bylinky",
+      "words": [
+        "BAZALKA",
+        "MÁTA",
+        "TYMIÁN",
+        "ROZMARÝN"
+      ]
+    },
+    {
+      "name": "Měny",
+      "words": [
+        "KORUNA",
+        "EURO",
+        "DOLAR",
+        "LIBRA"
+      ]
+    },
+    {
+      "name": "Vojenské hodnosti",
+      "words": [
+        "VOJÍN",
+        "DESÁTNÍK",
+        "SERŽANT",
+        "KAPITÁN"
+      ]
+    },
+    {
+      "name": "Zlatý ___",
+      "words": [
+        "HŘEB",
+        "DÉŠŤ",
+        "ŘEZ",
+        "GRÁL"
+      ]
+    }
+  ]
+}

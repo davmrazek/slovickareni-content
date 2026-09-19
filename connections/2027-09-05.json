@@ -1,0 +1,41 @@
+{
+  "id": "conn-262",
+  "groups": [
+    {
+      "name": "Origami",
+      "words": [
+        "SKLÁDÁNÍ",
+        "PAPÍR",
+        "JEŘÁB",
+        "PŘEHYB"
+      ]
+    },
+    {
+      "name": "Papírové výrobky",
+      "words": [
+        "UBROUSEK",
+        "KRABICE",
+        "SÁČEK",
+        "LAMPION"
+      ]
+    },
+    {
+      "name": "Dětské výtvarno",
+      "words": [
+        "VODOVKY",
+        "MODELÍNA",
+        "KOLÁŽ",
+        "PRSTOVKY"
+      ]
+    },
+    {
+      "name": "Skládaný ___",
+      "words": [
+        "DEŠTNÍK",
+        "NÁBYTEK",
+        "MAPA",
+        "KOČÁREK"
+      ]
+    }
+  ]
+}

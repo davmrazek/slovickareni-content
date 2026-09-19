@@ -1,0 +1,41 @@
+{
+  "id": "conn-198",
+  "groups": [
+    {
+      "name": "Fitness",
+      "words": [
+        "ČINKA",
+        "BĚHÁTKO",
+        "TRENÉR",
+        "SÉRIE"
+      ]
+    },
+    {
+      "name": "Jóga",
+      "words": [
+        "PODLOŽKA",
+        "POZICE",
+        "DECH",
+        "MEDITACE"
+      ]
+    },
+    {
+      "name": "Regenerace",
+      "words": [
+        "SAUNA",
+        "STREČINK",
+        "MASÁŽ",
+        "VANA"
+      ]
+    },
+    {
+      "name": "Zdravý ___",
+      "words": [
+        "ROZUM",
+        "VÝVOJ",
+        "SPÁNEK",
+        "APETIT"
+      ]
+    }
+  ]
+}

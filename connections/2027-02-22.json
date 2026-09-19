@@ -1,0 +1,41 @@
+{
+  "id": "conn-67",
+  "groups": [
+    {
+      "name": "Pěvecké hlasy",
+      "words": [
+        "SOPRÁN",
+        "ALT",
+        "TENOR",
+        "BAS"
+      ]
+    },
+    {
+      "name": "Hudební pojmy",
+      "words": [
+        "STUPNICE",
+        "AKORD",
+        "PAUZA",
+        "TAKT"
+      ]
+    },
+    {
+      "name": "Bicí nástroje",
+      "words": [
+        "BUBEN",
+        "ČINELY",
+        "TRIANGL",
+        "TAMBURÍNA"
+      ]
+    },
+    {
+      "name": "___ klid",
+      "words": [
+        "SVATÝ",
+        "LEDOVÝ",
+        "NOČNÍ",
+        "DUŠEVNÍ"
+      ]
+    }
+  ]
+}

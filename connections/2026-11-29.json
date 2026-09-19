@@ -1,0 +1,41 @@
+{
+  "id": "conn-347",
+  "groups": [
+    {
+      "name": "Sněhové radovánky",
+      "words": [
+        "SÁŇKY",
+        "IGLÚ",
+        "ANDĚL",
+        "KLOUZAČKA"
+      ]
+    },
+    {
+      "name": "Běžky",
+      "words": [
+        "STOPA",
+        "KLASIKA",
+        "BRUSLENÍ",
+        "MAZÁNÍ"
+      ]
+    },
+    {
+      "name": "Horská chata",
+      "words": [
+        "KAMNA",
+        "PALANDA",
+        "ČAJ",
+        "PONOŽKY"
+      ]
+    },
+    {
+      "name": "Bílé ___",
+      "words": [
+        "SVAHY",
+        "VÁNOCE",
+        "KŘÍDLO",
+        "MASO"
+      ]
+    }
+  ]
+}

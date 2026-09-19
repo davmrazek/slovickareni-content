@@ -1,0 +1,41 @@
+{
+  "id": "conn-344",
+  "groups": [
+    {
+      "name": "Sousedské akce",
+      "words": [
+        "GRILOVAČKA",
+        "BRIGÁDA",
+        "SCHŮZE",
+        "SBÍRKA"
+      ]
+    },
+    {
+      "name": "Obec a úřad",
+      "words": [
+        "STAROSTA",
+        "ZASTUPITEL",
+        "VYHLÁŠKA",
+        "MATRIKA"
+      ]
+    },
+    {
+      "name": "Veřejná služba",
+      "words": [
+        "HASIČI",
+        "KNIHOVNA",
+        "ŠKOLKA",
+        "ORDINACE"
+      ]
+    },
+    {
+      "name": "Obecní ___",
+      "words": [
+        "ÚŘAD",
+        "RYBNÍK",
+        "LES",
+        "DŮM"
+      ]
+    }
+  ]
+}

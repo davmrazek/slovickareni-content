@@ -1,0 +1,116 @@
+{
+  "id": "2027-05-20",
+  "date": "2027-05-20",
+  "size": 5,
+  "grid": [
+    [
+      "K",
+      "D",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "U",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "M",
+      "I",
+      "C",
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "A",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "R",
+      "T"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací zájmeno po osobě"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Míč mimo hřiště (anglicky)"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Reakce na vtip; prý nejlepší lék"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Místnost pro ples; také pruh látky kolem krku (sál i šál)"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Černý pták se žlutým zobákem; nebo nádoba na odpad (kos i koš)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Stavba k bydlení; nebo obchodní ~"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Stopa prstu na sklenici"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Ruský panovník, třeba Petr Veliký"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Jedno velké polknutí; na jeden ~"
+    }
+  ]
+}

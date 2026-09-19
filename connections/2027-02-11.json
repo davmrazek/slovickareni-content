@@ -1,0 +1,41 @@
+{
+  "id": "conn-56",
+  "groups": [
+    {
+      "name": "Starý Egypt",
+      "words": [
+        "PYRAMIDA",
+        "SFINGA",
+        "MUMIE",
+        "FARAON"
+      ]
+    },
+    {
+      "name": "Antika",
+      "words": [
+        "AKROPOLE",
+        "AMFITEÁTR",
+        "TÓGA",
+        "SENÁT"
+      ]
+    },
+    {
+      "name": "Středověk",
+      "words": [
+        "RYTÍŘ",
+        "BRNĚNÍ",
+        "TURNAJ",
+        "MEČ"
+      ]
+    },
+    {
+      "name": "Železná ___",
+      "words": [
+        "OPONA",
+        "PANNA",
+        "ZÁSOBA",
+        "VŮLE"
+      ]
+    }
+  ]
+}

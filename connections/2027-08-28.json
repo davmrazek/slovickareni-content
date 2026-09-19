@@ -1,0 +1,41 @@
+{
+  "id": "conn-254",
+  "groups": [
+    {
+      "name": "Pracovna",
+      "words": [
+        "STŮL",
+        "KNIHOVNA",
+        "LAMPIČKA",
+        "KŘESLO"
+      ]
+    },
+    {
+      "name": "Kancelářské potřeby",
+      "words": [
+        "SEŠÍVAČKA",
+        "DĚROVAČKA",
+        "POŘADAČ",
+        "RAZÍTKO"
+      ]
+    },
+    {
+      "name": "Porady",
+      "words": [
+        "AGENDA",
+        "ZÁPIS",
+        "PROJEKTOR",
+        "TERMÍN"
+      ]
+    },
+    {
+      "name": "Otevřený ___",
+      "words": [
+        "PROSTOR",
+        "ÚČET",
+        "VZTAH",
+        "ZDROJ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-52",
+  "groups": [
+    {
+      "name": "Lékové formy",
+      "words": [
+        "TABLETA",
+        "MAST",
+        "KAPKY",
+        "SIRUP"
+      ]
+    },
+    {
+      "name": "Nemoci",
+      "words": [
+        "CHŘIPKA",
+        "ANGÍNA",
+        "NEŠTOVICE",
+        "SPALNIČKY"
+      ]
+    },
+    {
+      "name": "V nemocnici",
+      "words": [
+        "LÉKAŘ",
+        "SESTRA",
+        "CHIRURG",
+        "SANITÁŘ"
+      ]
+    },
+    {
+      "name": "___ teplota",
+      "words": [
+        "TĚLESNÁ",
+        "POKOJOVÁ",
+        "ZVÝŠENÁ",
+        "PRŮMĚRNÁ"
+      ]
+    }
+  ]
+}

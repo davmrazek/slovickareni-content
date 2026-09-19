@@ -1,0 +1,41 @@
+{
+  "id": "conn-293",
+  "groups": [
+    {
+      "name": "Kosmonautika",
+      "words": [
+        "ORBITA",
+        "SKAFANDR",
+        "STANICE",
+        "NOSIČ"
+      ]
+    },
+    {
+      "name": "Sluneční soustava",
+      "words": [
+        "MERKUR",
+        "VENUŠE",
+        "SATURN",
+        "NEPTUN"
+      ]
+    },
+    {
+      "name": "Vesmírné jevy",
+      "words": [
+        "KOMETA",
+        "METEOR",
+        "MLHOVINA",
+        "PULSAR"
+      ]
+    },
+    {
+      "name": "Světelný ___",
+      "words": [
+        "ROK",
+        "PAPRSEK",
+        "ZDROJ",
+        "EFEKT"
+      ]
+    }
+  ]
+}

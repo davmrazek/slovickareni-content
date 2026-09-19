@@ -1,0 +1,41 @@
+{
+  "id": "conn-93",
+  "groups": [
+    {
+      "name": "Rybníkářství",
+      "words": [
+        "VÝLOV",
+        "SÁDKA",
+        "NÁSADA",
+        "BAHNO"
+      ]
+    },
+    {
+      "name": "Kapr a spol.",
+      "words": [
+        "AMUR",
+        "TOLSTOLOBIK",
+        "LÍN",
+        "CEJN"
+      ]
+    },
+    {
+      "name": "Při rybaření",
+      "words": [
+        "PODBĚRÁK",
+        "VEZÍREK",
+        "ZÁSEK",
+        "TROFEJ"
+      ]
+    },
+    {
+      "name": "Kalná ___",
+      "words": [
+        "VODA",
+        "HLADINA",
+        "PŘEDSTAVA",
+        "ŘEKA"
+      ]
+    }
+  ]
+}

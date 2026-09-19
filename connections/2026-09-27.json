@@ -1,0 +1,41 @@
+{
+  "id": "conn-284",
+  "groups": [
+    {
+      "name": "Prázdniny",
+      "words": [
+        "TÁBOR",
+        "CHALUPA",
+        "MOŘE",
+        "BABIČKA"
+      ]
+    },
+    {
+      "name": "Cestovní kancelář",
+      "words": [
+        "ZÁJEZD",
+        "KATALOG",
+        "DELEGÁT",
+        "POJIŠTĚNÍ"
+      ]
+    },
+    {
+      "name": "Na pláži",
+      "words": [
+        "MUŠLE",
+        "PÍSEK",
+        "VLNY",
+        "LEHÁTKO"
+      ]
+    },
+    {
+      "name": "Poslední ___",
+      "words": [
+        "ROZLOUČENÍ",
+        "MINUTA",
+        "VÝKŘIK",
+        "SOUD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-15",
+  "groups": [
+    {
+      "name": "Barvy duhy",
+      "words": [
+        "FIALOVÁ",
+        "ORANŽOVÁ",
+        "INDIGO",
+        "ŽLUTÁ"
+      ]
+    },
+    {
+      "name": "Dravci",
+      "words": [
+        "OREL",
+        "JESTŘÁB",
+        "SOKOL",
+        "KÁNĚ"
+      ]
+    },
+    {
+      "name": "Ptačí ___",
+      "words": [
+        "HNÍZDO",
+        "ZPĚV",
+        "MLÉKO",
+        "CHŘIPKA"
+      ]
+    },
+    {
+      "name": "Druhy sýra",
+      "words": [
+        "EIDAM",
+        "HERMELÍN",
+        "NIVA",
+        "PARMEZÁN"
+      ]
+    }
+  ]
+}

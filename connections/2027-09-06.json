@@ -1,0 +1,41 @@
+{
+  "id": "conn-263",
+  "groups": [
+    {
+      "name": "Šití panenek",
+      "words": [
+        "LÁTKA",
+        "VÝPLŇ",
+        "OČKA",
+        "PARUČKA"
+      ]
+    },
+    {
+      "name": "Hračky na baterie",
+      "words": [
+        "AUTÍČKO",
+        "ROBOT",
+        "VLÁČEK",
+        "DRON"
+      ]
+    },
+    {
+      "name": "Stavebnice",
+      "words": [
+        "KOSTKY",
+        "DÍLKY",
+        "NÁVOD",
+        "PODLOŽKA"
+      ]
+    },
+    {
+      "name": "Dětský ___",
+      "words": [
+        "POKOJ",
+        "KOČÁREK",
+        "SMÍCH",
+        "LÉKAŘ"
+      ]
+    }
+  ]
+}

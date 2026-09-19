@@ -1,0 +1,116 @@
+{
+  "id": "2027-03-06",
+  "date": "2027-03-06",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "N",
+      "E",
+      "Z",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "P",
+      "I",
+      "L",
+      "Y"
+    ],
+    [
+      "K",
+      "A",
+      "S",
+      "E",
+      "L"
+    ],
+    [
+      "#",
+      "D",
+      "E",
+      "N",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Spojka ve srovnání (větší ~ ty)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pod vlivem alkoholu"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Štěkavý průvodce nachlazení"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Barva listů a trávy; městská roste v parcích"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Soupeř, protivník"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zadní část hlavy; také jemná průsvitná látka"
+    }
+  ]
+}

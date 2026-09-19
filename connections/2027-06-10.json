@@ -1,0 +1,41 @@
+{
+  "id": "conn-175",
+  "groups": [
+    {
+      "name": "Ve stáji",
+      "words": [
+        "SENÍK",
+        "ŽLAB",
+        "PODESTÝLKA",
+        "BOX"
+      ]
+    },
+    {
+      "name": "Koňský postroj",
+      "words": [
+        "UZDA",
+        "TŘMEN",
+        "OTĚŽE",
+        "SEDLO"
+      ]
+    },
+    {
+      "name": "Jezdecké disciplíny",
+      "words": [
+        "DREZURA",
+        "PARKUR",
+        "VOLTIŽ",
+        "DOSTIHY"
+      ]
+    },
+    {
+      "name": "Silný jako ___",
+      "words": [
+        "KŮŇ",
+        "BÝK",
+        "MEDVĚD",
+        "TUR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-178",
+  "groups": [
+    {
+      "name": "Mořská pobřeží",
+      "words": [
+        "ÚTES",
+        "LAGUNA",
+        "DUNA",
+        "ZÁTOKA"
+      ]
+    },
+    {
+      "name": "Korálový útes",
+      "words": [
+        "POLYP",
+        "SASANKA",
+        "KLAUN",
+        "ŽELVA"
+      ]
+    },
+    {
+      "name": "Vodní sporty u moře",
+      "words": [
+        "SURFING",
+        "JACHTING",
+        "ŠNORCHLOVÁNÍ",
+        "VESLOVÁNÍ"
+      ]
+    },
+    {
+      "name": "Modré ___",
+      "words": [
+        "MOŘE",
+        "OČI",
+        "PONDĚLÍ",
+        "SVĚTLO"
+      ]
+    }
+  ]
+}

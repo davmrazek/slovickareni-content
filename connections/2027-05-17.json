@@ -1,0 +1,41 @@
+{
+  "id": "conn-151",
+  "groups": [
+    {
+      "name": "Filmová produkce",
+      "words": [
+        "SCÉNÁŘ",
+        "KLAPKA",
+        "STŘIH",
+        "PREMIÉRA"
+      ]
+    },
+    {
+      "name": "Kameramanské pojmy",
+      "words": [
+        "ZÁBĚR",
+        "DETAIL",
+        "JÍZDA",
+        "PROTISVĚTLO"
+      ]
+    },
+    {
+      "name": "V kině",
+      "words": [
+        "POPCORN",
+        "SÁL",
+        "PLÁTNO",
+        "ŘADA"
+      ]
+    },
+    {
+      "name": "Němý ___",
+      "words": [
+        "FILM",
+        "SVĚDEK",
+        "ÚDIV",
+        "VÝKŘIK"
+      ]
+    }
+  ]
+}

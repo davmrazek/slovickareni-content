@@ -1,0 +1,41 @@
+{
+  "id": "conn-354",
+  "groups": [
+    {
+      "name": "Miminko",
+      "words": [
+        "PLENA",
+        "DUDLÍK",
+        "KOJENÍ",
+        "CHRASTÍTKO"
+      ]
+    },
+    {
+      "name": "Výbavička",
+      "words": [
+        "POSTÝLKA",
+        "MONITOR",
+        "VANIČKA",
+        "ZAVINOVAČKA"
+      ]
+    },
+    {
+      "name": "První roky",
+      "words": [
+        "LEZENÍ",
+        "CHŮZE",
+        "SLOVO",
+        "ZOUBEK"
+      ]
+    },
+    {
+      "name": "První ___",
+      "words": [
+        "KROK",
+        "LÁSKA",
+        "MÍSTO",
+        "POKUS"
+      ]
+    }
+  ]
+}

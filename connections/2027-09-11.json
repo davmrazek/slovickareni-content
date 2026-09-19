@@ -1,0 +1,41 @@
+{
+  "id": "conn-268",
+  "groups": [
+    {
+      "name": "Jazykové zkoušky",
+      "words": [
+        "POSLECH",
+        "SLOVÍČKA",
+        "GRAMATIKA",
+        "KONVERZACE"
+      ]
+    },
+    {
+      "name": "Cizí jazyky",
+      "words": [
+        "ANGLIČTINA",
+        "NĚMČINA",
+        "ŠPANĚLŠTINA",
+        "ITALŠTINA"
+      ]
+    },
+    {
+      "name": "Studium v zahraničí",
+      "words": [
+        "STÁŽ",
+        "ERASMUS",
+        "KOLEJ",
+        "NOSTRIFIKACE"
+      ]
+    },
+    {
+      "name": "Cizí ___",
+      "words": [
+        "SLOVO",
+        "STÁT",
+        "KAPSA",
+        "VINA"
+      ]
+    }
+  ]
+}

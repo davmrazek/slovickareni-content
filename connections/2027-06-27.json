@@ -1,0 +1,41 @@
+{
+  "id": "conn-192",
+  "groups": [
+    {
+      "name": "Vánoční cukroví",
+      "words": [
+        "ROHLÍČKY",
+        "LINECKÉ",
+        "KOKOSKY",
+        "PERNÍČKY"
+      ]
+    },
+    {
+      "name": "Štědrý den",
+      "words": [
+        "KAPR",
+        "SALÁT",
+        "STROMEČEK",
+        "PŮST"
+      ]
+    },
+    {
+      "name": "Ozdoby",
+      "words": [
+        "BAŇKA",
+        "ŘETĚZ",
+        "ŠPIČKA",
+        "ANDĚL"
+      ]
+    },
+    {
+      "name": "Štědrý ___",
+      "words": [
+        "VEČER",
+        "DAR",
+        "HOSTITEL",
+        "SPONZOR"
+      ]
+    }
+  ]
+}

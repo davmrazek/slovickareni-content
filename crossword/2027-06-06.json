@@ -1,0 +1,116 @@
+{
+  "id": "2027-06-06",
+  "date": "2027-06-06",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "Z",
+      "D",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "E",
+      "M"
+    ],
+    [
+      "V",
+      "Z",
+      "A",
+      "D",
+      "U"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "D",
+      "Y",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Knižně: tady"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Okraj, obruba oděvu"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Na zadní straně, opak vpředu"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce času"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Z drahého žlutého kovu"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Otec rodiče"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Australský neletící pták"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Svislá zděná stěna"
+    }
+  ]
+}

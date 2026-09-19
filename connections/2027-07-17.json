@@ -1,0 +1,41 @@
+{
+  "id": "conn-212",
+  "groups": [
+    {
+      "name": "Cyklovýlet",
+      "words": [
+        "STEZKA",
+        "SEDLO",
+        "PUMPIČKA",
+        "HELMA"
+      ]
+    },
+    {
+      "name": "Části jízdního kola",
+      "words": [
+        "ŠLAPKA",
+        "ŘETĚZ",
+        "BLATNÍK",
+        "ZVONEK"
+      ]
+    },
+    {
+      "name": "Poruchy kola",
+      "words": [
+        "DEFEKT",
+        "OSMIČKA",
+        "SKŘÍPÁNÍ",
+        "PROŠLAP"
+      ]
+    },
+    {
+      "name": "Horské ___",
+      "words": [
+        "KOLO",
+        "SLUNCE",
+        "PÁSMO",
+        "STŘEDISKO"
+      ]
+    }
+  ]
+}

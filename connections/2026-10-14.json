@@ -1,0 +1,41 @@
+{
+  "id": "conn-301",
+  "groups": [
+    {
+      "name": "Divadelní klasika",
+      "words": [
+        "HAMLET",
+        "LAKOMEC",
+        "REVIZOR",
+        "ANTIGONA"
+      ]
+    },
+    {
+      "name": "Čeští dramatici",
+      "words": [
+        "ČAPEK",
+        "HAVEL",
+        "TYL",
+        "MRŠTÍK"
+      ]
+    },
+    {
+      "name": "Divadelní scény",
+      "words": [
+        "NÁRODNÍ",
+        "STAVOVSKÉ",
+        "VINOHRADY",
+        "ARÉNA"
+      ]
+    },
+    {
+      "name": "Národní ___",
+      "words": [
+        "OBROZENÍ",
+        "PARK",
+        "PODNIK",
+        "HRDINA"
+      ]
+    }
+  ]
+}

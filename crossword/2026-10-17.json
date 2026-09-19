@@ -1,0 +1,116 @@
+{
+  "id": "2026-10-17",
+  "date": "2026-10-17",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "T",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "L",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "H",
+      "E",
+      "V"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "Y",
+      "N",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Poplatek za dovoz zboží přes hranice"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Skleněná nádoba na nápoje"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mužský potomek"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Otec manželky nebo manžela"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Lesklý tavitelný materiál, např. železo"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Spojka účelu (~ ses učil)"
+    }
+  ]
+}

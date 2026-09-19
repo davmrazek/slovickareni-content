@@ -1,0 +1,41 @@
+{
+  "id": "conn-173",
+  "groups": [
+    {
+      "name": "Půda a její vrstvy",
+      "words": [
+        "HUMUS",
+        "PODLOŽÍ",
+        "ORNICE",
+        "SPRAŠ"
+      ]
+    },
+    {
+      "name": "Půdní živočichové",
+      "words": [
+        "ŽÍŽALA",
+        "KRTEK",
+        "STONOŽKA",
+        "LARVA"
+      ]
+    },
+    {
+      "name": "Hnojiva",
+      "words": [
+        "HNŮJ",
+        "KOMPOST",
+        "VÁPNO",
+        "POPEL"
+      ]
+    },
+    {
+      "name": "Úrodná ___",
+      "words": [
+        "PŮDA",
+        "NÍŽINA",
+        "SEZONA",
+        "OBLAST"
+      ]
+    }
+  ]
+}

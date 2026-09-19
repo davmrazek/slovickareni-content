@@ -1,0 +1,41 @@
+{
+  "id": "conn-266",
+  "groups": [
+    {
+      "name": "Ve školní družině",
+      "words": [
+        "SVAČINA",
+        "ÚKOLY",
+        "VYCHOVATELKA",
+        "HRA"
+      ]
+    },
+    {
+      "name": "Školní pomůcky",
+      "words": [
+        "PENÁL",
+        "AKTOVKA",
+        "PRAVÍTKO",
+        "GUMA"
+      ]
+    },
+    {
+      "name": "Předměty ve škole",
+      "words": [
+        "ČEŠTINA",
+        "DĚJEPIS",
+        "PŘÍRODOPIS",
+        "VÝTVARKA"
+      ]
+    },
+    {
+      "name": "Velká ___",
+      "words": [
+        "ŠKOLA",
+        "VODA",
+        "PŘESTÁVKA",
+        "ODMĚNA"
+      ]
+    }
+  ]
+}

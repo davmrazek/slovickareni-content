@@ -1,0 +1,116 @@
+{
+  "id": "2026-09-11",
+  "date": "2026-09-11",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "R"
+    ],
+    [
+      "P",
+      "O",
+      "H",
+      "Y",
+      "B"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "R",
+      "N",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Potom, následně"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pohádkový velikán"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Změna polohy"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zrakový orgán; také poutko na provaze"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ostrý výrůstek na růži"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Co uvádí stroj do pohybu"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojka účelu (~ ses učil)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Otevřené ohniště v obývacím pokoji"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tekutina na kůži při horku"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Žlutohnědý přírodní pigment"
+    }
+  ]
+}

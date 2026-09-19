@@ -1,0 +1,41 @@
+{
+  "id": "conn-81",
+  "groups": [
+    {
+      "name": "Cukrářské suroviny",
+      "words": [
+        "MARCIPÁN",
+        "ŠLEHAČKA",
+        "POLEVA",
+        "PIŠKOT"
+      ]
+    },
+    {
+      "name": "Druhy medu",
+      "words": [
+        "KVĚTOVÝ",
+        "LESNÍ",
+        "AKÁTOVÝ",
+        "PASTOVÝ"
+      ]
+    },
+    {
+      "name": "Sudokopytníci",
+      "words": [
+        "JELEN",
+        "SRNEC",
+        "KAMZÍK",
+        "MUFLON"
+      ]
+    },
+    {
+      "name": "Medový ___",
+      "words": [
+        "MĚSÍC",
+        "PERNÍK",
+        "PLÁST",
+        "HLAS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-291",
+  "groups": [
+    {
+      "name": "Vodní doprava",
+      "words": [
+        "REMORKÉR",
+        "TRAJEKT",
+        "ČLUN",
+        "PRÁM"
+      ]
+    },
+    {
+      "name": "Na palubě lodi",
+      "words": [
+        "MŮSTEK",
+        "PODPALUBÍ",
+        "STOŽÁR",
+        "LANOVÍ"
+      ]
+    },
+    {
+      "name": "Námořní pojmy",
+      "words": [
+        "UZEL",
+        "KURZ",
+        "PŘÍĎ",
+        "PRAVOBOK"
+      ]
+    },
+    {
+      "name": "Bezpečný ___",
+      "words": [
+        "PŘÍSTAV",
+        "ODSTUP",
+        "DOMOV",
+        "PRŮCHOD"
+      ]
+    }
+  ]
+}

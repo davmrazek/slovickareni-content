@@ -1,0 +1,41 @@
+{
+  "id": "conn-71",
+  "groups": [
+    {
+      "name": "Oblečení",
+      "words": [
+        "SUKNĚ",
+        "SAKO",
+        "KOŠILE",
+        "KRAVATA"
+      ]
+    },
+    {
+      "name": "Textilie",
+      "words": [
+        "BAVLNA",
+        "HEDVÁBÍ",
+        "SAMET",
+        "LEN"
+      ]
+    },
+    {
+      "name": "Vzory látek",
+      "words": [
+        "PROUŽEK",
+        "KOSTKA",
+        "PUNTÍK",
+        "KVĚTINA"
+      ]
+    },
+    {
+      "name": "___ stopa",
+      "words": [
+        "UHLÍKOVÁ",
+        "KRVAVÁ",
+        "VODNÍ",
+        "HORKÁ"
+      ]
+    }
+  ]
+}

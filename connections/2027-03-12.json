@@ -1,0 +1,41 @@
+{
+  "id": "conn-85",
+  "groups": [
+    {
+      "name": "V lomu",
+      "words": [
+        "ŽULA",
+        "VÁPENEC",
+        "PÍSKOVEC",
+        "ČEDIČ"
+      ]
+    },
+    {
+      "name": "Sochařské techniky",
+      "words": [
+        "ODLITEK",
+        "TESÁNÍ",
+        "MODELOVÁNÍ",
+        "BROUŠENÍ"
+      ]
+    },
+    {
+      "name": "Kovářské náčiní",
+      "words": [
+        "KOVADLINA",
+        "KLEŠTĚ",
+        "MĚCH",
+        "PERLÍK"
+      ]
+    },
+    {
+      "name": "Tvrdý jako ___",
+      "words": [
+        "SKÁLA",
+        "OCEL",
+        "KÁMEN",
+        "DIAMANT"
+      ]
+    }
+  ]
+}

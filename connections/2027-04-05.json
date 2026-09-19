@@ -1,0 +1,41 @@
+{
+  "id": "conn-109",
+  "groups": [
+    {
+      "name": "V zoo",
+      "words": [
+        "VÝBĚH",
+        "OŠETŘOVATEL",
+        "PAVILON",
+        "KRMENÍ"
+      ]
+    },
+    {
+      "name": "Zvířata z Asie",
+      "words": [
+        "PANDA",
+        "TYGR",
+        "ORANGUTAN",
+        "JAK"
+      ]
+    },
+    {
+      "name": "Zvířecí mláďata",
+      "words": [
+        "KOLOUCH",
+        "HŘÍBĚ",
+        "SELE",
+        "ŠTĚNĚ"
+      ]
+    },
+    {
+      "name": "Divoký ___",
+      "words": [
+        "KANEC",
+        "ZÁPAD",
+        "TANEC",
+        "POTOK"
+      ]
+    }
+  ]
+}

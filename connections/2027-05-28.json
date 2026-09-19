@@ -1,0 +1,41 @@
+{
+  "id": "conn-162",
+  "groups": [
+    {
+      "name": "Truhlářství",
+      "words": [
+        "HOBLÍK",
+        "DLÁTO",
+        "PILA",
+        "SVĚRÁK"
+      ]
+    },
+    {
+      "name": "Druhy dřeva",
+      "words": [
+        "DUB",
+        "BUK",
+        "SMRK",
+        "OŘECH"
+      ]
+    },
+    {
+      "name": "Spoje ve dřevě",
+      "words": [
+        "ČEP",
+        "KOLÍK",
+        "LEPIDLO",
+        "VRUT"
+      ]
+    },
+    {
+      "name": "Suchý ___",
+      "words": [
+        "ZÁKON",
+        "CHLÉB",
+        "DOK",
+        "HUMOR"
+      ]
+    }
+  ]
+}

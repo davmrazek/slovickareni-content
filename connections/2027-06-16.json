@@ -1,0 +1,41 @@
+{
+  "id": "conn-181",
+  "groups": [
+    {
+      "name": "Sopečná činnost",
+      "words": [
+        "LÁVA",
+        "KRÁTER",
+        "MAGMA",
+        "POPEL"
+      ]
+    },
+    {
+      "name": "Zemětřesení",
+      "words": [
+        "OTŘES",
+        "EPICENTRUM",
+        "TRHLINA",
+        "VLNA"
+      ]
+    },
+    {
+      "name": "Vrstvy Země",
+      "words": [
+        "KŮRA",
+        "PLÁŠŤ",
+        "JÁDRO",
+        "LITOSFÉRA"
+      ]
+    },
+    {
+      "name": "Žhavá ___",
+      "words": [
+        "NOVINKA",
+        "POLEMIKA",
+        "PLOTNA",
+        "FÁZE"
+      ]
+    }
+  ]
+}

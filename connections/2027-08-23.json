@@ -1,0 +1,41 @@
+{
+  "id": "conn-249",
+  "groups": [
+    {
+      "name": "V papírně",
+      "words": [
+        "CELULÓZA",
+        "LIS",
+        "ROLE",
+        "SUŠENÍ"
+      ]
+    },
+    {
+      "name": "Formáty papíru",
+      "words": [
+        "ARCH",
+        "SLOŽKA",
+        "BLOK",
+        "KARTON"
+      ]
+    },
+    {
+      "name": "Knihařství",
+      "words": [
+        "ŠITÍ",
+        "OŘÍZKA",
+        "DESKY",
+        "RAŽBA"
+      ]
+    },
+    {
+      "name": "Tenký ___",
+      "words": [
+        "LED",
+        "PLÁTEK",
+        "DRÁT",
+        "ROZDÍL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-72",
+  "groups": [
+    {
+      "name": "Snídaně",
+      "words": [
+        "MÜSLI",
+        "TOPINKA",
+        "VAJÍČKO",
+        "DŽUS"
+      ]
+    },
+    {
+      "name": "Zavařeniny",
+      "words": [
+        "DŽEM",
+        "KOMPOT",
+        "POVIDLA",
+        "MARMELÁDA"
+      ]
+    },
+    {
+      "name": "Uzeniny",
+      "words": [
+        "KLOBÁSA",
+        "ŠUNKA",
+        "SALÁM",
+        "PAŠTIKA"
+      ]
+    },
+    {
+      "name": "___ máslo",
+      "words": [
+        "ARAŠÍDOVÉ",
+        "ČESNEKOVÉ",
+        "KAKAOVÉ",
+        "BYLINKOVÉ"
+      ]
+    }
+  ]
+}

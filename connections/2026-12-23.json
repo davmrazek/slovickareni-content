@@ -1,0 +1,41 @@
+{
+  "id": "conn-6",
+  "groups": [
+    {
+      "name": "Části těla",
+      "words": [
+        "RUKA",
+        "NOHA",
+        "HLAVA",
+        "RAMENO"
+      ]
+    },
+    {
+      "name": "Počasí",
+      "words": [
+        "DÉŠŤ",
+        "SNÍH",
+        "MLHA",
+        "VÍTR"
+      ]
+    },
+    {
+      "name": "Stromy",
+      "words": [
+        "DUB",
+        "BŘÍZA",
+        "SMRK",
+        "LÍPA"
+      ]
+    },
+    {
+      "name": "___ pole",
+      "words": [
+        "MINOVÉ",
+        "MAGNETICKÉ",
+        "BRAMBOROVÉ",
+        "ZORNÉ"
+      ]
+    }
+  ]
+}

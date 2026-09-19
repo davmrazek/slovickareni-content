@@ -1,0 +1,41 @@
+{
+  "id": "conn-130",
+  "groups": [
+    {
+      "name": "Ve vinárně",
+      "words": [
+        "KARAFA",
+        "SOMMELIER",
+        "DEGUSTACE",
+        "ETIKETA"
+      ]
+    },
+    {
+      "name": "Sýrové prkénko",
+      "words": [
+        "NIVA",
+        "HERMELÍN",
+        "EIDAM",
+        "PARMEZÁN"
+      ]
+    },
+    {
+      "name": "Chuťové vjemy",
+      "words": [
+        "KYSELOST",
+        "HOŘKOST",
+        "SLANOST",
+        "SLADKOST"
+      ]
+    },
+    {
+      "name": "Plná ___",
+      "words": [
+        "CHUŤ",
+        "VŮNĚ",
+        "MOC",
+        "KAPACITA"
+      ]
+    }
+  ]
+}

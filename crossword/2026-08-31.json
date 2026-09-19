@@ -1,0 +1,116 @@
+{
+  "id": "2026-08-31",
+  "date": "2026-08-31",
+  "size": 5,
+  "grid": [
+    [
+      "J",
+      "A",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "B",
+      "Y"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "A",
+      "C"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dějinné období, epocha"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Spojka účelu (~ ses učil)"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Podnos na roznášení"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pohybovat se dopravním prostředkem"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Svrchní zimní oděv; také kapela z Teplic"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nářadí na kopání záhonu, šlape se na něj"
+    }
+  ]
+}

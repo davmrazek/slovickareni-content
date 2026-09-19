@@ -1,0 +1,41 @@
+{
+  "id": "conn-103",
+  "groups": [
+    {
+      "name": "Na stavbě",
+      "words": [
+        "LEŠENÍ",
+        "JEŘÁB",
+        "MÍCHAČKA",
+        "HELMA"
+      ]
+    },
+    {
+      "name": "Zdicí materiál",
+      "words": [
+        "CIHLA",
+        "TVÁRNICE",
+        "MALTA",
+        "PANEL"
+      ]
+    },
+    {
+      "name": "Zednické náčiní",
+      "words": [
+        "LŽÍCE",
+        "VODOVÁHA",
+        "OLOVNICE",
+        "HLADÍTKO"
+      ]
+    },
+    {
+      "name": "Hrubá ___",
+      "words": [
+        "STAVBA",
+        "SÍLA",
+        "MOUKA",
+        "CHYBA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-99",
+  "groups": [
+    {
+      "name": "Loutkové divadlo",
+      "words": [
+        "MARIONETA",
+        "NITĚ",
+        "PARAVÁN",
+        "VODIČ"
+      ]
+    },
+    {
+      "name": "Pohádkoví hrdinové",
+      "words": [
+        "HONZA",
+        "PRINCEZNA",
+        "DRAK",
+        "ČARODĚJ"
+      ]
+    },
+    {
+      "name": "Cirkus",
+      "words": [
+        "MANÉŽ",
+        "KLAUN",
+        "KRASOJEZDEC",
+        "ŠAPITÓ"
+      ]
+    },
+    {
+      "name": "Dřevěná ___",
+      "words": [
+        "LŽÍCE",
+        "PODLAHA",
+        "CHATA",
+        "HRAČKA"
+      ]
+    }
+  ]
+}

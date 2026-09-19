@@ -1,0 +1,41 @@
+{
+  "id": "conn-30",
+  "groups": [
+    {
+      "name": "Hospodářská zvířata",
+      "words": [
+        "KRÁVA",
+        "PRASE",
+        "OVCE",
+        "KOZA"
+      ]
+    },
+    {
+      "name": "Přírodní jevy",
+      "words": [
+        "BLESK",
+        "HROM",
+        "DUHA",
+        "ROSA"
+      ]
+    },
+    {
+      "name": "Atletika",
+      "words": [
+        "BĚH",
+        "SKOK",
+        "VRH",
+        "HOD"
+      ]
+    },
+    {
+      "name": "Mléčná ___",
+      "words": [
+        "DRÁHA",
+        "ČOKOLÁDA",
+        "RÝŽE",
+        "POLÉVKA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-27",
+  "groups": [
+    {
+      "name": "Obojživelníci",
+      "words": [
+        "ŽÁBA",
+        "ROPUCHA",
+        "MLOK",
+        "ČOLEK"
+      ]
+    },
+    {
+      "name": "Kamenný ___",
+      "words": [
+        "MOST",
+        "VĚK",
+        "VÝRAZ",
+        "OBCHOD"
+      ]
+    },
+    {
+      "name": "České hrady",
+      "words": [
+        "KARLŠTEJN",
+        "BEZDĚZ",
+        "KŘIVOKLÁT",
+        "TROSKY"
+      ]
+    },
+    {
+      "name": "Sladké pečivo",
+      "words": [
+        "BUCHTA",
+        "KOBLIHA",
+        "VĚTRNÍK",
+        "ŠÁTEČEK"
+      ]
+    }
+  ]
+}

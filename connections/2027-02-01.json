@@ -1,0 +1,41 @@
+{
+  "id": "conn-46",
+  "groups": [
+    {
+      "name": "Kosmonautika",
+      "words": [
+        "RAKETA",
+        "DRUŽICE",
+        "SKAFANDR",
+        "PALIVO"
+      ]
+    },
+    {
+      "name": "Části letadla",
+      "words": [
+        "KŘÍDLO",
+        "TRUP",
+        "VRTULE",
+        "PODVOZEK"
+      ]
+    },
+    {
+      "name": "Druhy mraků",
+      "words": [
+        "CIRRUS",
+        "KUMULUS",
+        "STRATUS",
+        "NIMBUS"
+      ]
+    },
+    {
+      "name": "Vysoká ___",
+      "words": [
+        "ŠKOLA",
+        "HRA",
+        "POLITIKA",
+        "PEC"
+      ]
+    }
+  ]
+}

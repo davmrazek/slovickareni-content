@@ -1,0 +1,116 @@
+{
+  "id": "2026-12-23",
+  "date": "2026-12-23",
+  "size": 5,
+  "grid": [
+    [
+      "K",
+      "D",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "H",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací zájmeno po osobě"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rytmicky mluvený hudební styl"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Postih za provinění"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Obruba obrazu"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce náhlého pochopení"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Věc věnovaná bezplatně"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Zpívané jevištní dílo"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Stará délková míra, necelé dva metry"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nepřítomnost světla; bojí se jí děti"
+    }
+  ]
+}

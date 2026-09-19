@@ -1,0 +1,41 @@
+{
+  "id": "conn-104",
+  "groups": [
+    {
+      "name": "V kotelně",
+      "words": [
+        "KOTEL",
+        "TRUBKY",
+        "VENTIL",
+        "TLAKOMĚR"
+      ]
+    },
+    {
+      "name": "Druhy topení",
+      "words": [
+        "PLYNOVÉ",
+        "PODLAHOVÉ",
+        "ÚSTŘEDNÍ",
+        "ELEKTRICKÉ"
+      ]
+    },
+    {
+      "name": "Zdroje energie",
+      "words": [
+        "SLUNCE",
+        "VÍTR",
+        "BIOMASA",
+        "JÁDRO"
+      ]
+    },
+    {
+      "name": "Horká ___",
+      "words": [
+        "LINKA",
+        "VODA",
+        "NOVINKA",
+        "PŮDA"
+      ]
+    }
+  ]
+}

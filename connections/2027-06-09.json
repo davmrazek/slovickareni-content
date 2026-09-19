@@ -1,0 +1,41 @@
+{
+  "id": "conn-174",
+  "groups": [
+    {
+      "name": "Obilné klasy",
+      "words": [
+        "PŠENICE",
+        "ŽITO",
+        "JEČMEN",
+        "OVES"
+      ]
+    },
+    {
+      "name": "Mlýnské produkty",
+      "words": [
+        "KRUPICE",
+        "OTRUBY",
+        "KROUPY",
+        "VLOČKY"
+      ]
+    },
+    {
+      "name": "Chlebové koření",
+      "words": [
+        "KMÍN",
+        "FENYKL",
+        "KORIANDR",
+        "ANÝZ"
+      ]
+    },
+    {
+      "name": "Domácí ___",
+      "words": [
+        "CHLÉB",
+        "ÚKOL",
+        "KINO",
+        "MAZLÍČEK"
+      ]
+    }
+  ]
+}

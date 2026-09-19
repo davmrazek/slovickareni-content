@@ -1,0 +1,41 @@
+{
+  "id": "conn-195",
+  "groups": [
+    {
+      "name": "Emoce a nálady",
+      "words": [
+        "RADOST",
+        "SMUTEK",
+        "ÚZKOST",
+        "NADŠENÍ"
+      ]
+    },
+    {
+      "name": "Řeč těla",
+      "words": [
+        "ÚSMĚV",
+        "POKRČENÍ",
+        "MRKNUTÍ",
+        "POSTOJ"
+      ]
+    },
+    {
+      "name": "Povahové rysy",
+      "words": [
+        "TRPĚLIVOST",
+        "ODVAHA",
+        "PÝCHA",
+        "SKROMNOST"
+      ]
+    },
+    {
+      "name": "Dobrá ___",
+      "words": [
+        "NÁLADA",
+        "ZPRÁVA",
+        "VŮLE",
+        "PAMĚŤ"
+      ]
+    }
+  ]
+}

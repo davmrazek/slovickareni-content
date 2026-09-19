@@ -1,0 +1,116 @@
+{
+  "id": "2027-04-18",
+  "date": "2027-04-18",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "O",
+      "S",
+      "U",
+      "D"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "L",
+      "A"
+    ],
+    [
+      "P",
+      "O",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "C",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "K",
+      "E",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Předurčený běh života"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Dlouhý pruh látky kolem krku"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vnitřní prožitek"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nejmenší samosprávné sídlo"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Rovněž, taktéž"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Jednotlivý člověk"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Malý papírový nebo igelitový obal"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Cesta mezi domy; slepá nikam nevede"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Poskytnout, věnovat"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tekutina na kůži při horku"
+    }
+  ]
+}

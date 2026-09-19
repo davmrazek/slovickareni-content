@@ -1,0 +1,41 @@
+{
+  "id": "conn-12",
+  "groups": [
+    {
+      "name": "MHD",
+      "words": [
+        "AUTOBUS",
+        "TRAMVAJ",
+        "METRO",
+        "TROLEJBUS"
+      ]
+    },
+    {
+      "name": "Části domu",
+      "words": [
+        "STŘECHA",
+        "KOMÍN",
+        "SCHODY",
+        "PŮDA"
+      ]
+    },
+    {
+      "name": "Koření",
+      "words": [
+        "PEPŘ",
+        "SKOŘICE",
+        "ZÁZVOR",
+        "KMÍN"
+      ]
+    },
+    {
+      "name": "Studená ___",
+      "words": [
+        "VÁLKA",
+        "SPRCHA",
+        "KREV",
+        "KUCHYNĚ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-80",
+  "groups": [
+    {
+      "name": "Meteorologie",
+      "words": [
+        "BAROMETR",
+        "SRÁŽKY",
+        "PŘEDPOVĚĎ",
+        "VLHKOST"
+      ]
+    },
+    {
+      "name": "Vítr",
+      "words": [
+        "VICHR",
+        "VÁNEK",
+        "PRŮVAN",
+        "ORKÁN"
+      ]
+    },
+    {
+      "name": "Na mapě",
+      "words": [
+        "LEGENDA",
+        "MĚŘÍTKO",
+        "VRSTEVNICE",
+        "SOUŘADNICE"
+      ]
+    },
+    {
+      "name": "___ tlak",
+      "words": [
+        "KREVNÍ",
+        "ATMOSFÉRICKÝ",
+        "ČASOVÝ",
+        "NÍZKÝ"
+      ]
+    }
+  ]
+}

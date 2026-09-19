@@ -1,0 +1,41 @@
+{
+  "id": "conn-353",
+  "groups": [
+    {
+      "name": "Turistika s dětmi",
+      "words": [
+        "KOČÁREK",
+        "NOSÍTKO",
+        "SVAČINA",
+        "ZASTÁVKA"
+      ]
+    },
+    {
+      "name": "Dětské výlety",
+      "words": [
+        "ZOO",
+        "AQUAPARK",
+        "HRAD",
+        "MUZEUM"
+      ]
+    },
+    {
+      "name": "Cestovní zábava",
+      "words": [
+        "PÍSNIČKY",
+        "HÁDANKY",
+        "SPZ",
+        "POČÍTÁNÍ"
+      ]
+    },
+    {
+      "name": "Malá ___",
+      "words": [
+        "DOMŮ",
+        "RUČIČKA",
+        "CHVILKA",
+        "VELIKOST"
+      ]
+    }
+  ]
+}

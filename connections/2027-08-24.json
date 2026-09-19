@@ -1,0 +1,41 @@
+{
+  "id": "conn-250",
+  "groups": [
+    {
+      "name": "Stavební stroje",
+      "words": [
+        "BAGR",
+        "VÁLEC",
+        "DOMÍCHÁVAČ",
+        "NAKLADAČ"
+      ]
+    },
+    {
+      "name": "Silniční stavba",
+      "words": [
+        "ASFALT",
+        "ŠTĚRK",
+        "OBRUBNÍK",
+        "SVODIDLO"
+      ]
+    },
+    {
+      "name": "Dopravní značky",
+      "words": [
+        "STOPKA",
+        "PŘEDNOST",
+        "ZÁKAZ",
+        "OMEZENÍ"
+      ]
+    },
+    {
+      "name": "Hlavní ___",
+      "words": [
+        "SILNICE",
+        "TAH",
+        "LÍČENÍ",
+        "PROUD"
+      ]
+    }
+  ]
+}

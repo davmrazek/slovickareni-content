@@ -1,0 +1,41 @@
+{
+  "id": "conn-8",
+  "groups": [
+    {
+      "name": "Evropské metropole",
+      "words": [
+        "PAŘÍŽ",
+        "LONDÝN",
+        "VÍDEŇ",
+        "BERLÍN"
+      ]
+    },
+    {
+      "name": "Bludný ___",
+      "words": [
+        "KRUH",
+        "KOŘEN",
+        "BALVAN",
+        "HOLANĎAN"
+      ]
+    },
+    {
+      "name": "Roční období",
+      "words": [
+        "JARO",
+        "LÉTO",
+        "PODZIM",
+        "ZIMA"
+      ]
+    },
+    {
+      "name": "Šachové figury",
+      "words": [
+        "VĚŽ",
+        "STŘELEC",
+        "JEZDEC",
+        "PĚŠEC"
+      ]
+    }
+  ]
+}

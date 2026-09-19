@@ -1,0 +1,116 @@
+{
+  "id": "2026-10-19",
+  "date": "2026-10-19",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "A",
+      "N"
+    ],
+    [
+      "V",
+      "Z",
+      "A",
+      "D",
+      "U"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "R",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Bájný drak z pohádek"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Na zadní straně, opak vpředu"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zábava podle pravidel; také divadelní text"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Malé sídlo, obvykle rekreační"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Předložka vyšší polohy"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hod koulí; nebo mláďata narozená naráz"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Sálavé horko z ohně"
+    }
+  ]
+}

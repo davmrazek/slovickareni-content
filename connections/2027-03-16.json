@@ -1,0 +1,41 @@
+{
+  "id": "conn-89",
+  "groups": [
+    {
+      "name": "Ve vinařství",
+      "words": [
+        "RÉVA",
+        "SUD",
+        "LIS",
+        "SKLEP"
+      ]
+    },
+    {
+      "name": "Odrůdy vína",
+      "words": [
+        "RYZLINK",
+        "VELTLÍN",
+        "FRANKOVKA",
+        "TRAMÍN"
+      ]
+    },
+    {
+      "name": "Chuť vína",
+      "words": [
+        "SUCHÉ",
+        "POLOSUCHÉ",
+        "POLOSLADKÉ",
+        "SLADKÉ"
+      ]
+    },
+    {
+      "name": "Zralé ___",
+      "words": [
+        "HROZNY",
+        "ROZHODNUTÍ",
+        "OBILÍ",
+        "OVOCE"
+      ]
+    }
+  ]
+}

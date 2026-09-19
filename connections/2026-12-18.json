@@ -1,0 +1,41 @@
+{
+  "id": "conn-1",
+  "groups": [
+    {
+      "name": "Ovoce",
+      "words": [
+        "JABLKO",
+        "HRUŠKA",
+        "ŠVESTKA",
+        "TŘEŠEŇ"
+      ]
+    },
+    {
+      "name": "Barvy",
+      "words": [
+        "MODRÁ",
+        "ZELENÁ",
+        "ŽLUTÁ",
+        "ČERVENÁ"
+      ]
+    },
+    {
+      "name": "Řeky v ČR",
+      "words": [
+        "VLTAVA",
+        "LABE",
+        "MORAVA",
+        "OHŘE"
+      ]
+    },
+    {
+      "name": "___ hlava",
+      "words": [
+        "PRÁZDNÁ",
+        "CHYTRÁ",
+        "TVRDÁ",
+        "HORKÁ"
+      ]
+    }
+  ]
+}

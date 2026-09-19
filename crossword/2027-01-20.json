@@ -1,0 +1,116 @@
+{
+  "id": "2027-01-20",
+  "date": "2027-01-20",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "S",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "I",
+      "R"
+    ],
+    [
+      "V",
+      "L",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "D",
+      "Y",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Deset desítek; také bankovka s Karlem IV."
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Původce chřipky; také rotující proud vody (vir i vír)"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rodná země"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce času"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Uctívaný církví"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Jehličnatý strom s červenými plody"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Vodorovná důlní chodba"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zmrzlá voda; v nápoji chrastí"
+    }
+  ]
+}

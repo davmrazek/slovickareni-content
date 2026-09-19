@@ -1,0 +1,41 @@
+{
+  "id": "conn-90",
+  "groups": [
+    {
+      "name": "V pivovaru",
+      "words": [
+        "CHMEL",
+        "SLAD",
+        "VARNA",
+        "LEŽÁK"
+      ]
+    },
+    {
+      "name": "Hospodské nádobí",
+      "words": [
+        "KRYGL",
+        "TÁCEK",
+        "DŽBÁN",
+        "PANÁK"
+      ]
+    },
+    {
+      "name": "Barmanské náčiní",
+      "words": [
+        "ŠEJKR",
+        "SÍTKO",
+        "ODMĚRKA",
+        "BRČKO"
+      ]
+    },
+    {
+      "name": "Plná ___",
+      "words": [
+        "MOC",
+        "PENĚŽENKA",
+        "SKLENICE",
+        "PARÁDA"
+      ]
+    }
+  ]
+}

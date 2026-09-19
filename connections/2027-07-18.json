@@ -1,0 +1,41 @@
+{
+  "id": "conn-213",
+  "groups": [
+    {
+      "name": "Na vodě",
+      "words": [
+        "KÁNOE",
+        "PÁDLO",
+        "VESTA",
+        "TÁBOŘIŠTĚ"
+      ]
+    },
+    {
+      "name": "Vodácké pojmy",
+      "words": [
+        "PEŘEJ",
+        "PROPUST",
+        "PŘENÁŠKA",
+        "CVAK"
+      ]
+    },
+    {
+      "name": "Táboráková výbava",
+      "words": [
+        "KYTARA",
+        "BUŘT",
+        "SPACÁK",
+        "KARIMATKA"
+      ]
+    },
+    {
+      "name": "Divoká ___",
+      "words": [
+        "VODA",
+        "PARTA",
+        "NOC",
+        "PŘÍRODA"
+      ]
+    }
+  ]
+}

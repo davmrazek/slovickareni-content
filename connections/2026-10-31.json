@@ -1,0 +1,41 @@
+{
+  "id": "conn-318",
+  "groups": [
+    {
+      "name": "Novinové rubriky",
+      "words": [
+        "ÚVODNÍK",
+        "SPORT",
+        "KULTURA",
+        "INZERCE"
+      ]
+    },
+    {
+      "name": "Novinářské žánry",
+      "words": [
+        "REPORTÁŽ",
+        "GLOSA",
+        "ANKETA",
+        "FEJETON"
+      ]
+    },
+    {
+      "name": "Tiskárna novin",
+      "words": [
+        "ROTAČKA",
+        "SAZBA",
+        "NÁKLAD",
+        "MATRICE"
+      ]
+    },
+    {
+      "name": "Denní ___",
+      "words": [
+        "TISK",
+        "DÁVKA",
+        "SNĚNÍ",
+        "PROGRAM"
+      ]
+    }
+  ]
+}

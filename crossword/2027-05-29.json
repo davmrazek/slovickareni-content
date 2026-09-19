@@ -1,0 +1,116 @@
+{
+  "id": "2027-05-29",
+  "date": "2027-05-29",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "K",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "H",
+      "L",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "M",
+      "E",
+      "Z",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "S",
+      "E",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tázací zájmeno po osobě"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Předložka vyšší polohy"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Zemina na keramiku"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hranice, kterou nelze překročit"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Katolická bohoslužba"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vysoký šlechtický titul pod králem"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Povinná platba státu"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Oslavná báseň, třeba na radost"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Citoslovce zamyšlení či váhání"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Rozsáhlý porost stromů"
+    }
+  ]
+}

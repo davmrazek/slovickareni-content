@@ -1,0 +1,116 @@
+{
+  "id": "2027-05-01",
+  "date": "2027-05-01",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "K",
+      "R"
+    ],
+    [
+      "L",
+      "H",
+      "U",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "U",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Potom, následně"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Žlutohnědý přírodní pigment"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Čas, do kdy je nutné něco stihnout"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Míč mimo hřiště (anglicky)"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Deset desítek; také bankovka s Karlem IV."
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Silný vztah; také želízka na rukou"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dějství divadelní hry; také úřední listina"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Plovoucí ledová deska"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Závod na zpracování kovu"
+    }
+  ]
+}

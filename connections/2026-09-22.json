@@ -1,0 +1,41 @@
+{
+  "id": "conn-279",
+  "groups": [
+    {
+      "name": "Silvestr",
+      "words": [
+        "PŘÍPITEK",
+        "OHŇOSTROJ",
+        "PŘEDSEVZETÍ",
+        "PŮLNOC"
+      ]
+    },
+    {
+      "name": "Novoroční",
+      "words": [
+        "KONCERT",
+        "PROJEV",
+        "KOUPEL",
+        "VÝŠLAP"
+      ]
+    },
+    {
+      "name": "Šampaňské",
+      "words": [
+        "BUBLINKY",
+        "ZÁTKA",
+        "SKLENKA",
+        "ROČNÍK"
+      ]
+    },
+    {
+      "name": "Poslední ___",
+      "words": [
+        "DEN",
+        "KAPKA",
+        "SBOHEM",
+        "ŠANCE"
+      ]
+    }
+  ]
+}

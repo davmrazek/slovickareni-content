@@ -1,0 +1,41 @@
+{
+  "id": "conn-87",
+  "groups": [
+    {
+      "name": "Zvířata v poli",
+      "words": [
+        "KŘEPELKA",
+        "ZAJÍC",
+        "SKŘIVAN",
+        "HRABOŠ"
+      ]
+    },
+    {
+      "name": "Zemědělské stroje",
+      "words": [
+        "KOMBAJN",
+        "TRAKTOR",
+        "PLUH",
+        "SEČKA"
+      ]
+    },
+    {
+      "name": "Práce na poli",
+      "words": [
+        "ORBA",
+        "SETÍ",
+        "ŽNĚ",
+        "SKLIZEŇ"
+      ]
+    },
+    {
+      "name": "Zlaté ___",
+      "words": [
+        "RUCE",
+        "KLASY",
+        "PRAVIDLO",
+        "ČASY"
+      ]
+    }
+  ]
+}

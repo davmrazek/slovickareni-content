@@ -1,0 +1,41 @@
+{
+  "id": "conn-312",
+  "groups": [
+    {
+      "name": "Umělá inteligence",
+      "words": [
+        "MODEL",
+        "TRÉNINK",
+        "DOTAZ",
+        "ODPOVĚĎ"
+      ]
+    },
+    {
+      "name": "Chytrá domácnost",
+      "words": [
+        "ŽÁROVKA",
+        "TERMOSTAT",
+        "SENZOR",
+        "ASISTENT"
+      ]
+    },
+    {
+      "name": "Mobilní aplikace",
+      "words": [
+        "IKONA",
+        "AKTUALIZACE",
+        "OPRÁVNĚNÍ",
+        "OZNÁMENÍ"
+      ]
+    },
+    {
+      "name": "Digitální ___",
+      "words": [
+        "STOPA",
+        "DETOX",
+        "PODPIS",
+        "FOTOAPARÁT"
+      ]
+    }
+  ]
+}

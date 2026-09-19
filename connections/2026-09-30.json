@@ -1,0 +1,41 @@
+{
+  "id": "conn-287",
+  "groups": [
+    {
+      "name": "Historická vozidla",
+      "words": [
+        "FIAKR",
+        "KOČÁR",
+        "DOSTAVNÍK",
+        "DROŽKA"
+      ]
+    },
+    {
+      "name": "Městská doprava",
+      "words": [
+        "TRAMVAJ",
+        "TROLEJBUS",
+        "PŘÍVOZ",
+        "LANOVKA"
+      ]
+    },
+    {
+      "name": "Jízdní řád",
+      "words": [
+        "SPOJ",
+        "INTERVAL",
+        "ZPOŽDĚNÍ",
+        "PŘESTUP"
+      ]
+    },
+    {
+      "name": "Zlatý ___",
+      "words": [
+        "STŘED",
+        "ZUB",
+        "ŘEZ",
+        "FOND"
+      ]
+    }
+  ]
+}

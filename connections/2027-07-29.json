@@ -1,0 +1,41 @@
+{
+  "id": "conn-224",
+  "groups": [
+    {
+      "name": "Archiv a knihovna",
+      "words": [
+        "FOND",
+        "SIGNATURA",
+        "BADATELNA",
+        "KATALOG"
+      ]
+    },
+    {
+      "name": "Staré tisky",
+      "words": [
+        "INKUNÁBULE",
+        "DESKY",
+        "PEČEŤ",
+        "VODOZNAK"
+      ]
+    },
+    {
+      "name": "Písmo",
+      "words": [
+        "KURZÍVA",
+        "VERZÁLKA",
+        "PATKA",
+        "LIGATURA"
+      ]
+    },
+    {
+      "name": "Černé na ___",
+      "words": [
+        "BÍLÉM",
+        "PAPÍŘE",
+        "LISTU",
+        "TABULI"
+      ]
+    }
+  ]
+}

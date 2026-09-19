@@ -1,0 +1,41 @@
+{
+  "id": "conn-35",
+  "groups": [
+    {
+      "name": "Mořské ryby",
+      "words": [
+        "TUŇÁK",
+        "TRESKA",
+        "SARDINKA",
+        "MAKRELA"
+      ]
+    },
+    {
+      "name": "Dechové nástroje",
+      "words": [
+        "TRUBKA",
+        "KLARINET",
+        "SAXOFON",
+        "HOBOJ"
+      ]
+    },
+    {
+      "name": "Svatá ___",
+      "words": [
+        "TROJICE",
+        "ZEMĚ",
+        "VÁLKA",
+        "PRAVDA"
+      ]
+    },
+    {
+      "name": "Rodina",
+      "words": [
+        "MATKA",
+        "OTEC",
+        "SESTRA",
+        "BRATR"
+      ]
+    }
+  ]
+}

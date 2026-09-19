@@ -1,0 +1,41 @@
+{
+  "id": "conn-14",
+  "groups": [
+    {
+      "name": "Hudební žánry",
+      "words": [
+        "ROCK",
+        "JAZZ",
+        "POP",
+        "BLUES"
+      ]
+    },
+    {
+      "name": "Části auta",
+      "words": [
+        "VOLANT",
+        "BRZDA",
+        "MOTOR",
+        "KOLO"
+      ]
+    },
+    {
+      "name": "Řecká písmena",
+      "words": [
+        "DELTA",
+        "SIGMA",
+        "LAMBDA",
+        "THÉTA"
+      ]
+    },
+    {
+      "name": "Horký ___",
+      "words": [
+        "BRAMBOR",
+        "PRAMEN",
+        "VZDUCH",
+        "ČAJ"
+      ]
+    }
+  ]
+}

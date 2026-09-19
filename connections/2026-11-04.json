@@ -1,0 +1,41 @@
+{
+  "id": "conn-322",
+  "groups": [
+    {
+      "name": "Sci-fi",
+      "words": [
+        "ROBOT",
+        "TELEPORT",
+        "MIMOZEMŠŤAN",
+        "GALAXIE"
+      ]
+    },
+    {
+      "name": "Fantasy",
+      "words": [
+        "MÁG",
+        "TROLL",
+        "MEČ",
+        "PROROCTVÍ"
+      ]
+    },
+    {
+      "name": "Detektivka",
+      "words": [
+        "ALIBI",
+        "MOTIV",
+        "PODEZŘELÝ",
+        "PÁTRÁNÍ"
+      ]
+    },
+    {
+      "name": "Temná ___",
+      "words": [
+        "MINULOST",
+        "HMOTA",
+        "ENERGIE",
+        "ULIČKA"
+      ]
+    }
+  ]
+}

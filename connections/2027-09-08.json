@@ -1,0 +1,41 @@
+{
+  "id": "conn-265",
+  "groups": [
+    {
+      "name": "Písničky pro děti",
+      "words": [
+        "KOLEDA",
+        "UKOLÉBAVKA",
+        "ŘÍKADLO",
+        "REFRÉN"
+      ]
+    },
+    {
+      "name": "Pohádkové začátky",
+      "words": [
+        "BYLO",
+        "KDYSI",
+        "JEDNOU",
+        "DÁVNO"
+      ]
+    },
+    {
+      "name": "Postavy z pohádek",
+      "words": [
+        "KRAKONOŠ",
+        "RUMCAJS",
+        "FERDA",
+        "KRTEČEK"
+      ]
+    },
+    {
+      "name": "Dobrý ___",
+      "words": [
+        "KONEC",
+        "DUCH",
+        "VEČER",
+        "ÚMYSL"
+      ]
+    }
+  ]
+}

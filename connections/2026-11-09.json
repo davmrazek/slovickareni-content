@@ -1,0 +1,41 @@
+{
+  "id": "conn-327",
+  "groups": [
+    {
+      "name": "Cukrárna",
+      "words": [
+        "VĚNEČEK",
+        "LASKONKA",
+        "INDIÁNEK",
+        "ŠPIČKA"
+      ]
+    },
+    {
+      "name": "Zákusky",
+      "words": [
+        "ŘEZ",
+        "ROLÁDA",
+        "TARTALETKA",
+        "VĚTRNÍK"
+      ]
+    },
+    {
+      "name": "Kávové speciality",
+      "words": [
+        "MACCHIATO",
+        "CAPPUCCINO",
+        "RISTRETTO",
+        "LUNGO"
+      ]
+    },
+    {
+      "name": "Sladká ___",
+      "words": [
+        "POLEVA",
+        "TEČKA",
+        "PAUZA",
+        "ODMĚNA"
+      ]
+    }
+  ]
+}

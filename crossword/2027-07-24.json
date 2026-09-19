@@ -1,0 +1,116 @@
+{
+  "id": "2027-07-24",
+  "date": "2027-07-24",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "J",
+      "A",
+      "K",
+      "#"
+    ],
+    [
+      "S",
+      "I",
+      "R",
+      "A",
+      "N"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "E",
+      "C"
+    ],
+    [
+      "#",
+      "K",
+      "A",
+      "L",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Sůl kyseliny sírové"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vylučovací spojka (buď – ~)"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rytmický pohyb do hudby"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Usazenina, bahno na dně"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Jiným způsobem, odlišně"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Kruhové jeviště pro zápasy a představení"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Silný izolovaný vodič"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Knižně oděv, roucho"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+    }
+  ]
+}

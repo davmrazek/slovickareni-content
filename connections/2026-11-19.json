@@ -1,0 +1,41 @@
+{
+  "id": "conn-337",
+  "groups": [
+    {
+      "name": "Hospodská klasika",
+      "words": [
+        "GULÁŠ",
+        "SMAŽÁK",
+        "UTOPENEC",
+        "HERMELÍN"
+      ]
+    },
+    {
+      "name": "Rychlé občerstvení",
+      "words": [
+        "HRANOLKY",
+        "BURGER",
+        "TORTILLA",
+        "HOTDOG"
+      ]
+    },
+    {
+      "name": "Dochucovadla",
+      "words": [
+        "KEČUP",
+        "HOŘČICE",
+        "TATARKA",
+        "MAJONÉZA"
+      ]
+    },
+    {
+      "name": "Mastná ___",
+      "words": [
+        "SKVRNA",
+        "STRAVA",
+        "VLASY",
+        "ZÁLOHA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-251",
+  "groups": [
+    {
+      "name": "Ve výtahu",
+      "words": [
+        "KABINA",
+        "TLAČÍTKO",
+        "PATRO",
+        "ZRCADLO"
+      ]
+    },
+    {
+      "name": "Panelový dům",
+      "words": [
+        "SCHODIŠTĚ",
+        "SPOLEČENSTVÍ",
+        "SUŠÁRNA",
+        "KOČÁRKÁRNA"
+      ]
+    },
+    {
+      "name": "Sousedské vztahy",
+      "words": [
+        "HLUK",
+        "POZDRAV",
+        "PŮJČKA",
+        "STÍŽNOST"
+      ]
+    },
+    {
+      "name": "Vysoké ___",
+      "words": [
+        "NAPĚTÍ",
+        "UČENÍ",
+        "BOTY",
+        "NÁROKY"
+      ]
+    }
+  ]
+}

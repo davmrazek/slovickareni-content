@@ -1,0 +1,41 @@
+{
+  "id": "conn-100",
+  "groups": [
+    {
+      "name": "Ve fotokomoře",
+      "words": [
+        "NEGATIV",
+        "VÝVOJKA",
+        "USTALOVAČ",
+        "ZVĚTŠOVÁK"
+      ]
+    },
+    {
+      "name": "Části objektivu",
+      "words": [
+        "CLONA",
+        "ČOČKA",
+        "ZÁVIT",
+        "OSTŘENÍ"
+      ]
+    },
+    {
+      "name": "Kompozice snímku",
+      "words": [
+        "POPŘEDÍ",
+        "HORIZONT",
+        "RÁMOVÁNÍ",
+        "PERSPEKTIVA"
+      ]
+    },
+    {
+      "name": "Ostrý ___",
+      "words": [
+        "OBRAZ",
+        "NŮŽ",
+        "TÓN",
+        "ZATÁČKA"
+      ]
+    }
+  ]
+}

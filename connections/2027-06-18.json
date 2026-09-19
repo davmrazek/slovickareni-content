@@ -1,0 +1,41 @@
+{
+  "id": "conn-183",
+  "groups": [
+    {
+      "name": "Pražské památky",
+      "words": [
+        "ORLOJ",
+        "KATEDRÁLA",
+        "PETŘÍN",
+        "VYŠEHRAD"
+      ]
+    },
+    {
+      "name": "Vltavské mosty",
+      "words": [
+        "KARLŮV",
+        "PALACKÉHO",
+        "LEGIÍ",
+        "ČECHŮV"
+      ]
+    },
+    {
+      "name": "Pražská nádraží",
+      "words": [
+        "HLAVNÍ",
+        "MASARYKOVO",
+        "SMÍCHOVSKÉ",
+        "HOLEŠOVICE"
+      ]
+    },
+    {
+      "name": "Stará ___",
+      "words": [
+        "ŠKOLA",
+        "PÍSNIČKA",
+        "LÁSKA",
+        "GARDA"
+      ]
+    }
+  ]
+}

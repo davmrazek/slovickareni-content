@@ -1,0 +1,41 @@
+{
+  "id": "conn-240",
+  "groups": [
+    {
+      "name": "Ptačí zpěv",
+      "words": [
+        "SLAVÍK",
+        "KOS",
+        "PĚNKAVA",
+        "ČERVENKA"
+      ]
+    },
+    {
+      "name": "Hnízdiště",
+      "words": [
+        "KOMÍN",
+        "STŘECHA",
+        "DUTINA",
+        "RÁKOSÍ"
+      ]
+    },
+    {
+      "name": "Ptačí let",
+      "words": [
+        "MÁVÁNÍ",
+        "PLACHTĚNÍ",
+        "KLÍN",
+        "MIGRACE"
+      ]
+    },
+    {
+      "name": "Ranní ___",
+      "words": [
+        "ZPĚV",
+        "KÁVA",
+        "CHVÍLE",
+        "ROZBŘESK"
+      ]
+    }
+  ]
+}

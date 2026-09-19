@@ -1,0 +1,41 @@
+{
+  "id": "conn-194",
+  "groups": [
+    {
+      "name": "Etiketa",
+      "words": [
+        "POZDRAV",
+        "PODÁNÍ",
+        "TYKÁNÍ",
+        "PŘEDNOST"
+      ]
+    },
+    {
+      "name": "U stolu",
+      "words": [
+        "UBRUS",
+        "UBROUSEK",
+        "PŘÍPITEK",
+        "SERVÍROVÁNÍ"
+      ]
+    },
+    {
+      "name": "Zdvořilost",
+      "words": [
+        "PROSÍM",
+        "DĚKUJI",
+        "PROMIŇTE",
+        "DOVOLTE"
+      ]
+    },
+    {
+      "name": "Dobrý ___",
+      "words": [
+        "DEN",
+        "SKUTEK",
+        "MRAV",
+        "ÚMYSL"
+      ]
+    }
+  ]
+}

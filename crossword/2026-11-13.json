@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-13",
+  "date": "2026-11-13",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "J",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "M",
+      "A",
+      "S",
+      "I",
+      "V"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "Y",
+      "T",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rozsáhlý horský celek"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zarývat se do země jako krtek"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Hlasitě se radovat"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Lesklý tavitelný materiál, např. železo"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zhoubná nakažlivá nemoc"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Spojka účelu (~ ses učil)"
+    }
+  ]
+}

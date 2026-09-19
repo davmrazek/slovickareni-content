@@ -1,0 +1,116 @@
+{
+  "id": "2027-02-24",
+  "date": "2027-02-24",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "R",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "Z",
+      "D",
+      "R",
+      "O",
+      "J"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "R",
+      "K"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Předložka vyjadřující účel"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Odkud něco pochází"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Člověk držený v úplné nesvobodě"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Pohádkový velikán"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+    }
+  ]
+}

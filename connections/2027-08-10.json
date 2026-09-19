@@ -1,0 +1,41 @@
+{
+  "id": "conn-236",
+  "groups": [
+    {
+      "name": "Balkon a terasa",
+      "words": [
+        "TRUHLÍK",
+        "ZÁBRADLÍ",
+        "SLUNEČNÍK",
+        "LEHÁTKO"
+      ]
+    },
+    {
+      "name": "Pokojové rostliny",
+      "words": [
+        "FÍKUS",
+        "KAKTUS",
+        "DRACÉNA",
+        "MONSTERA"
+      ]
+    },
+    {
+      "name": "Péče o rostliny",
+      "words": [
+        "ZÁLIVKA",
+        "PŘESAZENÍ",
+        "HNOJIVO",
+        "ROSENÍ"
+      ]
+    },
+    {
+      "name": "Suchá ___",
+      "words": [
+        "ZEMINA",
+        "SEZONA",
+        "VĚTEV",
+        "JEHLA"
+      ]
+    }
+  ]
+}

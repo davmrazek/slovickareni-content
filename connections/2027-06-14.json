@@ -1,0 +1,41 @@
+{
+  "id": "conn-179",
+  "groups": [
+    {
+      "name": "Polární kraje",
+      "words": [
+        "LEDOVEC",
+        "IGLÚ",
+        "PÓL",
+        "ZÁŘE"
+      ]
+    },
+    {
+      "name": "Zvířata Arktidy",
+      "words": [
+        "MROŽ",
+        "TULEŇ",
+        "SOB",
+        "LIŠKA"
+      ]
+    },
+    {
+      "name": "Zimní výbava",
+      "words": [
+        "RUKAVICE",
+        "KUKLA",
+        "TERMOSKA",
+        "MAČKY"
+      ]
+    },
+    {
+      "name": "Ledový ___",
+      "words": [
+        "KLID",
+        "ČAJ",
+        "VÍTR",
+        "POHLED"
+      ]
+    }
+  ]
+}

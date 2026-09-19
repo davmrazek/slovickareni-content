@@ -1,0 +1,41 @@
+{
+  "id": "conn-286",
+  "groups": [
+    {
+      "name": "Autem do zahraničí",
+      "words": [
+        "ZNÁMKA",
+        "MÝTNÉ",
+        "HRANICE",
+        "NAVIGACE"
+      ]
+    },
+    {
+      "name": "Ve voze",
+      "words": [
+        "OPĚRKA",
+        "VOLANT",
+        "ZRCÁTKO",
+        "SEDAČKA"
+      ]
+    },
+    {
+      "name": "Bezpečnost jízdy",
+      "words": [
+        "PÁS",
+        "AIRBAG",
+        "ODSTUP",
+        "SVĚTLA"
+      ]
+    },
+    {
+      "name": "Dlouhá ___",
+      "words": [
+        "JÍZDA",
+        "NOC",
+        "PAMĚŤ",
+        "ZIMA"
+      ]
+    }
+  ]
+}

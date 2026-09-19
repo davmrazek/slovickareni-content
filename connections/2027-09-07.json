@@ -1,0 +1,41 @@
+{
+  "id": "conn-264",
+  "groups": [
+    {
+      "name": "Na hřišti",
+      "words": [
+        "PROLÉZAČKA",
+        "SKLUZAVKA",
+        "HOUPAČKA",
+        "KOLOTOČ"
+      ]
+    },
+    {
+      "name": "Míčové hry dětí",
+      "words": [
+        "VYBÍJENÁ",
+        "PŘEHAZOVANÁ",
+        "KOPANÁ",
+        "ŠKOLKA"
+      ]
+    },
+    {
+      "name": "Zranění na hřišti",
+      "words": [
+        "ODŘENINA",
+        "BOULE",
+        "MODŘINA",
+        "TŘÍSKA"
+      ]
+    },
+    {
+      "name": "Volná ___",
+      "words": [
+        "ZÁBAVA",
+        "RUKA",
+        "JÍZDENKA",
+        "VOLBA"
+      ]
+    }
+  ]
+}

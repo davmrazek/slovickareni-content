@@ -1,0 +1,41 @@
+{
+  "id": "conn-92",
+  "groups": [
+    {
+      "name": "V jeskyni",
+      "words": [
+        "KRÁPNÍK",
+        "NETOPÝR",
+        "PODZEMÍ",
+        "DÓM"
+      ]
+    },
+    {
+      "name": "Speleologie",
+      "words": [
+        "HELMA",
+        "ČELOVKA",
+        "LANO",
+        "MAPOVÁNÍ"
+      ]
+    },
+    {
+      "name": "Krasové jevy",
+      "words": [
+        "ZÁVRT",
+        "PONOR",
+        "VYVĚRAČKA",
+        "PROPAST"
+      ]
+    },
+    {
+      "name": "Temný ___",
+      "words": [
+        "KOUT",
+        "STÍN",
+        "LES",
+        "PŘÍBĚH"
+      ]
+    }
+  ]
+}

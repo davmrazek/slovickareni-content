@@ -1,0 +1,41 @@
+{
+  "id": "conn-7",
+  "groups": [
+    {
+      "name": "Kočkovité šelmy",
+      "words": [
+        "LEV",
+        "TYGR",
+        "GEPARD",
+        "JAGUÁR"
+      ]
+    },
+    {
+      "name": "Nealko nápoje",
+      "words": [
+        "KOLA",
+        "LIMONÁDA",
+        "DŽUS",
+        "VODA"
+      ]
+    },
+    {
+      "name": "Květiny",
+      "words": [
+        "RŮŽE",
+        "TULIPÁN",
+        "KONVALINKA",
+        "KOPRETINA"
+      ]
+    },
+    {
+      "name": "___ oko",
+      "words": [
+        "KUŘÍ",
+        "SOKOLÍ",
+        "RYBÍ",
+        "VOLSKÉ"
+      ]
+    }
+  ]
+}

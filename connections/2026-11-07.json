@@ -1,0 +1,41 @@
+{
+  "id": "conn-325",
+  "groups": [
+    {
+      "name": "Zvěrokruh",
+      "words": [
+        "BERAN",
+        "BÝK",
+        "BLÍŽENCI",
+        "RAK"
+      ]
+    },
+    {
+      "name": "Věštění",
+      "words": [
+        "KARTY",
+        "KOULE",
+        "DLAŇ",
+        "HOROSKOP"
+      ]
+    },
+    {
+      "name": "Pověry",
+      "words": [
+        "ZRCADLO",
+        "ŽEBŘÍK",
+        "PÁTEK",
+        "PODKOVA"
+      ]
+    },
+    {
+      "name": "Šťastná ___",
+      "words": [
+        "SEDMIČKA",
+        "RUKA",
+        "HVĚZDA",
+        "SHODA"
+      ]
+    }
+  ]
+}

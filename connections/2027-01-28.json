@@ -1,0 +1,41 @@
+{
+  "id": "conn-42",
+  "groups": [
+    {
+      "name": "Cirkusoví artisté",
+      "words": [
+        "KLAUN",
+        "ŽONGLÉR",
+        "KROTITEL",
+        "AKROBAT"
+      ]
+    },
+    {
+      "name": "Šicí potřeby",
+      "words": [
+        "JEHLA",
+        "NIT",
+        "NÁPRSTEK",
+        "NŮŽKY"
+      ]
+    },
+    {
+      "name": "Části hradu",
+      "words": [
+        "VĚŽ",
+        "HRADBY",
+        "PŘÍKOP",
+        "NÁDVOŘÍ"
+      ]
+    },
+    {
+      "name": "___ oheň",
+      "words": [
+        "OLYMPIJSKÝ",
+        "VĚČNÝ",
+        "BENGÁLSKÝ",
+        "TÁBOROVÝ"
+      ]
+    }
+  ]
+}

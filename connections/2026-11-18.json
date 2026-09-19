@@ -1,0 +1,41 @@
+{
+  "id": "conn-336",
+  "groups": [
+    {
+      "name": "Chmelnice",
+      "words": [
+        "ŠIŠTICE",
+        "SLOUP",
+        "DRÁT",
+        "ČESAČKA"
+      ]
+    },
+    {
+      "name": "Druhy piva",
+      "words": [
+        "LEŽÁK",
+        "VÝČEPNÍ",
+        "PŠENIČNÉ",
+        "POLOTMAVÉ"
+      ]
+    },
+    {
+      "name": "Pivní sklo",
+      "words": [
+        "HALBA",
+        "TULIPÁN",
+        "PŮLLITR",
+        "TŘETINKA"
+      ]
+    },
+    {
+      "name": "Pěnivý ___",
+      "words": [
+        "MOK",
+        "PRAMEN",
+        "NÁPOJ",
+        "POVRCH"
+      ]
+    }
+  ]
+}

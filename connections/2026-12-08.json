@@ -1,0 +1,41 @@
+{
+  "id": "conn-356",
+  "groups": [
+    {
+      "name": "Přátelství",
+      "words": [
+        "DŮVĚRA",
+        "OPORA",
+        "SDÍLENÍ",
+        "UPŘÍMNOST"
+      ]
+    },
+    {
+      "name": "Setkání s přáteli",
+      "words": [
+        "KAVÁRNA",
+        "PROCHÁZKA",
+        "VEČEŘE",
+        "VÝLET"
+      ]
+    },
+    {
+      "name": "Komunikace",
+      "words": [
+        "ZPRÁVA",
+        "HOVOR",
+        "DOPIS",
+        "NÁVŠTĚVA"
+      ]
+    },
+    {
+      "name": "Blízký ___",
+      "words": [
+        "PŘÍTEL",
+        "VÝCHOD",
+        "TERMÍN",
+        "PŘÍBUZNÝ"
+      ]
+    }
+  ]
+}

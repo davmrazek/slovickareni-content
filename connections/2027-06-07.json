@@ -1,0 +1,41 @@
+{
+  "id": "conn-172",
+  "groups": [
+    {
+      "name": "Vodní režim krajiny",
+      "words": [
+        "PRAMEN",
+        "MOKŘAD",
+        "TŮŇ",
+        "POTOK"
+      ]
+    },
+    {
+      "name": "Obojživelníci u vody",
+      "words": [
+        "SKOKAN",
+        "ROSNIČKA",
+        "MLOK",
+        "ČOLEK"
+      ]
+    },
+    {
+      "name": "Vodní hmyz",
+      "words": [
+        "POTÁPNÍK",
+        "ŠIDÉLKO",
+        "BRUSLAŘKA",
+        "LARVA"
+      ]
+    },
+    {
+      "name": "Stojatá ___",
+      "words": [
+        "VODA",
+        "HLADINA",
+        "KALUŽ",
+        "BAŽINA"
+      ]
+    }
+  ]
+}

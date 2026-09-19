@@ -1,0 +1,41 @@
+{
+  "id": "conn-146",
+  "groups": [
+    {
+      "name": "Průmyslová revoluce",
+      "words": [
+        "STROJ",
+        "TOVÁRNA",
+        "KOMÍN",
+        "STÁVKA"
+      ]
+    },
+    {
+      "name": "Železniční provoz",
+      "words": [
+        "VÝHYBKA",
+        "NÁSTUPIŠTĚ",
+        "SEMAFOR",
+        "DEPO"
+      ]
+    },
+    {
+      "name": "Části lokomotivy",
+      "words": [
+        "KOTEL",
+        "PÍST",
+        "TENDR",
+        "PÍŠŤALA"
+      ]
+    },
+    {
+      "name": "Poslední ___",
+      "words": [
+        "VAGON",
+        "SLOVO",
+        "SOUD",
+        "ŠANCE"
+      ]
+    }
+  ]
+}

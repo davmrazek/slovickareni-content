@@ -1,0 +1,41 @@
+{
+  "id": "conn-295",
+  "groups": [
+    {
+      "name": "Oceány a moře",
+      "words": [
+        "BALTSKÉ",
+        "JADRAN",
+        "RUDÉ",
+        "KARIBIK"
+      ]
+    },
+    {
+      "name": "Ostrovy",
+      "words": [
+        "KRÉTA",
+        "SICÍLIE",
+        "ISLAND",
+        "MADEIRA"
+      ]
+    },
+    {
+      "name": "Mořeplavci",
+      "words": [
+        "KOLUMBUS",
+        "MAGALHAES",
+        "COOK",
+        "GAMA"
+      ]
+    },
+    {
+      "name": "Mořský ___",
+      "words": [
+        "KONÍK",
+        "PROUD",
+        "VZDUCH",
+        "VLK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-20",
+  "date": "2026-11-20",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "J",
+      "E",
+      "N",
+      "#"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "A",
+      "Z"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "D",
+      "O",
+      "Z",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "Z",
+      "E",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Pouze, nic víc; také japonská měna"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rozhodující zápas o postup"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Prostředí kolem nějakého místa"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Strávit zbytek života"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Pro tchána i tchyni manžel jejich dcery"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Knižně: a rovněž, a též"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Rozrušování půdy vodou a větrem"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Naplnit sklenici až po okraj"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tečka; nebo jednotka skóre"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Být naživu"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-209",
+  "groups": [
+    {
+      "name": "Restaurace",
+      "words": [
+        "ČÍŠNÍK",
+        "JÍDELNÍČEK",
+        "OBJEDNÁVKA",
+        "SPROPITNÉ"
+      ]
+    },
+    {
+      "name": "Kuchyňské brigády",
+      "words": [
+        "ŠÉFKUCHAŘ",
+        "CUKRÁŘ",
+        "POMOCNÍK",
+        "MYČ"
+      ]
+    },
+    {
+      "name": "Stolování",
+      "words": [
+        "TALÍŘ",
+        "SKLENKA",
+        "PŘÍBOR",
+        "SVÍCEN"
+      ]
+    },
+    {
+      "name": "Denní ___",
+      "words": [
+        "MENU",
+        "SVĚTLO",
+        "REŽIM",
+        "TISK"
+      ]
+    }
+  ]
+}

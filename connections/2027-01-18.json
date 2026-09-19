@@ -1,0 +1,41 @@
+{
+  "id": "conn-32",
+  "groups": [
+    {
+      "name": "Mořští savci",
+      "words": [
+        "TULEŇ",
+        "LACHTAN",
+        "MROŽ",
+        "KOSATKA"
+      ]
+    },
+    {
+      "name": "Jarní květiny",
+      "words": [
+        "SNĚŽENKA",
+        "BLEDULE",
+        "KROKUS",
+        "NARCIS"
+      ]
+    },
+    {
+      "name": "Kancelářské profese",
+      "words": [
+        "ÚČETNÍ",
+        "SEKRETÁŘKA",
+        "MANAŽER",
+        "PRÁVNÍK"
+      ]
+    },
+    {
+      "name": "Pevný ___",
+      "words": [
+        "DISK",
+        "ŘÁD",
+        "BOD",
+        "STISK"
+      ]
+    }
+  ]
+}

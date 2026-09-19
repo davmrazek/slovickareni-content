@@ -1,0 +1,41 @@
+{
+  "id": "conn-299",
+  "groups": [
+    {
+      "name": "Odpady",
+      "words": [
+        "SKLÁDKA",
+        "SPALOVNA",
+        "TŘÍDĚNÍ",
+        "POPELNICE"
+      ]
+    },
+    {
+      "name": "Barvy kontejnerů",
+      "words": [
+        "ŽLUTÝ",
+        "MODRÝ",
+        "ZELENÝ",
+        "HNĚDÝ"
+      ]
+    },
+    {
+      "name": "Šetrné návyky",
+      "words": [
+        "ZÁLOHOVÁNÍ",
+        "OPRAVA",
+        "DAROVÁNÍ",
+        "BAZAR"
+      ]
+    },
+    {
+      "name": "Druhotná ___",
+      "words": [
+        "SUROVINA",
+        "VÝROBA",
+        "KVALITA",
+        "PŘÍČINA"
+      ]
+    }
+  ]
+}

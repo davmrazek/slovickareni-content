@@ -1,0 +1,116 @@
+{
+  "id": "2026-09-03",
+  "date": "2026-09-03",
+  "size": 5,
+  "grid": [
+    [
+      "K",
+      "D",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "U",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
+      "I"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Míč mimo hřiště (anglicky)"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Svrchní oděv do deště"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Dva k sobě patřící; nebo několik málo"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Úder nohou, např. do míče"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Úsek cesty nebo vývoje, fáze"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Bájný drak z pohádek"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Počet nohou stativu"
+    }
+  ]
+}

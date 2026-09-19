@@ -1,0 +1,41 @@
+{
+  "id": "conn-252",
+  "groups": [
+    {
+      "name": "Kuchyňská linka",
+      "words": [
+        "DŘEZ",
+        "DIGESTOŘ",
+        "ZÁSUVKA",
+        "DESKA"
+      ]
+    },
+    {
+      "name": "Nádobí na vaření",
+      "words": [
+        "HRNEC",
+        "PÁNEV",
+        "KASTROL",
+        "PEKÁČ"
+      ]
+    },
+    {
+      "name": "Kuchyňské pomůcky",
+      "words": [
+        "STĚRKA",
+        "NABĚRAČKA",
+        "STRUHADLO",
+        "OTVÍRÁK"
+      ]
+    },
+    {
+      "name": "Horký ___",
+      "words": [
+        "OLEJ",
+        "BRAMBOR",
+        "TÉMA",
+        "PRAMEN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-177",
+  "groups": [
+    {
+      "name": "Šelmy z Afriky",
+      "words": [
+        "LEV",
+        "GEPARD",
+        "HYENA",
+        "LEOPARD"
+      ]
+    },
+    {
+      "name": "Kopytníci savany",
+      "words": [
+        "ZEBRA",
+        "ANTILOPA",
+        "PAKŮŇ",
+        "ŽIRAFA"
+      ]
+    },
+    {
+      "name": "Safari",
+      "words": [
+        "DŽÍP",
+        "PRŮVODCE",
+        "STAN",
+        "DALEKOHLED"
+      ]
+    },
+    {
+      "name": "Zlatá ___",
+      "words": [
+        "KLEC",
+        "HOREČKA",
+        "MLÁDEŽ",
+        "RYBKA"
+      ]
+    }
+  ]
+}

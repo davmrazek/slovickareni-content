@@ -1,0 +1,41 @@
+{
+  "id": "conn-16",
+  "groups": [
+    {
+      "name": "Čeští skladatelé",
+      "words": [
+        "SMETANA",
+        "DVOŘÁK",
+        "JANÁČEK",
+        "MARTINŮ"
+      ]
+    },
+    {
+      "name": "Planety",
+      "words": [
+        "MERKUR",
+        "JUPITER",
+        "URAN",
+        "NEPTUN"
+      ]
+    },
+    {
+      "name": "Sváteční ___",
+      "words": [
+        "OBĚD",
+        "NÁLADA",
+        "ŘIDIČ",
+        "ŠATY"
+      ]
+    },
+    {
+      "name": "Míčové sporty",
+      "words": [
+        "VOLEJBAL",
+        "BASKETBAL",
+        "HÁZENÁ",
+        "RAGBY"
+      ]
+    }
+  ]
+}

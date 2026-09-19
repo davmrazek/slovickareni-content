@@ -1,0 +1,116 @@
+{
+  "id": "2027-01-01",
+  "date": "2027-01-01",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "T",
+      "R",
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "U",
+      "L"
+    ],
+    [
+      "K",
+      "L",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "D",
+      "Y",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Místo, kde se prodává a nakupuje"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Řídká bavlněná tkanina na obvazy"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pokládat na místo"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hlasitý zvuk zvířete"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce času"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Málo světlý, blízký černé"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Obyvatel největší země světa"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Jedno velké polknutí; na jeden ~"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zmrzlá voda; v nápoji chrastí"
+    }
+  ]
+}

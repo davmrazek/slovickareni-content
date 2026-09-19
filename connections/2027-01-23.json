@@ -1,0 +1,41 @@
+{
+  "id": "conn-37",
+  "groups": [
+    {
+      "name": "Mláďata",
+      "words": [
+        "ŠTĚNĚ",
+        "KOTĚ",
+        "TELE",
+        "HŘÍBĚ"
+      ]
+    },
+    {
+      "name": "Vodní sporty",
+      "words": [
+        "VESLOVÁNÍ",
+        "JACHTING",
+        "POTÁPĚNÍ",
+        "SURFING"
+      ]
+    },
+    {
+      "name": "Osvětlení",
+      "words": [
+        "LAMPA",
+        "LUSTR",
+        "SVÍČKA",
+        "BATERKA"
+      ]
+    },
+    {
+      "name": "Slepá ___",
+      "words": [
+        "ULIČKA",
+        "KOLEJ",
+        "MAPA",
+        "BÁBA"
+      ]
+    }
+  ]
+}

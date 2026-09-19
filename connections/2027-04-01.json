@@ -1,0 +1,41 @@
+{
+  "id": "conn-105",
+  "groups": [
+    {
+      "name": "V autoservisu",
+      "words": [
+        "ZVEDÁK",
+        "OLEJ",
+        "BRZDY",
+        "DIAGNOSTIKA"
+      ]
+    },
+    {
+      "name": "Pneumatiky",
+      "words": [
+        "ZIMNÍ",
+        "LETNÍ",
+        "DEZÉN",
+        "TLAK"
+      ]
+    },
+    {
+      "name": "Doklady k vozu",
+      "words": [
+        "TECHNIČÁK",
+        "POJISTKA",
+        "OSVĚDČENÍ",
+        "ŘIDIČÁK"
+      ]
+    },
+    {
+      "name": "Plný ___",
+      "words": [
+        "PLYN",
+        "ÚVAZEK",
+        "TALÍŘ",
+        "MĚSÍC"
+      ]
+    }
+  ]
+}

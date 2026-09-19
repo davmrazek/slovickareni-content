@@ -1,0 +1,116 @@
+{
+  "id": "2026-10-03",
+  "date": "2026-10-03",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "K",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "A",
+      "J"
+    ],
+    [
+      "K",
+      "O",
+      "U",
+      "L",
+      "E"
+    ],
+    [
+      "A",
+      "K",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "R",
+      "Y",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tázací zájmeno po osobě"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Místo blaženosti, zahrada Eden"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Dokonale kulaté těleso"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dějství divadelní hry; také úřední listina"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Uvozuje doslechnutou zprávu"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Nemilosrdný"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Do větší vzdálenosti"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tyč, za kterou táhne kůň vůz"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zvuk padající krůpěje"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Žlutohnědý přírodní pigment"
+    }
+  ]
+}

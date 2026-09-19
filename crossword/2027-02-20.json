@@ -1,0 +1,116 @@
+{
+  "id": "2027-02-20",
+  "date": "2027-02-20",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "T",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "T",
+      "Y",
+      "L"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "J",
+      "I",
+      "Z",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Hmyz s barevnými křídly, býval housenkou"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Knižně: už"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Uvozuje vysvětlení: neboť, vždyť"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojka účelu (~ ses učil)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Usazenina, bahno na dně"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pátý měsíc v roce; lásky čas"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
+    }
+  ]
+}

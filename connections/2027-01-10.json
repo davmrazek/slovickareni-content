@@ -1,0 +1,41 @@
+{
+  "id": "conn-24",
+  "groups": [
+    {
+      "name": "Zimní sporty",
+      "words": [
+        "LYŽOVÁNÍ",
+        "SNOWBOARD",
+        "BRUSLENÍ",
+        "SÁŇKOVÁNÍ"
+      ]
+    },
+    {
+      "name": "Husí ___",
+      "words": [
+        "KŮŽE",
+        "JÁTRA",
+        "BRK",
+        "MASO"
+      ]
+    },
+    {
+      "name": "Drahé kameny",
+      "words": [
+        "DIAMANT",
+        "RUBÍN",
+        "SMARAGD",
+        "SAFÍR"
+      ]
+    },
+    {
+      "name": "Těžká ___",
+      "words": [
+        "VÁHA",
+        "HLAVA",
+        "PRÁCE",
+        "CHVÍLE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-07",
+  "date": "2026-11-07",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "#",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "A",
+      "R"
+    ],
+    [
+      "C",
+      "E",
+      "S",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "S",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "Z",
+      "O",
+      "K",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Bublání vroucí vody"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Trasa z místa na místo"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Velký pytel na vlnu nebo chmel"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Knižní odporovací spojka: ale, jenže"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Dějinné období, epocha"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+    }
+  ]
+}

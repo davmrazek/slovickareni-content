@@ -1,0 +1,41 @@
+{
+  "id": "conn-64",
+  "groups": [
+    {
+      "name": "Kuchyňské úpravy",
+      "words": [
+        "VAŘENÍ",
+        "SMAŽENÍ",
+        "PEČENÍ",
+        "DUŠENÍ"
+      ]
+    },
+    {
+      "name": "Těstoviny",
+      "words": [
+        "ŠPAGETY",
+        "PENNE",
+        "LASAGNE",
+        "FUSILLI"
+      ]
+    },
+    {
+      "name": "Studené omáčky",
+      "words": [
+        "TATARKA",
+        "KEČUP",
+        "HOŘČICE",
+        "MAJONÉZA"
+      ]
+    },
+    {
+      "name": "Ostrý ___",
+      "words": [
+        "NŮŽ",
+        "START",
+        "POHLED",
+        "SÝR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-14",
+  "date": "2026-11-14",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "N",
+      "E",
+      "Z",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "A",
+      "N"
+    ],
+    [
+      "O",
+      "B",
+      "O",
+      "C",
+      "I"
+    ],
+    [
+      "T",
+      "O",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "J",
+      "E",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Spojka ve srovnání (větší ~ ty)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Chloupky nad okem"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Otáčet dokola; natáčet film"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Pohybovat se dopravním prostředkem"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Střelivo do zbraně"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Cit, silné hnutí mysli"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Pustit se do práce"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Krátká reportáž ve zprávách"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
+    }
+  ]
+}

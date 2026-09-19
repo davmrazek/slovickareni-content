@@ -1,0 +1,41 @@
+{
+  "id": "conn-25",
+  "groups": [
+    {
+      "name": "Světové řeky",
+      "words": [
+        "NIL",
+        "AMAZONKA",
+        "DUNAJ",
+        "VOLHA"
+      ]
+    },
+    {
+      "name": "Spotřebiče",
+      "words": [
+        "LEDNICE",
+        "PRAČKA",
+        "TROUBA",
+        "MYČKA"
+      ]
+    },
+    {
+      "name": "Vodní ___",
+      "words": [
+        "DÝMKA",
+        "MELOUN",
+        "PÓLO",
+        "MLÝN"
+      ]
+    },
+    {
+      "name": "Odrůdy jablek",
+      "words": [
+        "IDARED",
+        "GOLDEN",
+        "JONAGOLD",
+        "ŠAMPION"
+      ]
+    }
+  ]
+}

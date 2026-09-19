@@ -1,0 +1,41 @@
+{
+  "id": "conn-86",
+  "groups": [
+    {
+      "name": "Bylinný čaj",
+      "words": [
+        "MÁTA",
+        "HEŘMÁNEK",
+        "LÍPA",
+        "ŠÍPEK"
+      ]
+    },
+    {
+      "name": "Léčivé účinky",
+      "words": [
+        "PROTIZÁNĚTLIVÝ",
+        "USPÁVACÍ",
+        "MOČOPUDNÝ",
+        "HOJIVÝ"
+      ]
+    },
+    {
+      "name": "V lékárně",
+      "words": [
+        "RECEPT",
+        "MAST",
+        "KAPKY",
+        "OBVAZ"
+      ]
+    },
+    {
+      "name": "Hořká ___",
+      "words": [
+        "PRAVDA",
+        "ČOKOLÁDA",
+        "SŮL",
+        "PILULKA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-45",
+  "groups": [
+    {
+      "name": "Slovenská města",
+      "words": [
+        "BRATISLAVA",
+        "KOŠICE",
+        "ŽILINA",
+        "NITRA"
+      ]
+    },
+    {
+      "name": "Pivovarnictví",
+      "words": [
+        "CHMEL",
+        "SLAD",
+        "KVASNICE",
+        "SUD"
+      ]
+    },
+    {
+      "name": "Karetní hry",
+      "words": [
+        "MARIÁŠ",
+        "PRŠÍ",
+        "POKER",
+        "CANASTA"
+      ]
+    },
+    {
+      "name": "___ voda",
+      "words": [
+        "PITNÁ",
+        "MINERÁLNÍ",
+        "STOJATÁ",
+        "SVĚCENÁ"
+      ]
+    }
+  ]
+}
