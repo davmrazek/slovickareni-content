@@ -1,40 +1,40 @@
 {
-  "id": "conn-21",
+  "id": "conn-386",
   "groups": [
     {
-      "name": "České hory",
+      "name": "Tašky a zavazadla",
       "words": [
-        "SNĚŽKA",
-        "PRADĚD",
-        "LYSÁ",
-        "KLÍNOVEC"
+        "KABELKA",
+        "BATOH",
+        "AKTOVKA",
+        "LEDVINKA"
       ]
     },
     {
-      "name": "Kuchyňské náčiní",
+      "name": "Orgány v těle",
       "words": [
-        "NŮŽ",
-        "VAŘEČKA",
-        "METLA",
-        "STĚRKA"
+        "SRDCE",
+        "PLÍCE",
+        "JÁTRA",
+        "SLEZINA"
       ]
     },
     {
-      "name": "Druhy tance",
+      "name": "Smetanovy opery",
       "words": [
-        "VALČÍK",
-        "POLKA",
-        "TANGO",
-        "SAMBA"
+        "LIBUŠE",
+        "DALIBOR",
+        "HUBIČKA",
+        "TAJEMSTVÍ"
       ]
     },
     {
-      "name": "Černá ___",
+      "name": "Mají křídla",
       "words": [
-        "DÍRA",
-        "OVCE",
-        "LISTINA",
-        "SKŘÍŇKA"
+        "MLÝN",
+        "OLTÁŘ",
+        "ANDĚL",
+        "DVEŘE"
       ]
     }
   ]

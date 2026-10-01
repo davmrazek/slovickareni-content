@@ -1,40 +1,40 @@
 {
-  "id": "conn-50",
+  "id": "conn-415",
   "groups": [
     {
-      "name": "Včelařství",
+      "name": "Hokejová výbava",
       "words": [
-        "ÚL",
-        "VOSK",
-        "PLÁST",
-        "ROJ"
+        "HOKEJKA",
+        "PUK",
+        "BRUSLE",
+        "HELMA"
       ]
     },
     {
-      "name": "Luční květiny",
+      "name": "Ruští spisovatelé",
       "words": [
-        "JETEL",
-        "KOPRETINA",
-        "PAMPELIŠKA",
-        "ZVONEK"
+        "TOLSTOJ",
+        "DOSTOJEVSKIJ",
+        "ČECHOV",
+        "PUŠKIN"
       ]
     },
     {
-      "name": "Bodavý hmyz",
+      "name": "Největší státy",
       "words": [
-        "VOSA",
-        "SRŠEŇ",
-        "KOMÁR",
-        "OVÁD"
+        "RUSKO",
+        "KANADA",
+        "ČÍNA",
+        "BRAZÍLIE"
       ]
     },
     {
-      "name": "___ jazyk",
+      "name": "Ukrývají stát",
       "words": [
-        "MATEŘSKÝ",
-        "ÚŘEDNÍ",
-        "CIZÍ",
-        "OSTRÝ"
+        "ROMÁN",
+        "PERUŤ",
+        "MALINA",
+        "KUBATURA"
       ]
     }
   ]

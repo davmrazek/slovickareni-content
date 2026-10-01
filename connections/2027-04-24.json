@@ -1,40 +1,40 @@
 {
-  "id": "conn-128",
+  "id": "conn-493",
   "groups": [
     {
-      "name": "Grilování",
+      "name": "Na vodu",
       "words": [
-        "ROŠT",
-        "UHLÍ",
-        "MARINÁDA",
-        "KLEŠTĚ"
+        "LOĎ",
+        "PRAM",
+        "JACHTA",
+        "KANOE"
       ]
     },
     {
-      "name": "Grilované maso",
+      "name": "Velká jezera",
       "words": [
-        "KLOBÁSA",
-        "KRKOVICE",
-        "ŽEBRA",
-        "KŘÍDLA"
+        "HURON",
+        "ERIE",
+        "MICHIGAN",
+        "SUPERIOR"
       ]
     },
     {
-      "name": "Saláty",
+      "name": "Hudební tělesa",
       "words": [
-        "COLESLAW",
-        "ŠOPSKÝ",
-        "BRAMBOROVÝ",
-        "CAESAR"
+        "KVARTET",
+        "TRIO",
+        "KVINTET",
+        "OKTET"
       ]
     },
     {
-      "name": "Uzené ___",
+      "name": "Ukrývají VOR",
       "words": [
-        "MASO",
-        "KOLENO",
-        "KUŘE",
-        "TOFU"
+        "TVOR",
+        "ZÁVORA",
+        "SVORNÍK",
+        "DVORNÍ"
       ]
     }
   ]

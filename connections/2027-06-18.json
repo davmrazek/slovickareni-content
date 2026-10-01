@@ -1,40 +1,40 @@
 {
-  "id": "conn-183",
+  "id": "conn-548",
   "groups": [
     {
-      "name": "Pražské památky",
+      "name": "Ryby do akvária",
       "words": [
-        "ORLOJ",
-        "KATEDRÁLA",
-        "PETŘÍN",
-        "VYŠEHRAD"
+        "GUPKA",
+        "NEONKA",
+        "SKALÁR",
+        "ANCISTRUS"
       ]
     },
     {
-      "name": "Vltavské mosty",
+      "name": "Italské sýry",
       "words": [
-        "KARLŮV",
-        "PALACKÉHO",
-        "LEGIÍ",
-        "ČECHŮV"
+        "MOZZARELLA",
+        "PARMAZÁN",
+        "RICOTTA",
+        "MASCARPONE"
       ]
     },
     {
-      "name": "Pražská nádraží",
+      "name": "Starý Řím",
       "words": [
-        "HLAVNÍ",
-        "MASARYKOVO",
-        "SMÍCHOVSKÉ",
-        "HOLEŠOVICE"
+        "KOLOSEUM",
+        "FÓRUM",
+        "AKVADUKT",
+        "TERMY"
       ]
     },
     {
-      "name": "Stará ___",
+      "name": "Ukrývají MEČ",
       "words": [
-        "ŠKOLA",
-        "PÍSNIČKA",
-        "LÁSKA",
-        "GARDA"
+        "KAMEČEK",
+        "MEČÍK",
+        "SMEČ",
+        "MEČOUN"
       ]
     }
   ]

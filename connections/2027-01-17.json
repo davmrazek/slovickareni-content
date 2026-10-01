@@ -1,40 +1,40 @@
 {
-  "id": "conn-31",
+  "id": "conn-396",
   "groups": [
     {
-      "name": "Pěvci",
+      "name": "Svačina do školy",
       "words": [
-        "SKŘIVAN",
-        "SLAVÍK",
-        "KOS",
-        "SÝKORA"
+        "ROHLÍK",
+        "JABLKO",
+        "TYČINKA",
+        "JOGURT"
       ]
     },
     {
-      "name": "Malířské potřeby",
+      "name": "Moravské hrady",
       "words": [
-        "ŠTĚTEC",
-        "PALETA",
-        "PLÁTNO",
-        "STOJAN"
+        "PERNŠTEJN",
+        "BUCHLOV",
+        "BOUZOV",
+        "ŠPILBERK"
       ]
     },
     {
-      "name": "Znamení zvěrokruhu",
+      "name": "Zaniklé evropské měny",
       "words": [
-        "BERAN",
-        "BÝK",
-        "LEV",
-        "RYBY"
+        "MARKA",
+        "FRANK",
+        "LIRA",
+        "PESETA"
       ]
     },
     {
-      "name": "Kyselý ___",
+      "name": "Ukrývají OKO",
       "words": [
-        "DÉŠŤ",
-        "ÚSMĚV",
-        "BONBON",
-        "OBLIČEJ"
+        "KOKOS",
+        "SOKOL",
+        "ROKOKO",
+        "JOKOHAMA"
       ]
     }
   ]

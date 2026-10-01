@@ -1,40 +1,40 @@
 {
-  "id": "conn-126",
+  "id": "conn-491",
   "groups": [
     {
-      "name": "Sochy a pomníky",
+      "name": "Na záhonu",
       "words": [
-        "PODSTAVEC",
-        "BUSTA",
-        "RELIÉF",
-        "OBELISK"
+        "JIŘINA",
+        "KOSATEC",
+        "ASTRA",
+        "FLOX"
       ]
     },
     {
-      "name": "Architektonické prvky",
+      "name": "Kouzelná slova",
       "words": [
-        "SLOUP",
-        "KLENBA",
-        "ŘÍMSA",
-        "PORTÁL"
+        "ABRAKADABRA",
+        "HOKUSPOKUS",
+        "SIMSALABIM",
+        "SEZAME"
       ]
     },
     {
-      "name": "Kostelní vybavení",
+      "name": "Typografie",
       "words": [
-        "OLTÁŘ",
-        "KAZATELNA",
-        "VARHANY",
-        "LAVICE"
+        "KURZÍVA",
+        "PATKA",
+        "KERNING",
+        "VERZÁLKY"
       ]
     },
     {
-      "name": "Kamenné ___",
+      "name": "___ písmo",
       "words": [
-        "SCHODY",
-        "SRDCE",
-        "MOŘE",
-        "UHLÍ"
+        "SVATÉ",
+        "TISKACÍ",
+        "KLÍNOVÉ",
+        "BRAILLOVO"
       ]
     }
   ]

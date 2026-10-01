@@ -1,40 +1,40 @@
 {
-  "id": "conn-176",
+  "id": "conn-541",
   "groups": [
     {
-      "name": "Naši savci",
+      "name": "Klobouky",
       "words": [
-        "JEŽEK",
-        "RYS",
-        "LASICE",
-        "PLCH"
+        "SLAMÁK",
+        "BUŘINKA",
+        "FEDORA",
+        "BARET"
       ]
     },
     {
-      "name": "Zimní spánek",
+      "name": "Iluzionisté",
       "words": [
-        "HIBERNACE",
-        "DOUPĚ",
-        "TUK",
-        "PROBUZENÍ"
+        "HOUDINI",
+        "COPPERFIELD",
+        "BLAINE",
+        "PENN"
       ]
     },
     {
-      "name": "Ptačí krmítko",
+      "name": "Rýmy",
       "words": [
-        "SÝKORA",
-        "ZRNÍ",
-        "LOJ",
-        "STŘÍŠKA"
+        "SDRUŽENÝ",
+        "STŘÍDAVÝ",
+        "OBKROČNÝ",
+        "PŘERÝVANÝ"
       ]
     },
     {
-      "name": "Studený ___",
+      "name": "Části motoru",
       "words": [
-        "BUFET",
-        "POT",
-        "OBKLAD",
-        "ČUMÁK"
+        "CYLINDR",
+        "PÍST",
+        "VENTIL",
+        "SVÍČKA"
       ]
     }
   ]

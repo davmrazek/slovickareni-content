@@ -1,40 +1,40 @@
 {
-  "id": "conn-135",
+  "id": "conn-500",
   "groups": [
     {
-      "name": "Lesní plody",
+      "name": "1. máj",
       "words": [
-        "BORŮVKA",
-        "MALINA",
-        "OSTRUŽINA",
-        "BRUSINKA"
+        "MÁJKA",
+        "POLIBEK",
+        "PRŮVOD",
+        "PETŘÍN"
       ]
     },
     {
-      "name": "Jedlé houby",
+      "name": "Romantičtí básníci",
       "words": [
-        "HŘIB",
-        "KŘEMENÁČ",
-        "BEDLA",
-        "LIŠKA"
+        "BYRON",
+        "SHELLEY",
+        "KEATS",
+        "NOVALIS"
       ]
     },
     {
-      "name": "Houbařská výbava",
+      "name": "Kvetou v máji",
       "words": [
-        "KOŠÍK",
-        "NŮŽ",
-        "ATLAS",
-        "HŮLKA"
+        "ŠEŘÍK",
+        "BEZ",
+        "KONVALINKA",
+        "KAŠTAN"
       ]
     },
     {
-      "name": "Hluboký ___",
+      "name": "Mají stožár",
       "words": [
-        "LES",
-        "TALÍŘ",
-        "HLAS",
-        "ZÁLIV"
+        "LOĎ",
+        "VLAJKA",
+        "CIRKUS",
+        "STAN"
       ]
     }
   ]

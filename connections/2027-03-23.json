@@ -1,40 +1,40 @@
 {
-  "id": "conn-96",
+  "id": "conn-461",
   "groups": [
     {
-      "name": "V mrazáku",
+      "name": "V úlu",
       "words": [
-        "LED",
-        "ZMRZLINA",
-        "HRÁŠEK",
-        "RYBA"
+        "MATKA",
+        "TRUBEC",
+        "PLÁST",
+        "MED"
       ]
     },
     {
-      "name": "Konzervace jídla",
+      "name": "Hvězdné války",
       "words": [
-        "SUŠENÍ",
-        "NAKLÁDÁNÍ",
-        "UZENÍ",
-        "ZAVAŘOVÁNÍ"
+        "LUKE",
+        "LEIA",
+        "YODA",
+        "CHEWBACCA"
       ]
     },
     {
-      "name": "Kuchyňské nádoby",
+      "name": "Svaly",
       "words": [
-        "SKLENICE",
-        "DÓZA",
-        "KRABIČKA",
-        "PYTLÍK"
+        "BICEPS",
+        "TRICEPS",
+        "DELTOID",
+        "KVADRICEPS"
       ]
     },
     {
-      "name": "Mrazivý ___",
+      "name": "Ve fotoaparátu",
       "words": [
-        "POHLED",
-        "PŘÍBĚH",
-        "ÚSMĚV",
-        "VÍTR"
+        "ČOČKA",
+        "CLONA",
+        "ZÁVĚRKA",
+        "BLESK"
       ]
     }
   ]

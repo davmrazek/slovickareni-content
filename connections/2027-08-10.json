@@ -1,40 +1,40 @@
 {
-  "id": "conn-236",
+  "id": "conn-601",
   "groups": [
     {
-      "name": "Balkon a terasa",
+      "name": "Dřevěné hračky",
       "words": [
-        "TRUHLÍK",
-        "ZÁBRADLÍ",
-        "SLUNEČNÍK",
-        "LEHÁTKO"
+        "KOSTKY",
+        "VLÁČEK",
+        "KONÍK",
+        "PANÁČEK"
       ]
     },
     {
-      "name": "Pokojové rostliny",
+      "name": "Značky hraček",
       "words": [
-        "FÍKUS",
-        "KAKTUS",
-        "DRACÉNA",
-        "MONSTERA"
+        "LEGO",
+        "PLAYMOBIL",
+        "MERKUR",
+        "SCHLEICH"
       ]
     },
     {
-      "name": "Péče o rostliny",
+      "name": "Mořské nestvůry",
       "words": [
-        "ZÁLIVKA",
-        "PŘESAZENÍ",
-        "HNOJIVO",
-        "ROSENÍ"
+        "SIRÉNA",
+        "LEVIATAN",
+        "SKYLLA",
+        "HYDRA"
       ]
     },
     {
-      "name": "Suchá ___",
+      "name": "Mají chapadla",
       "words": [
-        "ZEMINA",
-        "SEZONA",
-        "VĚTEV",
-        "JEHLA"
+        "CHOBOTNICE",
+        "MEDÚZA",
+        "SÉPIE",
+        "KRAKEN"
       ]
     }
   ]

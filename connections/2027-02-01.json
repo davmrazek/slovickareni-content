@@ -1,40 +1,40 @@
 {
-  "id": "conn-46",
+  "id": "conn-411",
   "groups": [
     {
-      "name": "Kosmonautika",
+      "name": "Nářadí v tělocvičně",
       "words": [
-        "RAKETA",
-        "DRUŽICE",
-        "SKAFANDR",
-        "PALIVO"
+        "KOZA",
+        "KŮŇ",
+        "KRUHY",
+        "BRADLA"
       ]
     },
     {
-      "name": "Části letadla",
+      "name": "Čeští fotbalisté",
       "words": [
-        "KŘÍDLO",
-        "TRUP",
-        "VRTULE",
-        "PODVOZEK"
+        "NEDVĚD",
+        "ČECH",
+        "ROSICKÝ",
+        "PANENKA"
       ]
     },
     {
-      "name": "Druhy mraků",
+      "name": "Slavná muzea",
       "words": [
-        "CIRRUS",
-        "KUMULUS",
-        "STRATUS",
-        "NIMBUS"
+        "LOUVRE",
+        "PRADO",
+        "ERMITÁŽ",
+        "UFFIZI"
       ]
     },
     {
-      "name": "Vysoká ___",
+      "name": "___ kop",
       "words": [
-        "ŠKOLA",
-        "HRA",
-        "POLITIKA",
-        "PEC"
+        "ROHOVÝ",
+        "VOLNÝ",
+        "PŘÍMÝ",
+        "POKUTOVÝ"
       ]
     }
   ]

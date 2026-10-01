@@ -1,40 +1,40 @@
 {
-  "id": "conn-228",
+  "id": "conn-593",
   "groups": [
     {
-      "name": "Sběratelé",
+      "name": "Obaly",
       "words": [
-        "ZNÁMKA",
-        "MINCE",
-        "POHLEDNICE",
-        "ODZNAK"
+        "KRABICE",
+        "PYTEL",
+        "SÁČEK",
+        "TUBA"
       ]
     },
     {
-      "name": "Modelářství",
+      "name": "Jazzové legendy",
       "words": [
-        "LEPIDLO",
-        "MĚŘÍTKO",
-        "SOUPRAVA",
-        "BARVIČKY"
+        "ELLINGTON",
+        "PARKER",
+        "COLTRANE",
+        "DAVIS"
       ]
     },
     {
-      "name": "Ruční práce",
+      "name": "Staré míry počtu",
       "words": [
-        "PLETENÍ",
-        "HÁČKOVÁNÍ",
-        "VYŠÍVÁNÍ",
-        "MAKRAMÉ"
+        "TUCET",
+        "KOPA",
+        "VELETUCET",
+        "MANDEL"
       ]
     },
     {
-      "name": "Zlaté ___",
+      "name": "Ukrývají PARK",
       "words": [
-        "RUCE",
-        "DNO",
-        "PRAVIDLO",
-        "STŘEVÍCE"
+        "PARKET",
+        "PARKOUR",
+        "PARKOVIŠTĚ",
+        "AQUAPARK"
       ]
     }
   ]

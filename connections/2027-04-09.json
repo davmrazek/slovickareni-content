@@ -1,40 +1,40 @@
 {
-  "id": "conn-113",
+  "id": "conn-478",
   "groups": [
     {
-      "name": "Skauting",
+      "name": "Nápoje z ovoce",
       "words": [
-        "ODDÍL",
-        "SLIB",
-        "UZEL",
-        "TÁBOR"
+        "DŽUS",
+        "MOŠT",
+        "LIMONÁDA",
+        "SMOOTHIE"
       ]
     },
     {
-      "name": "Ohňové dovednosti",
+      "name": "Polárníci",
       "words": [
-        "KŘESADLO",
-        "TROUD",
-        "ZÁPALKA",
-        "JISKRA"
+        "AMUNDSEN",
+        "SCOTT",
+        "NANSEN",
+        "SHACKLETON"
       ]
     },
     {
-      "name": "Uzly",
+      "name": "Evropské kluby",
       "words": [
-        "AMBULANČNÍ",
-        "LODNÍ",
-        "OSMIČKA",
-        "DRAČÍ"
+        "BARCELONA",
+        "JUVENTUS",
+        "BAYERN",
+        "LIVERPOOL"
       ]
     },
     {
-      "name": "Živý ___",
+      "name": "Řečtí hrdinové",
       "words": [
-        "PLOT",
-        "TVOR",
-        "OHEŇ",
-        "ZÁJEM"
+        "AJAX",
+        "ACHILLES",
+        "ODYSSEUS",
+        "HEKTOR"
       ]
     }
   ]

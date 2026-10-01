@@ -1,40 +1,40 @@
 {
-  "id": "conn-171",
+  "id": "conn-536",
   "groups": [
     {
-      "name": "Ekosystémy",
+      "name": "Limonáda",
       "words": [
-        "TAJGA",
-        "SAVANA",
-        "TUNDRA",
-        "PRALES"
+        "CITRON",
+        "SODA",
+        "MÁTA",
+        "SIRUP"
       ]
     },
     {
-      "name": "Ochrana přírody",
+      "name": "Andské vrcholy",
       "words": [
-        "REZERVACE",
-        "REVITALIZACE",
-        "MONITORING",
-        "ZÁKAZ"
+        "ACONCAGUA",
+        "CHIMBORAZO",
+        "HUASCARÁN",
+        "COTOPAXI"
       ]
     },
     {
-      "name": "Recyklace",
+      "name": "Obory matematiky",
       "words": [
-        "PLAST",
-        "PAPÍR",
-        "SKLO",
-        "KOV"
+        "ALGEBRA",
+        "GEOMETRIE",
+        "ANALÝZA",
+        "TOPOLOGIE"
       ]
     },
     {
-      "name": "Čistý ___",
+      "name": "Bývají v kostkách",
       "words": [
-        "VZDUCH",
-        "ZISK",
-        "STŘIH",
-        "ÚMYSL"
+        "CUKR",
+        "LED",
+        "BUJÓN",
+        "ČOKOLÁDA"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-245",
+  "id": "conn-610",
   "groups": [
     {
-      "name": "Vodní elektrárna",
+      "name": "Doručení",
       "words": [
-        "TURBÍNA",
-        "SPÁD",
-        "PŘEHRADA",
-        "GENERÁTOR"
+        "KURÝR",
+        "POŠŤÁK",
+        "ZÁSILKA",
+        "DOBÍRKA"
       ]
     },
     {
-      "name": "Obnovitelné zdroje",
+      "name": "Čtyřlístek",
       "words": [
-        "SOLÁRNÍ",
-        "VĚTRNÁ",
-        "GEOTERMÁLNÍ",
-        "BIOPLYN"
+        "BOBÍK",
+        "FIFINKA",
+        "MYPOLDA",
+        "PINDA"
       ]
     },
     {
-      "name": "V elektrárně",
+      "name": "Starší komunikace",
       "words": [
-        "KOMÍN",
-        "REAKTOR",
-        "ROZVODNA",
-        "DISPEČINK"
+        "FAX",
+        "DÁLNOPIS",
+        "PAGER",
+        "TELEX"
       ]
     },
     {
-      "name": "Zelená ___",
+      "name": "___ pošta",
       "words": [
-        "ENERGIE",
-        "KARTA",
-        "VLNA",
-        "STŘECHA"
+        "HOLUBÍ",
+        "LÁHVOVÁ",
+        "ELEKTRONICKÁ",
+        "LETECKÁ"
       ]
     }
   ]

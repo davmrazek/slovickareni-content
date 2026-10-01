@@ -1,40 +1,40 @@
 {
-  "id": "conn-13",
+  "id": "conn-378",
   "groups": [
     {
-      "name": "Tropické ovoce",
+      "name": "Voda v domě",
       "words": [
-        "BANÁN",
-        "ANANAS",
-        "MANGO",
-        "KOKOS"
+        "KOHOUTEK",
+        "BOJLER",
+        "SIFON",
+        "VODOMĚR"
       ]
     },
     {
-      "name": "Obuv",
+      "name": "Autoři dětských knih",
       "words": [
-        "TENISKY",
-        "SANDÁLY",
-        "HOLÍNKY",
-        "BAČKORY"
+        "LADA",
+        "SEKORA",
+        "ČTVRTEK",
+        "ŽÁČEK"
       ]
     },
     {
-      "name": "Mořští živočichové",
+      "name": "Africké řeky",
       "words": [
-        "VELRYBA",
-        "DELFÍN",
-        "ŽRALOK",
-        "CHOBOTNICE"
+        "NIL",
+        "KONGO",
+        "NIGER",
+        "ZAMBEZI"
       ]
     },
     {
-      "name": "Rybí ___",
+      "name": "Končí na -VANA",
       "words": [
-        "OKO",
-        "TUK",
-        "POLÉVKA",
-        "KOST"
+        "SAVANA",
+        "KARAVANA",
+        "HAVANA",
+        "IVANA"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-119",
+  "id": "conn-484",
   "groups": [
     {
-      "name": "V bance",
+      "name": "Nakládané",
       "words": [
-        "VKLAD",
-        "ÚROK",
-        "POBOČKA",
-        "TREZOR"
+        "OKURKY",
+        "ZELÍ",
+        "CIBULKA",
+        "PAPRIKY"
       ]
     },
     {
-      "name": "Druhy pojištění",
+      "name": "Ženy z Bible",
       "words": [
-        "ŽIVOTNÍ",
-        "POVINNÉ",
-        "CESTOVNÍ",
-        "MAJETKOVÉ"
+        "EVA",
+        "SÁRA",
+        "RUT",
+        "ESTER"
       ]
     },
     {
-      "name": "Účetnictví",
+      "name": "Brodiví ptáci",
       "words": [
-        "FAKTURA",
-        "ROZVAHA",
-        "DOKLAD",
-        "AUDIT"
+        "ČÁP",
+        "PLAMEŇÁK",
+        "IBIS",
+        "KOLPÍK"
       ]
     },
     {
-      "name": "Kulatý ___",
+      "name": "Zvířata, ale i technika",
       "words": [
-        "STŮL",
-        "SOUČET",
-        "TALÍŘ",
-        "OBLIČEJ"
+        "JEŘÁB",
+        "BERAN",
+        "ŽÁBA",
+        "KOZA"
       ]
     }
   ]

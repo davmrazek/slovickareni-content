@@ -1,40 +1,40 @@
 {
-  "id": "conn-148",
+  "id": "conn-513",
   "groups": [
     {
-      "name": "V knihkupectví",
+      "name": "Sukně",
       "words": [
-        "REGÁL",
-        "NOVINKA",
-        "VÝTISK",
-        "PODPIS"
+        "MINI",
+        "MAXI",
+        "PLISÉ",
+        "TUTU"
       ]
     },
     {
-      "name": "Části knihy",
+      "name": "Italští skladatelé",
       "words": [
-        "PŘEBAL",
-        "TIRÁŽ",
-        "DOSLOV",
-        "REJSTŘÍK"
+        "ROSSINI",
+        "MONTEVERDI",
+        "DONIZETTI",
+        "VERDI"
       ]
     },
     {
-      "name": "Knižní žánry",
+      "name": "Moderní tance",
       "words": [
-        "THRILLER",
-        "SÁGA",
-        "CESTOPIS",
-        "MEMOÁRY"
+        "HIPHOP",
+        "BREAKDANCE",
+        "JAZZ",
+        "STEP"
       ]
     },
     {
-      "name": "Otevřená ___",
+      "name": "Koktejly",
       "words": [
-        "KNIHA",
-        "OTÁZKA",
-        "NÁRUČ",
-        "ZLOMENINA"
+        "BELLINI",
+        "MOJITO",
+        "DAIQUIRI",
+        "NEGRONI"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-70",
+  "id": "conn-435",
   "groups": [
     {
-      "name": "V laboratoři",
+      "name": "Ptáci na zahradě",
       "words": [
-        "ZKUMAVKA",
-        "KAHAN",
-        "PIPETA",
-        "BAŇKA"
+        "KOS",
+        "DROZD",
+        "SÝKORA",
+        "ČERVENKA"
       ]
     },
     {
-      "name": "Chemické prvky",
+      "name": "Maďarská města",
       "words": [
-        "VODÍK",
-        "KYSLÍK",
-        "DUSÍK",
-        "UHLÍK"
+        "DEBRECÍN",
+        "SEGEDÍN",
+        "PĚTIKOSTELÍ",
+        "MIŠKOLC"
       ]
     },
     {
-      "name": "Matematika",
+      "name": "Architekti",
       "words": [
-        "ZLOMEK",
-        "ROVNICE",
-        "MOCNINA",
-        "ODMOCNINA"
+        "GAUDÍ",
+        "KOTĚRA",
+        "PLEČNIK",
+        "LOOS"
       ]
     },
     {
-      "name": "___ reakce",
+      "name": "___ domek",
       "words": [
-        "ŘETĚZOVÁ",
-        "CHEMICKÁ",
-        "ALERGICKÁ",
-        "OKAMŽITÁ"
+        "PERNÍKOVÝ",
+        "KARETNÍ",
+        "ZAHRADNÍ",
+        "STRÁŽNÍ"
       ]
     }
   ]

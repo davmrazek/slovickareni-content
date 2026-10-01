@@ -1,40 +1,40 @@
 {
-  "id": "conn-211",
+  "id": "conn-576",
   "groups": [
     {
-      "name": "Autobusové nádraží",
+      "name": "Déšť",
       "words": [
-        "JÍZDENKA",
-        "ZASTÁVKA",
-        "ODJEZD",
-        "PERON"
+        "LOUŽE",
+        "KAPKY",
+        "DEŠTNÍK",
+        "HOLÍNKY"
       ]
     },
     {
-      "name": "Ve vlaku",
+      "name": "Norské fjordy",
       "words": [
-        "KUPÉ",
-        "PRŮVODČÍ",
-        "LŮŽKO",
-        "ZAVAZADLO"
+        "GEIRANGER",
+        "SOGNE",
+        "LYSE",
+        "HARDANGER"
       ]
     },
     {
-      "name": "Metro",
+      "name": "Hanácká města",
       "words": [
-        "ESKALÁTOR",
-        "SOUPRAVA",
-        "STANICE",
-        "TUNEL"
+        "PROSTĚJOV",
+        "PŘEROV",
+        "LITOVEL",
+        "KOJETÍN"
       ]
     },
     {
-      "name": "Zpáteční ___",
+      "name": "___ rána",
       "words": [
-        "LÍSTEK",
-        "CESTA",
-        "LET",
-        "ADRESA"
+        "HROMOVÁ",
+        "PODPÁSOVÁ",
+        "STŘELNÁ",
+        "SEČNÁ"
       ]
     }
   ]

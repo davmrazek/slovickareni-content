@@ -1,40 +1,40 @@
 {
-  "id": "conn-150",
+  "id": "conn-515",
   "groups": [
     {
-      "name": "Divadelní zákulisí",
+      "name": "Na plovárně",
       "words": [
-        "NÁPOVĚDA",
-        "KULISA",
-        "REKVIZITA",
-        "GARDEROBA"
+        "SKLUZAVKA",
+        "BAZÉN",
+        "TOBOGÁN",
+        "BRODÍTKO"
       ]
     },
     {
-      "name": "Herecké obory",
+      "name": "Moravská vína",
       "words": [
-        "KOMIK",
-        "TRAGÉD",
-        "MIM",
-        "DABÉR"
+        "RYZLINK",
+        "MÜLLER",
+        "VELTLÍN",
+        "PÁLAVA"
       ]
     },
     {
-      "name": "Potlesk a ocenění",
+      "name": "Staré nosiče hudby",
       "words": [
-        "OVACE",
-        "OPONA",
-        "KYTICE",
-        "CENA"
+        "GRAMOFON",
+        "KAZETA",
+        "CÉDÉČKO",
+        "MAGNETOFON"
       ]
     },
     {
-      "name": "Hlavní ___",
+      "name": "___ deska",
       "words": [
-        "ROLE",
-        "MĚSTO",
-        "CHOD",
-        "VCHOD"
+        "PRACOVNÍ",
+        "ZÁKLADNÍ",
+        "TEKTONICKÁ",
+        "PAMĚTNÍ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-250",
+  "id": "conn-615",
   "groups": [
     {
-      "name": "Stavební stroje",
+      "name": "Na dokumenty",
       "words": [
-        "BAGR",
-        "VÁLEC",
-        "DOMÍCHÁVAČ",
-        "NAKLADAČ"
+        "ŠANON",
+        "DESKY",
+        "EUROOBAL",
+        "KARTOTÉKA"
       ]
     },
     {
-      "name": "Silniční stavba",
+      "name": "Mezinárodní organizace",
       "words": [
-        "ASFALT",
-        "ŠTĚRK",
-        "OBRUBNÍK",
-        "SVODIDLO"
+        "NATO",
+        "UNESCO",
+        "UNICEF",
+        "INTERPOL"
       ]
     },
     {
-      "name": "Dopravní značky",
+      "name": "Staročeské úřady",
       "words": [
-        "STOPKA",
-        "PŘEDNOST",
-        "ZÁKAZ",
-        "OMEZENÍ"
+        "PURKRABÍ",
+        "HEJTMAN",
+        "RYCHTÁŘ",
+        "PÍSAŘ"
       ]
     },
     {
-      "name": "Hlavní ___",
+      "name": "Mají razítko",
       "words": [
-        "SILNICE",
-        "TAH",
-        "LÍČENÍ",
-        "PROUD"
+        "PAS",
+        "VÍZUM",
+        "STVRZENKA",
+        "PŘIHLÁŠKA"
       ]
     }
   ]

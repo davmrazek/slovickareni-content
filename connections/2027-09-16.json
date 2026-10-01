@@ -1,40 +1,40 @@
 {
-  "id": "conn-273",
+  "id": "conn-638",
   "groups": [
     {
-      "name": "Wellness",
+      "name": "Co s houbami",
       "words": [
-        "SAUNA",
-        "VÍŘIVKA",
-        "OCHLAZOVNA",
-        "ODPOČÍVÁRNA"
+        "SUŠIT",
+        "SMAŽIT",
+        "NAKLÁDAT",
+        "MRAZIT"
       ]
     },
     {
-      "name": "Lázeňská léčba",
+      "name": "Beskydské vrcholy",
       "words": [
-        "PRAMEN",
-        "KÚRA",
-        "KOLONÁDA",
-        "PROCEDURA"
+        "SMRK",
+        "RADHOŠŤ",
+        "KNĚHYNĚ",
+        "TRAVNÝ"
       ]
     },
     {
-      "name": "Masáže",
+      "name": "Na Valašsku",
       "words": [
-        "KLASICKÁ",
-        "LÁVOVÁ",
-        "REFLEXNÍ",
-        "SPORTOVNÍ"
+        "KOLIBA",
+        "BAČA",
+        "SALAŠ",
+        "JÁNOŠÍK"
       ]
     },
     {
-      "name": "Léčivá ___",
+      "name": "Druhy seker",
       "words": [
-        "VODA",
-        "BYLINA",
-        "SÍLA",
-        "MAST"
+        "VALAŠKA",
+        "TOMAHAWK",
+        "BRADATICE",
+        "ŠTÍPAČKA"
       ]
     }
   ]

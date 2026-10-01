@@ -1,40 +1,40 @@
 {
-  "id": "conn-189",
+  "id": "conn-554",
   "groups": [
     {
-      "name": "Pohádkové bytosti",
+      "name": "Ubytování",
       "words": [
-        "VODNÍK",
-        "JEZINKA",
-        "RUSALKA",
-        "HEJKAL"
+        "PENZION",
+        "HOSTEL",
+        "MOTEL",
+        "KEMP"
       ]
     },
     {
-      "name": "Kouzelné předměty",
+      "name": "Turecká města",
       "words": [
-        "PRSTEN",
-        "KOŠTĚ",
-        "LAMPA",
-        "ZRCADLO"
+        "ISTANBUL",
+        "ANKARA",
+        "IZMIR",
+        "ANTALYA"
       ]
     },
     {
-      "name": "Zlá kouzla",
+      "name": "Staré palné zbraně",
       "words": [
-        "KLETBA",
-        "UHRANUTÍ",
-        "ZAKLETÍ",
-        "UŘKNUTÍ"
+        "MUŠKETA",
+        "ARKEBUZA",
+        "PIŠŤALA",
+        "HOUFNICE"
       ]
     },
     {
-      "name": "Zlatá ___",
+      "name": "Ukrývají MINI",
       "words": [
-        "RYBKA",
-        "BRÁNA",
-        "HUSA",
-        "JABLKA"
+        "MINISTR",
+        "MINIMUM",
+        "DOMINIKA",
+        "MINIBAR"
       ]
     }
   ]

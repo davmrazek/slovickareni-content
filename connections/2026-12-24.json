@@ -1,40 +1,40 @@
 {
-  "id": "conn-7",
+  "id": "conn-372",
   "groups": [
     {
-      "name": "Kočkovité šelmy",
+      "name": "Štědrovečerní stůl",
       "words": [
-        "LEV",
-        "TYGR",
-        "GEPARD",
-        "JAGUÁR"
+        "KAPR",
+        "SALÁT",
+        "VÁNOČKA",
+        "CUKROVÍ"
       ]
     },
     {
-      "name": "Nealko nápoje",
+      "name": "Štědrovečerní věštby",
       "words": [
-        "KOLA",
-        "LIMONÁDA",
-        "DŽUS",
-        "VODA"
+        "JABLÍČKO",
+        "SKOŘÁPKY",
+        "OLOVO",
+        "STŘEVÍC"
       ]
     },
     {
-      "name": "Květiny",
+      "name": "Postavy betléma",
       "words": [
-        "RŮŽE",
-        "TULIPÁN",
-        "KONVALINKA",
-        "KOPRETINA"
+        "JOSEF",
+        "MARIE",
+        "PASTÝŘ",
+        "ANDĚL"
       ]
     },
     {
-      "name": "___ oko",
+      "name": "___ noc",
       "words": [
-        "KUŘÍ",
-        "SOKOLÍ",
-        "RYBÍ",
-        "VOLSKÉ"
+        "SVATÁ",
+        "TICHÁ",
+        "SVATOJÁNSKÁ",
+        "FILIPOJAKUBSKÁ"
       ]
     }
   ]

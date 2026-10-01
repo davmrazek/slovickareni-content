@@ -1,40 +1,40 @@
 {
-  "id": "conn-255",
+  "id": "conn-620",
   "groups": [
     {
-      "name": "Hledání práce",
+      "name": "Mariáš",
       "words": [
-        "INZERÁT",
-        "ŽIVOTOPIS",
-        "POHOVOR",
-        "NÁBOR"
+        "ESO",
+        "SVRŠEK",
+        "SPODEK",
+        "DESÍTKA"
       ]
     },
     {
-      "name": "Pracovní poměr",
+      "name": "Barvy mariášek",
       "words": [
-        "SMLOUVA",
-        "ÚVAZEK",
-        "DOVOLENÁ",
-        "VÝPOVĚĎ"
+        "ČERVENÉ",
+        "ZELENÉ",
+        "KULE",
+        "ŽALUDY"
       ]
     },
     {
-      "name": "Profese",
+      "name": "Kasino",
       "words": [
-        "ÚČETNÍ",
-        "PRÁVNÍK",
-        "KUCHAŘ",
-        "ŘIDIČ"
+        "RULETA",
+        "ŽETON",
+        "KRUPIÉR",
+        "BLACKJACK"
       ]
     },
     {
-      "name": "Pracovní ___",
+      "name": "___ eso",
       "words": [
-        "DOBA",
-        "OBĚD",
-        "NÁPLŇ",
-        "ÚRAZ"
+        "SRDCOVÉ",
+        "PIKOVÉ",
+        "TENISOVÉ",
+        "LETECKÉ"
       ]
     }
   ]

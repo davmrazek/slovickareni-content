@@ -1,40 +1,40 @@
 {
-  "id": "conn-172",
+  "id": "conn-537",
   "groups": [
     {
-      "name": "Vodní režim krajiny",
+      "name": "Letní počasí",
       "words": [
-        "PRAMEN",
-        "MOKŘAD",
-        "TŮŇ",
-        "POTOK"
+        "VEDRO",
+        "DUSNO",
+        "BOUŘKA",
+        "KROUPY"
       ]
     },
     {
-      "name": "Obojživelníci u vody",
+      "name": "Hurikány",
       "words": [
-        "SKOKAN",
-        "ROSNIČKA",
-        "MLOK",
-        "ČOLEK"
+        "KATRINA",
+        "SANDY",
+        "ANDREW",
+        "IRMA"
       ]
     },
     {
-      "name": "Vodní hmyz",
+      "name": "Sněhurčini trpaslíci",
       "words": [
-        "POTÁPNÍK",
-        "ŠIDÉLKO",
-        "BRUSLAŘKA",
-        "LARVA"
+        "ŠMUDLA",
+        "KÝCHAL",
+        "STYDLÍN",
+        "DŘÍMAL"
       ]
     },
     {
-      "name": "Stojatá ___",
+      "name": "___ bouře",
       "words": [
-        "VODA",
-        "HLADINA",
-        "KALUŽ",
-        "BAŽINA"
+        "MAGNETICKÁ",
+        "SNĚHOVÁ",
+        "PÍSEČNÁ",
+        "TROPICKÁ"
       ]
     }
   ]

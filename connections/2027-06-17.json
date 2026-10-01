@@ -1,40 +1,40 @@
 {
-  "id": "conn-182",
+  "id": "conn-547",
   "groups": [
     {
-      "name": "České řeky",
+      "name": "Vaření v kempu",
       "words": [
-        "SÁZAVA",
-        "BEROUNKA",
-        "JIZERA",
-        "DYJE"
+        "VAŘIČ",
+        "EŠUS",
+        "SIRKY",
+        "KOTLÍK"
       ]
     },
     {
-      "name": "Česká pohoří",
+      "name": "Olympijští plavci",
       "words": [
-        "ŠUMAVA",
-        "KRKONOŠE",
-        "JESENÍKY",
-        "BESKYDY"
+        "PHELPS",
+        "SPITZ",
+        "LEDECKY",
+        "THORPE"
       ]
     },
     {
-      "name": "Krajské město",
+      "name": "Z japonštiny",
       "words": [
-        "OSTRAVA",
-        "PLZEŇ",
-        "LIBEREC",
-        "ZLÍN"
+        "SUMO",
+        "SUSHI",
+        "TSUNAMI",
+        "KARAOKE"
       ]
     },
     {
-      "name": "Český ___",
+      "name": "Ukrývají KART",
       "words": [
-        "RÁJ",
-        "KRUMLOV",
-        "LEV",
-        "JAZYK"
+        "KARTUŠE",
+        "KARTÁČ",
+        "KARTOGRAF",
+        "SKARTACE"
       ]
     }
   ]

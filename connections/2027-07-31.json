@@ -1,40 +1,40 @@
 {
-  "id": "conn-226",
+  "id": "conn-591",
   "groups": [
     {
-      "name": "Televizní pořady",
+      "name": "Oplocení",
       "words": [
-        "SERIÁL",
-        "ZPRÁVY",
-        "SOUTĚŽ",
-        "DOKUMENT"
+        "PLETIVO",
+        "ZÍDKA",
+        "PALISÁDA",
+        "PLAŇKY"
       ]
     },
     {
-      "name": "Ovladač",
+      "name": "Africké nástroje",
       "words": [
-        "TLAČÍTKO",
-        "BATERIE",
-        "HLASITOST",
-        "PROGRAM"
+        "KORA",
+        "BALAFON",
+        "DUNDUN",
+        "MBIRA"
       ]
     },
     {
-      "name": "Streamování",
+      "name": "Mezopotámie",
       "words": [
-        "EPIZODA",
-        "PŘEDPLATNÉ",
-        "TITULKY",
-        "OFFLINE"
+        "UR",
+        "BABYLON",
+        "NINIVE",
+        "URUK"
       ]
     },
     {
-      "name": "Malá ___",
+      "name": "Ukrývají jídlo",
       "words": [
-        "OBRAZOVKA",
-        "VELIKOST",
-        "POZORNOST",
-        "PŘESTÁVKA"
+        "KAŠEL",
+        "SÝRIE",
+        "MEDÚZA",
+        "DŽEMBE"
       ]
     }
   ]

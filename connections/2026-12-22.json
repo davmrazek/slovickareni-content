@@ -1,40 +1,40 @@
 {
-  "id": "conn-5",
+  "id": "conn-370",
   "groups": [
     {
-      "name": "Měsíce",
+      "name": "Vánoční výzdoba",
       "words": [
-        "LEDEN",
-        "BŘEZEN",
-        "SRPEN",
-        "ŘÍJEN"
+        "JMELÍ",
+        "BAŇKA",
+        "BETLÉM",
+        "CESMÍNA"
       ]
     },
     {
-      "name": "Ptáci",
+      "name": "Dopisní potřeby",
       "words": [
-        "SOVA",
-        "VRABEC",
-        "OREL",
-        "HOLUB"
+        "OBÁLKA",
+        "ZNÁMKA",
+        "PAPÍR",
+        "PEČEŤ"
       ]
     },
     {
-      "name": "Vlčí ___",
+      "name": "Čínský horoskop",
       "words": [
-        "MÁK",
-        "SMEČKA",
-        "ZÁKON",
-        "BOB"
+        "TYGR",
+        "DRAK",
+        "OPICE",
+        "KOHOUT"
       ]
     },
     {
-      "name": "Druhy pečiva",
+      "name": "Ukrývají LED",
       "words": [
-        "ROHLÍK",
-        "HOUSKA",
-        "DALAMÁNEK",
-        "VEKA"
+        "POLEDNE",
+        "KOLEDA",
+        "SLEDĚ",
+        "VÝSLEDEK"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-201",
+  "id": "conn-566",
   "groups": [
     {
-      "name": "V samoobsluze",
+      "name": "Jan Hus",
       "words": [
-        "VOZÍK",
-        "POKLADNA",
-        "REGÁL",
-        "AKCE"
+        "KOSTNICE",
+        "KAZATEL",
+        "HRANICE",
+        "HUSINEC"
       ]
     },
     {
-      "name": "Mléčný pult",
+      "name": "Husitští vojevůdci",
       "words": [
-        "JOGURT",
-        "TVAROH",
-        "SMETANA",
-        "PODMÁSLÍ"
+        "ŽIŽKA",
+        "PROKOP",
+        "ROHÁČ",
+        "KORYBUT"
       ]
     },
     {
-      "name": "Pečivo",
+      "name": "Reformátoři",
       "words": [
-        "HOUSKA",
-        "BAGETA",
-        "VEKA",
-        "ŠÁTEČEK"
+        "LUTHER",
+        "KALVÍN",
+        "ZWINGLI",
+        "WYCLIF"
       ]
     },
     {
-      "name": "Čerstvý ___",
+      "name": "Ukrývají KOST",
       "words": [
-        "VZDUCH",
-        "SÝR",
-        "VÍTR",
-        "NÁPAD"
+        "KOSTEL",
+        "KOSTKA",
+        "KOSTÝM",
+        "SKOSTNATĚLÝ"
       ]
     }
   ]

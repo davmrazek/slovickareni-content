@@ -1,40 +1,40 @@
 {
-  "id": "conn-187",
+  "id": "conn-552",
   "groups": [
     {
-      "name": "Jazykové rodiny",
+      "name": "Na stole v restauraci",
       "words": [
-        "SLOVANSKÉ",
-        "GERMÁNSKÉ",
-        "ROMÁNSKÉ",
-        "KELTSKÉ"
+        "MENU",
+        "PEPŘENKA",
+        "PÁRÁTKA",
+        "ÚČET"
       ]
     },
     {
-      "name": "Slovní druhy",
+      "name": "Slavní kuchaři",
       "words": [
-        "ZÁJMENO",
-        "SLOVESO",
-        "PŘÍSLOVCE",
-        "SPOJKA"
+        "RAMSAY",
+        "OLIVER",
+        "BOCUSE",
+        "POHLREICH"
       ]
     },
     {
-      "name": "Pravopis",
+      "name": "Steaky",
       "words": [
-        "ČÁRKA",
-        "HÁČEK",
-        "DIKTÁT",
-        "SHODA"
+        "RIBEYE",
+        "ROSTBEEF",
+        "FILET",
+        "ENTRECOTE"
       ]
     },
     {
-      "name": "Mateřský ___",
+      "name": "Mají menu",
       "words": [
-        "JAZYK",
-        "PUD",
-        "KLÍN",
-        "PODNIK"
+        "RESTAURACE",
+        "TELEVIZE",
+        "POČÍTAČ",
+        "MOBIL"
       ]
     }
   ]

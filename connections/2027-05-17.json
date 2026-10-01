@@ -1,40 +1,40 @@
 {
-  "id": "conn-151",
+  "id": "conn-516",
   "groups": [
     {
-      "name": "Filmová produkce",
+      "name": "Do salátu",
       "words": [
-        "SCÉNÁŘ",
-        "KLAPKA",
-        "STŘIH",
-        "PREMIÉRA"
+        "RAJČE",
+        "OKURKA",
+        "ŘEDKVIČKA",
+        "POLNÍČEK"
       ]
     },
     {
-      "name": "Kameramanské pojmy",
+      "name": "Metropole Střední Ameriky",
       "words": [
-        "ZÁBĚR",
-        "DETAIL",
-        "JÍZDA",
-        "PROTISVĚTLO"
+        "MANAGUA",
+        "TEGUCIGALPA",
+        "BELMOPAN",
+        "GUATEMALA"
       ]
     },
     {
-      "name": "V kině",
+      "name": "Hadi",
       "words": [
-        "POPCORN",
-        "SÁL",
-        "PLÁTNO",
-        "ŘADA"
+        "KOBRA",
+        "MAMBA",
+        "KRAJTA",
+        "ZMIJE"
       ]
     },
     {
-      "name": "Němý ___",
+      "name": "___ salát",
       "words": [
-        "FILM",
-        "SVĚDEK",
-        "ÚDIV",
-        "VÝKŘIK"
+        "OVOCNÝ",
+        "BRAMBOROVÝ",
+        "VLAŠSKÝ",
+        "ŘECKÝ"
       ]
     }
   ]

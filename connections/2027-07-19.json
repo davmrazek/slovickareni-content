@@ -1,40 +1,40 @@
 {
-  "id": "conn-214",
+  "id": "conn-579",
   "groups": [
     {
-      "name": "Kempink",
+      "name": "Do palačinky",
       "words": [
-        "STAN",
-        "KOLÍK",
-        "CELTA",
-        "VAŘIČ"
+        "DŽEM",
+        "TVAROH",
+        "NUTELA",
+        "ZMRZLINA"
       ]
     },
     {
-      "name": "Karavan",
+      "name": "Prvky z mýtů",
       "words": [
-        "PŘÍVĚS",
-        "MARKÝZA",
-        "PŘÍPOJKA",
-        "NÁDRŽ"
+        "TITAN",
+        "PROMETHIUM",
+        "NIOB",
+        "TANTAL"
       ]
     },
     {
-      "name": "Noc pod širákem",
+      "name": "Hrdinové Julese Verna",
       "words": [
-        "HVĚZDY",
-        "KOMÁŘI",
-        "ROSA",
-        "OHNIŠTĚ"
+        "NEMO",
+        "FOGG",
+        "PASSEPARTOUT",
+        "ROBUR"
       ]
     },
     {
-      "name": "Letní ___",
+      "name": "Mají náplň",
       "words": [
-        "NOC",
-        "KINO",
-        "ČAS",
-        "BUNDA"
+        "PERO",
+        "KOBLIHA",
+        "SEŠÍVAČKA",
+        "POLŠTÁŘ"
       ]
     }
   ]

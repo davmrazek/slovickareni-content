@@ -1,40 +1,40 @@
 {
-  "id": "conn-198",
+  "id": "conn-563",
   "groups": [
     {
-      "name": "Fitness",
+      "name": "Horolezecká výbava",
       "words": [
-        "ČINKA",
-        "BĚHÁTKO",
-        "TRENÉR",
-        "SÉRIE"
+        "LANO",
+        "SEDÁK",
+        "CEPÍN",
+        "SMYČKA"
       ]
     },
     {
-      "name": "Jóga",
+      "name": "Ledovce",
       "words": [
-        "PODLOŽKA",
-        "POZICE",
-        "DECH",
-        "MEDITACE"
+        "ALETSCH",
+        "VATNAJÖKULL",
+        "HUBBARD",
+        "PASTERZE"
       ]
     },
     {
-      "name": "Regenerace",
+      "name": "Evropské monarchie",
       "words": [
-        "SAUNA",
-        "STREČINK",
-        "MASÁŽ",
-        "VANA"
+        "BELGIE",
+        "NIZOZEMSKO",
+        "ŠPANĚLSKO",
+        "LUCEMBURSKO"
       ]
     },
     {
-      "name": "Zdravý ___",
+      "name": "Palné zbraně",
       "words": [
-        "ROZUM",
-        "VÝVOJ",
-        "SPÁNEK",
-        "APETIT"
+        "KARABINA",
+        "PUŠKA",
+        "BROKOVNICE",
+        "PISTOLE"
       ]
     }
   ]

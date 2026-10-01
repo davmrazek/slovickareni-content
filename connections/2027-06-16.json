@@ -1,40 +1,40 @@
 {
-  "id": "conn-181",
+  "id": "conn-546",
   "groups": [
     {
-      "name": "Sopečná činnost",
+      "name": "Zeleninová zahrádka",
       "words": [
-        "LÁVA",
-        "KRÁTER",
-        "MAGMA",
-        "POPEL"
+        "HRÁŠEK",
+        "MRKEV",
+        "CIBULE",
+        "SALÁT"
       ]
     },
     {
-      "name": "Zemětřesení",
+      "name": "Švédská města",
       "words": [
-        "OTŘES",
-        "EPICENTRUM",
-        "TRHLINA",
-        "VLNA"
+        "GÖTEBORG",
+        "MALMÖ",
+        "UPPSALA",
+        "KIRUNA"
       ]
     },
     {
-      "name": "Vrstvy Země",
+      "name": "Antické filozofické školy",
       "words": [
-        "KŮRA",
-        "PLÁŠŤ",
-        "JÁDRO",
-        "LITOSFÉRA"
+        "STOICI",
+        "EPIKUREJCI",
+        "KYNICI",
+        "SKEPTICI"
       ]
     },
     {
-      "name": "Žhavá ___",
+      "name": "Mají lusky",
       "words": [
-        "NOVINKA",
-        "POLEMIKA",
-        "PLOTNA",
-        "FÁZE"
+        "FAZOLE",
+        "SÓJA",
+        "AKÁT",
+        "VIKEV"
       ]
     }
   ]

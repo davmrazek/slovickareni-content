@@ -1,40 +1,40 @@
 {
-  "id": "conn-68",
+  "id": "conn-433",
   "groups": [
     {
-      "name": "Pro miminko",
+      "name": "Volno",
       "words": [
-        "KOČÁREK",
-        "DUDLÍK",
-        "PLENA",
-        "CHRASTÍTKO"
+        "SOBOTA",
+        "NEDĚLE",
+        "SVÁTEK",
+        "DOVOLENÁ"
       ]
     },
     {
-      "name": "Hračky",
+      "name": "Tance 20. a 30. let",
       "words": [
-        "PANENKA",
-        "KOSTKY",
-        "MEDVÍDEK",
-        "AUTÍČKO"
+        "CHARLESTON",
+        "FOXTROT",
+        "SHIMMY",
+        "SWING"
       ]
     },
     {
-      "name": "Na hřišti",
+      "name": "Nobelovy ceny",
       "words": [
-        "HOUPAČKA",
-        "SKLUZAVKA",
-        "PÍSKOVIŠTĚ",
-        "PROLÉZAČKA"
+        "FYZIKA",
+        "CHEMIE",
+        "MEDICÍNA",
+        "LITERATURA"
       ]
     },
     {
-      "name": "___ řeč",
+      "name": "___ výlet",
       "words": [
-        "MATEŘSKÁ",
-        "PŘÍMÁ",
-        "ZNAKOVÁ",
-        "NEPŘÍMÁ"
+        "ŠKOLNÍ",
+        "RODINNÝ",
+        "CELODENNÍ",
+        "NEDĚLNÍ"
       ]
     }
   ]

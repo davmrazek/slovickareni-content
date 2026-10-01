@@ -1,0 +1,41 @@
+{
+  "id": "conn-646",
+  "groups": [
+    {
+      "name": "Svíčková",
+      "words": [
+        "SVÍČKOVÁ",
+        "CITRON",
+        "BRUSINKY",
+        "KNEDLÍK"
+      ]
+    },
+    {
+      "name": "Francouzské omáčky",
+      "words": [
+        "BEŠAMEL",
+        "BÉARNAISE",
+        "VELOUTÉ",
+        "MORNAY"
+      ]
+    },
+    {
+      "name": "Francouzská jídla",
+      "words": [
+        "BOUILLABAISSE",
+        "QUICHE",
+        "CASSOULET",
+        "CONFIT"
+      ]
+    },
+    {
+      "name": "Česká příjmení i jídla",
+      "words": [
+        "SMETANA",
+        "KOLÁČ",
+        "BUCHTA",
+        "POLÍVKA"
+      ]
+    }
+  ]
+}

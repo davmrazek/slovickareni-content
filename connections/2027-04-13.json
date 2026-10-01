@@ -1,40 +1,40 @@
 {
-  "id": "conn-117",
+  "id": "conn-482",
   "groups": [
     {
-      "name": "Šachy",
+      "name": "Hry na chodníku",
       "words": [
-        "MAT",
-        "ROŠÁDA",
-        "GAMBIT",
-        "REMÍZA"
+        "KULIČKY",
+        "ŠVIHADLO",
+        "KŘÍDA",
+        "GUMA"
       ]
     },
     {
-      "name": "Karty",
+      "name": "Vítězové Tour de France",
       "words": [
-        "MARIÁŠ",
-        "ŽOLÍK",
-        "TRUMF",
-        "LICITACE"
+        "MERCKX",
+        "HINAULT",
+        "INDURAIN",
+        "POGAČAR"
       ]
     },
     {
-      "name": "Kostky a žetony",
+      "name": "Pravěké superkontinenty",
       "words": [
-        "HÁZENÍ",
-        "BANK",
-        "SÁZKA",
-        "PLÁN"
+        "PANGEA",
+        "GONDWANA",
+        "LAURASIE",
+        "RODINIE"
       ]
     },
     {
-      "name": "Čistá ___",
+      "name": "___ skok",
       "words": [
-        "HRA",
-        "VODA",
-        "NÁHODA",
-        "PRÁCE"
+        "DALEKÝ",
+        "VYSOKÝ",
+        "ŽABÍ",
+        "KVANTOVÝ"
       ]
     }
   ]

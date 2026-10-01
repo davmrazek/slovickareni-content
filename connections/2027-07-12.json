@@ -1,40 +1,40 @@
 {
-  "id": "conn-207",
+  "id": "conn-572",
   "groups": [
     {
-      "name": "Polévky",
+      "name": "Živý plot",
       "words": [
-        "VÝVAR",
-        "KRÉMOVÁ",
-        "GULÁŠOVKA",
-        "ČOČKOVÁ"
+        "TÚJE",
+        "ZIMOLEZ",
+        "BŘEČŤAN",
+        "HABR"
       ]
     },
     {
-      "name": "Vložky do polévky",
+      "name": "Spielbergovy filmy",
       "words": [
-        "NUDLE",
-        "KAPÁNÍ",
-        "KRUTONY",
-        "KNEDLÍČKY"
+        "ČELISTI",
+        "DUEL",
+        "HOOK",
+        "MNICHOV"
       ]
     },
     {
-      "name": "Luštěniny",
+      "name": "Proroci",
       "words": [
-        "HRÁCH",
-        "FAZOLE",
-        "CIZRNA",
-        "SÓJA"
+        "IZAIÁŠ",
+        "JEREMIÁŠ",
+        "EZECHIEL",
+        "DANIEL"
       ]
     },
     {
-      "name": "Hustý jako ___",
+      "name": "Mají čelisti",
       "words": [
-        "KAŠE",
-        "MLHA",
-        "LES",
-        "SIRUP"
+        "ŽRALOK",
+        "KLEŠTĚ",
+        "SVĚRÁK",
+        "BAGR"
       ]
     }
   ]

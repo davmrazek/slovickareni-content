@@ -1,40 +1,40 @@
 {
-  "id": "conn-85",
+  "id": "conn-450",
   "groups": [
     {
-      "name": "V lomu",
+      "name": "Zahradní nábytek",
       "words": [
-        "ŽULA",
-        "VÁPENEC",
-        "PÍSKOVEC",
-        "ČEDIČ"
+        "LEHÁTKO",
+        "HOUPAČKA",
+        "SLUNEČNÍK",
+        "LAVIČKA"
       ]
     },
     {
-      "name": "Sochařské techniky",
+      "name": "Starověké civilizace",
       "words": [
-        "ODLITEK",
-        "TESÁNÍ",
-        "MODELOVÁNÍ",
-        "BROUŠENÍ"
+        "SUMEROVÉ",
+        "MAYOVÉ",
+        "AZTÉKOVÉ",
+        "INKOVÉ"
       ]
     },
     {
-      "name": "Kovářské náčiní",
+      "name": "Hokejové kluby",
       "words": [
-        "KOVADLINA",
-        "KLEŠTĚ",
-        "MĚCH",
-        "PERLÍK"
+        "KOMETA",
+        "MOTOR",
+        "ENERGIE",
+        "VERVA"
       ]
     },
     {
-      "name": "Tvrdý jako ___",
+      "name": "___ ruch",
       "words": [
-        "SKÁLA",
-        "OCEL",
-        "KÁMEN",
-        "DIAMANT"
+        "TURISTICKÝ",
+        "DOPRAVNÍ",
+        "VÁNOČNÍ",
+        "ČILÝ"
       ]
     }
   ]

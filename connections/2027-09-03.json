@@ -1,40 +1,40 @@
 {
-  "id": "conn-260",
+  "id": "conn-625",
   "groups": [
     {
-      "name": "Šachová partie",
+      "name": "Školní oběd",
       "words": [
-        "ZAHÁJENÍ",
-        "HODINY",
-        "KONCOVKA",
-        "TAH"
+        "POLÉVKA",
+        "KOMPOT",
+        "NÁKYP",
+        "BUCHTIČKY"
       ]
     },
     {
-      "name": "Šachové figury",
+      "name": "Pražská sídliště",
       "words": [
-        "JEZDEC",
-        "STŘELEC",
-        "DÁMA",
-        "PĚŠEC"
+        "BOHNICE",
+        "STODŮLKY",
+        "LUŽINY",
+        "MODŘANY"
       ]
     },
     {
-      "name": "Šachové pojmy",
+      "name": "Přemyslovská jména",
       "words": [
-        "ŠACH",
-        "OBĚŤ",
-        "VAZBA",
-        "PROMĚNA"
+        "BOŘIVOJ",
+        "SPYTIHNĚV",
+        "BOLESLAV",
+        "OLDŘICH"
       ]
     },
     {
-      "name": "Bílé ___",
+      "name": "___ oběd",
       "words": [
-        "POLE",
-        "MASO",
-        "PRÁDLO",
-        "NOCI"
+        "NEDĚLNÍ",
+        "PRACOVNÍ",
+        "SLAVNOSTNÍ",
+        "ŠKOLNÍ"
       ]
     }
   ]

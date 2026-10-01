@@ -1,40 +1,40 @@
 {
-  "id": "conn-156",
+  "id": "conn-521",
   "groups": [
     {
-      "name": "Smysly",
+      "name": "Na léto",
       "words": [
-        "ZRAK",
-        "SLUCH",
-        "HMAT",
-        "ČICH"
+        "TRIČKO",
+        "TÍLKO",
+        "BERMUDY",
+        "KŠILTOVKA"
       ]
     },
     {
-      "name": "Oko",
+      "name": "Napoleonské bitvy",
       "words": [
-        "ZORNICE",
-        "DUHOVKA",
-        "SÍTNICE",
-        "VÍČKO"
+        "SLAVKOV",
+        "BORODINO",
+        "JENA",
+        "WAGRAM"
       ]
     },
     {
-      "name": "U očního",
+      "name": "Zvířata z Madagaskaru",
       "words": [
-        "DIOPTRIE",
-        "OBROUČKY",
-        "ČOČKA",
-        "TABULKA"
+        "LEMUR",
+        "FOSSA",
+        "AJAJ",
+        "TENREK"
       ]
     },
     {
-      "name": "Bystré ___",
+      "name": "Písně ABBY",
       "words": [
-        "OKO",
-        "DÍTĚ",
-        "UŠI",
-        "TEMPO"
+        "WATERLOO",
+        "FERNANDO",
+        "CHIQUITITA",
+        "SOS"
       ]
     }
   ]

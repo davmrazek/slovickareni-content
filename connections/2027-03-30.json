@@ -1,40 +1,40 @@
 {
-  "id": "conn-103",
+  "id": "conn-468",
   "groups": [
     {
-      "name": "Na stavbě",
+      "name": "Péče o trávník",
       "words": [
-        "LEŠENÍ",
-        "JEŘÁB",
-        "MÍCHAČKA",
-        "HELMA"
+        "SEKAČKA",
+        "HRÁBĚ",
+        "POSTŘIKOVAČ",
+        "HNOJIVO"
       ]
     },
     {
-      "name": "Zdicí materiál",
+      "name": "České zpěvačky a zpěváci",
       "words": [
-        "CIHLA",
-        "TVÁRNICE",
-        "MALTA",
-        "PANEL"
+        "VONDRÁČKOVÁ",
+        "ZAGOROVÁ",
+        "KUBIŠOVÁ",
+        "MATUŠKA"
       ]
     },
     {
-      "name": "Zednické náčiní",
+      "name": "Ruské řeky",
       "words": [
-        "LŽÍCE",
-        "VODOVÁHA",
-        "OLOVNICE",
-        "HLADÍTKO"
+        "VOLHA",
+        "DON",
+        "OB",
+        "LENA"
       ]
     },
     {
-      "name": "Hrubá ___",
+      "name": "___ sezóna",
       "words": [
-        "STAVBA",
-        "SÍLA",
-        "MOUKA",
-        "CHYBA"
+        "TURISTICKÁ",
+        "LYŽAŘSKÁ",
+        "OKURKOVÁ",
+        "DIVADELNÍ"
       ]
     }
   ]

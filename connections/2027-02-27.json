@@ -1,40 +1,40 @@
 {
-  "id": "conn-72",
+  "id": "conn-437",
   "groups": [
     {
-      "name": "Snídaně",
+      "name": "Povinná výbava auta",
       "words": [
-        "MÜSLI",
-        "TOPINKA",
-        "VAJÍČKO",
-        "DŽUS"
+        "REZERVA",
+        "HEVER",
+        "VESTA",
+        "LÉKÁRNIČKA"
       ]
     },
     {
-      "name": "Zavařeniny",
+      "name": "Kreslené kočky",
       "words": [
-        "DŽEM",
-        "KOMPOT",
-        "POVIDLA",
-        "MARMELÁDA"
+        "GARFIELD",
+        "MIKEŠ",
+        "TOM",
+        "SYLVESTR"
       ]
     },
     {
-      "name": "Uzeniny",
+      "name": "Shakespearovi hrdinové",
       "words": [
-        "KLOBÁSA",
-        "ŠUNKA",
-        "SALÁM",
-        "PAŠTIKA"
+        "HAMLET",
+        "MACBETH",
+        "OTHELLO",
+        "ROMEO"
       ]
     },
     {
-      "name": "___ máslo",
+      "name": "___ trojúhelník",
       "words": [
-        "ARAŠÍDOVÉ",
-        "ČESNEKOVÉ",
-        "KAKAOVÉ",
-        "BYLINKOVÉ"
+        "BERMUDSKÝ",
+        "PRAVOÚHLÝ",
+        "MILOSTNÝ",
+        "VÝSTRAŽNÝ"
       ]
     }
   ]

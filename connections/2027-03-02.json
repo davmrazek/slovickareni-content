@@ -1,40 +1,40 @@
 {
-  "id": "conn-75",
+  "id": "conn-440",
   "groups": [
     {
-      "name": "V zaměstnání",
+      "name": "Předjaří",
       "words": [
-        "VÝPLATA",
-        "DOVOLENÁ",
-        "SMLOUVA",
-        "POHOVOR"
+        "SNĚŽENKA",
+        "BLEDULE",
+        "PODBĚL",
+        "SASANKA"
       ]
     },
     {
-      "name": "Na cestách",
+      "name": "Města na Labi",
       "words": [
-        "LETENKA",
-        "PAS",
-        "VÍZUM",
-        "ZAVAZADLO"
+        "KOLÍN",
+        "PARDUBICE",
+        "MĚLNÍK",
+        "DĚČÍN"
       ]
     },
     {
-      "name": "V hotelu",
+      "name": "Slavné sochy",
       "words": [
-        "RECEPCE",
-        "POKOJ",
-        "KLÍČ",
-        "SNÍDANĚ"
+        "DAVID",
+        "MYSLITEL",
+        "DISKOBOLOS",
+        "LAOKOON"
       ]
     },
     {
-      "name": "___ doba",
+      "name": "Mají pedály",
       "words": [
-        "PRACOVNÍ",
-        "OTEVÍRACÍ",
-        "LEDOVÁ",
-        "KAMENNÁ"
+        "KOLO",
+        "KLAVÍR",
+        "AUTO",
+        "HARFA"
       ]
     }
   ]

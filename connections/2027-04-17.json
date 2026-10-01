@@ -1,40 +1,40 @@
 {
-  "id": "conn-121",
+  "id": "conn-486",
   "groups": [
     {
-      "name": "V opeře",
+      "name": "Na grilovačku",
       "words": [
-        "ÁRIE",
-        "LIBRETO",
-        "PŘEDEHRA",
-        "SBOR"
+        "KLOBÁSA",
+        "KRKOVICE",
+        "ŠPEKÁČEK",
+        "HERMELÍN"
       ]
     },
     {
-      "name": "Smyčcové nástroje",
+      "name": "Rychlobruslaři",
       "words": [
-        "HOUSLE",
-        "VIOLA",
-        "CELLO",
-        "KONTRABAS"
+        "SÁBLÍKOVÁ",
+        "ERBANOVÁ",
+        "HEIDEN",
+        "WÜST"
       ]
     },
     {
-      "name": "Části houslí",
+      "name": "Anglická města",
       "words": [
-        "SMYČEC",
-        "KOBYLKA",
-        "STRUNA",
-        "KOLÍČEK"
+        "LEEDS",
+        "BRISTOL",
+        "OXFORD",
+        "YORK"
       ]
     },
     {
-      "name": "Absolutní ___",
+      "name": "Ukrývají řeku",
       "words": [
-        "SLUCH",
-        "NULA",
-        "MOC",
-        "VĚTŠINA"
+        "ODRAZ",
+        "OHŘEV",
+        "OSLAVA",
+        "MORAVAN"
       ]
     }
   ]

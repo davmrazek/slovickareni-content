@@ -1,40 +1,40 @@
 {
-  "id": "conn-143",
+  "id": "conn-508",
   "groups": [
     {
-      "name": "Rytířský turnaj",
+      "name": "Den matek",
       "words": [
-        "KOPÍ",
-        "BRNĚNÍ",
-        "HELMICE",
-        "KLÁNÍ"
+        "KYTICE",
+        "PŘÁNÍČKO",
+        "SNÍDANĚ",
+        "OBJETÍ"
       ]
     },
     {
-      "name": "Erb a heraldika",
+      "name": "Samice",
       "words": [
-        "ŠTÍT",
-        "LEV",
-        "KORUNA",
-        "KLENOT"
+        "KLISNA",
+        "KRÁVA",
+        "BACHYNĚ",
+        "LAŇ"
       ]
     },
     {
-      "name": "Hradní posádka",
+      "name": "České kněžny a královny",
       "words": [
-        "PURKRABÍ",
-        "BIŘIC",
-        "ZBROJNOŠ",
-        "STRÁŽNÝ"
+        "DRAHOMÍRA",
+        "ELIŠKA",
+        "DOUBRAVKA",
+        "EMMA"
       ]
     },
     {
-      "name": "Železná ___",
+      "name": "Matka ___",
       "words": [
-        "RUDA",
-        "KOŠILE",
-        "PĚST",
-        "DÁMA"
+        "PŘÍRODA",
+        "TEREZA",
+        "PLUKU",
+        "BOŽÍ"
       ]
     }
   ]

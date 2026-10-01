@@ -1,40 +1,40 @@
 {
-  "id": "conn-123",
+  "id": "conn-488",
   "groups": [
     {
-      "name": "Rocková kapela",
+      "name": "Jarní práce v sadu",
       "words": [
-        "KYTARA",
-        "BICÍ",
-        "BASA",
-        "ZPĚVÁK"
+        "ŘEZ",
+        "ROUBOVÁNÍ",
+        "POSTŘIK",
+        "VÁPNĚNÍ"
       ]
     },
     {
-      "name": "Na koncertě",
+      "name": "Hlavní města Oceánie",
       "words": [
-        "PÓDIUM",
-        "PŘÍDAVEK",
-        "VSTUPENKA",
-        "ZESILOVAČ"
+        "CANBERRA",
+        "WELLINGTON",
+        "SUVA",
+        "APIA"
       ]
     },
     {
-      "name": "Nahrávání",
+      "name": "Přírodní vlákna",
       "words": [
-        "STUDIO",
-        "MIKROFON",
-        "MIX",
-        "MASTER"
+        "LEN",
+        "JUTA",
+        "KONOPÍ",
+        "SISAL"
       ]
     },
     {
-      "name": "Falešná ___",
+      "name": "Mají jádro",
       "words": [
-        "NOTA",
-        "STOPA",
-        "SKROMNOST",
-        "NADĚJE"
+        "ATOM",
+        "OŘECH",
+        "ZEMĚ",
+        "BUŇKA"
       ]
     }
   ]

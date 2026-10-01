@@ -1,40 +1,40 @@
 {
-  "id": "conn-35",
+  "id": "conn-400",
   "groups": [
     {
-      "name": "Mořské ryby",
+      "name": "Domácí obuv",
       "words": [
-        "TUŇÁK",
-        "TRESKA",
-        "SARDINKA",
-        "MAKRELA"
+        "PANTOFLE",
+        "PAPUČE",
+        "BAČKORY",
+        "TREPKY"
       ]
     },
     {
-      "name": "Dechové nástroje",
+      "name": "Sporty přes síť",
       "words": [
-        "TRUBKA",
-        "KLARINET",
-        "SAXOFON",
-        "HOBOJ"
+        "TENIS",
+        "VOLEJBAL",
+        "BADMINTON",
+        "NOHEJBAL"
       ]
     },
     {
-      "name": "Svatá ___",
+      "name": "Simpsonovi",
       "words": [
-        "TROJICE",
-        "ZEMĚ",
-        "VÁLKA",
-        "PRAVDA"
+        "HOMER",
+        "MARGE",
+        "BART",
+        "LÍZA"
       ]
     },
     {
-      "name": "Rodina",
+      "name": "Mají jazyk",
       "words": [
-        "MATKA",
-        "OTEC",
-        "SESTRA",
-        "BRATR"
+        "ZVON",
+        "PLAMEN",
+        "VÁHY",
+        "NÁROD"
       ]
     }
   ]

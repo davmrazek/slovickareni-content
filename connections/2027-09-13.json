@@ -1,40 +1,40 @@
 {
-  "id": "conn-270",
+  "id": "conn-635",
   "groups": [
     {
-      "name": "Lékárnička",
+      "name": "Oblek",
       "words": [
-        "NÁPLAST",
-        "OBINADLO",
-        "DEZINFEKCE",
-        "PINZETA"
+        "SAKO",
+        "VESTA",
+        "KLOPA",
+        "KNOFLÍKY"
       ]
     },
     {
-      "name": "Bolesti",
+      "name": "Módní návrháři",
       "words": [
-        "HLAVY",
-        "ZUBŮ",
-        "ZAD",
-        "BŘICHA"
+        "LAGERFELD",
+        "VALENTINO",
+        "VERSACE",
+        "YAMAMOTO"
       ]
     },
     {
-      "name": "Léky",
+      "name": "Tkaní",
       "words": [
-        "TABLETA",
-        "SIRUP",
-        "ČÍPEK",
-        "KAPSLE"
+        "OSNOVA",
+        "ÚTEK",
+        "STAV",
+        "NIT"
       ]
     },
     {
-      "name": "Tupá ___",
+      "name": "Malá plavidla",
       "words": [
-        "BOLEST",
-        "ČEPEL",
-        "HRANA",
-        "ODPOVĚĎ"
+        "ČLUNEK",
+        "LOĎKA",
+        "PRAM",
+        "KOCÁBKA"
       ]
     }
   ]

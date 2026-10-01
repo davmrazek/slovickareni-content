@@ -1,40 +1,40 @@
 {
-  "id": "conn-102",
+  "id": "conn-467",
   "groups": [
     {
-      "name": "Krejčovství",
+      "name": "Velikonoční pondělí",
       "words": [
-        "METR",
-        "NÁPRSTEK",
-        "STEH",
-        "STŘIH"
+        "KRASLICE",
+        "KOLEDNÍK",
+        "ŠLEHÁNÍ",
+        "VAJÍČKO"
       ]
     },
     {
-      "name": "Části kalhot",
+      "name": "Lidové nástroje",
       "words": [
-        "PÁSEK",
-        "NOHAVICE",
-        "ZIP",
-        "KAPSA"
+        "FUJARA",
+        "DUDY",
+        "CIMBÁL",
+        "NINERA"
       ]
     },
     {
-      "name": "Zapínání",
+      "name": "Ostrovní státy Evropy",
       "words": [
-        "PATENTKA",
-        "PŘEZKA",
-        "KNOFLÍK",
-        "HÁČEK"
+        "ISLAND",
+        "IRSKO",
+        "KYPR",
+        "MALTA"
       ]
     },
     {
-      "name": "Šitý na ___",
+      "name": "Mají stuhu",
       "words": [
-        "MÍRU",
-        "TĚLO",
-        "STROJI",
-        "ZAKÁZKU"
+        "POMLÁZKA",
+        "VĚNEC",
+        "MEDAILE",
+        "DÁREK"
       ]
     }
   ]

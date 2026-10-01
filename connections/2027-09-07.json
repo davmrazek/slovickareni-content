@@ -1,40 +1,40 @@
 {
-  "id": "conn-264",
+  "id": "conn-629",
   "groups": [
     {
-      "name": "Na hřišti",
+      "name": "Pro štěně",
       "words": [
-        "PROLÉZAČKA",
-        "SKLUZAVKA",
-        "HOUPAČKA",
-        "KOLOTOČ"
+        "MISKA",
+        "KOST",
+        "HRAČKA",
+        "PELECH"
       ]
     },
     {
-      "name": "Míčové hry dětí",
+      "name": "Psí sporty",
       "words": [
-        "VYBÍJENÁ",
-        "PŘEHAZOVANÁ",
-        "KOPANÁ",
-        "ŠKOLKA"
+        "AGILITY",
+        "CANICROSS",
+        "DOGDANCING",
+        "FLYBALL"
       ]
     },
     {
-      "name": "Zranění na hřišti",
+      "name": "Psí jména",
       "words": [
-        "ODŘENINA",
-        "BOULE",
-        "MODŘINA",
-        "TŘÍSKA"
+        "AZOR",
+        "ALÍK",
+        "REK",
+        "BRIT"
       ]
     },
     {
-      "name": "Volná ___",
+      "name": "___ sport",
       "words": [
-        "ZÁBAVA",
-        "RUKA",
-        "JÍZDENKA",
-        "VOLBA"
+        "ADRENALINOVÝ",
+        "ZIMNÍ",
+        "VRCHOLOVÝ",
+        "MOTORISTICKÝ"
       ]
     }
   ]

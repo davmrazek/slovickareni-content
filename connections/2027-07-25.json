@@ -1,40 +1,40 @@
 {
-  "id": "conn-220",
+  "id": "conn-585",
   "groups": [
     {
-      "name": "Běžecké tratě",
+      "name": "Ke zpěvu u ohně",
       "words": [
-        "MARATON",
-        "PŮLMARATON",
-        "SPRINT",
-        "KROS"
+        "KYTARA",
+        "BENDŽO",
+        "CAJON",
+        "BONGA"
       ]
     },
     {
-      "name": "Běžecká výbava",
+      "name": "Country zpěváci",
       "words": [
-        "TRETRY",
-        "ČIP",
-        "ČELENKA",
-        "STOPKY"
+        "CASH",
+        "PARTON",
+        "ROGERS",
+        "JENNINGS"
       ]
     },
     {
-      "name": "Trénink",
+      "name": "Divoký západ",
       "words": [
-        "ROZCVIČKA",
-        "INTERVAL",
-        "TEMPO",
-        "REGENERACE"
+        "KOLT",
+        "SALON",
+        "DILIŽANS",
+        "LASO"
       ]
     },
     {
-      "name": "Druhý ___",
+      "name": "Nosí odznak",
       "words": [
-        "DECH",
-        "POKUS",
-        "DOMOV",
-        "PLÁN"
+        "ŠERIF",
+        "POLICISTA",
+        "SKAUT",
+        "PILOT"
       ]
     }
   ]

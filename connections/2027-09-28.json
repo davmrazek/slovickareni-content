@@ -1,0 +1,41 @@
+{
+  "id": "conn-650",
+  "groups": [
+    {
+      "name": "Svatý Václav",
+      "words": [
+        "KNÍŽE",
+        "KŮŇ",
+        "KOPÍ",
+        "CHORÁL"
+      ]
+    },
+    {
+      "name": "Slavní Václavové",
+      "words": [
+        "HAVEL",
+        "KLAUS",
+        "HOLLAR",
+        "NECKÁŘ"
+      ]
+    },
+    {
+      "name": "Pražská náměstí",
+      "words": [
+        "VÁCLAVSKÉ",
+        "STAROMĚSTSKÉ",
+        "KARLOVO",
+        "MALOSTRANSKÉ"
+      ]
+    },
+    {
+      "name": "Na českých bankovkách",
+      "words": [
+        "NĚMCOVÁ",
+        "MASARYK",
+        "DESTINNOVÁ",
+        "PALACKÝ"
+      ]
+    }
+  ]
+}

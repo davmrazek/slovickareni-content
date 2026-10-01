@@ -1,40 +1,40 @@
 {
-  "id": "conn-275",
+  "id": "conn-640",
   "groups": [
     {
-      "name": "Předpověď počasí",
+      "name": "Knižní veletrh",
       "words": [
-        "FRONTA",
-        "TEPLOTY",
-        "OBLAČNOST",
-        "SRÁŽKY"
+        "AUTOGRAM",
+        "STÁNEK",
+        "AUTOR",
+        "NAKLADATEL"
       ]
     },
     {
-      "name": "Podzimní jevy",
+      "name": "Autoři detektivek",
       "words": [
-        "MLHA",
-        "JINOVATKA",
-        "ROSA",
-        "LISTOPAD"
+        "SIMENON",
+        "DOYLE",
+        "CHANDLER",
+        "HAMMETT"
       ]
     },
     {
-      "name": "Podzimní práce",
+      "name": "Kočičí plemena",
       "words": [
-        "HRABÁNÍ",
-        "SKLIZEŇ",
-        "SÁZENÍ",
-        "ZAZIMOVÁNÍ"
+        "RAGDOLL",
+        "SPHYNX",
+        "BENGÁLKA",
+        "BIRMA"
       ]
     },
     {
-      "name": "Barevné ___",
+      "name": "Kouří dýmku",
       "words": [
-        "LISTÍ",
-        "SKLO",
-        "VIDĚNÍ",
-        "TUŽKY"
+        "MAIGRET",
+        "HOLMES",
+        "POPEYE",
+        "GANDALF"
       ]
     }
   ]

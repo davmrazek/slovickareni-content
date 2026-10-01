@@ -1,40 +1,40 @@
 {
-  "id": "conn-231",
+  "id": "conn-596",
   "groups": [
     {
-      "name": "Oblečení do práce",
+      "name": "Na kurt",
       "words": [
-        "KOŠILE",
-        "KRAVATA",
-        "SAKO",
-        "MOKASÍNY"
+        "RAKETA",
+        "MÍČKY",
+        "SÍŤ",
+        "ANTUKA"
       ]
     },
     {
-      "name": "Sportovní oblečení",
+      "name": "Čaje",
       "words": [
-        "TEPLÁKY",
-        "MIKINA",
-        "DRES",
-        "ŠORTKY"
+        "ASSAM",
+        "DARJEELING",
+        "SENCHA",
+        "ROOIBOS"
       ]
     },
     {
-      "name": "Do deště",
+      "name": "Anglická hrabství",
       "words": [
-        "DEŠTNÍK",
-        "HOLÍNKY",
-        "PLÁŠTĚNKA",
-        "KAPUCE"
+        "KENT",
+        "ESSEX",
+        "YORKSHIRE",
+        "CORNWALL"
       ]
     },
     {
-      "name": "Volný ___",
+      "name": "Mají šněrování",
       "words": [
-        "STŘIH",
-        "VÍKEND",
-        "PÁD",
-        "VSTUP"
+        "TENISKY",
+        "KOPAČKY",
+        "KORZET",
+        "BAGANČE"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-32",
+  "id": "conn-397",
   "groups": [
     {
-      "name": "Mořští savci",
+      "name": "Nářadí v dílně",
       "words": [
-        "TULEŇ",
-        "LACHTAN",
-        "MROŽ",
-        "KOSATKA"
+        "KLADIVO",
+        "PILKA",
+        "HOBLÍK",
+        "DLÁTO"
       ]
     },
     {
-      "name": "Jarní květiny",
+      "name": "Egyptští bohové",
       "words": [
-        "SNĚŽENKA",
-        "BLEDULE",
-        "KROKUS",
-        "NARCIS"
+        "ANUBIS",
+        "OSIRIS",
+        "HORUS",
+        "THOVT"
       ]
     },
     {
-      "name": "Kancelářské profese",
+      "name": "Fyzici",
       "words": [
-        "ÚČETNÍ",
-        "SEKRETÁŘKA",
-        "MANAŽER",
-        "PRÁVNÍK"
+        "NEWTON",
+        "EINSTEIN",
+        "BOHR",
+        "FARADAY"
       ]
     },
     {
-      "name": "Pevný ___",
+      "name": "Ukrývají hlavní město",
       "words": [
-        "DISK",
-        "ŘÁD",
-        "BOD",
-        "STISK"
+        "ŘÍMSA",
+        "BERNARDÝN",
+        "KLIMA",
+        "INTRIGA"
       ]
     }
   ]

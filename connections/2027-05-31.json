@@ -1,40 +1,40 @@
 {
-  "id": "conn-165",
+  "id": "conn-530",
   "groups": [
     {
-      "name": "Ve třídě",
+      "name": "Dětská vozítka",
       "words": [
-        "KATEDRA",
-        "LAVICE",
-        "TABULE",
-        "ŽÁK"
+        "ODRÁŽEDLO",
+        "TŘÍKOLKA",
+        "KOČÁREK",
+        "KOLOBĚŽKA"
       ]
     },
     {
-      "name": "Známkování",
+      "name": "Superhrdinové",
       "words": [
-        "JEDNIČKA",
-        "VYSVĚDČENÍ",
-        "ZKOUŠENÍ",
-        "PRŮMĚR"
+        "SUPERMAN",
+        "BATMAN",
+        "SPIDERMAN",
+        "WOLVERINE"
       ]
     },
     {
-      "name": "Školní akce",
+      "name": "Pravěcí ještěři",
       "words": [
-        "VÝLET",
-        "BESÍDKA",
-        "OLYMPIÁDA",
-        "PROJEKT"
+        "TYRANOSAURUS",
+        "STEGOSAURUS",
+        "TRICERATOPS",
+        "VELOCIRAPTOR"
       ]
     },
     {
-      "name": "Velká ___",
+      "name": "Mají plášť",
       "words": [
-        "PŘESTÁVKA",
-        "VODA",
-        "CENA",
-        "RADOST"
+        "UPÍR",
+        "KOUZELNÍK",
+        "KRÁL",
+        "ZORRO"
       ]
     }
   ]

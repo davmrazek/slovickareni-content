@@ -1,40 +1,40 @@
 {
-  "id": "conn-251",
+  "id": "conn-616",
   "groups": [
     {
-      "name": "Ve výtahu",
+      "name": "Svetry",
       "words": [
-        "KABINA",
-        "TLAČÍTKO",
-        "PATRO",
-        "ZRCADLO"
+        "ROLÁK",
+        "CARDIGAN",
+        "PULOVR",
+        "VESTA"
       ]
     },
     {
-      "name": "Panelový dům",
+      "name": "Plemena ovcí",
       "words": [
-        "SCHODIŠTĚ",
-        "SPOLEČENSTVÍ",
-        "SUŠÁRNA",
-        "KOČÁRKÁRNA"
+        "MERINO",
+        "TEXEL",
+        "SUFFOLK",
+        "ROMNEY"
       ]
     },
     {
-      "name": "Sousedské vztahy",
+      "name": "Druhy písní",
       "words": [
-        "HLUK",
-        "POZDRAV",
-        "PŮJČKA",
-        "STÍŽNOST"
+        "ÁRIE",
+        "ŠANSON",
+        "KOLEDA",
+        "UKOLÉBAVKA"
       ]
     },
     {
-      "name": "Vysoké ___",
+      "name": "Mají kapuci",
       "words": [
-        "NAPĚTÍ",
-        "UČENÍ",
-        "BOTY",
-        "NÁROKY"
+        "MIKINA",
+        "MNICH",
+        "KOBRA",
+        "PARKA"
       ]
     }
   ]

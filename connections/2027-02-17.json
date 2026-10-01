@@ -1,40 +1,40 @@
 {
-  "id": "conn-62",
+  "id": "conn-427",
   "groups": [
     {
-      "name": "Na silnici",
+      "name": "Výbava kola",
       "words": [
-        "KŘIŽOVATKA",
-        "SEMAFOR",
-        "PŘECHOD",
-        "ZNAČKA"
+        "ZVONEK",
+        "BLATNÍK",
+        "STOJAN",
+        "NOSIČ"
       ]
     },
     {
-      "name": "Pohonné hmoty",
+      "name": "Norská města",
       "words": [
-        "BENZIN",
-        "NAFTA",
-        "ELEKTŘINA",
-        "PLYN"
+        "BERGEN",
+        "TRONDHEIM",
+        "STAVANGER",
+        "NARVIK"
       ]
     },
     {
-      "name": "Dopravní policie",
+      "name": "Staré délkové míry",
       "words": [
-        "POKUTA",
-        "RADAR",
-        "HLÍDKA",
-        "SIRÉNA"
+        "LOKET",
+        "SÁH",
+        "PÍĎ",
+        "MÍLE"
       ]
     },
     {
-      "name": "___ světla",
+      "name": "Ukrývají VAR",
       "words": [
-        "BRZDOVÁ",
-        "POTKÁVACÍ",
-        "MLHOVÁ",
-        "DÁLKOVÁ"
+        "VARIACE",
+        "KVARTA",
+        "VAROVÁNÍ",
+        "VARHANY"
       ]
     }
   ]

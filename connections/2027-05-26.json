@@ -1,40 +1,40 @@
 {
-  "id": "conn-160",
+  "id": "conn-525",
   "groups": [
     {
-      "name": "Právní pojmy",
+      "name": "Svatební hosté",
       "words": [
-        "ŽALOBA",
-        "SMLOUVA",
-        "ODVOLÁNÍ",
-        "ROZSUDEK"
+        "NEVĚSTA",
+        "ŽENICH",
+        "SVĚDEK",
+        "DRUŽIČKA"
       ]
     },
     {
-      "name": "Účastníci procesu",
+      "name": "___ svatba",
       "words": [
-        "SOUDCE",
-        "ADVOKÁT",
-        "POROTA",
-        "OBŽALOVANÝ"
+        "STŘÍBRNÁ",
+        "ZLATÁ",
+        "DIAMANTOVÁ",
+        "PERLOVÁ"
       ]
     },
     {
-      "name": "Trestní sazby",
+      "name": "Jednotky energie",
       "words": [
-        "POKUTA",
-        "PODMÍNKA",
-        "VĚZENÍ",
-        "ZÁKAZ"
+        "JOULE",
+        "KALORIE",
+        "ELEKTRONVOLT",
+        "WATTHODINA"
       ]
     },
     {
-      "name": "Poslední ___",
+      "name": "___ pár",
       "words": [
-        "INSTANCE",
-        "VŮLE",
-        "TAH",
-        "PŘÁNÍ"
+        "SVATEBNÍ",
+        "MANŽELSKÝ",
+        "ELEKTRONOVÝ",
+        "KRÁLOVSKÝ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-61",
+  "id": "conn-426",
   "groups": [
     {
-      "name": "Čeští panovníci",
+      "name": "Pozdravy",
       "words": [
-        "KAREL",
-        "PŘEMYSL",
-        "VÁCLAV",
-        "RUDOLF"
+        "AHOJ",
+        "ČAU",
+        "NAZDAR",
+        "SERVUS"
       ]
     },
     {
-      "name": "Pražské čtvrti",
+      "name": "Chorvatské ostrovy",
       "words": [
-        "VINOHRADY",
-        "ŽIŽKOV",
-        "SMÍCHOV",
-        "DEJVICE"
+        "KRK",
+        "BRAČ",
+        "HVAR",
+        "KORČULA"
       ]
     },
     {
-      "name": "Moravská města",
+      "name": "Trpasličí planety",
       "words": [
-        "BRNO",
-        "OLOMOUC",
-        "ZLÍN",
-        "ZNOJMO"
+        "PLUTO",
+        "CERES",
+        "ERIS",
+        "HAUMEA"
       ]
     },
     {
-      "name": "___ most",
+      "name": "Pozdravy odjinud",
       "words": [
-        "KARLŮV",
-        "PADACÍ",
-        "VZDUŠNÝ",
-        "ZUBNÍ"
+        "HOLA",
+        "CIAO",
+        "SALUT",
+        "ALOHA"
       ]
     }
   ]

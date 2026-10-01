@@ -1,40 +1,40 @@
 {
-  "id": "conn-131",
+  "id": "conn-496",
   "groups": [
     {
-      "name": "Domácí spotřebiče",
+      "name": "V kabelce",
       "words": [
-        "TROUBA",
-        "MYČKA",
-        "PRAČKA",
-        "SUŠIČKA"
+        "KLÍČE",
+        "RTĚNKA",
+        "PENĚŽENKA",
+        "ZRCÁTKO"
       ]
     },
     {
-      "name": "Prací prostředky",
+      "name": "Francouzská vína",
       "words": [
-        "PRÁŠEK",
-        "AVIVÁŽ",
-        "GEL",
-        "ODSTRAŇOVAČ"
+        "BORDEAUX",
+        "BURGUNDSKO",
+        "ŠAMPAŇSKO",
+        "BEAUJOLAIS"
       ]
     },
     {
-      "name": "Praní prádla",
+      "name": "Symboly Francie",
       "words": [
-        "MÁCHÁNÍ",
-        "ŽDÍMÁNÍ",
-        "SUŠÁK",
-        "ŽEHLIČKA"
+        "KOHOUT",
+        "MARIANNE",
+        "TRIKOLÓRA",
+        "LILIE"
       ]
     },
     {
-      "name": "Čistá ___",
+      "name": "Mají hřeben",
       "words": [
-        "KOŠILE",
-        "PRAVDA",
-        "MYSL",
-        "MZDA"
+        "HORA",
+        "VLNA",
+        "STŘECHA",
+        "LEGUÁN"
       ]
     }
   ]

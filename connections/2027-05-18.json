@@ -1,40 +1,40 @@
 {
-  "id": "conn-152",
+  "id": "conn-517",
   "groups": [
     {
-      "name": "Počítačové součástky",
+      "name": "Letní nepříjemnosti",
       "words": [
-        "PROCESOR",
-        "PAMĚŤ",
-        "DISK",
-        "ZDROJ"
+        "ÚPAL",
+        "SPÁLENINA",
+        "BOUŘKA",
+        "SUCHO"
       ]
     },
     {
-      "name": "Programování",
+      "name": "Michelangelovy sochy",
       "words": [
-        "KÓD",
-        "SMYČKA",
-        "PROMĚNNÁ",
-        "FUNKCE"
+        "PIETA",
+        "MOJŽÍŠ",
+        "DAVID",
+        "BAKCHUS"
       ]
     },
     {
-      "name": "Bezpečnost dat",
+      "name": "Prvky pojmenované po vědcích",
       "words": [
-        "HESLO",
-        "ZÁLOHA",
-        "ŠIFRA",
-        "FIREWALL"
+        "EINSTEINIUM",
+        "CURIUM",
+        "MENDELEVIUM",
+        "NOBELIUM"
       ]
     },
     {
-      "name": "Chytrá ___",
+      "name": "Mají žihadlo",
       "words": [
-        "HLAVA",
-        "DOMÁCNOST",
-        "VOLBA",
-        "TELEVIZE"
+        "VOSA",
+        "VČELA",
+        "ŠTÍR",
+        "SRŠEŇ"
       ]
     }
   ]

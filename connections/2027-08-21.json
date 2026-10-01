@@ -1,40 +1,40 @@
 {
-  "id": "conn-247",
+  "id": "conn-612",
   "groups": [
     {
-      "name": "Sklárna",
+      "name": "Na perníčky",
       "words": [
-        "TAVENINA",
-        "PÍŠŤALA",
-        "FOUKÁNÍ",
-        "FORMA"
+        "ANÝZ",
+        "ZÁZVOR",
+        "KORIANDR",
+        "NOVOKOŘENÍ"
       ]
     },
     {
-      "name": "Keramika",
+      "name": "Asijské pouště",
       "words": [
-        "KRUH",
-        "GLAZURA",
-        "VÝPAL",
-        "HLÍNA"
+        "GOBI",
+        "TAKLAMAKAN",
+        "KARAKUM",
+        "THAR"
       ]
     },
     {
-      "name": "Umělecká řemesla",
+      "name": "Indická jídla",
       "words": [
-        "ŘEZBÁŘ",
-        "SKLÁŘ",
-        "PASÍŘ",
-        "KAMENÍK"
+        "DAL",
+        "SAMOSA",
+        "NAAN",
+        "BIRJÁNÍ"
       ]
     },
     {
-      "name": "Ruční ___",
+      "name": "Tvar hvězdy",
       "words": [
-        "PRÁCE",
-        "BRZDA",
-        "PSANÍ",
-        "ZAVAZADLO"
+        "BADYÁN",
+        "KARAMBOLA",
+        "HVĚZDICE",
+        "VLOČKA"
       ]
     }
   ]

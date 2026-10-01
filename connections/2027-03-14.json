@@ -1,40 +1,40 @@
 {
-  "id": "conn-87",
+  "id": "conn-452",
   "groups": [
     {
-      "name": "Zvířata v poli",
+      "name": "Sklenice",
       "words": [
-        "KŘEPELKA",
-        "ZAJÍC",
-        "SKŘIVAN",
-        "HRABOŠ"
+        "POHÁR",
+        "HALBA",
+        "TUPLÁK",
+        "ŠTAMPRLE"
       ]
     },
     {
-      "name": "Zemědělské stroje",
+      "name": "Pohádkové princezny",
       "words": [
-        "KOMBAJN",
-        "TRAKTOR",
-        "PLUH",
-        "SEČKA"
+        "SNĚHURKA",
+        "POPELKA",
+        "LOCIKA",
+        "RŮŽENKA"
       ]
     },
     {
-      "name": "Práce na poli",
+      "name": "Nerosty",
       "words": [
-        "ORBA",
-        "SETÍ",
-        "ŽNĚ",
-        "SKLIZEŇ"
+        "KŘEMEN",
+        "ZÁHNĚDA",
+        "ACHÁT",
+        "JASPIS"
       ]
     },
     {
-      "name": "Zlaté ___",
+      "name": "Mají ústí",
       "words": [
-        "RUCE",
-        "KLASY",
-        "PRAVIDLO",
-        "ČASY"
+        "ŘEKA",
+        "DĚLO",
+        "TUNEL",
+        "ULICE"
       ]
     }
   ]

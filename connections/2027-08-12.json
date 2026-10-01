@@ -1,40 +1,40 @@
 {
-  "id": "conn-238",
+  "id": "conn-603",
   "groups": [
     {
-      "name": "Chov kočky",
+      "name": "Pozorování oblohy",
       "words": [
-        "ŠKRABADLO",
-        "TOALETA",
-        "GRANULE",
-        "HRAČKA"
+        "DALEKOHLED",
+        "HVĚZDÁRNA",
+        "TMA",
+        "TRIEDR"
       ]
     },
     {
-      "name": "Kočkovité chování",
+      "name": "Meteorické roje",
       "words": [
-        "PŘEDENÍ",
-        "LOVENÍ",
-        "OLIZOVÁNÍ",
-        "PROTAHOVÁNÍ"
+        "PERSEIDY",
+        "LEONIDY",
+        "GEMINIDY",
+        "LYRIDY"
       ]
     },
     {
-      "name": "Drobní mazlíčci",
+      "name": "Na Slunci",
       "words": [
-        "KŘEČEK",
-        "MORČE",
-        "ANDULKA",
-        "ŽELVA"
+        "SKVRNY",
+        "PROTUBERANCE",
+        "KORÓNA",
+        "ERUPCE"
       ]
     },
     {
-      "name": "Kočičí ___",
+      "name": "Ukrývají LEON",
       "words": [
-        "OČI",
-        "ZLATO",
-        "HLAVA",
-        "KROK"
+        "CHAMELEON",
+        "NAPOLEON",
+        "LEONARDO",
+        "LEONTÝNA"
       ]
     }
   ]

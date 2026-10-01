@@ -1,40 +1,40 @@
 {
-  "id": "conn-204",
+  "id": "conn-569",
   "groups": [
     {
-      "name": "Snídaňové nápoje",
+      "name": "Na poli",
       "words": [
-        "KAKAO",
-        "DŽUS",
-        "LATTE",
-        "CIKORKA"
+        "ŘEPKA",
+        "CUKROVKA",
+        "MÁK",
+        "CHMEL"
       ]
     },
     {
-      "name": "Kávová příprava",
+      "name": "Pivní styly",
       "words": [
-        "ESPRESO",
-        "KONVIČKA",
-        "MLÝNEK",
-        "NAPĚŇOVAČ"
+        "LEŽÁK",
+        "IPA",
+        "STOUT",
+        "PORTER"
       ]
     },
     {
-      "name": "Přísady do kávy",
+      "name": "Polokovy",
       "words": [
-        "MLÉKO",
-        "CUKR",
-        "SKOŘICE",
-        "SIRUP"
+        "BOR",
+        "KŘEMÍK",
+        "ARSEN",
+        "TELUR"
       ]
     },
     {
-      "name": "Silná ___",
+      "name": "Ukrývají BOR",
       "words": [
-        "KÁVA",
-        "STRÁNKA",
-        "VŮLE",
-        "SLOVA"
+        "BOROVICE",
+        "LABORATOŘ",
+        "KOLABORANT",
+        "SBOROVÝ"
       ]
     }
   ]

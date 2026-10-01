@@ -1,40 +1,40 @@
 {
-  "id": "conn-114",
+  "id": "conn-479",
   "groups": [
     {
-      "name": "Šermíř",
+      "name": "Pro kočku",
       "words": [
-        "KORD",
-        "FLERET",
-        "MASKA",
-        "VÝPAD"
+        "ŠKRABADLO",
+        "PELÍŠEK",
+        "STELIVO",
+        "GRANULE"
       ]
     },
     {
-      "name": "Bojová umění",
+      "name": "Čeští biatlonisté",
       "words": [
-        "JUDO",
-        "KARATE",
-        "AIKIDO",
-        "TAEKWONDO"
+        "SOUKALOVÁ",
+        "MORAVEC",
+        "DAVIDOVÁ",
+        "ŠLESINGR"
       ]
     },
     {
-      "name": "Lukostřelba",
+      "name": "Kosmické lodě",
       "words": [
-        "TĚTIVA",
-        "ŠÍP",
-        "TERČ",
-        "TOULEC"
+        "APOLLO",
+        "VOSTOK",
+        "SOJUZ",
+        "DRAGON"
       ]
     },
     {
-      "name": "Ostrá ___",
+      "name": "Zvěrokruh latinsky",
       "words": [
-        "ČEPEL",
-        "ZATÁČKA",
-        "SLOVA",
-        "PAPRIKA"
+        "GEMINI",
+        "LEO",
+        "VIRGO",
+        "TAURUS"
       ]
     }
   ]

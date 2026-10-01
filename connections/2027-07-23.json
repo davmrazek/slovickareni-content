@@ -1,40 +1,40 @@
 {
-  "id": "conn-218",
+  "id": "conn-583",
   "groups": [
     {
-      "name": "Tenisový kurt",
+      "name": "Rychlé jídlo",
       "words": [
-        "SÍŤ",
-        "ANTUKA",
-        "PODÁNÍ",
-        "DVOREC"
+        "BURGER",
+        "KEBAB",
+        "WRAP",
+        "GYROS"
       ]
     },
     {
-      "name": "Tenisové údery",
+      "name": "Rockové legendy",
       "words": [
-        "FOREHAND",
-        "BEKHEND",
-        "VOLEJ",
-        "SMEČ"
+        "JAGGER",
+        "BOWIE",
+        "PRESLEY",
+        "COBAIN"
       ]
     },
     {
-      "name": "Grandslamová města",
+      "name": "Normanské ostrovy",
       "words": [
-        "LONDÝN",
-        "PAŘÍŽ",
-        "MELBOURNE",
-        "NEWYORK"
+        "JERSEY",
+        "GUERNSEY",
+        "ALDERNEY",
+        "SARK"
       ]
     },
     {
-      "name": "Vítězný ___",
+      "name": "___ taška",
       "words": [
-        "OBLOUK",
-        "MÍČEK",
-        "TAH",
-        "POCHOD"
+        "PLÁTĚNÁ",
+        "PLÁŽOVÁ",
+        "CHLADICÍ",
+        "IGELITOVÁ"
       ]
     }
   ]

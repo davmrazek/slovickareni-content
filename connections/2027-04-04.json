@@ -1,40 +1,40 @@
 {
-  "id": "conn-108",
+  "id": "conn-473",
   "groups": [
     {
-      "name": "Maják a navigace",
+      "name": "K mobilu",
       "words": [
-        "KOMPAS",
-        "SEXTANT",
-        "MAPA",
-        "SVĚTLO"
+        "NABÍJEČKA",
+        "KRYT",
+        "SLUCHÁTKA",
+        "POWERBANKA"
       ]
     },
     {
-      "name": "Mořské proudy a jevy",
+      "name": "Národopisné oblasti Čech",
       "words": [
-        "PŘÍLIV",
-        "ODLIV",
-        "VLNOBITÍ",
-        "BOUŘE"
+        "CHODSKO",
+        "DOUDLEBSKO",
+        "BLATSKO",
+        "PODKRKONOŠÍ"
       ]
     },
     {
-      "name": "Potápění",
+      "name": "Řecké městské státy",
       "words": [
-        "MASKA",
-        "ŠNORCHL",
-        "BOMBA",
-        "NEOPREN"
+        "SPARTA",
+        "ATHÉNY",
+        "THÉBY",
+        "MYKÉNY"
       ]
     },
     {
-      "name": "Hluboký ___",
+      "name": "Mají hlavu",
       "words": [
-        "SPÁNEK",
-        "DECH",
-        "LES",
-        "SMUTEK"
+        "ŠPENDLÍK",
+        "HŘEBÍK",
+        "ČESNEK",
+        "ZELÍ"
       ]
     }
   ]

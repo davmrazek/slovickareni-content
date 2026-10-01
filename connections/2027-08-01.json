@@ -1,40 +1,40 @@
 {
-  "id": "conn-227",
+  "id": "conn-592",
   "groups": [
     {
-      "name": "Deskové hry",
+      "name": "Sušení prádla",
       "words": [
-        "FIGURKA",
-        "KOSTKA",
-        "PLÁN",
-        "KARTIČKA"
+        "ŠŇŮRA",
+        "KOLÍČKY",
+        "SUŠÁK",
+        "SUŠIČKA"
       ]
     },
     {
-      "name": "Kvízy",
+      "name": "Slavné Marie",
       "words": [
-        "OTÁZKA",
-        "NÁPOVĚDA",
-        "ODPOVĚĎ",
-        "BODY"
+        "TEREZIE",
+        "ANTOINETTA",
+        "STUARTOVNA",
+        "MAGDALÉNA"
       ]
     },
     {
-      "name": "Hrací automaty",
+      "name": "Středověké nemoci",
       "words": [
-        "ŽETON",
-        "PÁKA",
-        "VÝHRA",
-        "SYMBOL"
+        "MOR",
+        "NEŠTOVICE",
+        "CHOLERA",
+        "MALOMOCENSTVÍ"
       ]
     },
     {
-      "name": "Šťastný ___",
+      "name": "Mají ramena",
       "words": [
-        "TAH",
-        "KONEC",
         "ČLOVĚK",
-        "OTEC"
+        "KŘÍŽ",
+        "VÁHY",
+        "ŘEKA"
       ]
     }
   ]

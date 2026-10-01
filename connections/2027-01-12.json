@@ -1,40 +1,40 @@
 {
-  "id": "conn-26",
+  "id": "conn-391",
   "groups": [
     {
-      "name": "Lesní savci",
+      "name": "Materiál na svetr",
       "words": [
-        "JELEN",
-        "SRNA",
-        "LIŠKA",
-        "DIVOČÁK"
+        "VLNA",
+        "KAŠMÍR",
+        "ANGORA",
+        "BAVLNA"
       ]
     },
     {
-      "name": "Geometrické tvary",
+      "name": "Mořští ptáci",
       "words": [
-        "ČTVEREC",
-        "KRUH",
-        "TROJÚHELNÍK",
-        "OBDÉLNÍK"
+        "RACEK",
+        "ALBATROS",
+        "RYBÁK",
+        "KORMORÁN"
       ]
     },
     {
-      "name": "Papírový ___",
+      "name": "Díla Karla Čapka",
       "words": [
-        "DRAK",
-        "KAPESNÍK",
-        "TYGR",
-        "SÁČEK"
+        "KRAKATIT",
+        "HORDUBAL",
+        "POVĚTROŇ",
+        "LOUPEŽNÍK"
       ]
     },
     {
-      "name": "Druhy kávy",
+      "name": "Šroub a spol.",
       "words": [
-        "ESPRESSO",
-        "LATTE",
-        "CAPPUCCINO",
-        "RISTRETTO"
+        "HLAVA",
+        "ZÁVIT",
+        "DŘÍK",
+        "MATKA"
       ]
     }
   ]

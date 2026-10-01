@@ -1,40 +1,40 @@
 {
-  "id": "conn-177",
+  "id": "conn-542",
   "groups": [
     {
-      "name": "Šelmy z Afriky",
+      "name": "Na pláž",
       "words": [
-        "LEV",
-        "GEPARD",
-        "HYENA",
-        "LEOPARD"
+        "RUČNÍK",
+        "PLAVKY",
+        "KRÉM",
+        "KNÍŽKA"
       ]
     },
     {
-      "name": "Kopytníci savany",
+      "name": "Afričtí ptáci",
       "words": [
-        "ZEBRA",
-        "ANTILOPA",
-        "PAKŮŇ",
-        "ŽIRAFA"
+        "MARABU",
+        "ZOBOROŽEC",
+        "TURAKO",
+        "ŽAKO"
       ]
     },
     {
-      "name": "Safari",
+      "name": "Dvorní hodnosti",
       "words": [
-        "DŽÍP",
-        "PRŮVODCE",
-        "STAN",
-        "DALEKOHLED"
+        "KANCLÉŘ",
+        "MARŠÁLEK",
+        "KOMOŘÍ",
+        "PODKONÍ"
       ]
     },
     {
-      "name": "Zlatá ___",
+      "name": "Nábytek i něco jiného",
       "words": [
-        "KLEC",
-        "HOREČKA",
-        "MLÁDEŽ",
-        "RYBKA"
+        "SEKRETÁŘ",
+        "OTOMAN",
+        "KANAPE",
+        "SKŘÍŇ"
       ]
     }
   ]

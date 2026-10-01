@@ -1,40 +1,40 @@
 {
-  "id": "conn-92",
+  "id": "conn-457",
   "groups": [
     {
-      "name": "V jeskyni",
+      "name": "Kde bydlet",
       "words": [
-        "KRÁPNÍK",
-        "NETOPÝR",
-        "PODZEMÍ",
-        "DÓM"
+        "CHATA",
+        "CHALUPA",
+        "VILA",
+        "BUNGALOV"
       ]
     },
     {
-      "name": "Speleologie",
+      "name": "Jihoamerické řeky",
       "words": [
-        "HELMA",
-        "ČELOVKA",
-        "LANO",
-        "MAPOVÁNÍ"
+        "AMAZONKA",
+        "ORINOCO",
+        "PARANÁ",
+        "MAGDALENA"
       ]
     },
     {
-      "name": "Krasové jevy",
+      "name": "Divy starověku",
       "words": [
-        "ZÁVRT",
-        "PONOR",
-        "VYVĚRAČKA",
-        "PROPAST"
+        "PYRAMIDY",
+        "KOLOS",
+        "MAUZOLEUM",
+        "MAJÁK"
       ]
     },
     {
-      "name": "Temný ___",
+      "name": "___ dům",
       "words": [
-        "KOUT",
-        "STÍN",
-        "LES",
-        "PŘÍBĚH"
+        "RODINNÝ",
+        "DĚTSKÝ",
+        "OBECNÍ",
+        "ROUBENÝ"
       ]
     }
   ]

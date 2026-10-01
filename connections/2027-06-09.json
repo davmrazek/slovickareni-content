@@ -1,40 +1,40 @@
 {
-  "id": "conn-174",
+  "id": "conn-539",
   "groups": [
     {
-      "name": "Obilné klasy",
+      "name": "Letní trh",
       "words": [
-        "PŠENICE",
-        "ŽITO",
-        "JEČMEN",
-        "OVES"
+        "KUKUŘICE",
+        "MELOUN",
+        "CUKETA",
+        "FAZOLKY"
       ]
     },
     {
-      "name": "Mlýnské produkty",
+      "name": "Kalifornská města",
       "words": [
-        "KRUPICE",
-        "OTRUBY",
-        "KROUPY",
-        "VLOČKY"
+        "FRESNO",
+        "SACRAMENTO",
+        "OAKLAND",
+        "PASADENA"
       ]
     },
     {
-      "name": "Chlebové koření",
+      "name": "Sporty s raketou",
       "words": [
-        "KMÍN",
-        "FENYKL",
-        "KORIANDR",
-        "ANÝZ"
+        "TENIS",
+        "BADMINTON",
+        "SQUASH",
+        "PADEL"
       ]
     },
     {
-      "name": "Domácí ___",
+      "name": "Mají zrnka",
       "words": [
-        "CHLÉB",
-        "ÚKOL",
-        "KINO",
-        "MAZLÍČEK"
+        "KÁVA",
+        "RŮŽENEC",
+        "PÍSEK",
+        "SŮL"
       ]
     }
   ]

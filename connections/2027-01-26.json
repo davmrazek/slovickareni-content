@@ -1,40 +1,40 @@
 {
-  "id": "conn-40",
+  "id": "conn-405",
   "groups": [
     {
-      "name": "Lasicovité šelmy",
+      "name": "Pro psa",
       "words": [
-        "KUNA",
-        "LASIČKA",
-        "JEZEVEC",
-        "VYDRA"
+        "OBOJEK",
+        "VODÍTKO",
+        "NÁHUBEK",
+        "PAMLSKY"
       ]
     },
     {
-      "name": "Druhy masa",
+      "name": "Rakouská města",
       "words": [
-        "HOVĚZÍ",
-        "VEPŘOVÉ",
-        "KUŘECÍ",
-        "JEHNĚČÍ"
+        "LINEC",
+        "SALCBURK",
+        "INNSBRUCK",
+        "VÍDEŇ"
       ]
     },
     {
-      "name": "Svátky",
+      "name": "Pán prstenů",
       "words": [
-        "VÁNOCE",
-        "VELIKONOCE",
-        "SILVESTR",
-        "DUŠIČKY"
+        "FRODO",
+        "GANDALF",
+        "ARAGORN",
+        "GLUM"
       ]
     },
     {
-      "name": "Ztracený ___",
+      "name": "___ pes",
       "words": [
-        "SYN",
-        "ČAS",
-        "RÁJ",
-        "POKLAD"
+        "HLÍDACÍ",
+        "SLEPECKÝ",
+        "TOULAVÝ",
+        "LOVECKÝ"
       ]
     }
   ]

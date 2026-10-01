@@ -1,40 +1,40 @@
 {
-  "id": "conn-234",
+  "id": "conn-599",
   "groups": [
     {
-      "name": "Zimní počasí",
+      "name": "Švýcarský nůž",
       "words": [
-        "MRZNE",
-        "SNĚŽÍ",
-        "FOUKÁ",
-        "PRÁŠÍ"
+        "ČEPEL",
+        "NŮŽKY",
+        "PILKA",
+        "ŠROUBOVÁK"
       ]
     },
     {
-      "name": "Zimní nemoci",
+      "name": "Švýcarské hodinky",
       "words": [
-        "RÝMA",
-        "KAŠEL",
-        "CHŘIPKA",
-        "ANGÍNA"
+        "ROLEX",
+        "OMEGA",
+        "SWATCH",
+        "TISSOT"
       ]
     },
     {
-      "name": "Domácí léčba",
+      "name": "Šifry",
       "words": [
-        "ČAJ",
-        "MED",
-        "INHALACE",
-        "POSTEL"
+        "ENIGMA",
+        "CAESAR",
+        "MORSE",
+        "VIGENÈRE"
       ]
     },
     {
-      "name": "Horká ___",
+      "name": "___ nůž",
       "words": [
-        "POLÉVKA",
-        "KOUPEL",
-        "HLAVA",
-        "ZPRÁVA"
+        "LOVECKÝ",
+        "VRHACÍ",
+        "KAPESNÍ",
+        "ZAVÍRACÍ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-49",
+  "id": "conn-414",
   "groups": [
     {
-      "name": "Části lodi",
+      "name": "Kreslení",
       "words": [
-        "PLACHTA",
-        "KOTVA",
-        "KORMIDLO",
-        "PALUBA"
+        "UHEL",
+        "TUŽKA",
+        "PASTEL",
+        "FIX"
       ]
     },
     {
-      "name": "Pobřežní útvary",
+      "name": "Vinařská města",
       "words": [
-        "ZÁTOKA",
-        "MYS",
-        "ÚŽINA",
-        "POLOOSTROV"
+        "MIKULOV",
+        "VALTICE",
+        "PAVLOV",
+        "ZNOJMO"
       ]
     },
     {
-      "name": "Severské země",
+      "name": "Řečtí dramatici",
       "words": [
-        "NORSKO",
-        "ŠVÉDSKO",
-        "FINSKO",
-        "DÁNSKO"
+        "SOFOKLÉS",
+        "AISCHYLOS",
+        "EURÍPIDÉS",
+        "ARISTOFANÉS"
       ]
     },
     {
-      "name": "___ moře",
+      "name": "Pán ___",
       "words": [
-        "ČERNÉ",
-        "RUDÉ",
-        "MRTVÉ",
-        "SEVERNÍ"
+        "PRSTENŮ",
+        "MUCH",
+        "TVORSTVA",
+        "DOMU"
       ]
     }
   ]

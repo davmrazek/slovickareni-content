@@ -1,40 +1,40 @@
 {
-  "id": "conn-109",
+  "id": "conn-474",
   "groups": [
     {
-      "name": "V zoo",
+      "name": "Druhy pizzy",
       "words": [
-        "VÝBĚH",
-        "OŠETŘOVATEL",
-        "PAVILON",
-        "KRMENÍ"
+        "MARGHERITA",
+        "HAVAJ",
+        "SALAMI",
+        "CAPRICCIOSA"
       ]
     },
     {
-      "name": "Zvířata z Asie",
+      "name": "Malý princ",
       "words": [
-        "PANDA",
-        "TYGR",
-        "ORANGUTAN",
-        "JAK"
+        "PRINC",
+        "RŮŽE",
+        "LIŠKA",
+        "LETEC"
       ]
     },
     {
-      "name": "Zvířecí mláďata",
+      "name": "Havajské ostrovy",
       "words": [
-        "KOLOUCH",
-        "HŘÍBĚ",
-        "SELE",
-        "ŠTĚNĚ"
+        "OAHU",
+        "MAUI",
+        "KAUAI",
+        "MOLOKAI"
       ]
     },
     {
-      "name": "Divoký ___",
+      "name": "Mají trny",
       "words": [
-        "KANEC",
-        "ZÁPAD",
-        "TANEC",
-        "POTOK"
+        "KAKTUS",
+        "OSTRUŽINÍK",
+        "AKÁT",
+        "HLOH"
       ]
     }
   ]

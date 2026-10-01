@@ -1,40 +1,40 @@
 {
-  "id": "conn-77",
+  "id": "conn-442",
   "groups": [
     {
-      "name": "Televize",
+      "name": "Pletení",
       "words": [
-        "VYSÍLÁNÍ",
-        "OBRAZOVKA",
-        "ANTÉNA",
-        "MODERÁTOR"
+        "JEHLICE",
+        "HÁČEK",
+        "KLUBKO",
+        "VLNA"
       ]
     },
     {
-      "name": "V knihovně",
+      "name": "Průplavy",
       "words": [
-        "VÝPŮJČKA",
-        "KATALOG",
-        "ČTENÁŘ",
-        "REGÁL"
+        "SUEZ",
+        "PANAMA",
+        "KIEL",
+        "KORINT"
       ]
     },
     {
-      "name": "Literární žánry",
+      "name": "Renesanční malíři",
       "words": [
-        "ROMÁN",
-        "POVÍDKA",
-        "BÁSEŇ",
-        "ESEJ"
+        "TIZIAN",
+        "BOTTICELLI",
+        "TINTORETTO",
+        "GIORGIONE"
       ]
     },
     {
-      "name": "___ list",
+      "name": "Želvy nindža",
       "words": [
-        "KŘESTNÍ",
-        "BOBKOVÝ",
-        "RODNÝ",
-        "VÝUČNÍ"
+        "LEONARDO",
+        "RAFFAEL",
+        "MICHELANGELO",
+        "DONATELLO"
       ]
     }
   ]

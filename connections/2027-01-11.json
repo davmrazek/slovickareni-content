@@ -1,40 +1,40 @@
 {
-  "id": "conn-25",
+  "id": "conn-390",
   "groups": [
     {
-      "name": "Světové řeky",
+      "name": "Auto v zimě",
       "words": [
-        "NIL",
-        "AMAZONKA",
-        "DUNAJ",
-        "VOLHA"
+        "ŠKRABKA",
+        "ROZMRAZOVAČ",
+        "ŘETĚZY",
+        "PŘEDEHŘEV"
       ]
     },
     {
-      "name": "Spotřebiče",
+      "name": "České lázně",
       "words": [
-        "LEDNICE",
-        "PRAČKA",
-        "TROUBA",
-        "MYČKA"
+        "TEPLICE",
+        "LUHAČOVICE",
+        "JESENÍK",
+        "TŘEBOŇ"
       ]
     },
     {
-      "name": "Vodní ___",
+      "name": "Vesmírné sondy",
       "words": [
-        "DÝMKA",
-        "MELOUN",
-        "PÓLO",
-        "MLÝN"
+        "VOYAGER",
+        "CASSINI",
+        "ROSETTA",
+        "JUNO"
       ]
     },
     {
-      "name": "Odrůdy jablek",
+      "name": "Začínají zkratkou",
       "words": [
-        "IDARED",
-        "GOLDEN",
-        "JONAGOLD",
-        "ŠAMPION"
+        "USAZENINA",
+        "ČRTA",
+        "EUKALYPTUS",
+        "OSNOVA"
       ]
     }
   ]

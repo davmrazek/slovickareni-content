@@ -1,0 +1,41 @@
+{
+  "id": "conn-651",
+  "groups": [
+    {
+      "name": "Sklizeň v sadu",
+      "words": [
+        "ŽEBŘÍK",
+        "ČESÁK",
+        "BEDÝNKA",
+        "KOŠ"
+      ]
+    },
+    {
+      "name": "Tance ve třech čtvrtích",
+      "words": [
+        "VALČÍK",
+        "POLONÉZA",
+        "BOLERO",
+        "LÄNDLER"
+      ]
+    },
+    {
+      "name": "Klavírní formy",
+      "words": [
+        "NOKTURNO",
+        "ETUDA",
+        "PRELUDIUM",
+        "IMPROMPTU"
+      ]
+    },
+    {
+      "name": "Mají stopku",
+      "words": [
+        "NOTA",
+        "SKLENICE",
+        "TŘEŠEŇ",
+        "LIST"
+      ]
+    }
+  ]
+}

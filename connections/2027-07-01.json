@@ -1,40 +1,40 @@
 {
-  "id": "conn-196",
+  "id": "conn-561",
   "groups": [
     {
-      "name": "Rodinné vztahy",
+      "name": "U babičky na venkově",
       "words": [
-        "ŠVAGR",
-        "SYNOVEC",
-        "TCHÁN",
-        "SESTŘENICE"
+        "SLEPICE",
+        "ZAHRADA",
+        "PŮDA",
+        "SENÍK"
       ]
     },
     {
-      "name": "Životní události",
+      "name": "Rakouští malíři",
       "words": [
-        "KŘTINY",
-        "PROMOCE",
-        "SVATBA",
-        "POHŘEB"
+        "KLIMT",
+        "SCHIELE",
+        "KOKOSCHKA",
+        "HUNDERTWASSER"
       ]
     },
     {
-      "name": "Rodokmen",
+      "name": "Vrhy",
       "words": [
-        "PŘEDEK",
-        "POTOMEK",
-        "VĚTEV",
-        "GENERACE"
+        "KOULE",
+        "DISK",
+        "KLADIVO",
+        "OŠTĚP"
       ]
     },
     {
-      "name": "Rodinné ___",
+      "name": "___ disk",
       "words": [
-        "STŘÍBRO",
-        "STAVENÍ",
-        "SETKÁNÍ",
-        "ŠTĚSTÍ"
+        "PEVNÝ",
+        "SLUNEČNÍ",
+        "MEZIOBRATLOVÝ",
+        "KOMPAKTNÍ"
       ]
     }
   ]

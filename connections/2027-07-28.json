@@ -1,40 +1,40 @@
 {
-  "id": "conn-223",
+  "id": "conn-588",
   "groups": [
     {
-      "name": "Muzeum",
+      "name": "Rytmické nástroje",
       "words": [
-        "EXPONÁT",
-        "VITRÍNA",
-        "KURÁTOR",
-        "DEPOZITÁŘ"
+        "BUBEN",
+        "ČINEL",
+        "TAMBURÍNA",
+        "KASTANĚTY"
       ]
     },
     {
-      "name": "Galerie",
+      "name": "Španělské tance",
       "words": [
-        "VERNISÁŽ",
-        "KATALOG",
-        "RÁM",
-        "SBÍRKA"
+        "FLAMENKO",
+        "BOLERO",
+        "FANDANGO",
+        "JOTA"
       ]
     },
     {
-      "name": "Restaurování",
+      "name": "Sprinteři",
       "words": [
-        "ČIŠTĚNÍ",
-        "RETUŠ",
-        "LAK",
-        "PRŮZKUM"
+        "BOLT",
+        "LEWIS",
+        "OWENS",
+        "POWELL"
       ]
     },
     {
-      "name": "Stálá ___",
+      "name": "Mají blánu",
       "words": [
-        "EXPOZICE",
-        "SLUŽBA",
-        "ADRESA",
-        "CENA"
+        "NETOPÝR",
+        "ŽÁBA",
+        "KACHNA",
+        "UCHO"
       ]
     }
   ]

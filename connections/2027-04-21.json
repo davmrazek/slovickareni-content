@@ -1,40 +1,40 @@
 {
-  "id": "conn-125",
+  "id": "conn-490",
   "groups": [
     {
-      "name": "Malířské techniky",
+      "name": "Ke kávě",
       "words": [
-        "AKVAREL",
-        "OLEJ",
-        "TEMPERA",
-        "PASTEL"
+        "PIŠKOTY",
+        "OPLATKY",
+        "LOUPÁK",
+        "MAKRONKA"
       ]
     },
     {
-      "name": "V ateliéru",
+      "name": "Ptáci na poli",
       "words": [
-        "STOJAN",
-        "PLÁTNO",
-        "PALETA",
-        "ŠTĚTEC"
+        "KOROPTEV",
+        "BAŽANT",
+        "CHOCHOLOUŠ",
+        "SKŘIVAN"
       ]
     },
     {
-      "name": "Odstíny červené",
+      "name": "Slavní detektivové",
       "words": [
-        "KARMÍN",
-        "PURPUR",
-        "ŠARLAT",
-        "RUBÍNOVÁ"
+        "POIROT",
+        "COLUMBO",
+        "MARPLE",
+        "HOLMES"
       ]
     },
     {
-      "name": "Živá ___",
+      "name": "Mají péra",
       "words": [
-        "BARVA",
-        "DEBATA",
-        "PŘÍRODA",
-        "HUDBA"
+        "MATRACE",
+        "HODINY",
+        "GAUČ",
+        "KOČÁR"
       ]
     }
   ]

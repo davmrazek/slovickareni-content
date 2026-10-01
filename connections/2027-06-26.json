@@ -1,40 +1,40 @@
 {
-  "id": "conn-191",
+  "id": "conn-556",
   "groups": [
     {
-      "name": "Kalendář",
+      "name": "Lesní ptáci",
       "words": [
-        "SVÁTEK",
-        "TÝDEN",
-        "ČTVRTLETÍ",
-        "LETOPOČET"
+        "DATEL",
+        "KUKAČKA",
+        "STRAKAPOUD",
+        "BRHLÍK"
       ]
     },
     {
-      "name": "Fáze Měsíce",
+      "name": "Americké řeky",
       "words": [
-        "NOV",
-        "DORŮSTÁNÍ",
-        "ÚPLNĚK",
-        "COUVÁNÍ"
+        "MISSISSIPPI",
+        "MISSOURI",
+        "COLORADO",
+        "HUDSON"
       ]
     },
     {
-      "name": "Roční mezníky",
+      "name": "Operní pěvkyně",
       "words": [
-        "ROVNODENNOST",
-        "SLUNOVRAT",
-        "ADVENT",
-        "DOŽÍNKY"
+        "CALLAS",
+        "NETREBKO",
+        "KOŽENÁ",
+        "URBANOVÁ"
       ]
     },
     {
-      "name": "Nový ___",
+      "name": "___ kůže",
       "words": [
-        "MĚSÍC",
-        "ROK",
-        "REKORD",
-        "DOMOV"
+        "HUSÍ",
+        "HADÍ",
+        "KROKODÝLÍ",
+        "TLUSTÁ"
       ]
     }
   ]

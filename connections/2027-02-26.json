@@ -1,40 +1,40 @@
 {
-  "id": "conn-71",
+  "id": "conn-436",
   "groups": [
     {
-      "name": "Oblečení",
+      "name": "Žehlení",
       "words": [
-        "SUKNĚ",
-        "SAKO",
-        "KOŠILE",
-        "KRAVATA"
+        "ŽEHLIČKA",
+        "PRKNO",
+        "ŠKROB",
+        "PÁRA"
       ]
     },
     {
-      "name": "Textilie",
+      "name": "Starověké kmeny",
       "words": [
-        "BAVLNA",
-        "HEDVÁBÍ",
-        "SAMET",
-        "LEN"
+        "BÓJOVÉ",
+        "MARKOMANI",
+        "KVÁDOVÉ",
+        "GALOVÉ"
       ]
     },
     {
-      "name": "Vzory látek",
+      "name": "Ženy ve vědě",
       "words": [
-        "PROUŽEK",
-        "KOSTKA",
-        "PUNTÍK",
-        "KVĚTINA"
+        "CURIE",
+        "LOVELACE",
+        "MEITNEROVÁ",
+        "GOODALL"
       ]
     },
     {
-      "name": "___ stopa",
+      "name": "___ prkno",
       "words": [
-        "UHLÍKOVÁ",
-        "KRVAVÁ",
-        "VODNÍ",
-        "HORKÁ"
+        "SURFOVÉ",
+        "ŽEHLICÍ",
+        "SKOKANSKÉ",
+        "KRÁJECÍ"
       ]
     }
   ]

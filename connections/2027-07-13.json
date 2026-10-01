@@ -1,40 +1,40 @@
 {
-  "id": "conn-208",
+  "id": "conn-573",
   "groups": [
     {
-      "name": "Ryby na talíři",
+      "name": "Spaní venku",
       "words": [
-        "PSTRUH",
-        "LOSOS",
-        "TRESKA",
-        "SARDINKA"
+        "SPACÁK",
+        "KARIMATKA",
+        "HAMAKA",
+        "BIVAK"
       ]
     },
     {
-      "name": "Úprava ryby",
+      "name": "Slovinská města",
       "words": [
-        "FILET",
-        "KUCHÁNÍ",
-        "ŠUPINY",
-        "MARINÁDA"
+        "LUBLAŇ",
+        "MARIBOR",
+        "CELJE",
+        "KOPER"
       ]
     },
     {
-      "name": "Mořské plody",
+      "name": "Ruská jídla",
       "words": [
-        "KREVETA",
-        "MUŠLE",
-        "CHOBOTNICE",
-        "KRAB"
+        "BLINY",
+        "PELMENĚ",
+        "BORŠČ",
+        "SOLJANKA"
       ]
     },
     {
-      "name": "Slaný ___",
+      "name": "Ukrývají KARI",
       "words": [
-        "ROZTOK",
-        "VZDUCH",
-        "KARAMEL",
-        "PRAMEN"
+        "KARIÉRA",
+        "KARIKATURA",
+        "OKARÍNA",
+        "KARIBIK"
       ]
     }
   ]

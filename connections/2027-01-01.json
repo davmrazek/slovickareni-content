@@ -1,40 +1,40 @@
 {
-  "id": "conn-15",
+  "id": "conn-380",
   "groups": [
     {
-      "name": "Barvy duhy",
+      "name": "Úseky roku",
       "words": [
-        "FIALOVÁ",
-        "ORANŽOVÁ",
-        "INDIGO",
-        "ŽLUTÁ"
+        "ČTVRTLETÍ",
+        "POLOLETÍ",
+        "MĚSÍC",
+        "TÝDEN"
       ]
     },
     {
-      "name": "Dravci",
+      "name": "Pražské fotbalové kluby",
       "words": [
-        "OREL",
-        "JESTŘÁB",
-        "SOKOL",
-        "KÁNĚ"
+        "SPARTA",
+        "SLAVIA",
+        "BOHEMIANS",
+        "DUKLA"
       ]
     },
     {
-      "name": "Ptačí ___",
+      "name": "Jihoamerické metropole",
       "words": [
-        "HNÍZDO",
-        "ZPĚV",
-        "MLÉKO",
-        "CHŘIPKA"
+        "LIMA",
+        "BOGOTÁ",
+        "QUITO",
+        "CARACAS"
       ]
     },
     {
-      "name": "Druhy sýra",
+      "name": "Ukrývají ROK",
       "words": [
-        "EIDAM",
-        "HERMELÍN",
-        "NIVA",
-        "PARMEZÁN"
+        "ŠIROKÝ",
+        "PROROK",
+        "KROKUS",
+        "BAROKO"
       ]
     }
   ]

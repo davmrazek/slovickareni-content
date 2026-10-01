@@ -1,40 +1,40 @@
 {
-  "id": "conn-76",
+  "id": "conn-441",
   "groups": [
     {
-      "name": "Umělecké slohy",
+      "name": "Holení",
       "words": [
-        "KUBISMUS",
-        "BAROKO",
-        "GOTIKA",
-        "SECESE"
+        "ŽILETKA",
+        "PĚNA",
+        "ŠTĚTKA",
+        "BALZÁM"
       ]
     },
     {
-      "name": "V muzeu",
+      "name": "Čeští dirigenti",
       "words": [
-        "EXPONÁT",
-        "VITRÍNA",
-        "PRŮVODCE",
-        "SBÍRKA"
+        "TALICH",
+        "KUBELÍK",
+        "BĚLOHLÁVEK",
+        "ANČERL"
       ]
     },
     {
-      "name": "Fotografování",
+      "name": "Nelétaví ptáci",
       "words": [
-        "OBJEKTIV",
-        "BLESK",
-        "EXPOZICE",
-        "STATIV"
+        "PŠTROS",
+        "EMU",
+        "NANDU",
+        "KASUÁR"
       ]
     },
     {
-      "name": "Živý ___",
+      "name": "Mají klepeta",
       "words": [
-        "PLOT",
-        "OBRAZ",
-        "PŘENOS",
-        "TVOR"
+        "RAK",
+        "KRAB",
+        "ŠTÍR",
+        "HUMR"
       ]
     }
   ]

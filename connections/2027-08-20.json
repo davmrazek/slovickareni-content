@@ -1,40 +1,40 @@
 {
-  "id": "conn-246",
+  "id": "conn-611",
   "groups": [
     {
-      "name": "Těžký průmysl",
+      "name": "Tělocvik",
       "words": [
-        "HUŤ",
-        "VÁLCOVNA",
-        "SLÉVÁRNA",
-        "KOKSOVNA"
+        "ÚBOR",
+        "CVIČKY",
+        "ŽÍNĚNKA",
+        "KOZA"
       ]
     },
     {
-      "name": "Kovy",
+      "name": "Filmové přehlídky",
       "words": [
-        "MĚĎ",
-        "HLINÍK",
-        "ZINEK",
-        "NIKL"
+        "CANNES",
+        "BENÁTKY",
+        "BERLINÁLE",
+        "SUNDANCE"
       ]
     },
     {
-      "name": "Povrchová úprava",
+      "name": "Filmové záběry",
       "words": [
-        "POZINKOVÁNÍ",
-        "LAKOVÁNÍ",
-        "LEŠTĚNÍ",
-        "SMALT"
+        "DETAIL",
+        "CELEK",
+        "POLOCELEK",
+        "POLODETAIL"
       ]
     },
     {
-      "name": "Železný ___",
+      "name": "___ klapka",
       "words": [
-        "ŠROT",
-        "ZÁKON",
-        "STISK",
-        "KŘÍŽ"
+        "FILMOVÁ",
+        "OČNÍ",
+        "SRDEČNÍ",
+        "VENTILAČNÍ"
       ]
     }
   ]

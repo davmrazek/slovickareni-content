@@ -1,40 +1,40 @@
 {
-  "id": "conn-104",
+  "id": "conn-469",
   "groups": [
     {
-      "name": "V kotelně",
+      "name": "Jarní bundy",
       "words": [
-        "KOTEL",
-        "TRUBKY",
-        "VENTIL",
-        "TLAKOMĚR"
+        "TRENČKOT",
+        "PLÁŠTĚNKA",
+        "VĚTROVKA",
+        "DŽÍNSOVKA"
       ]
     },
     {
-      "name": "Druhy topení",
+      "name": "Skupovy loutky",
       "words": [
-        "PLYNOVÉ",
-        "PODLAHOVÉ",
-        "ÚSTŘEDNÍ",
-        "ELEKTRICKÉ"
+        "SPEJBL",
+        "HURVÍNEK",
+        "MÁNIČKA",
+        "ŽERYK"
       ]
     },
     {
-      "name": "Zdroje energie",
+      "name": "Irští spisovatelé",
       "words": [
-        "SLUNCE",
-        "VÍTR",
-        "BIOMASA",
-        "JÁDRO"
+        "JOYCE",
+        "WILDE",
+        "BECKETT",
+        "SHAW"
       ]
     },
     {
-      "name": "Horká ___",
+      "name": "___ rok",
       "words": [
-        "LINKA",
-        "VODA",
-        "NOVINKA",
-        "PŮDA"
+        "PŘESTUPNÝ",
+        "ŠKOLNÍ",
+        "SVĚTELNÝ",
+        "KALENDÁŘNÍ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-8",
+  "id": "conn-373",
   "groups": [
     {
-      "name": "Evropské metropole",
+      "name": "Pečení perníčků",
       "words": [
-        "PAŘÍŽ",
-        "LONDÝN",
-        "VÍDEŇ",
-        "BERLÍN"
+        "VÁLEČEK",
+        "VYKRAJOVÁTKO",
+        "POLEVA",
+        "PLECH"
       ]
     },
     {
-      "name": "Bludný ___",
+      "name": "Hvězdy na nebi",
       "words": [
-        "KRUH",
-        "KOŘEN",
-        "BALVAN",
-        "HOLANĎAN"
+        "SIRIUS",
+        "VEGA",
+        "POLÁRKA",
+        "BETELGEUZE"
       ]
     },
     {
-      "name": "Roční období",
+      "name": "Středomořské ostrovy",
       "words": [
-        "JARO",
-        "LÉTO",
-        "PODZIM",
-        "ZIMA"
+        "KORSIKA",
+        "SARDINIE",
+        "KRÉTA",
+        "MALTA"
       ]
     },
     {
-      "name": "Šachové figury",
+      "name": "___ papír",
       "words": [
-        "VĚŽ",
-        "STŘELEC",
-        "JEZDEC",
-        "PĚŠEC"
+        "BALICÍ",
+        "TOALETNÍ",
+        "KANCELÁŘSKÝ",
+        "SMIRKOVÝ"
       ]
     }
   ]

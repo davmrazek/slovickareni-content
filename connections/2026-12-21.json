@@ -1,40 +1,40 @@
 {
-  "id": "conn-4",
+  "id": "conn-369",
   "groups": [
     {
-      "name": "Zelenina",
+      "name": "Odklízení sněhu",
       "words": [
-        "MRKEV",
-        "CIBULE",
-        "PAPRIKA",
-        "OKURKA"
+        "LOPATA",
+        "SMETÁK",
+        "FRÉZA",
+        "RADLICE"
       ]
     },
     {
-      "name": "Světové strany",
+      "name": "Žesťové nástroje",
       "words": [
-        "SEVER",
-        "JIH",
-        "VÝCHOD",
-        "ZÁPAD"
+        "TRUBKA",
+        "POZOUNA",
+        "TUBA",
+        "KŘÍDLOVKA"
       ]
     },
     {
-      "name": "Hudební nástroje",
+      "name": "Severská hlavní města",
       "words": [
-        "KYTARA",
-        "HOUSLE",
-        "PIANO",
-        "FLÉTNA"
+        "OSLO",
+        "STOCKHOLM",
+        "HELSINKY",
+        "KODAŇ"
       ]
     },
     {
-      "name": "Mrtvý ___",
+      "name": "___ klíč",
       "words": [
-        "BOD",
-        "ÚHEL",
-        "JAZYK",
-        "INVENTÁŘ"
+        "HOUSLOVÝ",
+        "BASOVÝ",
+        "FRANCOUZSKÝ",
+        "UNIVERZÁLNÍ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-215",
+  "id": "conn-580",
   "groups": [
     {
-      "name": "Turistické cíle",
+      "name": "Z konzervy",
       "words": [
-        "ROZHLEDNA",
-        "ZŘÍCENINA",
-        "SKANZEN",
-        "JESKYNĚ"
+        "SARDINKY",
+        "LANČMÍT",
+        "TUŇÁK",
+        "KUKUŘICE"
       ]
     },
     {
-      "name": "Naučná stezka",
+      "name": "Olympijské bojové sporty",
       "words": [
-        "PANEL",
-        "ZASTAVENÍ",
-        "KVÍZ",
-        "ODPOČÍVADLO"
+        "JUDO",
+        "TAEKWONDO",
+        "BOX",
+        "ZÁPAS"
       ]
     },
     {
-      "name": "Vysokohorská turistika",
+      "name": "Měny světa",
       "words": [
-        "SEDLO",
-        "TRAVERZ",
-        "STOUPÁNÍ",
-        "PŘEVÝŠENÍ"
+        "JEN",
+        "JÜAN",
+        "RUPIE",
+        "REAL"
       ]
     },
     {
-      "name": "Krásný ___",
+      "name": "___ rukavice",
       "words": [
-        "VÝHLED",
-        "DEN",
-        "SEN",
-        "ZVYK"
+        "BOXERSKÉ",
+        "GUMOVÉ",
+        "BRANKÁŘSKÉ",
+        "KUCHYŇSKÉ"
       ]
     }
   ]

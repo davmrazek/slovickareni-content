@@ -1,40 +1,40 @@
 {
-  "id": "conn-94",
+  "id": "conn-459",
   "groups": [
     {
-      "name": "Ve včelíně",
+      "name": "Jarní růst",
       "words": [
-        "ÚL",
-        "RÁMEK",
-        "MATKA",
-        "ROJ"
+        "PUPEN",
+        "POUPĚ",
+        "KLÍČEK",
+        "VÝHONEK"
       ]
     },
     {
-      "name": "Produkty úlu",
+      "name": "Klavíristé",
       "words": [
-        "VOSK",
-        "PROPOLIS",
-        "PLÁST",
-        "PYL"
+        "CHOPIN",
+        "LISZT",
+        "RACHMANINOV",
+        "HOROWITZ"
       ]
     },
     {
-      "name": "Sladidla",
+      "name": "Větry",
       "words": [
-        "SIRUP",
-        "STÉVIE",
-        "MELASA",
-        "FRUKTÓZA"
+        "FÉN",
+        "BÓRA",
+        "MISTRÁL",
+        "SIROKO"
       ]
     },
     {
-      "name": "Sladký jako ___",
+      "name": "___ vítr",
       "words": [
-        "MED",
-        "CUKR",
-        "SEN",
-        "POLIBEK"
+        "PŘÍZNIVÝ",
+        "SLUNEČNÍ",
+        "SEVERNÍ",
+        "BOČNÍ"
       ]
     }
   ]

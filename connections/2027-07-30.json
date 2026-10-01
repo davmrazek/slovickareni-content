@@ -1,40 +1,40 @@
 {
-  "id": "conn-225",
+  "id": "conn-590",
   "groups": [
     {
-      "name": "Divadelní hry",
+      "name": "Bazén",
       "words": [
-        "KOMEDIE",
-        "TRAGÉDIE",
-        "FRAŠKA",
-        "MUZIKÁL"
+        "CHLOR",
+        "FILTR",
+        "PLACHTA",
+        "SKIMMER"
       ]
     },
     {
-      "name": "Kostýmy",
+      "name": "Francouzská pohoří",
       "words": [
-        "PARUKA",
-        "LÍČIDLO",
-        "PLÁŠŤ",
-        "MASKA"
+        "VOGÉZY",
+        "CEVENNY",
+        "MORVAN",
+        "ARDENY"
       ]
     },
     {
-      "name": "Jeviště",
+      "name": "Geologická období",
       "words": [
-        "RAMPA",
-        "PROPADLO",
-        "TOČNA",
-        "OPONA"
+        "JURA",
+        "KŘÍDA",
+        "TRIAS",
+        "PERM"
       ]
     },
     {
-      "name": "Zlatá ___",
+      "name": "Mají filtr",
       "words": [
-        "KAPLIČKA",
-        "ULIČKA",
-        "NEDĚLE",
-        "MLÁDEŽ"
+        "CIGARETA",
+        "KÁVOVAR",
+        "VYSAVAČ",
+        "FOTOAPARÁT"
       ]
     }
   ]

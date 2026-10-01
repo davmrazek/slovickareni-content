@@ -1,40 +1,40 @@
 {
-  "id": "conn-34",
+  "id": "conn-399",
   "groups": [
     {
-      "name": "Druhy chleba",
+      "name": "Do zimního čaje",
       "words": [
-        "ŽITNÝ",
-        "KMÍNOVÝ",
-        "CELOZRNNÝ",
-        "KVÁSKOVÝ"
+        "CITRON",
+        "ZÁZVOR",
+        "SKOŘICE",
+        "HŘEBÍČEK"
       ]
     },
     {
-      "name": "Létající hmyz",
+      "name": "Stáje formule 1",
       "words": [
-        "VÁŽKA",
-        "VOSA",
-        "MOUCHA",
-        "SRŠEŇ"
+        "FERRARI",
+        "MCLAREN",
+        "WILLIAMS",
+        "RENAULT"
       ]
     },
     {
-      "name": "Filmové žánry",
+      "name": "Čeští básníci",
       "words": [
-        "HOROR",
-        "THRILLER",
-        "WESTERN",
-        "ROMANTIKA"
+        "MÁCHA",
+        "ERBEN",
+        "NERUDA",
+        "HALAS"
       ]
     },
     {
-      "name": "Noční ___",
+      "name": "Ukrývají MED",
       "words": [
-        "MŮRA",
-        "KOŠILE",
-        "SMĚNA",
-        "OBLOHA"
+        "MEDAILE",
+        "KOMEDIE",
+        "MEDVĚD",
+        "ANDROMEDA"
       ]
     }
   ]

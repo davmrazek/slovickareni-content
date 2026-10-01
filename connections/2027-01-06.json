@@ -1,40 +1,40 @@
 {
-  "id": "conn-20",
+  "id": "conn-385",
   "groups": [
     {
-      "name": "Zahradní nářadí",
+      "name": "Tříkrálová sbírka",
       "words": [
-        "HRÁBĚ",
-        "LOPATA",
-        "MOTYKA",
-        "KOSA"
+        "KOLEDNÍCI",
+        "KORUNA",
+        "KASIČKA",
+        "KŘÍDA"
       ]
     },
     {
-      "name": "Pohádkové bytosti",
+      "name": "Vzácné kovy",
       "words": [
-        "ČERT",
-        "VÍLA",
-        "DRAK",
-        "JEŽIBABA"
+        "ZLATO",
+        "PLATINA",
+        "STŘÍBRO",
+        "PALADIUM"
       ]
     },
     {
-      "name": "Měsíce",
+      "name": "Římští císaři",
       "words": [
-        "ÚNOR",
-        "DUBEN",
-        "KVĚTEN",
-        "ČERVENEC"
+        "NERO",
+        "TRAJÁN",
+        "AUGUSTUS",
+        "CALIGULA"
       ]
     },
     {
-      "name": "Medvědí ___",
+      "name": "Tři ___",
       "words": [
-        "SLUŽBA",
-        "ČESNEK",
-        "TLAPA",
-        "BRLOH"
+        "OŘÍŠKY",
+        "VETERÁNI",
+        "BRATŘI",
+        "MUŠKETÝŘI"
       ]
     }
   ]

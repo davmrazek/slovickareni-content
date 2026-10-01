@@ -1,40 +1,40 @@
 {
-  "id": "conn-29",
+  "id": "conn-394",
   "groups": [
     {
-      "name": "Hlodavci",
+      "name": "Barové drobnosti",
       "words": [
-        "MYŠ",
-        "KRYSA",
-        "KŘEČEK",
-        "VEVERKA"
+        "BRČKO",
+        "PODTÁCEK",
+        "OTVÍRÁK",
+        "VÝVRTKA"
       ]
     },
     {
-      "name": "Části stromu",
+      "name": "Kynuté moučníky",
       "words": [
-        "KOŘEN",
-        "KMEN",
-        "VĚTEV",
-        "KŮRA"
+        "BUCHTY",
+        "KOLÁČE",
+        "VDOLKY",
+        "BÁBOVKA"
       ]
     },
     {
-      "name": "Italská jídla",
+      "name": "Latinskoamerické tance",
       "words": [
-        "PIZZA",
-        "TĚSTOVINY",
-        "RIZOTO",
-        "LASAGNE"
+        "SAMBA",
+        "SALSA",
+        "TANGO",
+        "CHACHA"
       ]
     },
     {
-      "name": "Suchý ___",
+      "name": "Ukrývají RUM",
       "words": [
-        "LED",
-        "ZIP",
-        "HUMOR",
-        "KAŠEL"
+        "KRUMPÁČ",
+        "RUMPÁL",
+        "TRUMF",
+        "RUMIŠTĚ"
       ]
     }
   ]

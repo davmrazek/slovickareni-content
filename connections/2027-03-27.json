@@ -1,40 +1,40 @@
 {
-  "id": "conn-100",
+  "id": "conn-465",
   "groups": [
     {
-      "name": "Ve fotokomoře",
+      "name": "Pečeme na Velikonoce",
       "words": [
-        "NEGATIV",
-        "VÝVOJKA",
-        "USTALOVAČ",
-        "ZVĚTŠOVÁK"
+        "BERÁNEK",
+        "MAZANEC",
+        "JIDÁŠE",
+        "NÁDIVKA"
       ]
     },
     {
-      "name": "Části objektivu",
+      "name": "Jarní svátky světa",
       "words": [
-        "CLONA",
-        "ČOČKA",
-        "ZÁVIT",
-        "OSTŘENÍ"
+        "PESACH",
+        "HOLI",
+        "NOWRÚZ",
+        "BELTAINE"
       ]
     },
     {
-      "name": "Kompozice snímku",
+      "name": "Biblické hory",
       "words": [
-        "POPŘEDÍ",
-        "HORIZONT",
-        "RÁMOVÁNÍ",
-        "PERSPEKTIVA"
+        "SINAJ",
+        "ARARAT",
+        "TÁBOR",
+        "KARMEL"
       ]
     },
     {
-      "name": "Ostrý ___",
+      "name": "Mají rohy",
       "words": [
-        "OBRAZ",
-        "NŮŽ",
-        "TÓN",
-        "ZATÁČKA"
+        "KOZA",
+        "MĚSÍC",
+        "BÝK",
+        "ŠNEK"
       ]
     }
   ]

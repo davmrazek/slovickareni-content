@@ -1,40 +1,40 @@
 {
-  "id": "conn-155",
+  "id": "conn-520",
   "groups": [
     {
-      "name": "Lidská kostra",
+      "name": "Na dovolenou",
       "words": [
-        "LEBKA",
-        "PÁTEŘ",
-        "ŽEBRO",
-        "PÁNEV"
+        "KUFR",
+        "LETENKA",
+        "HOTEL",
+        "PLAVKY"
       ]
     },
     {
-      "name": "Klouby",
+      "name": "Chorvatská města",
       "words": [
-        "KOLENO",
-        "LOKET",
-        "RAMENO",
-        "KOTNÍK"
+        "SPLIT",
+        "DUBROVNÍK",
+        "ZADAR",
+        "PULA"
       ]
     },
     {
-      "name": "Rehabilitace",
+      "name": "Golf",
       "words": [
-        "MASÁŽ",
-        "CVIČENÍ",
-        "OBKLAD",
-        "BERLE"
+        "JAMKA",
+        "BIRDIE",
+        "EAGLE",
+        "GREEN"
       ]
     },
     {
-      "name": "Zlomený ___",
+      "name": "___ pas",
       "words": [
-        "PRST",
-        "SLIB",
-        "HLAS",
-        "REKORD"
+        "CESTOVNÍ",
+        "OČKOVACÍ",
+        "VOSÍ",
+        "DIPLOMATICKÝ"
       ]
     }
   ]

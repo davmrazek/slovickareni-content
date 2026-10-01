@@ -1,40 +1,40 @@
 {
-  "id": "conn-95",
+  "id": "conn-460",
   "groups": [
     {
-      "name": "Ovčí hospodářství",
+      "name": "Aprílové počasí",
       "words": [
-        "STŘÍHÁNÍ",
-        "SALAŠ",
-        "BAČA",
-        "STÁDO"
+        "PŘEHÁŇKA",
+        "KROUPY",
+        "DUHA",
+        "SLUNCE"
       ]
     },
     {
-      "name": "Z ovčího mléka",
+      "name": "Evropské mikrostáty",
       "words": [
-        "BRYNZA",
-        "ŽINČICA",
-        "OŠTIEPOK",
-        "URDA"
+        "MONAKO",
+        "ANDORRA",
+        "LICHTENŠTEJNSKO",
+        "VATIKÁN"
       ]
     },
     {
-      "name": "Pastevečtí psi",
+      "name": "Houslaři",
       "words": [
-        "OVČÁK",
-        "KOLIE",
-        "KUVASZ",
-        "ČUVAČ"
+        "STRADIVARI",
+        "AMATI",
+        "GUARNERI",
+        "KLOTZ"
       ]
     },
     {
-      "name": "Černá ___",
+      "name": "___ oblouk",
       "words": [
-        "OVCE",
-        "KRONIKA",
-        "SKŘÍŇKA",
-        "KÁVA"
+        "VÍTĚZNÝ",
+        "DUHOVÝ",
+        "GOTICKÝ",
+        "ELEKTRICKÝ"
       ]
     }
   ]

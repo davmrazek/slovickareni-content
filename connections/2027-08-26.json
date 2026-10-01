@@ -1,40 +1,40 @@
 {
-  "id": "conn-252",
+  "id": "conn-617",
   "groups": [
     {
-      "name": "Kuchyňská linka",
+      "name": "Vinice",
       "words": [
-        "DŘEZ",
-        "DIGESTOŘ",
-        "ZÁSUVKA",
-        "DESKA"
+        "RÉVA",
+        "HROZEN",
+        "LIS",
+        "BURČÁK"
       ]
     },
     {
-      "name": "Nádobí na vaření",
+      "name": "Vinařské oblasti Evropy",
       "words": [
-        "HRNEC",
-        "PÁNEV",
-        "KASTROL",
-        "PEKÁČ"
+        "RIOJA",
+        "TOKAJ",
+        "CHIANTI",
+        "MOSELA"
       ]
     },
     {
-      "name": "Kuchyňské pomůcky",
+      "name": "Na víno",
       "words": [
-        "STĚRKA",
-        "NABĚRAČKA",
-        "STRUHADLO",
-        "OTVÍRÁK"
+        "DEMIŽON",
+        "BARIK",
+        "KARAFA",
+        "KALICH"
       ]
     },
     {
-      "name": "Horký ___",
+      "name": "Ukrývají LIS",
       "words": [
-        "OLEJ",
-        "BRAMBOR",
-        "TÉMA",
-        "PRAMEN"
+        "LISTOPAD",
+        "LISTINA",
+        "ÚLISNÝ",
+        "KLISNA"
       ]
     }
   ]

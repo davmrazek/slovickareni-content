@@ -1,40 +1,40 @@
 {
-  "id": "conn-51",
+  "id": "conn-416",
   "groups": [
     {
-      "name": "Hokej",
+      "name": "Kalhoty",
       "words": [
-        "PUK",
-        "HOKEJKA",
-        "BRANKA",
-        "MANTINEL"
+        "DŽÍNY",
+        "TEPLÁKY",
+        "KRAŤASY",
+        "MANŠESTRÁKY"
       ]
     },
     {
-      "name": "Tenis",
+      "name": "Pražské parky",
       "words": [
-        "RAKETA",
-        "SÍŤ",
-        "MÍČEK",
-        "KURT"
+        "STROMOVKA",
+        "ŠÁRKA",
+        "KLAMOVKA",
+        "GRÉBOVKA"
       ]
     },
     {
-      "name": "Olympiáda",
+      "name": "Filmoví režiséři",
       "words": [
-        "MEDAILE",
-        "POCHODEŇ",
-        "KRUHY",
-        "VLAJKA"
+        "SPIELBERG",
+        "TARANTINO",
+        "KUBRICK",
+        "HITCHCOCK"
       ]
     },
     {
-      "name": "___ hra",
+      "name": "___ pás",
       "words": [
-        "ČISTÁ",
-        "FALEŠNÁ",
-        "DĚTSKÁ",
-        "HAZARDNÍ"
+        "BEZPEČNOSTNÍ",
+        "ZELENÝ",
+        "POHRANIČNÍ",
+        "ČERNÝ"
       ]
     }
   ]

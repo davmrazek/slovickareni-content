@@ -1,40 +1,40 @@
 {
-  "id": "conn-244",
+  "id": "conn-609",
   "groups": [
     {
-      "name": "Sladkovodní ryby",
+      "name": "Zmrzlinový pohár",
       "words": [
-        "ŠTIKA",
-        "OKOUN",
-        "CANDÁT",
-        "SUMEC"
+        "ŠLEHAČKA",
+        "OVOCE",
+        "OPLATEK",
+        "SIRUP"
       ]
     },
     {
-      "name": "Rybářské náčiní",
+      "name": "Italské automobilky",
       "words": [
-        "PRUT",
-        "NAVIJÁK",
-        "SPLÁVEK",
-        "HÁČEK"
+        "FIAT",
+        "LAMBORGHINI",
+        "MASERATI",
+        "LANCIA"
       ]
     },
     {
-      "name": "Návnady",
+      "name": "Benátky",
       "words": [
-        "ŽÍŽALA",
-        "BOILIE",
-        "TĚSTO",
-        "TŘPYTKA"
+        "RIALTO",
+        "MURANO",
+        "LIDO",
+        "DÓŽE"
       ]
     },
     {
-      "name": "Zlatá ___",
+      "name": "Mají vesla",
       "words": [
-        "RYBKA",
-        "HOREČKA",
-        "ÉRA",
-        "ŽÍLA"
+        "GONDOLA",
+        "KÁNOE",
+        "GALÉRA",
+        "PRAM"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-80",
+  "id": "conn-445",
   "groups": [
     {
-      "name": "Meteorologie",
+      "name": "Na výsadbu",
       "words": [
-        "BAROMETR",
-        "SRÁŽKY",
-        "PŘEDPOVĚĎ",
-        "VLHKOST"
+        "SAZENICE",
+        "CIBULKY",
+        "HLÍZY",
+        "SEMÍNKA"
       ]
     },
     {
-      "name": "Vítr",
+      "name": "Čeští fotografové",
       "words": [
-        "VICHR",
-        "VÁNEK",
-        "PRŮVAN",
-        "ORKÁN"
+        "SUDEK",
+        "DRTIKOL",
+        "FUNKE",
+        "KOUDELKA"
       ]
     },
     {
-      "name": "Na mapě",
+      "name": "Raketoplány",
       "words": [
-        "LEGENDA",
-        "MĚŘÍTKO",
-        "VRSTEVNICE",
-        "SOUŘADNICE"
+        "COLUMBIA",
+        "CHALLENGER",
+        "DISCOVERY",
+        "ATLANTIS"
       ]
     },
     {
-      "name": "___ tlak",
+      "name": "Bájné země",
       "words": [
-        "KREVNÍ",
-        "ATMOSFÉRICKÝ",
-        "ČASOVÝ",
-        "NÍZKÝ"
+        "ELDORÁDO",
+        "AVALON",
+        "ŠAMBALA",
+        "ATLANTIDA"
       ]
     }
   ]

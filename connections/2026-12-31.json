@@ -1,40 +1,40 @@
 {
-  "id": "conn-14",
+  "id": "conn-379",
   "groups": [
     {
-      "name": "Hudební žánry",
+      "name": "Silvestrovská tabule",
       "words": [
-        "ROCK",
-        "JAZZ",
-        "POP",
-        "BLUES"
+        "CHLEBÍČKY",
+        "JEDNOHUBKY",
+        "ČOČKA",
+        "ŠAMPUS"
       ]
     },
     {
-      "name": "Části auta",
+      "name": "Pyrotechnika",
       "words": [
-        "VOLANT",
-        "BRZDA",
-        "MOTOR",
-        "KOLO"
+        "PRSKAVKA",
+        "RACHEJTLE",
+        "DĚLBUCH",
+        "PETARDA"
       ]
     },
     {
-      "name": "Řecká písmena",
+      "name": "Jazyky Indie",
       "words": [
-        "DELTA",
-        "SIGMA",
-        "LAMBDA",
-        "THÉTA"
+        "HINDŠTINA",
+        "BENGÁLŠTINA",
+        "TAMILŠTINA",
+        "URDŠTINA"
       ]
     },
     {
-      "name": "Horký ___",
+      "name": "Ukrývají číslovku",
       "words": [
-        "BRAMBOR",
-        "PRAMEN",
-        "VZDUCH",
-        "ČAJ"
+        "STOLEK",
+        "SEDMIKRÁSKA",
+        "OSMÓZA",
+        "DEVĚTSIL"
       ]
     }
   ]

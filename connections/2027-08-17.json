@@ -1,40 +1,40 @@
 {
-  "id": "conn-243",
+  "id": "conn-608",
   "groups": [
     {
-      "name": "Pavučina",
+      "name": "Na seno",
       "words": [
-        "VLÁKNO",
-        "SÍŤ",
-        "KOŘIST",
-        "ZÁCHVĚV"
+        "VIDLE",
+        "HRÁBĚ",
+        "KOSA",
+        "FŮRA"
       ]
     },
     {
-      "name": "Naši pavouci",
+      "name": "Japonská města",
       "words": [
-        "KŘIŽÁK",
-        "SEKÁČ",
-        "SLÍĎÁK",
-        "SNOVAČKA"
+        "KJÓTO",
+        "ÓSAKA",
+        "NAGOJA",
+        "SAPPORO"
       ]
     },
     {
-      "name": "Bodavý hmyz",
+      "name": "Japonská kuchyně",
       "words": [
-        "KOMÁR",
-        "OVÁD",
-        "MUŠKA",
-        "BLECHA"
+        "RAMEN",
+        "TEMPURA",
+        "MISO",
+        "GJÓZA"
       ]
     },
     {
-      "name": "Lepkavý ___",
+      "name": "Mají ocas",
       "words": [
-        "PAPÍR",
-        "PRST",
-        "SIRUP",
-        "POVRCH"
+        "ČERT",
+        "KOMETA",
+        "DRAK",
+        "LETADLO"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-209",
+  "id": "conn-574",
   "groups": [
     {
-      "name": "Restaurace",
+      "name": "Letní kino",
       "words": [
-        "ČÍŠNÍK",
-        "JÍDELNÍČEK",
-        "OBJEDNÁVKA",
-        "SPROPITNÉ"
+        "PLÁTNO",
+        "PROMÍTAČKA",
+        "DEKA",
+        "POPCORN"
       ]
     },
     {
-      "name": "Kuchyňské brigády",
+      "name": "Filmová studia",
       "words": [
-        "ŠÉFKUCHAŘ",
-        "CUKRÁŘ",
-        "POMOCNÍK",
-        "MYČ"
+        "UNIVERSAL",
+        "PARAMOUNT",
+        "WARNER",
+        "BARRANDOV"
       ]
     },
     {
-      "name": "Stolování",
+      "name": "Filozofické obory",
       "words": [
-        "TALÍŘ",
-        "SKLENKA",
-        "PŘÍBOR",
-        "SVÍCEN"
+        "ETIKA",
+        "ESTETIKA",
+        "LOGIKA",
+        "METAFYZIKA"
       ]
     },
     {
-      "name": "Denní ___",
+      "name": "___ plátno",
       "words": [
-        "MENU",
-        "SVĚTLO",
-        "REŽIM",
-        "TISK"
+        "MALÍŘSKÉ",
+        "LNĚNÉ",
+        "PLACHTOVÉ",
+        "STANOVÉ"
       ]
     }
   ]

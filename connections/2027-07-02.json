@@ -1,40 +1,40 @@
 {
-  "id": "conn-197",
+  "id": "conn-562",
   "groups": [
     {
-      "name": "Na horách v zimě",
+      "name": "Ke grilu",
       "words": [
-        "VLEK",
-        "SJEZDOVKA",
-        "CHATA",
-        "ROLBA"
+        "KLEŠTĚ",
+        "BRIKETY",
+        "PODPALOVAČ",
+        "OBRACEČKA"
       ]
     },
     {
-      "name": "Lyžařská výzbroj",
+      "name": "Islandské sopky",
       "words": [
-        "HOLE",
-        "VÁZÁNÍ",
-        "BRÝLE",
-        "VOSK"
+        "EYJAFJALLAJÖKULL",
+        "KATLA",
+        "ASKJA",
+        "KRAFLA"
       ]
     },
     {
-      "name": "Zimní radovánky",
+      "name": "Čeští kardinálové",
       "words": [
-        "BOBY",
-        "KOULOVAČKA",
-        "BRUSLENÍ",
-        "SNĚHULÁK"
+        "TOMÁŠEK",
+        "BERAN",
+        "VLK",
+        "DUKA"
       ]
     },
     {
-      "name": "Sněhová ___",
+      "name": "___ uhlí",
       "words": [
-        "VLOČKA",
-        "NADÍLKA",
-        "KOULE",
-        "POKRÝVKA"
+        "ČERNÉ",
+        "HNĚDÉ",
+        "BÍLÉ",
+        "AKTIVNÍ"
       ]
     }
   ]

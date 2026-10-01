@@ -1,40 +1,40 @@
 {
-  "id": "conn-230",
+  "id": "conn-595",
   "groups": [
     {
-      "name": "Šperkařství",
+      "name": "Ryby na gril",
       "words": [
-        "ZLATNÍK",
-        "PUNC",
-        "BROUŠENÍ",
-        "ŘETÍZEK"
+        "PSTRUH",
+        "MAKRELA",
+        "LOSOS",
+        "DORADA"
       ]
     },
     {
-      "name": "Drahé kameny",
+      "name": "Polská pohoří",
       "words": [
-        "SMARAGD",
-        "SAFÍR",
-        "OPÁL",
-        "TOPAZ"
+        "TATRY",
+        "BESKYDY",
+        "BIESZCZADY",
+        "SUDETY"
       ]
     },
     {
-      "name": "Hodinky",
+      "name": "Polská města",
       "words": [
-        "ŘEMÍNEK",
-        "RUČIČKA",
-        "SKLÍČKO",
-        "NATAHOVÁNÍ"
+        "KRAKOV",
+        "VRATISLAV",
+        "GDAŇSK",
+        "POZNAŇ"
       ]
     },
     {
-      "name": "Vzácný ___",
+      "name": "___ ryba",
       "words": [
-        "KOV",
-        "HOST",
-        "NÁLEZ",
-        "OKAMŽIK"
+        "LÉTAJÍCÍ",
+        "ZLATÁ",
+        "UZENÁ",
+        "ELEKTRICKÁ"
       ]
     }
   ]

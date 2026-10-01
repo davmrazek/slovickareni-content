@@ -1,40 +1,40 @@
 {
-  "id": "conn-39",
+  "id": "conn-404",
   "groups": [
     {
-      "name": "Jehličnaté stromy",
+      "name": "Spí v zimě",
       "words": [
-        "BOROVICE",
-        "JEDLE",
-        "MODŘÍN",
-        "TIS"
+        "JEŽEK",
+        "SVIŠŤ",
+        "MEDVĚD",
+        "NETOPÝR"
       ]
     },
     {
-      "name": "Příchutě zmrzliny",
+      "name": "Přehradní nádrže",
       "words": [
-        "VANILKA",
-        "JAHODA",
-        "OŘECH",
-        "KARAMEL"
+        "LIPNO",
+        "ORLÍK",
+        "SLAPY",
+        "DALEŠICE"
       ]
     },
     {
-      "name": "Jednotky času",
+      "name": "Šlechtické tituly",
       "words": [
-        "SEKUNDA",
-        "MINUTA",
-        "HODINA",
-        "TÝDEN"
+        "VÉVODA",
+        "HRABĚ",
+        "BARON",
+        "MARKÝZ"
       ]
     },
     {
-      "name": "Otevřený ___",
+      "name": "Začínají zvířetem",
       "words": [
-        "DOPIS",
-        "PROSTOR",
-        "OHEŇ",
-        "KONEC"
+        "RAKETA",
+        "HADICE",
+        "LOSOVÁNÍ",
+        "RYSKA"
       ]
     }
   ]

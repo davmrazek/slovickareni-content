@@ -1,40 +1,40 @@
 {
-  "id": "conn-157",
+  "id": "conn-522",
   "groups": [
     {
-      "name": "U zubaře",
+      "name": "Proti horku",
       "words": [
-        "VRTAČKA",
-        "PLOMBA",
-        "SLINTÁK",
-        "ZRCÁTKO"
+        "LED",
+        "VĚTRÁK",
+        "KLIMATIZACE",
+        "LEDNICE"
       ]
     },
     {
-      "name": "Ústní hygiena",
+      "name": "Mexická jídla",
       "words": [
-        "KARTÁČEK",
-        "PASTA",
-        "NIT",
-        "VÝPLACH"
+        "TACO",
+        "BURRITO",
+        "NACHOS",
+        "QUESADILLA"
       ]
     },
     {
-      "name": "Zubní potíže",
+      "name": "Tropičtí ptáci",
       "words": [
-        "KAZ",
-        "ZÁNĚT",
-        "CITLIVOST",
-        "KÁMEN"
+        "TUKAN",
+        "KOLIBŘÍK",
+        "ARA",
+        "KAKADU"
       ]
     },
     {
-      "name": "Bílý ___",
+      "name": "Mají vrtuli",
       "words": [
-        "ÚSMĚV",
-        "PLÁŠŤ",
-        "KŮŇ",
-        "ŠUM"
+        "LETADLO",
+        "VRTULNÍK",
+        "LOĎ",
+        "PONORKA"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-38",
+  "id": "conn-403",
   "groups": [
     {
-      "name": "Exotičtí ptáci",
+      "name": "Anglická snídaně",
       "words": [
-        "PAPOUŠEK",
-        "TUKAN",
-        "PLAMEŇÁK",
-        "KOLIBŘÍK"
+        "VEJCE",
+        "SLANINA",
+        "TOUST",
+        "PÁREK"
       ]
     },
     {
-      "name": "Pálivé koření",
+      "name": "Jihočeské rybníky",
       "words": [
-        "CHILLI",
-        "KARI",
-        "WASABI",
-        "PEPŘ"
+        "ROŽMBERK",
+        "SVĚT",
+        "BEZDREV",
+        "DVOŘIŠTĚ"
       ]
     },
     {
-      "name": "Části počítače",
+      "name": "Má vlast",
       "words": [
-        "PROCESOR",
-        "KLÁVESNICE",
-        "MONITOR",
-        "MYŠ"
+        "VYŠEHRAD",
+        "VLTAVA",
+        "ŠÁRKA",
+        "BLANÍK"
       ]
     },
     {
-      "name": "První ___",
+      "name": "Končí částí těla",
       "words": [
-        "POMOC",
-        "LÁSKA",
-        "LIGA",
-        "DÁMA"
+        "HLUBOKO",
+        "VIOLONČELO",
+        "SUCHO",
+        "KOMPAS"
       ]
     }
   ]

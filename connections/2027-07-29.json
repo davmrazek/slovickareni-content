@@ -1,40 +1,40 @@
 {
-  "id": "conn-224",
+  "id": "conn-589",
   "groups": [
     {
-      "name": "Archiv a knihovna",
+      "name": "Hmyz u vody",
       "words": [
-        "FOND",
-        "SIGNATURA",
-        "BADATELNA",
-        "KATALOG"
+        "VÁŽKA",
+        "BRUSLAŘKA",
+        "JEPICE",
+        "POTÁPNÍK"
       ]
     },
     {
-      "name": "Staré tisky",
+      "name": "Belgická města",
       "words": [
-        "INKUNÁBULE",
-        "DESKY",
-        "PEČEŤ",
-        "VODOZNAK"
+        "BRUSEL",
+        "BRUGGY",
+        "GENT",
+        "LUTYCH"
       ]
     },
     {
-      "name": "Písmo",
+      "name": "Belgie",
       "words": [
-        "KURZÍVA",
-        "VERZÁLKA",
-        "PATKA",
-        "LIGATURA"
+        "VAFLE",
+        "PRALINKY",
+        "TINTIN",
+        "ATOMIUM"
       ]
     },
     {
-      "name": "Černé na ___",
+      "name": "Ukrývají GENT",
       "words": [
-        "BÍLÉM",
-        "PAPÍŘE",
-        "LISTU",
-        "TABULI"
+        "AGENT",
+        "GENTLEMAN",
+        "ARGENTINA",
+        "INTELIGENT"
       ]
     }
   ]

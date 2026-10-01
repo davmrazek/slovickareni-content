@@ -1,40 +1,40 @@
 {
-  "id": "conn-142",
+  "id": "conn-507",
   "groups": [
     {
-      "name": "Pravěk",
+      "name": "Symboly míru",
       "words": [
-        "PAZOUREK",
-        "MAMUT",
-        "JESKYNĚ",
-        "OHNIŠTĚ"
+        "HOLUBICE",
+        "RATOLEST",
+        "DUHA",
+        "PACIFIK"
       ]
     },
     {
-      "name": "Doba bronzová",
+      "name": "Vojenské operace",
       "words": [
-        "SLITINA",
-        "MOHYLA",
-        "SPONA",
-        "HRADIŠTĚ"
+        "OVERLORD",
+        "BARBAROSSA",
+        "ANTHROPOID",
+        "TORCH"
       ]
     },
     {
-      "name": "Archeologie",
+      "name": "Parašutisté",
       "words": [
-        "SONDA",
-        "VÝKOP",
-        "ŠTĚTEC",
-        "DATOVÁNÍ"
+        "GABČÍK",
+        "KUBIŠ",
+        "VALČÍK",
+        "OPÁLKA"
       ]
     },
     {
-      "name": "Starý ___",
+      "name": "Tance",
       "words": [
-        "ZÁKON",
-        "KONTINENT",
-        "ZVYK",
-        "PŘÍTEL"
+        "POLKA",
+        "MAZURKA",
+        "ČARDÁŠ",
+        "SKOČNÁ"
       ]
     }
   ]

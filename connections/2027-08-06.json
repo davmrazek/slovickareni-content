@@ -1,40 +1,40 @@
 {
-  "id": "conn-232",
+  "id": "conn-597",
   "groups": [
     {
-      "name": "Textilní materiály",
+      "name": "Ze stánku",
       "words": [
-        "BAVLNA",
-        "LEN",
-        "HEDVÁBÍ",
-        "VLNA"
+        "TRDELNÍK",
+        "LANGOŠ",
+        "CHURROS",
+        "PALAČINKA"
       ]
     },
     {
-      "name": "Vzory na látce",
+      "name": "Felliniho filmy",
       "words": [
-        "PROUŽEK",
-        "PUNTÍK",
-        "KOSTKA",
-        "KVĚTY"
+        "AMARCORD",
+        "SILNICE",
+        "ROMA",
+        "SATYRICON"
       ]
     },
     {
-      "name": "Krejčovské úpravy",
+      "name": "Italské regiony",
       "words": [
-        "ZKRÁCENÍ",
-        "ZÚŽENÍ",
-        "LEM",
-        "ZÁPLATA"
+        "TOSKÁNSKO",
+        "LOMBARDIE",
+        "SICÍLIE",
+        "KALÁBRIE"
       ]
     },
     {
-      "name": "Šitá ___",
+      "name": "Ukrývají LOM",
       "words": [
-        "ZAKÁZKA",
-        "MÍRA",
-        "PANENKA",
-        "TAŠKA"
+        "DIPLOM",
+        "PŘELOM",
+        "LOMIKÁMEN",
+        "POLOMĚR"
       ]
     }
   ]

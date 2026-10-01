@@ -1,40 +1,40 @@
 {
-  "id": "conn-124",
+  "id": "conn-489",
   "groups": [
     {
-      "name": "Balet",
+      "name": "Na vesnici",
       "words": [
-        "ŠPIČKY",
-        "PIRUETA",
-        "TUTU",
-        "CHOREOGRAFIE"
+        "NÁVES",
+        "KAPLIČKA",
+        "RYBNÍČEK",
+        "HOSPODA"
       ]
     },
     {
-      "name": "Společenské tance",
+      "name": "Italské řeky",
       "words": [
-        "VALČÍK",
-        "TANGO",
-        "POLKA",
-        "ČAČA"
+        "PÁD",
+        "TIBERA",
+        "ARNO",
+        "ADIŽE"
       ]
     },
     {
-      "name": "Na plese",
+      "name": "Hudební značky",
       "words": [
-        "ROBA",
-        "MOTÝLEK",
-        "TOMBOLA",
-        "PŘEDTANEČNÍK"
+        "FORTE",
+        "PIANO",
+        "CRESCENDO",
+        "STACCATO"
       ]
     },
     {
-      "name": "Lehká ___",
+      "name": "___ kostka",
       "words": [
-        "ATLETIKA",
-        "VÁHA",
-        "MYSL",
-        "ČETBA"
+        "CUKROVÁ",
+        "HERNÍ",
+        "RUBIKOVA",
+        "LEDOVÁ"
       ]
     }
   ]

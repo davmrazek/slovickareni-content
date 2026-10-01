@@ -1,40 +1,40 @@
 {
-  "id": "conn-242",
+  "id": "conn-607",
   "groups": [
     {
-      "name": "Mravenci a spol.",
+      "name": "Moravské speciality",
       "words": [
-        "MRAVENIŠTĚ",
-        "KRÁLOVNA",
-        "DĚLNICE",
-        "LARVA"
+        "FRGÁL",
+        "TVARŮŽKY",
+        "KYSELICE",
+        "LÉKVAR"
       ]
     },
     {
-      "name": "Motýli",
+      "name": "Finská města",
       "words": [
-        "BABOČKA",
-        "OTAKÁREK",
-        "BĚLÁSEK",
-        "MODRÁSEK"
+        "TAMPERE",
+        "TURKU",
+        "OULU",
+        "ESPOO"
       ]
     },
     {
-      "name": "Proměna hmyzu",
+      "name": "Finsko",
       "words": [
-        "VAJÍČKO",
-        "HOUSENKA",
-        "KUKLA",
-        "DOSPĚLEC"
+        "SISU",
+        "KANTELE",
+        "MUMÍNCI",
+        "NOKIA"
       ]
     },
     {
-      "name": "Malý jako ___",
+      "name": "Mají páru",
       "words": [
-        "ŠPENDLÍK",
-        "ZRNKO",
-        "MRAVENEC",
-        "PALEC"
+        "SAUNA",
+        "LOKOMOTIVA",
+        "ŽEHLIČKA",
+        "KOTEL"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-1",
+  "id": "conn-366",
   "groups": [
     {
-      "name": "Ovoce",
+      "name": "Obuv na zimu",
       "words": [
-        "JABLKO",
-        "HRUŠKA",
-        "ŠVESTKA",
-        "TŘEŠEŇ"
+        "SNĚHULE",
+        "VALENKY",
+        "KOZAČKY",
+        "BAGANČE"
       ]
     },
     {
-      "name": "Barvy",
+      "name": "Hráči v orchestru",
       "words": [
-        "MODRÁ",
-        "ZELENÁ",
-        "ŽLUTÁ",
-        "ČERVENÁ"
+        "HOUSLISTA",
+        "FLÉTNISTA",
+        "HARFENISTA",
+        "TYMPANISTA"
       ]
     },
     {
-      "name": "Řeky v ČR",
+      "name": "Jednotky dat",
       "words": [
-        "VLTAVA",
-        "LABE",
-        "MORAVA",
-        "OHŘE"
+        "BIT",
+        "BAJT",
+        "MEGABAJT",
+        "TERABAJT"
       ]
     },
     {
-      "name": "___ hlava",
+      "name": "___ hvězda",
       "words": [
-        "PRÁZDNÁ",
-        "CHYTRÁ",
-        "TVRDÁ",
-        "HORKÁ"
+        "POLÁRNÍ",
+        "FILMOVÁ",
+        "BETLÉMSKÁ",
+        "PADAJÍCÍ"
       ]
     }
   ]

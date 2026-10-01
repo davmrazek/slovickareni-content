@@ -1,40 +1,40 @@
 {
-  "id": "conn-163",
+  "id": "conn-528",
   "groups": [
     {
-      "name": "Zámečnictví",
+      "name": "Stavíme stan",
       "words": [
-        "ZÁVIT",
-        "MATICE",
-        "PODLOŽKA",
-        "ŠROUB"
+        "KOLÍKY",
+        "TYČE",
+        "PLACHTA",
+        "ŠŇŮRY"
       ]
     },
     {
-      "name": "Ruční nářadí",
+      "name": "Alpská střediska",
       "words": [
-        "KLADIVO",
-        "KLÍČ",
-        "PILNÍK",
-        "ŠROUBOVÁK"
+        "ZERMATT",
+        "KITZBÜHEL",
+        "CHAMONIX",
+        "ISCHGL"
       ]
     },
     {
-      "name": "Měřidla",
+      "name": "Tituly vládců",
       "words": [
-        "POSUVKA",
-        "METR",
-        "ÚHELNÍK",
-        "MIKROMETR"
+        "EMÍR",
+        "SULTÁN",
+        "ŠÁH",
+        "CHÁN"
       ]
     },
     {
-      "name": "Zlatý ___",
+      "name": "___ šňůra",
       "words": [
-        "ŘEZ",
-        "VĚK",
-        "DŮL",
-        "STŘED"
+        "PRODLUŽOVACÍ",
+        "PRÁDELNÍ",
+        "VÍTĚZNÁ",
+        "ZÁPALNÁ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-57",
+  "id": "conn-422",
   "groups": [
     {
-      "name": "Internet",
+      "name": "Šperky",
       "words": [
-        "PROHLÍŽEČ",
-        "HESLO",
-        "ODKAZ",
-        "STAŽENÍ"
+        "PRSTEN",
+        "NÁUŠNICE",
+        "NÁHRDELNÍK",
+        "NÁRAMEK"
       ]
     },
     {
-      "name": "Mobilní telefon",
+      "name": "Vzácné látky",
       "words": [
-        "DISPLEJ",
-        "NABÍJEČKA",
-        "SIGNÁL",
-        "SIMKARTA"
+        "SAMET",
+        "HEDVÁBÍ",
+        "BROKÁT",
+        "SATÉN"
       ]
     },
     {
-      "name": "Pošta",
+      "name": "Smrtelné hříchy",
       "words": [
-        "OBÁLKA",
-        "ZNÁMKA",
-        "BALÍK",
-        "ADRESA"
+        "PÝCHA",
+        "LAKOTA",
+        "ZÁVIST",
+        "HNĚV"
       ]
     },
     {
-      "name": "___ schránka",
+      "name": "Začínají zdvojenou slabikou",
       "words": [
-        "POŠTOVNÍ",
-        "ELEKTRONICKÁ",
-        "HLASOVÁ",
-        "BEZPEČNOSTNÍ"
+        "KOKOS",
+        "TATARÁK",
+        "BONBON",
+        "KAKAO"
       ]
     }
   ]

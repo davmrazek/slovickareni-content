@@ -1,40 +1,40 @@
 {
-  "id": "conn-106",
+  "id": "conn-471",
   "groups": [
     {
-      "name": "Na letišti",
+      "name": "Brouci",
       "words": [
-        "ODBAVENÍ",
-        "TERMINÁL",
-        "BRÁNA",
-        "PÁS"
+        "ROHÁČ",
+        "CHROUST",
+        "SVĚTLUŠKA",
+        "MANDELINKA"
       ]
     },
     {
-      "name": "Letecký personál",
+      "name": "Vrcholy ČR",
       "words": [
-        "PILOT",
-        "STEVARD",
-        "DISPEČER",
-        "MECHANIK"
+        "SNĚŽKA",
+        "PRADĚD",
+        "JEŠTĚD",
+        "KLEŤ"
       ]
     },
     {
-      "name": "Zavazadla",
+      "name": "Balkánské státy",
       "words": [
-        "KUFR",
-        "BATOH",
-        "TAŠKA",
-        "KABELA"
+        "SRBSKO",
+        "BOSNA",
+        "MAKEDONIE",
+        "BULHARSKO"
       ]
     },
     {
-      "name": "Palubní ___",
+      "name": "Mají tečky",
       "words": [
-        "LÍSTEK",
-        "DENÍK",
-        "DESKA",
-        "PERSONÁL"
+        "BERUŠKA",
+        "KOSTKA",
+        "MUCHOMŮRKA",
+        "DALMATIN"
       ]
     }
   ]

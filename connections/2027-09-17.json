@@ -1,40 +1,40 @@
 {
-  "id": "conn-274",
+  "id": "conn-639",
   "groups": [
     {
-      "name": "Meditace",
+      "name": "Maraton",
       "words": [
-        "DECH",
-        "TICHO",
-        "SOUSTŘEDĚNÍ",
-        "MANTRA"
+        "START",
+        "CÍL",
+        "OBČERSTVOVAČKA",
+        "ČIP"
       ]
     },
     {
-      "name": "Spánková hygiena",
+      "name": "Slavné maratony",
       "words": [
-        "RITUÁL",
-        "TMA",
-        "CHLAD",
-        "PRAVIDELNOST"
+        "BERLÍN",
+        "BOSTON",
+        "CHICAGO",
+        "TOKIO"
       ]
     },
     {
-      "name": "Relaxace",
+      "name": "Atletické skoky",
       "words": [
-        "HUDBA",
-        "SVÍČKA",
-        "KNIHA",
-        "PROCHÁZKA"
+        "VÝŠKA",
+        "DÁLKA",
+        "TYČ",
+        "TROJSKOK"
       ]
     },
     {
-      "name": "Klidná ___",
+      "name": "Mají čip",
       "words": [
-        "MYSL",
-        "HLADINA",
-        "NOC",
-        "POVAHA"
+        "PES",
+        "KARTA",
+        "PAS",
+        "TELEFON"
       ]
     }
   ]

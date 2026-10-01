@@ -1,40 +1,40 @@
 {
-  "id": "conn-28",
+  "id": "conn-393",
   "groups": [
     {
-      "name": "Bylinky",
+      "name": "Nádoby na tekutiny",
       "words": [
-        "BAZALKA",
-        "MÁTA",
-        "TYMIÁN",
-        "ROZMARÝN"
+        "KONEV",
+        "KANYSTR",
+        "DŽBÁN",
+        "KARAFA"
       ]
     },
     {
-      "name": "Měny",
+      "name": "Blízkovýchodní metropole",
       "words": [
-        "KORUNA",
-        "EURO",
-        "DOLAR",
-        "LIBRA"
+        "BEJRÚT",
+        "DAMAŠEK",
+        "AMMÁN",
+        "BAGDÁD"
       ]
     },
     {
-      "name": "Vojenské hodnosti",
+      "name": "Mistři šachu",
       "words": [
-        "VOJÍN",
-        "DESÁTNÍK",
-        "SERŽANT",
-        "KAPITÁN"
+        "KASPAROV",
+        "FISCHER",
+        "CARLSEN",
+        "KARPOV"
       ]
     },
     {
-      "name": "Zlatý ___",
+      "name": "Ukrývají SUD",
       "words": [
-        "HŘEB",
-        "DÉŠŤ",
-        "ŘEZ",
-        "GRÁL"
+        "SUDOKU",
+        "OSUD",
+        "SUDIČKA",
+        "SUDLICE"
       ]
     }
   ]

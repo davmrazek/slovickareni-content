@@ -1,40 +1,40 @@
 {
-  "id": "conn-112",
+  "id": "conn-477",
   "groups": [
     {
-      "name": "Ve škole v přírodě",
+      "name": "Hodnocení ve škole",
       "words": [
-        "CHATA",
-        "STEZKA",
-        "OHNIŠTĚ",
-        "HRA"
+        "JEDNIČKA",
+        "PĚTKA",
+        "POCHVALA",
+        "POZNÁMKA"
       ]
     },
     {
-      "name": "Turistické značení",
+      "name": "Kytaristé",
       "words": [
-        "ČERVENÁ",
-        "ROZCESTNÍK",
-        "ŠIPKA",
-        "MODRÁ"
+        "HENDRIX",
+        "CLAPTON",
+        "PAGE",
+        "SANTANA"
       ]
     },
     {
-      "name": "V batohu",
+      "name": "Krkavcovití",
       "words": [
-        "PLÁŠTĚNKA",
-        "MAPA",
-        "BAGETA",
-        "LÉKÁRNIČKA"
+        "HAVRAN",
+        "VRÁNA",
+        "STRAKA",
+        "SOJKA"
       ]
     },
     {
-      "name": "Dlouhá ___",
+      "name": "Mají struny",
       "words": [
-        "CHVÍLE",
-        "CESTA",
-        "ZIMA",
-        "TRAŤ"
+        "HOUSLE",
+        "RAKETA",
+        "LOUTNA",
+        "CEMBALO"
       ]
     }
   ]

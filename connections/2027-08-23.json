@@ -1,40 +1,40 @@
 {
-  "id": "conn-249",
+  "id": "conn-614",
   "groups": [
     {
-      "name": "V papírně",
+      "name": "Kávovar",
       "words": [
-        "CELULÓZA",
-        "LIS",
-        "ROLE",
-        "SUŠENÍ"
+        "ZRNKA",
+        "PORTAFILTR",
+        "TAMPER",
+        "PĚNIČKA"
       ]
     },
     {
-      "name": "Formáty papíru",
+      "name": "Kávové země",
       "words": [
-        "ARCH",
-        "SLOŽKA",
-        "BLOK",
-        "KARTON"
+        "ETIOPIE",
+        "KOLUMBIE",
+        "KOSTARIKA",
+        "VIETNAM"
       ]
     },
     {
-      "name": "Knihařství",
+      "name": "Vídeňské kavárny",
       "words": [
-        "ŠITÍ",
-        "OŘÍZKA",
-        "DESKY",
-        "RAŽBA"
+        "SACHER",
+        "CENTRAL",
+        "DEMEL",
+        "HAWELKA"
       ]
     },
     {
-      "name": "Tenký ___",
+      "name": "___ káva",
       "words": [
-        "LED",
-        "PLÁTEK",
-        "DRÁT",
-        "ROZDÍL"
+        "TURECKÁ",
+        "VÍDEŇSKÁ",
+        "IRSKÁ",
+        "ALŽÍRSKÁ"
       ]
     }
   ]

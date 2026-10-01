@@ -1,40 +1,40 @@
 {
-  "id": "conn-158",
+  "id": "conn-523",
   "groups": [
     {
-      "name": "Záchranka",
+      "name": "Chody koně",
       "words": [
-        "SANITKA",
-        "MAJÁK",
-        "NOSÍTKA",
-        "DEFIBRILÁTOR"
+        "KROK",
+        "KLUS",
+        "CVAL",
+        "TÖLT"
       ]
     },
     {
-      "name": "První pomoc",
+      "name": "Wagnerovy opery",
       "words": [
-        "MASÁŽ",
-        "DÝCHÁNÍ",
-        "ŠKRTIDLO",
-        "POLOHA"
+        "LOHENGRIN",
+        "TANNHÄUSER",
+        "PARSIFAL",
+        "RIENZI"
       ]
     },
     {
-      "name": "Hasiči",
+      "name": "Keltská oppida",
       "words": [
-        "HADICE",
-        "ŽEBŘÍK",
-        "PĚNA",
-        "SIRÉNA"
+        "ZÁVIST",
+        "STRADONICE",
+        "HRAZANY",
+        "TŘISOV"
       ]
     },
     {
-      "name": "Rychlá ___",
+      "name": "Mají sedlo",
       "words": [
-        "ZÁCHRANA",
-        "REAKCE",
-        "PALBA",
-        "SPOJKA"
+        "KŮŇ",
+        "KOLO",
+        "HORA",
+        "NOS"
       ]
     }
   ]

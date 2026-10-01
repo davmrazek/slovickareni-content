@@ -1,40 +1,40 @@
 {
-  "id": "conn-164",
+  "id": "conn-529",
   "groups": [
     {
-      "name": "V papírnictví",
+      "name": "U táboráku",
       "words": [
-        "SEŠIT",
-        "BLOK",
-        "SPONKY",
-        "LEPIDLO"
+        "KYTARA",
+        "KLACEK",
+        "PÍSNIČKY",
+        "DŘÍVÍ"
       ]
     },
     {
-      "name": "Psací potřeby",
+      "name": "Legendy vytrvalosti",
       "words": [
-        "PERO",
-        "TUŽKA",
-        "FIX",
-        "PASTELKA"
+        "ZÁTOPEK",
+        "NURMI",
+        "BIKILA",
+        "KIPCHOGE"
       ]
     },
     {
-      "name": "Rýsování",
+      "name": "Bohové hromu",
       "words": [
-        "KRUŽÍTKO",
-        "PRAVÍTKO",
-        "TROJÚHELNÍK",
-        "ŠABLONA"
+        "PERUN",
+        "ZEUS",
+        "INDRA",
+        "TARANIS"
       ]
     },
     {
-      "name": "Bílý ___",
+      "name": "Mají kladivo",
       "words": [
-        "PAPÍR",
-        "DEN",
-        "PRÁŠEK",
-        "SPORT"
+        "THOR",
+        "SOUDCE",
+        "DRAŽITEL",
+        "UCHO"
       ]
     }
   ]

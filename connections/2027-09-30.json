@@ -1,0 +1,41 @@
+{
+  "id": "conn-652",
+  "groups": [
+    {
+      "name": "Pole na podzim",
+      "words": [
+        "ORBA",
+        "STRNIŠTĚ",
+        "BRÁZDA",
+        "MEZ"
+      ]
+    },
+    {
+      "name": "Traktory",
+      "words": [
+        "ZETOR",
+        "FENDT",
+        "CLAAS",
+        "KUBOTA"
+      ]
+    },
+    {
+      "name": "Drobní hlodavci",
+      "words": [
+        "HRABOŠ",
+        "MYŠICE",
+        "PLCH",
+        "LUMÍK"
+      ]
+    },
+    {
+      "name": "Ukrývají MEZ",
+      "words": [
+        "MEZERA",
+        "OMEZIT",
+        "MEZIHRA",
+        "MEZIDOBÍ"
+      ]
+    }
+  ]
+}

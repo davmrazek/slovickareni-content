@@ -1,40 +1,40 @@
 {
-  "id": "conn-262",
+  "id": "conn-627",
   "groups": [
     {
-      "name": "Origami",
+      "name": "Kroužky",
       "words": [
-        "SKLÁDÁNÍ",
-        "PAPÍR",
-        "JEŘÁB",
-        "PŘEHYB"
+        "BALET",
+        "KERAMIKA",
+        "ŠACHY",
+        "SKAUTING"
       ]
     },
     {
-      "name": "Papírové výrobky",
+      "name": "Halové sporty",
       "words": [
-        "UBROUSEK",
-        "KRABICE",
-        "SÁČEK",
-        "LAMPION"
+        "FUTSAL",
+        "FLORBAL",
+        "HÁZENÁ",
+        "KORFBAL"
       ]
     },
     {
-      "name": "Dětské výtvarno",
+      "name": "Šachová zahájení",
       "words": [
-        "VODOVKY",
-        "MODELÍNA",
-        "KOLÁŽ",
-        "PRSTOVKY"
+        "ITALSKÁ",
+        "SICILSKÁ",
+        "FRANCOUZSKÁ",
+        "ŠPANĚLSKÁ"
       ]
     },
     {
-      "name": "Skládaný ___",
+      "name": "___ dílna",
       "words": [
-        "DEŠTNÍK",
-        "NÁBYTEK",
-        "MAPA",
-        "KOČÁREK"
+        "TRUHLÁŘSKÁ",
+        "TVŮRČÍ",
+        "SANTOVA",
+        "OPRAVÁŘSKÁ"
       ]
     }
   ]

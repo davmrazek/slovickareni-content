@@ -1,40 +1,40 @@
 {
-  "id": "conn-190",
+  "id": "conn-555",
   "groups": [
     {
-      "name": "Řecká mytologie",
+      "name": "Táborové hry",
       "words": [
-        "ZEUS",
-        "HÉRA",
-        "POSEIDON",
-        "HÁDES"
+        "BOJOVKA",
+        "STOPOVAČKA",
+        "ŠIFROVAČKA",
+        "VLAJKOVANÁ"
       ]
     },
     {
-      "name": "Široký ___",
+      "name": "Americké univerzity",
       "words": [
-        "ZÁBĚR",
-        "VÝBĚR",
-        "ROZHLED",
-        "ÚSMĚV"
+        "HARVARD",
+        "YALE",
+        "PRINCETON",
+        "STANFORD"
       ]
     },
     {
-      "name": "Olympijské hry",
+      "name": "Bohové Olympu",
       "words": [
-        "POCHODEŇ",
-        "KRUHY",
-        "MEDAILE",
-        "VESNICE"
+        "APOLLÓN",
+        "ARÉS",
+        "HÉFAISTOS",
+        "DIONÝSOS"
       ]
     },
     {
-      "name": "Řecké ostrovy",
+      "name": "___ hlídka",
       "words": [
-        "KRÉTA",
-        "RHODOS",
-        "KORFU",
-        "SANTORINI"
+        "NOČNÍ",
+        "POHRANIČNÍ",
+        "OBČANSKÁ",
+        "PŘEDSUNUTÁ"
       ]
     }
   ]

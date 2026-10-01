@@ -1,40 +1,40 @@
 {
-  "id": "conn-221",
+  "id": "conn-586",
   "groups": [
     {
-      "name": "Cirkusová manéž",
+      "name": "Zahradní hry",
       "words": [
-        "AKROBAT",
-        "TRAPÉZ",
-        "ŽONGLÉR",
-        "KRASOJEZDKYNĚ"
+        "KROKET",
+        "KUŽELKY",
+        "MÖLKKY",
+        "TWISTER"
       ]
     },
     {
-      "name": "Iluzionista",
+      "name": "Anglické kluby",
       "words": [
-        "KOUZLO",
-        "KLOBOUK",
-        "KARTA",
-        "ZMIZENÍ"
+        "ARSENAL",
+        "CHELSEA",
+        "EVERTON",
+        "TOTTENHAM"
       ]
     },
     {
-      "name": "Pouťové atrakce",
+      "name": "Vojenské stavby",
       "words": [
-        "HOUPAČKA",
-        "STŘELNICE",
-        "AUTODROM",
-        "KOLOTOČ"
+        "KASÁRNA",
+        "ZBROJNICE",
+        "BUNKR",
+        "PEVNOST"
       ]
     },
     {
-      "name": "Kouzelný ___",
+      "name": "___ tábor",
       "words": [
-        "PRSTEN",
-        "OKAMŽIK",
-        "VĚK",
-        "PROUTEK"
+        "VOJENSKÝ",
+        "LETNÍ",
+        "UPRCHLICKÝ",
+        "PIONÝRSKÝ"
       ]
     }
   ]

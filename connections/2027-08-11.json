@@ -1,40 +1,40 @@
 {
-  "id": "conn-237",
+  "id": "conn-602",
   "groups": [
     {
-      "name": "Chov psa",
+      "name": "Letní slavnosti",
       "words": [
-        "OBOJEK",
-        "VODÍTKO",
-        "PELÍŠEK",
-        "MISKA"
+        "JARMARK",
+        "POUŤ",
+        "POSVÍCENÍ",
+        "DOŽÍNKY"
       ]
     },
     {
-      "name": "Psí plemena",
+      "name": "Druhy keramiky",
       "words": [
-        "JEZEVČÍK",
-        "BOXER",
-        "PUDL",
-        "CHRT"
+        "PORCELÁN",
+        "KAMENINA",
+        "TERAKOTA",
+        "FAJÁNS"
       ]
     },
     {
-      "name": "Výcvik",
+      "name": "Středoasijské státy",
       "words": [
-        "SEDNI",
-        "LEHNI",
-        "APORT",
-        "FUJ"
+        "KAZACHSTÁN",
+        "UZBEKISTÁN",
+        "TURKMENISTÁN",
+        "KYRGYZSTÁN"
       ]
     },
     {
-      "name": "Psí ___",
+      "name": "___ trh",
       "words": [
-        "POČASÍ",
-        "VÍNO",
-        "KUS",
-        "ŽIVOT"
+        "ČERNÝ",
+        "BLEŠÍ",
+        "FARMÁŘSKÝ",
+        "VOLNÝ"
       ]
     }
   ]

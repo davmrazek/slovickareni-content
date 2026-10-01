@@ -1,40 +1,40 @@
 {
-  "id": "conn-43",
+  "id": "conn-408",
   "groups": [
     {
-      "name": "Čeští spisovatelé",
+      "name": "Ovoce v zimě",
       "words": [
-        "ČAPEK",
-        "NĚMCOVÁ",
-        "HAŠEK",
-        "SEIFERT"
+        "JABLKO",
+        "POMERANČ",
+        "MANDARINKA",
+        "KIWI"
       ]
     },
     {
-      "name": "Pokrývky hlavy",
+      "name": "Čeští tenisté",
       "words": [
-        "ČEPICE",
-        "BARET",
-        "CYLINDR",
-        "ŠÁTEK"
+        "NAVRÁTILOVÁ",
+        "LENDL",
+        "KVITOVÁ",
+        "BERDYCH"
       ]
     },
     {
-      "name": "Horniny",
+      "name": "Asijské metropole",
       "words": [
-        "ŽULA",
-        "VÁPENEC",
-        "PÍSKOVEC",
-        "BŘIDLICE"
+        "TOKIO",
+        "SOUL",
+        "BANGKOK",
+        "HANOJ"
       ]
     },
     {
-      "name": "___ kámen",
+      "name": "___ kolo",
       "words": [
-        "ÚHELNÝ",
-        "MLÝNSKÝ",
-        "ZÁKLADNÍ",
-        "NÁHROBNÍ"
+        "ZÁCHRANNÉ",
+        "RUSKÉ",
+        "OZUBENÉ",
+        "PRVNÍ"
       ]
     }
   ]

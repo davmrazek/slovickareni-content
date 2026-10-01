@@ -1,40 +1,40 @@
 {
-  "id": "conn-216",
+  "id": "conn-581",
   "groups": [
     {
-      "name": "Fotbalové pojmy",
+      "name": "Čtení",
       "words": [
-        "OFSAJD",
-        "PENALTA",
-        "ROH",
-        "STŘÍDÁNÍ"
+        "BRÝLE",
+        "ZÁLOŽKA",
+        "LAMPIČKA",
+        "ČTEČKA"
       ]
     },
     {
-      "name": "Na stadionu",
+      "name": "Nakladatelství",
       "words": [
-        "TRIBUNA",
-        "TRÁVNÍK",
-        "REFLEKTOR",
-        "KOTEL"
+        "ALBATROS",
+        "ARGO",
+        "ODEON",
+        "HOST"
       ]
     },
     {
-      "name": "Rozhodčí",
+      "name": "Veršové stopy",
       "words": [
-        "PÍŠŤALKA",
-        "PRAPOREK",
-        "SPREJ",
-        "VIDEO"
+        "JAMB",
+        "TROCHEJ",
+        "DAKTYL",
+        "ANAPEST"
       ]
     },
     {
-      "name": "Žlutá ___",
+      "name": "Mají hřbet",
       "words": [
-        "KARTA",
-        "ZIMNICE",
-        "PONORKA",
-        "BARVA"
+        "KNIHA",
+        "KŮŇ",
+        "RUKA",
+        "NŮŽ"
       ]
     }
   ]

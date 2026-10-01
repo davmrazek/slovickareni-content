@@ -1,40 +1,40 @@
 {
-  "id": "conn-136",
+  "id": "conn-501",
   "groups": [
     {
-      "name": "Myslivost",
+      "name": "Na lodi",
       "words": [
-        "POSED",
-        "KRMELEC",
-        "OBORA",
-        "TROUBENÍ"
+        "KAJUTA",
+        "PALUBA",
+        "STOŽÁR",
+        "KORMIDLO"
       ]
     },
     {
-      "name": "Stopy zvěře",
+      "name": "Pražské hřbitovy",
       "words": [
-        "OTISK",
-        "TRUS",
-        "SRST",
-        "PAROŽÍ"
+        "OLŠANY",
+        "MALVAZINKY",
+        "BUBENEČ",
+        "ĎÁBLICE"
       ]
     },
     {
-      "name": "Lesní práce",
+      "name": "Dynastie",
       "words": [
-        "KÁCENÍ",
-        "SÁZENÍ",
-        "PROBÍRKA",
-        "ODVOZ"
+        "PŘEMYSLOVCI",
+        "LUCEMBURKOVÉ",
+        "HABSBURKOVÉ",
+        "JAGELLONCI"
       ]
     },
     {
-      "name": "Divoká ___",
+      "name": "___ pravda",
       "words": [
-        "ZVĚŘ",
-        "KACHNA",
-        "JÍZDA",
-        "RŮŽE"
+        "SVATÁ",
+        "HOLÁ",
+        "POLOVIČNÍ",
+        "VĚČNÁ"
       ]
     }
   ]

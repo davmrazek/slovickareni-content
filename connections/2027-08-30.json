@@ -1,40 +1,40 @@
 {
-  "id": "conn-256",
+  "id": "conn-621",
   "groups": [
     {
-      "name": "Podnikání",
+      "name": "Kolej",
       "words": [
-        "ŽIVNOST",
-        "FAKTURA",
-        "ZAKÁZKA",
-        "MARŽE"
+        "SPOLUBYDLÍCÍ",
+        "KUCHYŇKA",
+        "VRÁTNICE",
+        "POKOJ"
       ]
     },
     {
-      "name": "Daně",
+      "name": "Univerzity v ČR",
       "words": [
-        "PŘIZNÁNÍ",
-        "ODPOČET",
-        "SAZBA",
-        "ZÁLOHA"
+        "KARLOVA",
+        "MASARYKOVA",
+        "PALACKÉHO",
+        "MENDELOVA"
       ]
     },
     {
-      "name": "Trh",
+      "name": "Akademičtí funkcionáři",
       "words": [
-        "NABÍDKA",
-        "POPTÁVKA",
-        "CENA",
-        "KONKURENCE"
+        "DĚKAN",
+        "REKTOR",
+        "KVESTOR",
+        "PROREKTOR"
       ]
     },
     {
-      "name": "Volný ___",
+      "name": "___ kolej",
       "words": [
-        "OBCHOD",
-        "STYL",
-        "PROSTOR",
-        "ČAS"
+        "SLEPÁ",
+        "STUDENTSKÁ",
+        "ÚZKOROZCHODNÁ",
+        "TRAMVAJOVÁ"
       ]
     }
   ]

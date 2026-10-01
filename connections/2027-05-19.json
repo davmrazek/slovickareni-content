@@ -1,40 +1,40 @@
 {
-  "id": "conn-153",
+  "id": "conn-518",
   "groups": [
     {
-      "name": "Kancelářský software",
+      "name": "Letní ovoce",
       "words": [
-        "TABULKA",
-        "PREZENTACE",
-        "DOKUMENT",
-        "KALENDÁŘ"
+        "JAHODA",
+        "MALINA",
+        "BORŮVKA",
+        "RYBÍZ"
       ]
     },
     {
-      "name": "Klávesnice",
+      "name": "Hudební festivaly",
       "words": [
-        "MEZERNÍK",
-        "ENTER",
-        "ŠIPKY",
-        "TABULÁTOR"
+        "GLASTONBURY",
+        "WOODSTOCK",
+        "SZIGET",
+        "ROSKILDE"
       ]
     },
     {
-      "name": "Tiskárna",
+      "name": "Zvířata ve vesmíru",
       "words": [
-        "TONER",
-        "PAPÍR",
-        "SKENER",
-        "ZÁSOBNÍK"
+        "LAJKA",
+        "BELKA",
+        "STRELKA",
+        "HAM"
       ]
     },
     {
-      "name": "Prázdný ___",
+      "name": "___ víno",
       "words": [
-        "LIST",
-        "ŽALUDEK",
-        "SLIB",
-        "PROSTOR"
+        "RYBÍZOVÉ",
+        "JABLEČNÉ",
+        "MEŠNÍ",
+        "MLADÉ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-133",
+  "id": "conn-498",
   "groups": [
     {
-      "name": "Zahradní stavby",
+      "name": "Výbava hasiče",
       "words": [
-        "ALTÁN",
-        "PERGOLA",
-        "SKLENÍK",
-        "KŮLNA"
+        "HADICE",
+        "HELMA",
+        "SEKERA",
+        "ŽEBŘÍK"
       ]
     },
     {
-      "name": "Trvalky",
+      "name": "Rakety",
       "words": [
-        "PIVOŇKA",
-        "KOSATEC",
-        "LEVANDULE",
-        "MACEŠKA"
+        "SATURN",
+        "FALCON",
+        "ARIANE",
+        "VEGA"
       ]
     },
     {
-      "name": "Kompost",
+      "name": "Fotbalové legendy",
       "words": [
-        "LISTÍ",
-        "SLUPKY",
-        "TRÁVA",
-        "ŽÍŽALA"
+        "PELÉ",
+        "MARADONA",
+        "MESSI",
+        "RONALDO"
       ]
     },
     {
-      "name": "Zelené ___",
+      "name": "___ poplach",
       "words": [
-        "HNOJENÍ",
-        "SVĚTLO",
-        "MĚSTO",
-        "PLÍCE"
+        "FALEŠNÝ",
+        "POŽÁRNÍ",
+        "LETECKÝ",
+        "BOJOVÝ"
       ]
     }
   ]

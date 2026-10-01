@@ -1,40 +1,40 @@
 {
-  "id": "conn-97",
+  "id": "conn-462",
   "groups": [
     {
-      "name": "Na poště",
+      "name": "Míchání těsta",
       "words": [
-        "ZNÁMKA",
-        "OBÁLKA",
-        "BALÍK",
-        "POUKÁZKA"
+        "METLA",
+        "MIXÉR",
+        "VAREČKA",
+        "MÍSA"
       ]
     },
     {
-      "name": "Sběratelství",
+      "name": "Holandští malíři",
       "words": [
-        "FILATELIE",
-        "NUMISMATIKA",
-        "ALBUM",
-        "KATALOG"
+        "REMBRANDT",
+        "VERMEER",
+        "HALS",
+        "BOSCH"
       ]
     },
     {
-      "name": "Staré platidlo",
+      "name": "Města na Dunaji",
       "words": [
-        "TOLAR",
-        "GROŠ",
-        "DUKÁT",
-        "HALÉŘ"
+        "BRATISLAVA",
+        "BUDAPEŠŤ",
+        "BĚLEHRAD",
+        "LINEC"
       ]
     },
     {
-      "name": "Cenný ___",
+      "name": "Divadelní pojmy",
       "words": [
-        "PAPÍR",
-        "NÁLEZ",
-        "KOV",
-        "ÚLOVEK"
+        "AKT",
+        "SCÉNA",
+        "OPONA",
+        "PŘESTÁVKA"
       ]
     }
   ]

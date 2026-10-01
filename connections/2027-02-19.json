@@ -1,40 +1,40 @@
 {
-  "id": "conn-64",
+  "id": "conn-429",
   "groups": [
     {
-      "name": "Kuchyňské úpravy",
+      "name": "Na chleba",
       "words": [
-        "VAŘENÍ",
-        "SMAŽENÍ",
-        "PEČENÍ",
-        "DUŠENÍ"
+        "KVÁSEK",
+        "MOUKA",
+        "SŮL",
+        "KMÍN"
       ]
     },
     {
-      "name": "Těstoviny",
+      "name": "Evropské přístavy",
       "words": [
-        "ŠPAGETY",
-        "PENNE",
-        "LASAGNE",
-        "FUSILLI"
+        "ROTTERDAM",
+        "HAMBURK",
+        "ANTVERPY",
+        "MARSEILLE"
       ]
     },
     {
-      "name": "Studené omáčky",
+      "name": "Čeští režiséři",
       "words": [
-        "TATARKA",
-        "KEČUP",
-        "HOŘČICE",
-        "MAJONÉZA"
+        "MENZEL",
+        "CHYTILOVÁ",
+        "SVĚRÁK",
+        "VLÁČIL"
       ]
     },
     {
-      "name": "Ostrý ___",
+      "name": "Mají kůru",
       "words": [
-        "NŮŽ",
-        "START",
-        "POHLED",
-        "SÝR"
+        "STROM",
+        "MOZEK",
+        "POMERANČ",
+        "LEDVINA"
       ]
     }
   ]

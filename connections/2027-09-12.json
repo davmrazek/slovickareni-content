@@ -1,40 +1,40 @@
 {
-  "id": "conn-269",
+  "id": "conn-634",
   "groups": [
     {
-      "name": "Zdravotní sestra",
+      "name": "Na ples",
       "words": [
-        "INJEKCE",
-        "TEPLOTA",
-        "OBVAZ",
-        "SLUŽBA"
+        "FRAK",
+        "SMOKING",
+        "RÓBA",
+        "LODIČKY"
       ]
     },
     {
-      "name": "Na operačním sále",
+      "name": "Slavní tanečníci",
       "words": [
-        "SKALPEL",
-        "NARKÓZA",
-        "STEH",
-        "ROUŠKA"
+        "ASTAIRE",
+        "NUREJEV",
+        "BARYŠNIKOV",
+        "KELLY"
       ]
     },
     {
-      "name": "Vyšetření",
+      "name": "Dvorní tance",
       "words": [
-        "RENTGEN",
-        "ODBĚR",
-        "ULTRAZVUK",
-        "ANAMNÉZA"
+        "MENUET",
+        "GAVOTA",
+        "SARABANDA",
+        "PAVANA"
       ]
     },
     {
-      "name": "Bílý ___",
+      "name": "Ukrývají FRAK",
       "words": [
-        "PLÁŠŤ",
-        "ŠUM",
-        "TRPASLÍK",
-        "DEN"
+        "FRAKCE",
+        "FRAKTURA",
+        "DIFRAKCE",
+        "REFRAKTOR"
       ]
     }
   ]

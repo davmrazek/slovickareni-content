@@ -1,40 +1,40 @@
 {
-  "id": "conn-206",
+  "id": "conn-571",
   "groups": [
     {
-      "name": "Kuchyňské roboty",
+      "name": "Kulečník",
       "words": [
-        "METLA",
-        "HÁK",
-        "NÁSTAVEC",
-        "MISKA"
+        "TÁGO",
+        "KAPSA",
+        "STŮL",
+        "KŘÍDA"
       ]
     },
     {
-      "name": "Pečení dortu",
+      "name": "Hospodské hry",
       "words": [
-        "KORPUS",
-        "KRÉM",
-        "FORMA",
-        "PIŠKOT"
+        "ŠIPKY",
+        "KARTY",
+        "MARIÁŠ",
+        "FOTBÁLEK"
       ]
     },
     {
-      "name": "Kypřidla",
+      "name": "Americké automobilky",
       "words": [
-        "DROŽDÍ",
-        "KVASNICE",
-        "PRÁŠEK",
-        "SODA"
+        "FORD",
+        "CHEVROLET",
+        "CADILLAC",
+        "BUICK"
       ]
     },
     {
-      "name": "Nadýchaný jako ___",
+      "name": "Jednotky pojmenované po lidech",
       "words": [
-        "OBLAK",
-        "PEŘINA",
-        "PĚNA",
-        "VATA"
+        "TESLA",
+        "WATT",
+        "VOLT",
+        "NEWTON"
       ]
     }
   ]

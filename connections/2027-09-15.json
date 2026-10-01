@@ -1,40 +1,40 @@
 {
-  "id": "conn-272",
+  "id": "conn-637",
   "groups": [
     {
-      "name": "Zdravá strava",
+      "name": "Vyřezávání dýně",
       "words": [
-        "VLÁKNINA",
-        "BÍLKOVINA",
-        "VITAMIN",
-        "MINERÁL"
+        "NŮŽ",
+        "LŽÍCE",
+        "SVÍČKA",
+        "SEMÍNKA"
       ]
     },
     {
-      "name": "Dietní pojmy",
+      "name": "Hororoví padouši",
       "words": [
-        "KALORIE",
-        "PORCE",
-        "JÍDELNÍČEK",
-        "REŽIM"
+        "DRÁKULA",
+        "FRANKENSTEIN",
+        "FREDDY",
+        "JASON"
       ]
     },
     {
-      "name": "Bez lepku a spol.",
+      "name": "Autoři hororů",
       "words": [
-        "ALERGIE",
-        "INTOLERANCE",
-        "CELIAKIE",
-        "LEPEK"
+        "KING",
+        "POE",
+        "LOVECRAFT",
+        "STOKER"
       ]
     },
     {
-      "name": "Lehký ___",
+      "name": "Ukrývají FRANK",
       "words": [
-        "OBĚD",
-        "SPÁNEK",
-        "ÚKOL",
-        "VÁNEK"
+        "FRANKFURT",
+        "FRANKOVKA",
+        "FRANKOFONIE",
+        "FRANKLIN"
       ]
     }
   ]

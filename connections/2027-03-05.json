@@ -1,40 +1,40 @@
 {
-  "id": "conn-78",
+  "id": "conn-443",
   "groups": [
     {
-      "name": "Na trhu",
+      "name": "V peněžence",
       "words": [
-        "STÁNEK",
-        "VÁHA",
-        "KOŠÍK",
-        "PRODAVAČ"
+        "BANKOVKA",
+        "MINCE",
+        "KARTA",
+        "ÚČTENKA"
       ]
     },
     {
-      "name": "Luštěniny",
+      "name": "Vesmírné stanice",
       "words": [
-        "ČOČKA",
-        "FAZOLE",
-        "HRÁCH",
-        "CIZRNA"
+        "MIR",
+        "SKYLAB",
+        "SALJUT",
+        "ISS"
       ]
     },
     {
-      "name": "Druhy mouky",
+      "name": "Listnaté stromy",
       "words": [
-        "HLADKÁ",
-        "POLOHRUBÁ",
-        "HRUBÁ",
-        "CELOZRNNÁ"
+        "BUK",
+        "DUB",
+        "HABR",
+        "JASAN"
       ]
     },
     {
-      "name": "Selský ___",
+      "name": "Ukrývají strom",
       "words": [
-        "ROZUM",
-        "DVŮR",
-        "GRUNT",
-        "CHLÉB"
+        "DUBAJ",
+        "TISK",
+        "BUKANÝR",
+        "KLENOT"
       ]
     }
   ]

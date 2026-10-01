@@ -1,40 +1,40 @@
 {
-  "id": "conn-185",
+  "id": "conn-550",
   "groups": [
     {
-      "name": "Evropské státy",
+      "name": "Dětská zahrada",
       "words": [
-        "PORTUGALSKO",
-        "FINSKO",
-        "IRSKO",
-        "CHORVATSKO"
+        "BAZÉNEK",
+        "TRAMPOLÍNA",
+        "PÍSKOVIŠTĚ",
+        "SKLUZAVKA"
       ]
     },
     {
-      "name": "Hlavní města",
+      "name": "Skotská města",
       "words": [
-        "LISABON",
-        "HELSINKY",
-        "DUBLIN",
-        "ZÁHŘEB"
+        "EDINBURGH",
+        "GLASGOW",
+        "ABERDEEN",
+        "DUNDEE"
       ]
     },
     {
-      "name": "Evropské řeky",
+      "name": "Irsko",
       "words": [
-        "RÝN",
-        "DUNAJ",
-        "SEINA",
-        "PÁD"
+        "TROJLÍSTEK",
+        "HARFA",
+        "GUINNESS",
+        "LEPRIKÓN"
       ]
     },
     {
-      "name": "Severní ___",
+      "name": "___ ostrov",
       "words": [
-        "MOŘE",
-        "PÓL",
-        "SVAH",
-        "ITÁLIE"
+        "SMARAGDOVÝ",
+        "PUSTÝ",
+        "PLOVOUCÍ",
+        "KORÁLOVÝ"
       ]
     }
   ]

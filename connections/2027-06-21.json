@@ -1,40 +1,40 @@
 {
-  "id": "conn-186",
+  "id": "conn-551",
   "groups": [
     {
-      "name": "Světové metropole",
+      "name": "Z tropů",
       "words": [
-        "TOKIO",
-        "KÁHIRA",
-        "LIMA",
-        "SYDNEY"
+        "MANGO",
+        "ANANAS",
+        "PAPÁJA",
+        "MARAKUJA"
       ]
     },
     {
-      "name": "Světové stavby",
+      "name": "Bondovky",
       "words": [
-        "PYRAMIDA",
-        "KOLOSEUM",
-        "AKROPOLE",
-        "TÁDŽMAHAL"
+        "SKYFALL",
+        "GOLDFINGER",
+        "SPECTRE",
+        "THUNDERBALL"
       ]
     },
     {
-      "name": "Cestovní doklady",
+      "name": "Srbská města",
       "words": [
-        "VÍZUM",
-        "LETENKA",
-        "POJIŠTĚNÍ",
-        "REZERVACE"
+        "NIŠ",
+        "KRAGUJEVAC",
+        "SUBOTICA",
+        "KRALJEVO"
       ]
     },
     {
-      "name": "Světový ___",
+      "name": "___ bomba",
       "words": [
-        "REKORD",
-        "MÍR",
-        "POHÁR",
-        "NÁZOR"
+        "ČASOVANÁ",
+        "ATOMOVÁ",
+        "KOUŘOVÁ",
+        "VODNÍ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-58",
+  "id": "conn-423",
   "groups": [
     {
-      "name": "Na túře",
+      "name": "Stavby pro zvířata",
       "words": [
-        "BATOH",
-        "MAPA",
-        "STEZKA",
-        "CHATA"
+        "BOUDA",
+        "KURNÍK",
+        "CHLÍVEK",
+        "HOLUBNÍK"
       ]
     },
     {
-      "name": "Táboření",
+      "name": "Zimní olympijská města",
       "words": [
-        "STAN",
-        "SPACÁK",
-        "OHNIŠTĚ",
-        "KOTLÍK"
+        "NAGANO",
+        "SOČI",
+        "LILLEHAMMER",
+        "TURÍN"
       ]
     },
     {
-      "name": "Alpské země",
+      "name": "Indiánské kmeny",
       "words": [
-        "RAKOUSKO",
-        "ŠVÝCARSKO",
-        "SLOVINSKO",
-        "ITÁLIE"
+        "APAČI",
+        "ČEJENOVÉ",
+        "KOMANČOVÉ",
+        "IROKÉZOVÉ"
       ]
     },
     {
-      "name": "___ cesta",
+      "name": "Mají štít",
       "words": [
-        "KŘÍŽOVÁ",
-        "POLNÍ",
-        "SLEPÁ",
-        "HEDVÁBNÁ"
+        "HORA",
+        "DŮM",
+        "RYTÍŘ",
+        "GLADIÁTOR"
       ]
     }
   ]

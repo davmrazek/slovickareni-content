@@ -1,40 +1,40 @@
 {
-  "id": "conn-139",
+  "id": "conn-504",
   "groups": [
     {
-      "name": "Optika",
+      "name": "Na maso",
       "words": [
-        "HRANOL",
-        "ZRCADLO",
-        "PAPRSEK",
-        "LOM"
+        "PALIČKA",
+        "SEKÁČEK",
+        "MLÝNEK",
+        "PRKÉNKO"
       ]
     },
     {
-      "name": "Barvy spektra",
+      "name": "Národní jídla",
       "words": [
-        "INDIGO",
-        "FIALOVÁ",
-        "ORANŽOVÁ",
-        "ZELENÁ"
+        "PAELLA",
+        "RIZOTO",
+        "MUSAKA",
+        "KARI"
       ]
     },
     {
-      "name": "Světelné zdroje",
+      "name": "Planetky",
       "words": [
-        "ŽÁROVKA",
-        "SVÍCE",
-        "DIODA",
-        "POCHODEŇ"
+        "VESTA",
+        "PALLAS",
+        "HYGIEA",
+        "EROS"
       ]
     },
     {
-      "name": "Jasná ___",
+      "name": "___ mlýnek",
       "words": [
-        "ODPOVĚĎ",
-        "OBLOHA",
-        "HVĚZDA",
-        "ZPRÁVA"
+        "KÁVOVÝ",
+        "PEPŘOVÝ",
+        "MASOVÝ",
+        "VĚTRNÝ"
       ]
     }
   ]

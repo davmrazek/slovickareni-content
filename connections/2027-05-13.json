@@ -1,40 +1,40 @@
 {
-  "id": "conn-147",
+  "id": "conn-512",
   "groups": [
     {
-      "name": "Automobilová historie",
+      "name": "Letní tábor",
       "words": [
-        "VETERÁN",
-        "KLIKA",
-        "BLATNÍK",
-        "STUPAČKA"
+        "STAN",
+        "OHNIŠTĚ",
+        "BOJOVKA",
+        "NÁSTUP"
       ]
     },
     {
-      "name": "Motorsport",
+      "name": "Pražská kina",
       "words": [
-        "OKRUH",
-        "BOXY",
-        "KVALIFIKACE",
-        "ŠACHOVNICE"
+        "LUCERNA",
+        "SVĚTOZOR",
+        "AERO",
+        "PONREPO"
       ]
     },
     {
-      "name": "Motocykly",
+      "name": "Druhy filmů",
       "words": [
-        "PŘILBA",
-        "SEDLO",
-        "ŘETĚZ",
-        "PLYN"
+        "DOKUMENT",
+        "HORROR",
+        "WESTERN",
+        "ANIMÁK"
       ]
     },
     {
-      "name": "Závodní ___",
+      "name": "Svítidla",
       "words": [
-        "DRÁHA",
-        "KŮŇ",
-        "JÍDELNA",
-        "AUTO"
+        "LAMPIÓN",
+        "PETROLEJKA",
+        "LOUČ",
+        "SVÍTILNA"
       ]
     }
   ]

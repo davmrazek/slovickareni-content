@@ -1,40 +1,40 @@
 {
-  "id": "conn-203",
+  "id": "conn-568",
   "groups": [
     {
-      "name": "Exotické ovoce",
+      "name": "Sportoviště",
       "words": [
-        "MANGO",
-        "PAPÁJA",
-        "LIČI",
-        "GUAVA"
+        "BRANKA",
+        "KOŠ",
+        "MÍČ",
+        "PÍŠŤALKA"
       ]
     },
     {
-      "name": "Citrusy",
+      "name": "Basketbalové legendy",
       "words": [
-        "POMERANČ",
-        "MANDARINKA",
-        "LIMETKA",
-        "GREP"
+        "JORDAN",
+        "BRYANT",
+        "BIRD",
+        "JOHNSON"
       ]
     },
     {
-      "name": "Ořechy",
+      "name": "Řeky Blízkého východu",
       "words": [
-        "MANDLE",
-        "PISTÁCIE",
-        "KEŠU",
-        "ARAŠÍD"
+        "JORDÁN",
+        "EUFRAT",
+        "TIGRIS",
+        "ORONTES"
       ]
     },
     {
-      "name": "Kyselý ___",
+      "name": "___ koš",
       "words": [
-        "CITRON",
-        "DÉŠŤ",
-        "VÝRAZ",
-        "OBLIČEJ"
+        "ODPADKOVÝ",
+        "BALONOVÝ",
+        "PIKNIKOVÝ",
+        "NÁKUPNÍ"
       ]
     }
   ]

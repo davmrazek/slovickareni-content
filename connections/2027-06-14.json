@@ -1,40 +1,40 @@
 {
-  "id": "conn-179",
+  "id": "conn-544",
   "groups": [
     {
-      "name": "Polární kraje",
+      "name": "Na pláži u moře",
       "words": [
-        "LEDOVEC",
-        "IGLÚ",
-        "PÓL",
-        "ZÁŘE"
+        "MUŠLE",
+        "OBLÁZKY",
+        "ŘASY",
+        "MEDÚZY"
       ]
     },
     {
-      "name": "Zvířata Arktidy",
+      "name": "Skandinávští autoři",
       "words": [
-        "MROŽ",
-        "TULEŇ",
-        "SOB",
-        "LIŠKA"
+        "ANDERSEN",
+        "IBSEN",
+        "STRINDBERG",
+        "HAMSUN"
       ]
     },
     {
-      "name": "Zimní výbava",
+      "name": "Námořní bitvy",
       "words": [
-        "RUKAVICE",
-        "KUKLA",
-        "TERMOSKA",
-        "MAČKY"
+        "TRAFALGAR",
+        "SALAMINA",
+        "LEPANTO",
+        "JUTSKO"
       ]
     },
     {
-      "name": "Ledový ___",
+      "name": "___ hrad",
       "words": [
-        "KLID",
-        "ČAJ",
-        "VÍTR",
-        "POHLED"
+        "PÍSEČNÝ",
+        "SKÁKACÍ",
+        "PRAŽSKÝ",
+        "VODNÍ"
       ]
     }
   ]

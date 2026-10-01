@@ -1,40 +1,40 @@
 {
-  "id": "conn-178",
+  "id": "conn-543",
   "groups": [
     {
-      "name": "Mořská pobřeží",
+      "name": "Na túru",
       "words": [
-        "ÚTES",
-        "LAGUNA",
-        "DUNA",
-        "ZÁTOKA"
+        "MAPA",
+        "BATOH",
+        "ČUTORA",
+        "SVAČINA"
       ]
     },
     {
-      "name": "Korálový útes",
+      "name": "Německé hrady",
       "words": [
-        "POLYP",
-        "SASANKA",
-        "KLAUN",
-        "ŽELVA"
+        "NEUSCHWANSTEIN",
+        "WARTBURG",
+        "HOHENZOLLERN",
+        "ELTZ"
       ]
     },
     {
-      "name": "Vodní sporty u moře",
+      "name": "Poutní místa",
       "words": [
-        "SURFING",
-        "JACHTING",
-        "ŠNORCHLOVÁNÍ",
-        "VESLOVÁNÍ"
+        "KLOKOTY",
+        "VELEHRAD",
+        "HOSTÝN",
+        "KŘTINY"
       ]
     },
     {
-      "name": "Modré ___",
+      "name": "Ukazují sever",
       "words": [
-        "MOŘE",
-        "OČI",
-        "PONDĚLÍ",
-        "SVĚTLO"
+        "KOMPAS",
+        "POLÁRKA",
+        "MECH",
+        "BUSOLA"
       ]
     }
   ]

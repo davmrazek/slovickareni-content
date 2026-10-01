@@ -1,40 +1,40 @@
 {
-  "id": "conn-259",
+  "id": "conn-624",
   "groups": [
     {
-      "name": "Fanoušci",
+      "name": "Na ulici",
       "words": [
-        "ŠÁLA",
-        "CHOREO",
-        "POKŘIK",
-        "VLAJKA"
+        "PŘECHOD",
+        "CHODNÍK",
+        "OBRUBNÍK",
+        "LAMPA"
       ]
     },
     {
-      "name": "Sportovní přenos",
+      "name": "Japonské automobilky",
       "words": [
-        "KOMENTÁTOR",
-        "STUDIO",
-        "OPAKOVAČKA",
-        "STATISTIKA"
+        "TOYOTA",
+        "HONDA",
+        "MAZDA",
+        "SUBARU"
       ]
     },
     {
-      "name": "Sázení",
+      "name": "Japonská bojová umění",
       "words": [
-        "KURZ",
-        "TIKET",
-        "PODÁNÍ",
-        "VÝHRA"
+        "KARATE",
+        "AIKIDO",
+        "KENDO",
+        "JUJITSU"
       ]
     },
     {
-      "name": "Domácí ___",
+      "name": "___ značka",
       "words": [
-        "PROSTŘEDÍ",
-        "PORÁŽKA",
-        "ZÁPAS",
-        "ÚKOL"
+        "OCHRANNÁ",
+        "DOPRAVNÍ",
+        "POZNÁVACÍ",
+        "OBCHODNÍ"
       ]
     }
   ]

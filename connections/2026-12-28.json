@@ -1,40 +1,40 @@
 {
-  "id": "conn-11",
+  "id": "conn-376",
   "groups": [
     {
-      "name": "Kontinenty",
+      "name": "České sýry",
       "words": [
-        "AFRIKA",
-        "ASIE",
-        "EVROPA",
-        "AUSTRÁLIE"
+        "HERMELÍN",
+        "NIVA",
+        "OTAVA",
+        "ABERTAM"
       ]
     },
     {
-      "name": "Mléčné výrobky",
+      "name": "Pivovarská města",
       "words": [
-        "SÝR",
-        "JOGURT",
-        "MÁSLO",
-        "SMETANA"
+        "PLZEŇ",
+        "NYMBURK",
+        "KRUŠOVICE",
+        "PROTIVÍN"
       ]
     },
     {
-      "name": "Hmyz",
+      "name": "Středověké zbraně",
       "words": [
-        "MRAVENEC",
-        "VČELA",
-        "MOTÝL",
-        "KOMÁR"
+        "HALAPARTNA",
+        "KUŠE",
+        "PALCÁT",
+        "CEP"
       ]
     },
     {
-      "name": "Zlatá ___",
+      "name": "Mají korunu",
       "words": [
-        "RYBKA",
-        "HOREČKA",
-        "SVATBA",
-        "MEDAILE"
+        "STROM",
+        "KRÁL",
+        "ZUB",
+        "HRÁZ"
       ]
     }
   ]

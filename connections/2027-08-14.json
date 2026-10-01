@@ -1,40 +1,40 @@
 {
-  "id": "conn-240",
+  "id": "conn-605",
   "groups": [
     {
-      "name": "Ptačí zpěv",
+      "name": "Letní květiny",
       "words": [
-        "SLAVÍK",
-        "KOS",
-        "PĚNKAVA",
-        "ČERVENKA"
+        "AFRIKÁN",
+        "MĚSÍČEK",
+        "CÍNIE",
+        "KOSMOS"
       ]
     },
     {
-      "name": "Hnízdiště",
+      "name": "Postimpresionisté",
       "words": [
-        "KOMÍN",
-        "STŘECHA",
-        "DUTINA",
-        "RÁKOSÍ"
+        "CÉZANNE",
+        "GAUGUIN",
+        "SEURAT",
+        "SIGNAC"
       ]
     },
     {
-      "name": "Ptačí let",
+      "name": "Pražské galerie",
       "words": [
-        "MÁVÁNÍ",
-        "PLACHTĚNÍ",
-        "KLÍN",
-        "MIGRACE"
+        "DOX",
+        "RUDOLFINUM",
+        "KAMPA",
+        "MÁNES"
       ]
     },
     {
-      "name": "Ranní ___",
+      "name": "Mají semínka",
       "words": [
-        "ZPĚV",
-        "KÁVA",
-        "CHVÍLE",
-        "ROZBŘESK"
+        "MELOUN",
+        "JAHODA",
+        "DÝNĚ",
+        "SLUNEČNICE"
       ]
     }
   ]

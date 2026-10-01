@@ -1,40 +1,40 @@
 {
-  "id": "conn-212",
+  "id": "conn-577",
   "groups": [
     {
-      "name": "Cyklovýlet",
+      "name": "Z drogerie",
       "words": [
-        "STEZKA",
-        "SEDLO",
-        "PUMPIČKA",
-        "HELMA"
+        "DEODORANT",
+        "GEL",
+        "ŠAMPON",
+        "KONDICIONÉR"
       ]
     },
     {
-      "name": "Části jízdního kola",
+      "name": "Pražské ulice",
       "words": [
-        "ŠLAPKA",
-        "ŘETĚZ",
-        "BLATNÍK",
-        "ZVONEK"
+        "NERUDOVA",
+        "CELETNÁ",
+        "PAŘÍŽSKÁ",
+        "KARLOVA"
       ]
     },
     {
-      "name": "Poruchy kola",
+      "name": "Britští vojevůdci",
       "words": [
-        "DEFEKT",
-        "OSMIČKA",
-        "SKŘÍPÁNÍ",
-        "PROŠLAP"
+        "NELSON",
+        "WELLINGTON",
+        "MONTGOMERY",
+        "MARLBOROUGH"
       ]
     },
     {
-      "name": "Horské ___",
+      "name": "___ gel",
       "words": [
-        "KOLO",
-        "SLUNCE",
-        "PÁSMO",
-        "STŘEDISKO"
+        "SPRCHOVÝ",
+        "VLASOVÝ",
+        "ANTIBAKTERIÁLNÍ",
+        "CHLADIVÝ"
       ]
     }
   ]

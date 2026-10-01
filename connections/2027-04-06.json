@@ -1,40 +1,40 @@
 {
-  "id": "conn-110",
+  "id": "conn-475",
   "groups": [
     {
-      "name": "Na jarmarku",
+      "name": "Úklid kuchyně",
       "words": [
-        "STÁNEK",
-        "PERNÍK",
-        "KOLOTOČ",
-        "TRDELNÍK"
+        "HOUBIČKA",
+        "SAPONÁT",
+        "UTĚRKA",
+        "DRÁTĚNKA"
       ]
     },
     {
-      "name": "Lidová řemesla",
+      "name": "Francouzské pečivo",
       "words": [
-        "HRNČÍŘ",
-        "KOŠÍKÁŘ",
-        "DRÁTENÍK",
-        "PODKOVÁŘ"
+        "BAGETA",
+        "CROISSANT",
+        "BRIOŠKA",
+        "ECLAIR"
       ]
     },
     {
-      "name": "Kroj",
+      "name": "Zaniklé státy",
       "words": [
-        "ŠÁTEK",
-        "ZÁSTĚRA",
-        "VESTA",
-        "SUKNĚ"
+        "JUGOSLÁVIE",
+        "ČESKOSLOVENSKO",
+        "SSSR",
+        "NDR"
       ]
     },
     {
-      "name": "Lidová ___",
+      "name": "___ ráj",
       "words": [
-        "PÍSEŇ",
-        "SLOVESNOST",
-        "MOUDROST",
-        "TVOŘIVOST"
+        "ČESKÝ",
+        "SLOVENSKÝ",
+        "DAŇOVÝ",
+        "ZTRACENÝ"
       ]
     }
   ]

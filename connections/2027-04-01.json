@@ -1,40 +1,40 @@
 {
-  "id": "conn-105",
+  "id": "conn-470",
   "groups": [
     {
-      "name": "V autoservisu",
+      "name": "Legrace",
       "words": [
-        "ZVEDÁK",
-        "OLEJ",
-        "BRZDY",
-        "DIAGNOSTIKA"
+        "VTIP",
+        "ŽERT",
+        "ANEKDOTA",
+        "FÓR"
       ]
     },
     {
-      "name": "Pneumatiky",
+      "name": "Čeští komici",
       "words": [
-        "ZIMNÍ",
-        "LETNÍ",
-        "DEZÉN",
-        "TLAK"
+        "VOSKOVEC",
+        "WERICH",
+        "ŠIMEK",
+        "GROSSMANN"
       ]
     },
     {
-      "name": "Doklady k vozu",
+      "name": "Šibalové z mýtů",
       "words": [
-        "TECHNIČÁK",
-        "POJISTKA",
-        "OSVĚDČENÍ",
-        "ŘIDIČÁK"
+        "LOKI",
+        "HERMÉS",
+        "KOJOT",
+        "ANANSI"
       ]
     },
     {
-      "name": "Plný ___",
+      "name": "Končí na -VEC",
       "words": [
-        "PLYN",
-        "ÚVAZEK",
-        "TALÍŘ",
-        "MĚSÍC"
+        "LOVEC",
+        "PLAVEC",
+        "ŠVEC",
+        "DRAVEC"
       ]
     }
   ]

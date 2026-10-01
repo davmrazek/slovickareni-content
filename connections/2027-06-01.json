@@ -1,40 +1,40 @@
 {
-  "id": "conn-166",
+  "id": "conn-531",
   "groups": [
     {
-      "name": "Mateřská škola",
+      "name": "Den dětí",
       "words": [
-        "ŠKOLKA",
-        "ŘÍKANKA",
-        "PÍSKOVIŠTĚ",
-        "ODPOČINEK"
+        "BALONKY",
+        "SOUTĚŽE",
+        "ODMĚNY",
+        "LÍZÁTKA"
       ]
     },
     {
-      "name": "Dětské hry",
+      "name": "Filmy Pixaru",
       "words": [
-        "SCHOVÁVANÁ",
-        "HONIČKA",
-        "SKÁKÁNÍ",
-        "PANÁK"
+        "AUTA",
+        "COCO",
+        "REBELKA",
+        "RATATOUILLE"
       ]
     },
     {
-      "name": "Na pískovišti",
+      "name": "Autoři pro děti",
       "words": [
-        "BÁBOVKA",
-        "LOPATKA",
-        "KYBLÍK",
-        "HRABIČKY"
+        "ROWLINGOVÁ",
+        "LINDGRENOVÁ",
+        "DAHL",
+        "CARROLL"
       ]
     },
     {
-      "name": "Malá ___",
+      "name": "Kapitáni",
       "words": [
-        "KOPANÁ",
-        "DUŠIČKA",
-        "CHVÍLE",
-        "NÁSOBILKA"
+        "NEMO",
+        "HÁK",
+        "AHAB",
+        "KIRK"
       ]
     }
   ]

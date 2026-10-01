@@ -1,40 +1,40 @@
 {
-  "id": "conn-48",
+  "id": "conn-413",
   "groups": [
     {
-      "name": "Části hodin",
+      "name": "Čajový servis",
       "words": [
-        "RUČIČKA",
-        "CIFERNÍK",
-        "KYVADLO",
-        "ZÁVAŽÍ"
+        "KONVICE",
+        "SÍTKO",
+        "ŠÁLEK",
+        "CUKŘENKA"
       ]
     },
     {
-      "name": "Denní doby",
+      "name": "Africké hory",
       "words": [
-        "RÁNO",
-        "POLEDNE",
-        "VEČER",
-        "PŮLNOC"
+        "KILIMANDŽÁRO",
+        "KEŇA",
+        "RWENZORI",
+        "ATLAS"
       ]
     },
     {
-      "name": "Deskové hry",
+      "name": "Slavní Karlové",
       "words": [
-        "ŠACHY",
-        "DÁMA",
-        "MLÝN",
-        "DOMINO"
+        "GOTT",
+        "ČAPEK",
+        "ZEMAN",
+        "POLÁČEK"
       ]
     },
     {
-      "name": "___ čas",
+      "name": "Ukrývají hmyz",
       "words": [
-        "LETNÍ",
-        "VOLNÝ",
-        "PRACOVNÍ",
-        "VÁNOČNÍ"
+        "MOLITAN",
+        "KOMÁRNO",
+        "ŠVÁBSKO",
+        "SMOLA"
       ]
     }
   ]

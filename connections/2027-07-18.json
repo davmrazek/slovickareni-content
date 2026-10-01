@@ -1,40 +1,40 @@
 {
-  "id": "conn-213",
+  "id": "conn-578",
   "groups": [
     {
-      "name": "Na vodě",
+      "name": "Alpské květiny",
       "words": [
-        "KÁNOE",
-        "PÁDLO",
-        "VESTA",
-        "TÁBOŘIŠTĚ"
+        "PROTĚŽ",
+        "HOŘEC",
+        "RODODENDRON",
+        "ARNIKA"
       ]
     },
     {
-      "name": "Vodácké pojmy",
+      "name": "Slavní lyžaři",
       "words": [
-        "PEŘEJ",
-        "PROPUST",
-        "PŘENÁŠKA",
-        "CVAK"
+        "HIRSCHER",
+        "SHIFFRIN",
+        "LEDECKÁ",
+        "VONNOVÁ"
       ]
     },
     {
-      "name": "Táboráková výbava",
+      "name": "Švýcarské kantony",
       "words": [
-        "KYTARA",
-        "BUŘT",
-        "SPACÁK",
-        "KARIMATKA"
+        "TICINO",
+        "VALAIS",
+        "GRAUBÜNDEN",
+        "ZUG"
       ]
     },
     {
-      "name": "Divoká ___",
+      "name": "Švýcarské sýry",
       "words": [
-        "VODA",
-        "PARTA",
-        "NOC",
-        "PŘÍRODA"
+        "APPENZELL",
+        "GRUYÈRE",
+        "EMENTÁL",
+        "SBRINZ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-188",
+  "id": "conn-553",
   "groups": [
     {
-      "name": "Přísloví",
+      "name": "Luční kvítí",
       "words": [
-        "MOUDROST",
-        "PONAUČENÍ",
-        "RČENÍ",
-        "POŘEKADLO"
+        "CHRPA",
+        "ZVONEK",
+        "SLÉZ",
+        "JETEL"
       ]
     },
     {
-      "name": "Literární postupy",
+      "name": "Krkonošské pohádky",
       "words": [
-        "METAFORA",
-        "IRONIE",
-        "NADSÁZKA",
-        "PŘIROVNÁNÍ"
+        "TRAUTENBERK",
+        "KUBA",
+        "ANČI",
+        "KRAKONOŠ"
       ]
     },
     {
-      "name": "Poezie",
+      "name": "Čínské dynastie",
       "words": [
-        "RÝM",
-        "SLOKA",
-        "VERŠ",
-        "REFRÉN"
+        "MING",
+        "TANG",
+        "HAN",
+        "ČCHING"
       ]
     },
     {
-      "name": "Ostré ___",
+      "name": "___ zvonek",
       "words": [
-        "PERO",
-        "SLOVO",
-        "SVĚTLO",
-        "VIDĚNÍ"
+        "DOMOVNÍ",
+        "KOSTELNÍ",
+        "CYKLISTICKÝ",
+        "POPLAŠNÝ"
       ]
     }
   ]

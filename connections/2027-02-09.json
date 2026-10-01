@@ -1,40 +1,40 @@
 {
-  "id": "conn-54",
+  "id": "conn-419",
   "groups": [
     {
-      "name": "Na zahradě",
+      "name": "Masopustní masky",
       "words": [
-        "ZÁHON",
-        "SKLENÍK",
-        "KOMPOST",
-        "PLOT"
+        "MEDVĚD",
+        "KOMINÍK",
+        "KOBYLA",
+        "TUREK"
       ]
     },
     {
-      "name": "Ovocné keře",
+      "name": "Masopustní hody",
       "words": [
-        "RYBÍZ",
-        "ANGREŠT",
-        "MALINA",
-        "OSTRUŽINA"
+        "KOBLIHY",
+        "JITRNICE",
+        "JELITA",
+        "TLAČENKA"
       ]
     },
     {
-      "name": "Zahradní škůdci",
+      "name": "Barokní sochaři a stavitelé",
       "words": [
-        "SLIMÁK",
-        "MŠICE",
-        "KRTEK",
-        "HRABOŠ"
+        "BROKOFF",
+        "BRAUN",
+        "DIENTZENHOFER",
+        "SANTINI"
       ]
     },
     {
-      "name": "Zelená ___",
+      "name": "___ ples",
       "words": [
-        "KARTA",
-        "VLNA",
-        "LOUKA",
-        "HRANICE"
+        "HASIČSKÝ",
+        "MYSLIVECKÝ",
+        "MATURITNÍ",
+        "REPREZENTAČNÍ"
       ]
     }
   ]

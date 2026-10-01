@@ -1,40 +1,40 @@
 {
-  "id": "conn-263",
+  "id": "conn-628",
   "groups": [
     {
-      "name": "Šití panenek",
+      "name": "V obýváku",
       "words": [
-        "LÁTKA",
-        "VÝPLŇ",
-        "OČKA",
-        "PARUČKA"
+        "GAUČ",
+        "KOBEREC",
+        "KNIHOVNA",
+        "LAMPA"
       ]
     },
     {
-      "name": "Hračky na baterie",
+      "name": "Designéři nábytku",
       "words": [
-        "AUTÍČKO",
-        "ROBOT",
-        "VLÁČEK",
-        "DRON"
+        "THONET",
+        "EAMES",
+        "AALTO",
+        "JACOBSEN"
       ]
     },
     {
-      "name": "Stavebnice",
+      "name": "Teriéři",
       "words": [
-        "KOSTKY",
-        "DÍLKY",
-        "NÁVOD",
-        "PODLOŽKA"
+        "FOXTERIÉR",
+        "BULTERIÉR",
+        "AIREDALE",
+        "VESTÍK"
       ]
     },
     {
-      "name": "Dětský ___",
+      "name": "___ koberec",
       "words": [
-        "POKOJ",
-        "KOČÁREK",
-        "SMÍCH",
-        "LÉKAŘ"
+        "ČERVENÝ",
+        "PERSKÝ",
+        "LÉTAJÍCÍ",
+        "KOUPELNOVÝ"
       ]
     }
   ]

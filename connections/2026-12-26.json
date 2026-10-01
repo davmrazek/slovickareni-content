@@ -1,40 +1,40 @@
 {
-  "id": "conn-9",
+  "id": "conn-374",
   "groups": [
     {
-      "name": "Sladkovodní ryby",
+      "name": "Hřejivé doplňky",
       "words": [
-        "KAPR",
-        "PSTRUH",
-        "ŠTIKA",
-        "SUMEC"
+        "ŠÁLA",
+        "ČEPICE",
+        "RUKAVICE",
+        "NÁUŠNÍKY"
       ]
     },
     {
-      "name": "Nábytek",
+      "name": "Krkonošská střediska",
       "words": [
-        "STŮL",
-        "ŽIDLE",
-        "SKŘÍŇ",
-        "POSTEL"
+        "HARRACHOV",
+        "BENECKO",
+        "ROKYTNICE",
+        "VRCHLABÍ"
       ]
     },
     {
-      "name": "Školní předměty",
+      "name": "Měsíce Jupiteru",
       "words": [
-        "MATEMATIKA",
-        "CHEMIE",
-        "DĚJEPIS",
-        "ZEMĚPIS"
+        "IO",
+        "EUROPA",
+        "GANYMED",
+        "KALLISTÓ"
       ]
     },
     {
-      "name": "___ pták",
+      "name": "Začínají solmizační slabikou",
       "words": [
-        "NOČNÍ",
-        "RANNÍ",
-        "TAŽNÝ",
-        "DRAVÝ"
+        "REKLAMA",
+        "MIMOZA",
+        "FAKTURA",
+        "SOLNIČKA"
       ]
     }
   ]

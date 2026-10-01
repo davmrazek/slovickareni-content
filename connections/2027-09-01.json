@@ -1,40 +1,40 @@
 {
-  "id": "conn-258",
+  "id": "conn-623",
   "groups": [
     {
-      "name": "Sportovní klub",
+      "name": "1. září",
       "words": [
-        "ČLENSTVÍ",
-        "TRENÉR",
-        "SEZONA",
-        "PŘESTUP"
+        "PRVŇÁČEK",
+        "KORNOUT",
+        "AKTOVKA",
+        "SLABIKÁŘ"
       ]
     },
     {
-      "name": "Turnaj",
+      "name": "Druhy škol",
       "words": [
-        "PAVOUK",
-        "SKUPINA",
-        "FINÁLE",
-        "LOSOVÁNÍ"
+        "GYMNÁZIUM",
+        "UČILIŠTĚ",
+        "LYCEUM",
+        "KONZERVATOŘ"
       ]
     },
     {
-      "name": "Ocenění",
+      "name": "Slavní pedagogové",
       "words": [
-        "PLAKETA",
-        "POHÁR",
-        "DIPLOM",
-        "TITUL"
+        "KOMENSKÝ",
+        "MONTESSORI",
+        "STEINER",
+        "PESTALOZZI"
       ]
     },
     {
-      "name": "Stříbrná ___",
+      "name": "Mají zvonek",
       "words": [
-        "MEDAILE",
-        "SVATBA",
-        "LIŠKA",
-        "LŽIČKA"
+        "ŠKOLA",
+        "KOLO",
+        "TRAMVAJ",
+        "KOSTEL"
       ]
     }
   ]

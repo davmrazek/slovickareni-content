@@ -1,40 +1,40 @@
 {
-  "id": "conn-111",
+  "id": "conn-476",
   "groups": [
     {
-      "name": "Masopust",
+      "name": "Jarní úroda",
       "words": [
-        "PRŮVOD",
-        "MASKA",
-        "KOBLIHA",
-        "MEDVĚD"
+        "REBARBORA",
+        "CHŘEST",
+        "ŘEDKVIČKY",
+        "JAHODY"
       ]
     },
     {
-      "name": "Velikonoce",
+      "name": "Slovenské vrcholy",
       "words": [
-        "POMLÁZKA",
-        "KRASLICE",
-        "BERÁNEK",
-        "ŘEHTAČKA"
+        "KRIVÁŇ",
+        "GERLACH",
+        "RYSY",
+        "CHOPOK"
       ]
     },
     {
-      "name": "Dušičky",
+      "name": "Brazilská města",
       "words": [
-        "SVÍČKA",
-        "HŘBITOV",
-        "VĚNEC",
-        "VZPOMÍNKA"
+        "SALVADOR",
+        "BRASÍLIE",
+        "RECIFE",
+        "BELÉM"
       ]
     },
     {
-      "name": "Zelený ___",
+      "name": "___ omáčka",
       "words": [
-        "ČTVRTEK",
-        "ČAJ",
-        "ZÁKAL",
-        "SALÁT"
+        "HOLANDSKÁ",
+        "RAJSKÁ",
+        "SVÍČKOVÁ",
+        "KOPROVÁ"
       ]
     }
   ]

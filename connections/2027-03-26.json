@@ -1,40 +1,40 @@
 {
-  "id": "conn-99",
+  "id": "conn-464",
   "groups": [
     {
-      "name": "Loutkové divadlo",
+      "name": "Svatý týden",
       "words": [
-        "MARIONETA",
-        "NITĚ",
-        "PARAVÁN",
-        "VODIČ"
+        "ŠKAREDÁ",
+        "ZELENÝ",
+        "VELKÝ",
+        "BÍLÁ"
       ]
     },
     {
-      "name": "Pohádkoví hrdinové",
+      "name": "Na Zelený čtvrtek",
       "words": [
-        "HONZA",
-        "PRINCEZNA",
-        "DRAK",
-        "ČARODĚJ"
+        "ŘEŘICHA",
+        "ŠPENÁT",
+        "PAŽITKA",
+        "KOPŘIVY"
       ]
     },
     {
-      "name": "Cirkus",
+      "name": "Apoštolové",
       "words": [
-        "MANÉŽ",
-        "KLAUN",
-        "KRASOJEZDEC",
-        "ŠAPITÓ"
+        "PETR",
+        "ONDŘEJ",
+        "JAKUB",
+        "TOMÁŠ"
       ]
     },
     {
-      "name": "Dřevěná ___",
+      "name": "___ kříž",
       "words": [
-        "LŽÍCE",
-        "PODLAHA",
-        "CHATA",
-        "HRAČKA"
+        "ČERVENÝ",
+        "ŽELEZNÝ",
+        "JIŽNÍ",
+        "SVATOONDŘEJSKÝ"
       ]
     }
   ]

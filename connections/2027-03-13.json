@@ -1,40 +1,40 @@
 {
-  "id": "conn-86",
+  "id": "conn-451",
   "groups": [
     {
-      "name": "Bylinný čaj",
+      "name": "Kancelářská technika",
       "words": [
-        "MÁTA",
-        "HEŘMÁNEK",
-        "LÍPA",
-        "ŠÍPEK"
+        "TISKÁRNA",
+        "SKENER",
+        "KOPÍRKA",
+        "SKARTOVAČKA"
       ]
     },
     {
-      "name": "Léčivé účinky",
+      "name": "Čeští vědci",
       "words": [
-        "PROTIZÁNĚTLIVÝ",
-        "USPÁVACÍ",
-        "MOČOPUDNÝ",
-        "HOJIVÝ"
+        "HEYROVSKÝ",
+        "PURKYNĚ",
+        "MENDEL",
+        "WICHTERLE"
       ]
     },
     {
-      "name": "V lékárně",
+      "name": "Pražské nemocnice",
       "words": [
-        "RECEPT",
-        "MAST",
-        "KAPKY",
-        "OBVAZ"
+        "MOTOL",
+        "BULOVKA",
+        "KRČ",
+        "VINOHRADY"
       ]
     },
     {
-      "name": "Hořká ___",
+      "name": "___ lampa",
       "words": [
-        "PRAVDA",
-        "ČOKOLÁDA",
-        "SŮL",
-        "PILULKA"
+        "PETROLEJOVÁ",
+        "STOLNÍ",
+        "LÁVOVÁ",
+        "ALADINOVA"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-59",
+  "id": "conn-424",
   "groups": [
     {
-      "name": "Kadeřnictví",
+      "name": "Valentýn",
       "words": [
-        "HŘEBEN",
-        "NŮŽKY",
-        "FÉN",
-        "ŽEHLIČKA"
+        "RŮŽE",
+        "SRDCE",
+        "BONBONIÉRA",
+        "PŘÁNÍ"
       ]
     },
     {
-      "name": "Kosmetika",
+      "name": "Slavní milenci",
       "words": [
-        "ŘASENKA",
-        "RTĚNKA",
-        "PUDR",
-        "KRÉM"
+        "ROMEO",
+        "JULIE",
+        "TRISTAN",
+        "ISOLDA"
       ]
     },
     {
-      "name": "Účesy",
+      "name": "Básnické formy",
       "words": [
-        "COP",
-        "DRDOL",
-        "MIKÁDO",
-        "OFINA"
+        "SONET",
+        "ÓDA",
+        "ELEGIE",
+        "BALADA"
       ]
     },
     {
-      "name": "Umělá ___",
+      "name": "___ polibek",
       "words": [
-        "INTELIGENCE",
-        "HMOTA",
-        "LEDVINA",
-        "KŮŽE"
+        "FRANCOUZSKÝ",
+        "JIDÁŠŮV",
+        "VZDUŠNÝ",
+        "PRVNÍ"
       ]
     }
   ]

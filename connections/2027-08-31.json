@@ -1,40 +1,40 @@
 {
-  "id": "conn-257",
+  "id": "conn-622",
   "groups": [
     {
-      "name": "Investice",
+      "name": "Na výtvarku",
       "words": [
-        "AKCIE",
-        "DLUHOPIS",
-        "PORTFOLIO",
-        "VÝNOS"
+        "TEMPERY",
+        "VODOVKY",
+        "PALETA",
+        "KELÍMEK"
       ]
     },
     {
-      "name": "Spoření",
+      "name": "Malířky",
       "words": [
-        "ÚČET",
-        "REZERVA",
-        "ÚROK",
-        "VKLAD"
+        "KAHLO",
+        "TOYEN",
+        "MORISOT",
+        "CASSATT"
       ]
     },
     {
-      "name": "Rizika",
+      "name": "Surrealisté",
       "words": [
-        "INFLACE",
-        "PROPAD",
-        "BUBLINA",
-        "ZTRÁTA"
+        "MAGRITTE",
+        "ERNST",
+        "BRETON",
+        "ŠTYRSKÝ"
       ]
     },
     {
-      "name": "Rychlý ___",
+      "name": "Ukrývají TEMP",
       "words": [
-        "ZISK",
-        "SPÁD",
-        "ODBYT",
-        "SLED"
+        "TEMPO",
+        "TEMPLÁŘ",
+        "KONTEMPLACE",
+        "TEMPERAMENT"
       ]
     }
   ]

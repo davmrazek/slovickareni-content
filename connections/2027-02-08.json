@@ -1,40 +1,40 @@
 {
-  "id": "conn-53",
+  "id": "conn-418",
   "groups": [
     {
-      "name": "V divadle",
+      "name": "Dětské nástroje",
       "words": [
-        "JEVIŠTĚ",
-        "OPONA",
-        "HLEDIŠTĚ",
-        "KULISY"
+        "FLÉTNA",
+        "TRIANGL",
+        "BUBÍNEK",
+        "HARMONIKA"
       ]
     },
     {
-      "name": "Filmový štáb",
+      "name": "Čeští sochaři",
       "words": [
-        "KAMERA",
-        "REŽISÉR",
-        "SCÉNÁŘ",
-        "STŘIH"
+        "MYSLBEK",
+        "BÍLEK",
+        "ŠTURSA",
+        "GUTFREUND"
       ]
     },
     {
-      "name": "Noviny",
+      "name": "Halogeny",
       "words": [
-        "TITULEK",
-        "REDAKCE",
-        "SLOUPEK",
-        "INZERÁT"
+        "FLUOR",
+        "CHLOR",
+        "BROM",
+        "JÓD"
       ]
     },
     {
-      "name": "___ role",
+      "name": "Mají stupnici",
       "words": [
-        "HLAVNÍ",
-        "VEDLEJŠÍ",
-        "ŽIVOTNÍ",
-        "DVOJÍ"
+        "TEPLOMĚR",
+        "VÁHA",
+        "PRAVÍTKO",
+        "TACHOMETR"
       ]
     }
   ]

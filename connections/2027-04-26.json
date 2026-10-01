@@ -1,40 +1,40 @@
 {
-  "id": "conn-130",
+  "id": "conn-495",
   "groups": [
     {
-      "name": "Ve vinárně",
+      "name": "Dřevěné dechy",
       "words": [
-        "KARAFA",
-        "SOMMELIER",
-        "DEGUSTACE",
-        "ETIKETA"
+        "KLARINET",
+        "HOBOJ",
+        "FAGOT",
+        "PIKOLA"
       ]
     },
     {
-      "name": "Sýrové prkénko",
+      "name": "Čeští cestovatelé",
       "words": [
-        "NIVA",
-        "HERMELÍN",
-        "EIDAM",
-        "PARMEZÁN"
+        "HANZELKA",
+        "ZIKMUND",
+        "HOLUB",
+        "KOŘENSKÝ"
       ]
     },
     {
-      "name": "Chuťové vjemy",
+      "name": "Sovy",
       "words": [
-        "KYSELOST",
-        "HOŘKOST",
-        "SLANOST",
-        "SLADKOST"
+        "VÝR",
+        "SÝČEK",
+        "PUŠTÍK",
+        "KALOUS"
       ]
     },
     {
-      "name": "Plná ___",
+      "name": "Mají zámek",
       "words": [
-        "CHUŤ",
-        "VŮNĚ",
-        "MOC",
-        "KAPACITA"
+        "DVEŘE",
+        "KUFR",
+        "PUŠKA",
+        "DENÍK"
       ]
     }
   ]

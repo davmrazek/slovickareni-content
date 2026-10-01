@@ -1,40 +1,40 @@
 {
-  "id": "conn-254",
+  "id": "conn-619",
   "groups": [
     {
-      "name": "Pracovna",
+      "name": "U doktora",
       "words": [
-        "STŮL",
-        "KNIHOVNA",
-        "LAMPIČKA",
-        "KŘESLO"
+        "FONENDOSKOP",
+        "RECEPT",
+        "ČEKÁRNA",
+        "KARTA"
       ]
     },
     {
-      "name": "Kancelářské potřeby",
+      "name": "Nemocnice na kraji města",
       "words": [
-        "SEŠÍVAČKA",
-        "DĚROVAČKA",
-        "POŘADAČ",
-        "RAZÍTKO"
+        "SOVA",
+        "ŠTROSMAJER",
+        "BLAŽEJ",
+        "CVACH"
       ]
     },
     {
-      "name": "Porady",
+      "name": "Hormony",
       "words": [
-        "AGENDA",
-        "ZÁPIS",
-        "PROJEKTOR",
-        "TERMÍN"
+        "INZULIN",
+        "ADRENALIN",
+        "KORTIZOL",
+        "SEROTONIN"
       ]
     },
     {
-      "name": "Otevřený ___",
+      "name": "___ sestra",
       "words": [
-        "PROSTOR",
-        "ÚČET",
-        "VZTAH",
-        "ZDROJ"
+        "ZDRAVOTNÍ",
+        "NEVLASTNÍ",
+        "MILOSRDNÁ",
+        "VRCHNÍ"
       ]
     }
   ]

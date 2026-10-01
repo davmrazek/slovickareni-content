@@ -1,40 +1,40 @@
 {
-  "id": "conn-200",
+  "id": "conn-565",
   "groups": [
     {
-      "name": "Na chalupě",
+      "name": "Cyril a Metoděj",
       "words": [
-        "KAMNA",
-        "STUDNA",
-        "SEKERA",
-        "PODKROVÍ"
+        "HLAHOLICE",
+        "MISIE",
+        "SOLUŇ",
+        "VELEHRAD"
       ]
     },
     {
-      "name": "Zavařování",
+      "name": "Abecedy",
       "words": [
-        "OKURKY",
-        "KOMPOT",
-        "MARMELÁDA",
-        "OCET"
+        "LATINKA",
+        "CYRILICE",
+        "KANA",
+        "HANGUL"
       ]
     },
     {
-      "name": "Domácí zvířectvo",
+      "name": "Diecéze",
       "words": [
-        "SLEPICE",
-        "KRÁLÍK",
-        "KOZA",
-        "KACHNA"
+        "OLOMOUC",
+        "BRNO",
+        "HRADEC",
+        "LITOMĚŘICE"
       ]
     },
     {
-      "name": "Venkovská ___",
+      "name": "___ misie",
       "words": [
-        "IDYLA",
-        "ZÁBAVA",
-        "USEDLOST",
-        "ŠKOLA"
+        "VESMÍRNÁ",
+        "DIPLOMATICKÁ",
+        "MÍROVÁ",
+        "NEMOŽNÁ"
       ]
     }
   ]

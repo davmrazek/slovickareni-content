@@ -1,40 +1,40 @@
 {
-  "id": "conn-141",
+  "id": "conn-506",
   "groups": [
     {
-      "name": "Geologické éry",
+      "name": "Do vody",
       "words": [
-        "PRVOHORY",
-        "DRUHOHORY",
-        "TŘETIHORY",
-        "ČTVRTOHORY"
+        "NAFUKOVAČKA",
+        "KRUH",
+        "RUKÁVKY",
+        "PLOUTVE"
       ]
     },
     {
-      "name": "Dinosauři",
+      "name": "Husitské bitvy",
       "words": [
-        "BRONTOSAURUS",
-        "TRICERATOPS",
-        "PTERODAKTYL",
-        "VELOCIRAPTOR"
+        "SUDOMĚŘ",
+        "LIPANY",
+        "DOMAŽLICE",
+        "MALEŠOV"
       ]
     },
     {
-      "name": "Zkameněliny",
+      "name": "Slavní brankáři",
       "words": [
-        "OTISK",
-        "AMONIT",
-        "TRILOBIT",
-        "JANTAR"
+        "HAŠEK",
+        "VOKOUN",
+        "ČECH",
+        "PLÁNIČKA"
       ]
     },
     {
-      "name": "Dávná ___",
+      "name": "Mají duši",
       "words": [
-        "MINULOST",
-        "DOBA",
-        "CIVILIZACE",
-        "VZPOMÍNKA"
+        "MÍČ",
+        "KOLO",
+        "HOUSLE",
+        "ČLOVĚK"
       ]
     }
   ]

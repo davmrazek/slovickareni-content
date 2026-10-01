@@ -1,40 +1,40 @@
 {
-  "id": "conn-24",
+  "id": "conn-389",
   "groups": [
     {
-      "name": "Zimní sporty",
+      "name": "Mléčné nápoje",
       "words": [
-        "LYŽOVÁNÍ",
-        "SNOWBOARD",
-        "BRUSLENÍ",
-        "SÁŇKOVÁNÍ"
+        "KEFÍR",
+        "PODMÁSLÍ",
+        "KAKAO",
+        "LATTE"
       ]
     },
     {
-      "name": "Husí ___",
+      "name": "Lékařské obory",
       "words": [
-        "KŮŽE",
-        "JÁTRA",
-        "BRK",
-        "MASO"
+        "KARDIOLOGIE",
+        "NEUROLOGIE",
+        "ONKOLOGIE",
+        "DERMATOLOGIE"
       ]
     },
     {
-      "name": "Drahé kameny",
+      "name": "Bájní tvorové",
       "words": [
-        "DIAMANT",
-        "RUBÍN",
-        "SMARAGD",
-        "SAFÍR"
+        "JEDNOROŽEC",
+        "FÉNIX",
+        "GRYF",
+        "BAZILIŠEK"
       ]
     },
     {
-      "name": "Těžká ___",
+      "name": "-logie, ale ne obor",
       "words": [
-        "VÁHA",
-        "HLAVA",
-        "PRÁCE",
-        "CHVÍLE"
+        "TRILOGIE",
+        "ANALOGIE",
+        "APOLOGIE",
+        "TETRALOGIE"
       ]
     }
   ]

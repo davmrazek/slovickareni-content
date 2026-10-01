@@ -1,40 +1,40 @@
 {
-  "id": "conn-145",
+  "id": "conn-510",
   "groups": [
     {
-      "name": "Objevné plavby",
+      "name": "Slepice",
       "words": [
-        "KARAVELA",
-        "KOMPAS",
-        "MAPA",
-        "PŘÍSTAV"
+        "VEJCE",
+        "ZOB",
+        "BIDÝLKO",
+        "KVOČNA"
       ]
     },
     {
-      "name": "Piráti",
+      "name": "Autorky detektivek",
       "words": [
-        "POKLAD",
-        "PAPOUŠEK",
-        "ŠAVLE",
-        "VLAJKA"
+        "CHRISTIE",
+        "SAYERSOVÁ",
+        "JAMES",
+        "HIGHSMITHOVÁ"
       ]
     },
     {
-      "name": "Koření z dálek",
+      "name": "Pokerové kombinace",
       "words": [
-        "SKOŘICE",
-        "HŘEBÍČEK",
-        "MUŠKÁT",
-        "VANILKA"
+        "PÁR",
+        "POSTUPKA",
+        "BARVA",
+        "POKER"
       ]
     },
     {
-      "name": "Nový ___",
+      "name": "___ polévka",
       "words": [
-        "SVĚT",
-        "ROK",
-        "ZAČÁTEK",
-        "SOUSED"
+        "SLEPIČÍ",
+        "RYBÍ",
+        "ČESNEKOVÁ",
+        "DRŠŤKOVÁ"
       ]
     }
   ]

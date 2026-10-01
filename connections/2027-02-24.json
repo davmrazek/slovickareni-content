@@ -1,40 +1,40 @@
 {
-  "id": "conn-69",
+  "id": "conn-434",
   "groups": [
     {
-      "name": "Rybářská výbava",
+      "name": "Cukrovinky",
       "words": [
-        "PRUT",
-        "NÁVNADA",
-        "SPLÁVEK",
-        "HÁČEK"
+        "LÍZÁTKO",
+        "KARAMELA",
+        "ŽVÝKAČKA",
+        "PASTILKA"
       ]
     },
     {
-      "name": "Vodní rostliny",
+      "name": "Slavní koně",
       "words": [
-        "LEKNÍN",
-        "RÁKOS",
-        "OROBINEC",
-        "ŘASA"
+        "BUCEFALOS",
+        "PEGAS",
+        "ŠEMÍK",
+        "ROSINANTA"
       ]
     },
     {
-      "name": "Typy krajiny",
+      "name": "Prvky pojmenované po zemích",
       "words": [
-        "LOUKA",
-        "LES",
-        "POLE",
-        "MOKŘAD"
+        "POLONIUM",
+        "FRANCIUM",
+        "GERMANIUM",
+        "AMERICIUM"
       ]
     },
     {
-      "name": "___ síť",
+      "name": "___ hůlka",
       "words": [
-        "RYBÁŘSKÁ",
-        "SOCIÁLNÍ",
-        "ELEKTRICKÁ",
-        "ŽELEZNIČNÍ"
+        "KOUZELNÁ",
+        "DIRIGENTSKÁ",
+        "VYCHÁZKOVÁ",
+        "SLEPECKÁ"
       ]
     }
   ]

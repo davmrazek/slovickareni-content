@@ -1,40 +1,40 @@
 {
-  "id": "conn-195",
+  "id": "conn-560",
   "groups": [
     {
-      "name": "Emoce a nálady",
+      "name": "Konec školy",
       "words": [
-        "RADOST",
-        "SMUTEK",
-        "ÚZKOST",
-        "NADŠENÍ"
+        "VYSVĚDČENÍ",
+        "PRÁZDNINY",
+        "ZNÁMKY",
+        "KYTIČKA"
       ]
     },
     {
-      "name": "Řeč těla",
+      "name": "Ve škole",
       "words": [
-        "ÚSMĚV",
-        "POKRČENÍ",
-        "MRKNUTÍ",
-        "POSTOJ"
+        "ŘEDITEL",
+        "ŠKOLNÍK",
+        "KUCHAŘKA",
+        "TŘÍDNÍ"
       ]
     },
     {
-      "name": "Povahové rysy",
+      "name": "Akademické tituly",
       "words": [
-        "TRPĚLIVOST",
-        "ODVAHA",
-        "PÝCHA",
-        "SKROMNOST"
+        "BAKALÁŘ",
+        "MAGISTR",
+        "INŽENÝR",
+        "DOKTOR"
       ]
     },
     {
-      "name": "Dobrá ___",
+      "name": "Doktor ___",
       "words": [
-        "NÁLADA",
-        "ZPRÁVA",
-        "VŮLE",
-        "PAMĚŤ"
+        "ŽIVAGO",
+        "WATSON",
+        "JEKYLL",
+        "DOLITTLE"
       ]
     }
   ]

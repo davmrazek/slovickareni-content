@@ -1,40 +1,40 @@
 {
-  "id": "conn-2",
+  "id": "conn-367",
   "groups": [
     {
-      "name": "Dny v týdnu",
+      "name": "V ložnici",
       "words": [
-        "PONDĚLÍ",
-        "STŘEDA",
-        "PÁTEK",
-        "NEDĚLE"
+        "POSTEL",
+        "ŠATNÍK",
+        "KOMODA",
+        "TOALETKA"
       ]
     },
     {
-      "name": "Těžký ___",
+      "name": "Jezdí po kolejích",
       "words": [
-        "KOV",
-        "ŽIVOT",
-        "PRŮMYSL",
-        "SPÁNEK"
+        "TRAMVAJ",
+        "VLAK",
+        "METRO",
+        "DREZÍNA"
       ]
     },
     {
-      "name": "Planety",
+      "name": "Čeští hokejisté",
       "words": [
-        "MARS",
-        "VENUŠE",
-        "SATURN",
-        "ZEMĚ"
+        "JÁGR",
+        "HAŠEK",
+        "PASTRŇÁK",
+        "ELIÁŠ"
       ]
     },
     {
-      "name": "Značky aut",
+      "name": "___ kůň",
       "words": [
-        "ŠKODA",
-        "TATRA",
-        "AVIA",
-        "PRAGA"
+        "HOUPACÍ",
+        "TROJSKÝ",
+        "VRANÝ",
+        "TAŽNÝ"
       ]
     }
   ]

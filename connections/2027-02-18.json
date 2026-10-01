@@ -1,40 +1,40 @@
 {
-  "id": "conn-63",
+  "id": "conn-428",
   "groups": [
     {
-      "name": "Na vysoké škole",
+      "name": "Jídla z brambor",
       "words": [
-        "PŘEDNÁŠKA",
-        "ZKOUŠKA",
-        "INDEX",
-        "KOLEJ"
+        "BRAMBORÁK",
+        "HRANOLKY",
+        "KAŠE",
+        "KROKETY"
       ]
     },
     {
-      "name": "V penálu",
+      "name": "Italská města",
       "words": [
-        "TUŽKA",
-        "GUMA",
-        "PRAVÍTKO",
-        "OŘEZÁVÁTKO"
+        "MILÁN",
+        "NEAPOL",
+        "JANOV",
+        "BOLOGNA"
       ]
     },
     {
-      "name": "Zeměpisné pojmy",
+      "name": "Hrdinové večerníčků",
       "words": [
-        "ROVNÍK",
-        "POLEDNÍK",
-        "PÓL",
-        "OBRATNÍK"
+        "RUMCAJS",
+        "KRTEK",
+        "KŘEMÍLEK",
+        "MACH"
       ]
     },
     {
-      "name": "___ tabule",
+      "name": "Kniha ___",
       "words": [
-        "ŠKOLNÍ",
-        "ČOKOLÁDOVÁ",
-        "PERIODICKÁ",
-        "NÁSTĚNNÁ"
+        "DŽUNGLÍ",
+        "REKORDŮ",
+        "ŽALMŮ",
+        "PŘÍSLOVÍ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-37",
+  "id": "conn-402",
   "groups": [
     {
-      "name": "Mláďata",
+      "name": "Na ven v zimě",
       "words": [
-        "ŠTĚNĚ",
-        "KOTĚ",
-        "TELE",
-        "HŘÍBĚ"
+        "BUNDA",
+        "KABÁT",
+        "PARKA",
+        "KOŽICH"
       ]
     },
     {
-      "name": "Vodní sporty",
+      "name": "Průkopníci vesmíru",
       "words": [
-        "VESLOVÁNÍ",
-        "JACHTING",
-        "POTÁPĚNÍ",
-        "SURFING"
+        "GAGARIN",
+        "ARMSTRONG",
+        "REMEK",
+        "TĚREŠKOVOVÁ"
       ]
     },
     {
-      "name": "Osvětlení",
+      "name": "Zámky na Loiře",
       "words": [
-        "LAMPA",
-        "LUSTR",
-        "SVÍČKA",
-        "BATERKA"
+        "CHAMBORD",
+        "CHENONCEAU",
+        "AMBOISE",
+        "BLOIS"
       ]
     },
     {
-      "name": "Slepá ___",
+      "name": "Zanechávají otisk",
       "words": [
-        "ULIČKA",
-        "KOLEJ",
-        "MAPA",
-        "BÁBA"
+        "PRST",
+        "BOTA",
+        "PNEUMATIKA",
+        "RAZÍTKO"
       ]
     }
   ]

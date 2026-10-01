@@ -1,40 +1,40 @@
 {
-  "id": "conn-30",
+  "id": "conn-395",
   "groups": [
     {
-      "name": "Hospodářská zvířata",
+      "name": "Do krmelce",
       "words": [
-        "KRÁVA",
-        "PRASE",
-        "OVCE",
-        "KOZA"
+        "SENO",
+        "SŮL",
+        "KAŠTANY",
+        "ŘEPA"
       ]
     },
     {
-      "name": "Přírodní jevy",
+      "name": "Rychlé šípy",
       "words": [
-        "BLESK",
-        "HROM",
-        "DUHA",
-        "ROSA"
+        "DUŠÍN",
+        "METELKA",
+        "RYCHLONOŽKA",
+        "ČERVENÁČEK"
       ]
     },
     {
-      "name": "Atletika",
+      "name": "Astronomové",
       "words": [
-        "BĚH",
-        "SKOK",
-        "VRH",
-        "HOD"
+        "KOPERNÍK",
+        "GALILEI",
+        "KEPLER",
+        "BRAHE"
       ]
     },
     {
-      "name": "Mléčná ___",
+      "name": "Začínají částí těla",
       "words": [
-        "DRÁHA",
-        "ČOKOLÁDA",
-        "RÝŽE",
-        "POLÉVKA"
+        "KRKONOŠE",
+        "ZUBR",
+        "OKOLÍ",
+        "RETORTA"
       ]
     }
   ]

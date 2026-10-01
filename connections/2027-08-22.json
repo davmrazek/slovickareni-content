@@ -1,40 +1,40 @@
 {
-  "id": "conn-248",
+  "id": "conn-613",
   "groups": [
     {
-      "name": "Textilní továrna",
+      "name": "Zednické",
       "words": [
-        "PŘÁDELNA",
-        "TKALCOVNA",
-        "BARVÍRNA",
-        "CÍVKA"
+        "OMÍTKA",
+        "LEŠENÍ",
+        "CIHLY",
+        "OLOVNICE"
       ]
     },
     {
-      "name": "Šicí stroj",
+      "name": "Barcelona",
       "words": [
-        "JEHLA",
-        "ŠPULKA",
-        "PATKA",
-        "PODAVAČ"
+        "RAMBLA",
+        "SAGRADA",
+        "GÜELL",
+        "MONTJUÏC"
       ]
     },
     {
-      "name": "Střihy a míry",
+      "name": "Hotelové řetězce",
       "words": [
-        "PAS",
-        "BOKY",
-        "HRUDNÍK",
-        "DÉLKA"
+        "HILTON",
+        "MARRIOTT",
+        "HYATT",
+        "RITZ"
       ]
     },
     {
-      "name": "Jemné ___",
+      "name": "Mají klenbu",
       "words": [
-        "PŘÁDLO",
-        "PEČIVO",
-        "VLÁKNO",
-        "CHOVÁNÍ"
+        "CHRÁM",
+        "NOHA",
+        "NEBE",
+        "PATRO"
       ]
     }
   ]

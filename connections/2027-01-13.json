@@ -1,40 +1,40 @@
 {
-  "id": "conn-27",
+  "id": "conn-392",
   "groups": [
     {
-      "name": "Obojživelníci",
+      "name": "Lyže",
       "words": [
-        "ŽÁBA",
-        "ROPUCHA",
-        "MLOK",
-        "ČOLEK"
+        "BĚŽKY",
+        "SJEZDOVKY",
+        "SKIALPY",
+        "FIRNY"
       ]
     },
     {
-      "name": "Kamenný ___",
+      "name": "Alpské průsmyky",
       "words": [
-        "MOST",
-        "VĚK",
-        "VÝRAZ",
-        "OBCHOD"
+        "BRENNER",
+        "SIMPLON",
+        "GOTTHARD",
+        "STELVIO"
       ]
     },
     {
-      "name": "České hrady",
+      "name": "Slavné lodě",
       "words": [
-        "KARLŠTEJN",
-        "BEZDĚZ",
-        "KŘIVOKLÁT",
-        "TROSKY"
+        "TITANIC",
+        "BOUNTY",
+        "VICTORY",
+        "ARGO"
       ]
     },
     {
-      "name": "Sladké pečivo",
+      "name": "Ukrývají řecké písmeno",
       "words": [
-        "BUCHTA",
-        "KOBLIHA",
-        "VĚTRNÍK",
-        "ŠÁTEČEK"
+        "PLANETA",
+        "GAZETA",
+        "GAMAŠE",
+        "PÍSEK"
       ]
     }
   ]

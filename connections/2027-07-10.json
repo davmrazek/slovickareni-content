@@ -1,40 +1,40 @@
 {
-  "id": "conn-205",
+  "id": "conn-570",
   "groups": [
     {
-      "name": "Zmrzlinárna",
+      "name": "Na koupališti",
       "words": [
-        "KORNOUT",
-        "KOPEČEK",
-        "POLEVA",
-        "POHÁR"
+        "PÁREK",
+        "HRANOLKY",
+        "NANUK",
+        "KOFOLA"
       ]
     },
     {
-      "name": "Dortové ozdoby",
+      "name": "Maďarská kuchyně",
       "words": [
-        "MARCIPÁN",
-        "ŠLEHAČKA",
-        "OŘÍŠKY",
-        "POSYP"
+        "PAPRIKÁŠ",
+        "LEČO",
+        "HALÁSZLÉ",
+        "LANGOŠ"
       ]
     },
     {
-      "name": "Čokoláda",
+      "name": "Geometrická tělesa",
       "words": [
-        "HOŘKÁ",
-        "MLÉČNÁ",
-        "BÍLÁ",
-        "PLNĚNÁ"
+        "KRYCHLE",
+        "VÁLEC",
+        "KUŽEL",
+        "JEHLAN"
       ]
     },
     {
-      "name": "Ledová ___",
+      "name": "Mají pěnu",
       "words": [
-        "TŘÍŠŤ",
-        "KÁVA",
-        "DŘEŇ",
-        "KRÁLOVNA"
+        "PIVO",
+        "MOŘE",
+        "CAPPUCCINO",
+        "KOUPEL"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-217",
+  "id": "conn-582",
   "groups": [
     {
-      "name": "Hokejová výstroj",
+      "name": "Stínění oken",
       "words": [
-        "CHRÁNIČ",
-        "HELMA",
-        "RUKAVICE",
-        "MASKA"
+        "ROLETA",
+        "ŽALUZIE",
+        "ZÁVĚS",
+        "MARKÝZA"
       ]
     },
     {
-      "name": "Na ledě",
+      "name": "Španělská města",
       "words": [
-        "BULY",
-        "PŘESILOVKA",
-        "OSLABENÍ",
-        "UVOLNĚNÍ"
+        "SEVILLA",
+        "VALENCIE",
+        "BILBAO",
+        "MÁLAGA"
       ]
     },
     {
-      "name": "Brankář",
+      "name": "Titulní hrdinky oper",
       "words": [
-        "LAPAČKA",
-        "VYRÁŽEČKA",
-        "BETONY",
-        "ZÁKROK"
+        "CARMEN",
+        "TOSCA",
+        "NORMA",
+        "RUSALKA"
       ]
     },
     {
-      "name": "Kozí ___",
+      "name": "___ opona",
       "words": [
-        "BRADKA",
-        "SÝR",
-        "MLÉKO",
-        "CHLÍVEK"
+        "ŽELEZNÁ",
+        "DIVADELNÍ",
+        "DEŠŤOVÁ",
+        "KOUŘOVÁ"
       ]
     }
   ]

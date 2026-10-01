@@ -1,40 +1,40 @@
 {
-  "id": "conn-41",
+  "id": "conn-406",
   "groups": [
     {
-      "name": "Houby",
+      "name": "Pod čím se spí",
       "words": [
-        "HŘIB",
-        "KOZÁK",
-        "LIŠKA",
-        "ŽAMPION"
+        "DEKA",
+        "PEŘINA",
+        "PLÉD",
+        "SPACÁK"
       ]
     },
     {
-      "name": "Části košile",
+      "name": "Formanovy filmy",
       "words": [
-        "LÍMEC",
-        "MANŽETA",
-        "KNOFLÍK",
-        "RUKÁV"
+        "AMADEUS",
+        "VALMONT",
+        "RAGTIME",
+        "VLASY"
       ]
     },
     {
-      "name": "Vodní plochy",
+      "name": "Evropská jezera",
       "words": [
-        "JEZERO",
-        "RYBNÍK",
-        "PŘEHRADA",
-        "TŮŇ"
+        "BALATON",
+        "GARDA",
+        "COMO",
+        "BLED"
       ]
     },
     {
-      "name": "___ ruka",
+      "name": "Mají kořen",
       "words": [
-        "PRAVÁ",
-        "ŠTĚDRÁ",
-        "PEVNÁ",
-        "VOLNÁ"
+        "ZUB",
+        "SLOVO",
+        "ROVNICE",
+        "STROM"
       ]
     }
   ]

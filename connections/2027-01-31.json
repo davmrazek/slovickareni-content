@@ -1,40 +1,40 @@
 {
-  "id": "conn-45",
+  "id": "conn-410",
   "groups": [
     {
-      "name": "Slovenská města",
+      "name": "Jídla se sýrem",
       "words": [
-        "BRATISLAVA",
-        "KOŠICE",
-        "ŽILINA",
-        "NITRA"
+        "FONDUE",
+        "RACLETTE",
+        "SMAŽÁK",
+        "PIZZA"
       ]
     },
     {
-      "name": "Pivovarnictví",
+      "name": "Švýcarská města",
       "words": [
-        "CHMEL",
-        "SLAD",
-        "KVASNICE",
-        "SUD"
+        "CURYCH",
+        "ŽENEVA",
+        "BERN",
+        "BASILEJ"
       ]
     },
     {
-      "name": "Karetní hry",
+      "name": "Hudební intervaly",
       "words": [
-        "MARIÁŠ",
-        "PRŠÍ",
-        "POKER",
-        "CANASTA"
+        "PRIMA",
+        "SEKUNDA",
+        "TERCIE",
+        "KVARTA"
       ]
     },
     {
-      "name": "___ voda",
+      "name": "V kuchyni i v těle",
       "words": [
-        "PITNÁ",
-        "MINERÁLNÍ",
-        "STOJATÁ",
-        "SVĚCENÁ"
+        "PÁNEV",
+        "LOPATKA",
+        "ČÉŠKA",
+        "KLADÍVKO"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-268",
+  "id": "conn-633",
   "groups": [
     {
-      "name": "Jazykové zkoušky",
+      "name": "Hon",
       "words": [
-        "POSLECH",
-        "SLOVÍČKA",
-        "GRAMATIKA",
-        "KONVERZACE"
+        "FLINTA",
+        "NAHÁNĚČI",
+        "TROFEJ",
+        "POSED"
       ]
     },
     {
-      "name": "Cizí jazyky",
+      "name": "Myslivecká mluva",
       "words": [
-        "ANGLIČTINA",
-        "NĚMČINA",
-        "ŠPANĚLŠTINA",
-        "ITALŠTINA"
+        "SLUCHY",
+        "SVĚTLA",
+        "BĚHY",
+        "KELCE"
       ]
     },
     {
-      "name": "Studium v zahraničí",
+      "name": "Lovečtí psi",
       "words": [
-        "STÁŽ",
-        "ERASMUS",
-        "KOLEJ",
-        "NOSTRIFIKACE"
+        "JEZEVČÍK",
+        "OHAŘ",
+        "BRAK",
+        "BARVÁŘ"
       ]
     },
     {
-      "name": "Cizí ___",
+      "name": "Mají světlomety",
       "words": [
-        "SLOVO",
-        "STÁT",
-        "KAPSA",
-        "VINA"
+        "AUTO",
+        "STADION",
+        "MAJÁK",
+        "LOKOMOTIVA"
       ]
     }
   ]

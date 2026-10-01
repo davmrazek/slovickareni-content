@@ -1,40 +1,40 @@
 {
-  "id": "conn-222",
+  "id": "conn-587",
   "groups": [
     {
-      "name": "Zahradní slavnost",
+      "name": "Vůně léta",
       "words": [
-        "GRIL",
-        "LAMPIONY",
-        "LAVICE",
-        "HUDBA"
+        "SENO",
+        "LÍPA",
+        "LEVANDULE",
+        "JASMÍN"
       ]
     },
     {
-      "name": "Ohňostroj",
+      "name": "Módní domy",
       "words": [
-        "RAKETA",
-        "JISKRY",
-        "PRSKAVKA",
-        "VÝBUCH"
+        "CHANEL",
+        "DIOR",
+        "GUCCI",
+        "ARMANI"
       ]
     },
     {
-      "name": "Letní festival",
+      "name": "Barvy koní",
       "words": [
-        "STAGE",
-        "KEMP",
-        "NÁRAMEK",
-        "HEADLINER"
+        "VRANÍK",
+        "BĚLOUŠ",
+        "HNĚDÁK",
+        "RYZÁK"
       ]
     },
     {
-      "name": "Ohnivá ___",
+      "name": "___ čaj",
       "words": [
-        "SHOW",
-        "KOULE",
-        "POVAHA",
-        "ZKOUŠKA"
+        "JASMÍNOVÝ",
+        "LEDOVÝ",
+        "ZELENÝ",
+        "MÁTOVÝ"
       ]
     }
   ]

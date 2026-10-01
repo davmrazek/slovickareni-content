@@ -1,40 +1,40 @@
 {
-  "id": "conn-210",
+  "id": "conn-575",
   "groups": [
     {
-      "name": "Hotelové služby",
+      "name": "Hotdog",
       "words": [
-        "RECEPCE",
-        "POKOJSKÁ",
-        "SNÍDANĚ",
-        "WELLNESS"
+        "ROHLÍK",
+        "PÁREK",
+        "CIBULKA",
+        "RELISH"
       ]
     },
     {
-      "name": "Typy pokojů",
+      "name": "Rumunská města",
       "words": [
-        "JEDNOLŮŽKOVÝ",
-        "APARTMÁ",
-        "DVOULŮŽKOVÝ",
-        "STUDIO"
+        "BUKUREŠŤ",
+        "KLUŽ",
+        "TEMEŠVÁR",
+        "JASY"
       ]
     },
     {
-      "name": "Na dovolené",
+      "name": "Cyklistické závody",
       "words": [
-        "VÝLET",
-        "PRŮVODCE",
-        "PLÁŽ",
-        "SUVENÝR"
+        "GIRO",
+        "VUELTA",
+        "TOUR",
+        "ROUBAIX"
       ]
     },
     {
-      "name": "Volné ___",
+      "name": "___ hořčice",
       "words": [
-        "MÍSTO",
-        "POLE",
-        "SDRUŽENÍ",
-        "PRŮCHOD"
+        "DIJONSKÁ",
+        "KREMŽSKÁ",
+        "SLADKÁ",
+        "OSTRÁ"
       ]
     }
   ]

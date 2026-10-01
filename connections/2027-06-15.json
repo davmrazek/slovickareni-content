@@ -1,40 +1,40 @@
 {
-  "id": "conn-180",
+  "id": "conn-545",
   "groups": [
     {
-      "name": "Poušť",
+      "name": "Na rybníku",
       "words": [
-        "OÁZA",
-        "DUNA",
-        "KARAVANA",
-        "VELBLOUD"
+        "ŽÁBA",
+        "VÁŽKA",
+        "LEKNÍN",
+        "RÁKOS"
       ]
     },
     {
-      "name": "Pouštní zvířata",
+      "name": "Nizozemská města",
       "words": [
-        "ŠKORPION",
-        "FENEK",
-        "VARAN",
-        "TARANTULE"
+        "AMSTERDAM",
+        "UTRECHT",
+        "HAAG",
+        "DELFT"
       ]
     },
     {
-      "name": "Sucho a horko",
+      "name": "Queen",
       "words": [
-        "ŽÍZEŇ",
-        "STÍN",
-        "SPÁLENINA",
-        "ÚPAL"
+        "MERCURY",
+        "MAY",
+        "TAYLOR",
+        "DEACON"
       ]
     },
     {
-      "name": "Písečná ___",
+      "name": "___ muž",
       "words": [
-        "BOUŘE",
-        "PLÁŽ",
-        "KOSA",
-        "STEZKA"
+        "SLAMĚNÝ",
+        "SNĚŽNÝ",
+        "ŽELEZNÝ",
+        "PAVOUČÍ"
       ]
     }
   ]

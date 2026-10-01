@@ -1,40 +1,40 @@
 {
-  "id": "conn-6",
+  "id": "conn-371",
   "groups": [
     {
-      "name": "Části těla",
+      "name": "Horké nápoje v zimě",
       "words": [
-        "RUKA",
-        "NOHA",
-        "HLAVA",
-        "RAMENO"
+        "ČAJ",
+        "GROG",
+        "PUNČ",
+        "SVAŘÁK"
       ]
     },
     {
-      "name": "Počasí",
+      "name": "Lyžování",
       "words": [
-        "DÉŠŤ",
-        "SNÍH",
-        "MLHA",
-        "VÍTR"
+        "SLALOM",
+        "SJEZD",
+        "BIATLON",
+        "SKIKROS"
       ]
     },
     {
-      "name": "Stromy",
+      "name": "Mořské průlivy",
       "words": [
-        "DUB",
-        "BŘÍZA",
-        "SMRK",
-        "LÍPA"
+        "BOSPOR",
+        "GIBRALTAR",
+        "DARDANELY",
+        "SKAGERRAK"
       ]
     },
     {
-      "name": "___ pole",
+      "name": "Ukrývají nápoj",
       "words": [
-        "MINOVÉ",
-        "MAGNETICKÉ",
-        "BRAMBOROVÉ",
-        "ZORNÉ"
+        "PUNČOCHA",
+        "RUMUNSKO",
+        "PIVOŇKA",
+        "ORIGINÁL"
       ]
     }
   ]

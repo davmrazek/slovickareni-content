@@ -1,40 +1,40 @@
 {
-  "id": "conn-144",
+  "id": "conn-509",
   "groups": [
     {
-      "name": "Klášter",
+      "name": "Výbava fotbalisty",
       "words": [
-        "OPAT",
-        "REFEKTÁŘ",
-        "AMBIT",
-        "CELA"
+        "KOPAČKY",
+        "CHRÁNIČE",
+        "DRES",
+        "ŠTULPNY"
       ]
     },
     {
-      "name": "Rukopisy",
+      "name": "Moravské fotbalové kluby",
       "words": [
-        "PERGAMEN",
-        "INICIÁLA",
-        "BRK",
-        "ILUMINACE"
+        "BANÍK",
+        "SIGMA",
+        "ZBROJOVKA",
+        "ZLÍN"
       ]
     },
     {
-      "name": "Církevní hodnosti",
+      "name": "Statistické veličiny",
       "words": [
-        "BISKUP",
-        "KARDINÁL",
-        "FARÁŘ",
-        "JÁHEN"
+        "PRŮMĚR",
+        "MEDIÁN",
+        "MODUS",
+        "ROZPTYL"
       ]
     },
     {
-      "name": "Tichý ___",
+      "name": "Mají průměr",
       "words": [
-        "OCEÁN",
-        "SPOLEČNÍK",
-        "SOUHLAS",
-        "HLAS"
+        "KRUH",
+        "KOULE",
+        "KOLO",
+        "POTRUBÍ"
       ]
     }
   ]

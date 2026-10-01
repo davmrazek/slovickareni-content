@@ -1,40 +1,40 @@
 {
-  "id": "conn-33",
+  "id": "conn-398",
   "groups": [
     {
-      "name": "Africká zvířata",
+      "name": "Topení a teplo",
       "words": [
-        "SLON",
-        "ŽIRAFA",
-        "ZEBRA",
-        "NOSOROŽEC"
+        "KAMNA",
+        "KRB",
+        "RADIÁTOR",
+        "KOTEL"
       ]
     },
     {
-      "name": "Slané pochutiny",
+      "name": "Dvořákovy opery",
       "words": [
-        "CHIPSY",
-        "PRECLÍK",
-        "TYČINKY",
-        "KŘUPKY"
+        "RUSALKA",
+        "JAKOBÍN",
+        "ALFRED",
+        "DIMITRIJ"
       ]
     },
     {
-      "name": "Části knihy",
+      "name": "Kanadská města",
       "words": [
-        "OBSAH",
-        "KAPITOLA",
-        "STRANA",
-        "OBÁLKA"
+        "TORONTO",
+        "VANCOUVER",
+        "MONTREAL",
+        "OTTAWA"
       ]
     },
     {
-      "name": "Velký ___",
+      "name": "Také ženská jména",
       "words": [
-        "VŮZ",
-        "TŘESK",
-        "PÁTEK",
-        "BRATR"
+        "VĚRA",
+        "NADĚJE",
+        "VIOLA",
+        "MÍLA"
       ]
     }
   ]

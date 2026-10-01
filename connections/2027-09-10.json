@@ -1,40 +1,40 @@
 {
-  "id": "conn-267",
+  "id": "conn-632",
   "groups": [
     {
-      "name": "Maturita",
+      "name": "Podzimní počasí",
       "words": [
-        "OTÁZKA",
-        "POTÍTKO",
-        "KOMISE",
-        "VYSVĚDČENÍ"
+        "MLHA",
+        "PLÍSKANICE",
+        "VICHŘICE",
+        "SYCHRAVO"
       ]
     },
     {
-      "name": "Vysoká škola",
+      "name": "Dostojevskij",
       "words": [
-        "PŘEDNÁŠKA",
-        "SEMINÁŘ",
-        "INDEX",
-        "KREDIT"
+        "IDIOT",
+        "BĚSI",
+        "HRÁČ",
+        "VÝROSTEK"
       ]
     },
     {
-      "name": "Diplomová práce",
+      "name": "Anna Karenina",
       "words": [
-        "TÉMA",
-        "VEDOUCÍ",
-        "OBHAJOBA",
-        "CITACE"
+        "ANNA",
+        "VRONSKIJ",
+        "LEVIN",
+        "KARENIN"
       ]
     },
     {
-      "name": "Zkušební ___",
+      "name": "___ syndrom",
       "words": [
-        "OBDOBÍ",
-        "PROVOZ",
-        "JÍZDA",
-        "VZOREK"
+        "STOCKHOLMSKÝ",
+        "DOWNŮV",
+        "KARPÁLNÍ",
+        "TOURETTŮV"
       ]
     }
   ]

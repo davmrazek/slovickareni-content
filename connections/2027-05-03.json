@@ -1,40 +1,40 @@
 {
-  "id": "conn-137",
+  "id": "conn-502",
   "groups": [
     {
-      "name": "Meteorologické přístroje",
+      "name": "Proti slunci",
       "words": [
-        "TEPLOMĚR",
-        "ANEMOMETR",
-        "SRÁŽKOMĚR",
-        "VLHKOMĚR"
+        "KRÉM",
+        "BRÝLE",
+        "KLOBOUK",
+        "STÍN"
       ]
     },
     {
-      "name": "Sněhové jevy",
+      "name": "Španělští malíři",
       "words": [
-        "VÁNICE",
-        "ZÁVĚJ",
-        "JINOVATKA",
-        "POPRAŠEK"
+        "GOYA",
+        "VELÁZQUEZ",
+        "MIRÓ",
+        "DALÍ"
       ]
     },
     {
-      "name": "Zimní údržba",
+      "name": "Druhy próz",
       "words": [
-        "POSYP",
-        "PLUH",
-        "ŠKRABKA",
-        "LOPATA"
+        "ROMÁN",
+        "NOVELA",
+        "POVÍDKA",
+        "FEJETON"
       ]
     },
     {
-      "name": "Bílá ___",
+      "name": "___ brýle",
       "words": [
-        "ZIMA",
-        "VLAJKA",
-        "HŮLKA",
-        "KNIHA"
+        "POTÁPĚČSKÉ",
+        "LYŽAŘSKÉ",
+        "RŮŽOVÉ",
+        "SVÁŘEČSKÉ"
       ]
     }
   ]

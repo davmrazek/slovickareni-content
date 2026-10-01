@@ -1,40 +1,40 @@
 {
-  "id": "conn-36",
+  "id": "conn-401",
   "groups": [
     {
-      "name": "Pavoukovci",
+      "name": "Hry na dvorku",
       "words": [
-        "PAVOUK",
-        "ŠTÍR",
-        "SEKÁČ",
-        "KLÍŠTĚ"
+        "ŠKOLKA",
+        "PANÁK",
+        "SCHOVÁVANÁ",
+        "BABA"
       ]
     },
     {
-      "name": "Jarní ___",
+      "name": "Brněnské čtvrti",
       "words": [
-        "ÚNAVA",
-        "ÚKLID",
-        "DEŠTĚ",
-        "PRÁZDNINY"
+        "ŽABOVŘESKY",
+        "BYSTRC",
+        "LÍŠEŇ",
+        "BOHUNICE"
       ]
     },
     {
-      "name": "Pohoří",
+      "name": "Vzácné plyny",
       "words": [
-        "ALPY",
-        "HIMÁLAJ",
-        "ANDY",
-        "KARPATY"
+        "NEON",
+        "ARGON",
+        "KRYPTON",
+        "XENON"
       ]
     },
     {
-      "name": "Košťálová zelenina",
+      "name": "___ efekt",
       "words": [
-        "KVĚTÁK",
-        "BROKOLICE",
-        "KAPUSTA",
-        "KEDLUBEN"
+        "SKLENÍKOVÝ",
+        "DOMINOVÝ",
+        "MOTÝLÍ",
+        "JOJO"
       ]
     }
   ]

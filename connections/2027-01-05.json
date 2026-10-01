@@ -1,40 +1,40 @@
 {
-  "id": "conn-19",
+  "id": "conn-384",
   "groups": [
     {
-      "name": "Jazyky",
+      "name": "Plody stromů",
       "words": [
-        "ČEŠTINA",
-        "NĚMČINA",
-        "ANGLIČTINA",
-        "FRANCOUZŠTINA"
+        "ŽALUD",
+        "KAŠTAN",
+        "ŠIŠKA",
+        "BUKVICE"
       ]
     },
     {
-      "name": "Sladkosti",
+      "name": "Výrobci letadel",
       "words": [
-        "ČOKOLÁDA",
-        "BONBON",
-        "ZMRZLINA",
-        "KOLÁČ"
+        "BOEING",
+        "AIRBUS",
+        "EMBRAER",
+        "BOMBARDIER"
       ]
     },
     {
-      "name": "Živly",
+      "name": "Filozofové",
       "words": [
-        "OHEŇ",
-        "VODA",
-        "ZEMĚ",
-        "VZDUCH"
+        "SOKRATES",
+        "PLATÓN",
+        "KANT",
+        "NIETZSCHE"
       ]
     },
     {
-      "name": "Koňská ___",
+      "name": "___ věž",
       "words": [
-        "SÍLA",
-        "DÁVKA",
-        "HLAVA",
-        "HŘÍVA"
+        "EIFFELOVA",
+        "ŠIKMÁ",
+        "ŽIŽKOVSKÁ",
+        "PETŘÍNSKÁ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-199",
+  "id": "conn-564",
   "groups": [
     {
-      "name": "Bydlení",
+      "name": "Cyklistické oblečení",
       "words": [
-        "NÁJEM",
-        "HYPOTÉKA",
-        "STĚHOVÁNÍ",
-        "KOLAUDACE"
+        "DRES",
+        "CYKLOKALHOTY",
+        "TRETRY",
+        "NÁVLEKY"
       ]
     },
     {
-      "name": "Byt",
+      "name": "Francouzské řeky",
       "words": [
-        "PŘEDSÍŇ",
-        "BALKON",
-        "KOMORA",
-        "SKLEP"
+        "SEINA",
+        "LOIRA",
+        "RHÔNA",
+        "GARONNA"
       ]
     },
     {
-      "name": "Řemeslníci v domě",
+      "name": "Antičtí dějepisci",
       "words": [
-        "INSTALATÉR",
-        "ELEKTRIKÁŘ",
-        "MALÍŘ",
-        "OBKLADAČ"
+        "HÉRODOTOS",
+        "THÚKYDIDÉS",
+        "TACITUS",
+        "LIVIUS"
       ]
     },
     {
-      "name": "Otevřené ___",
+      "name": "Trikoty na Tour",
       "words": [
-        "DVEŘE",
-        "MOŘE",
-        "KARTY",
-        "SRDCE"
+        "ŽLUTÝ",
+        "ZELENÝ",
+        "PUNTÍKOVANÝ",
+        "BÍLÝ"
       ]
     }
   ]

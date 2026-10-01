@@ -1,40 +1,40 @@
 {
-  "id": "conn-98",
+  "id": "conn-463",
   "groups": [
     {
-      "name": "Hodinářství",
+      "name": "Příbory",
       "words": [
-        "RUČIČKA",
-        "PÉRO",
-        "SETRVAČNÍK",
-        "CIFERNÍK"
+        "NŮŽ",
+        "VIDLIČKA",
+        "LŽÍCE",
+        "LŽIČKA"
       ]
     },
     {
-      "name": "Měření času",
+      "name": "Horolezci",
       "words": [
-        "BUDÍK",
-        "ORLOJ",
-        "STOPKY",
-        "KYVADLO"
+        "MESSNER",
+        "HILLARY",
+        "NORGAY",
+        "RAKONCAJ"
       ]
     },
     {
-      "name": "Jemná mechanika",
+      "name": "Slavné diamanty",
       "words": [
-        "PINZETA",
-        "LUPA",
-        "ŠROUBEK",
-        "OZUBENÍ"
+        "KOHINOOR",
+        "HOPE",
+        "CULLINAN",
+        "REGENT"
       ]
     },
     {
-      "name": "Přesný jako ___",
+      "name": "Mají čepel",
       "words": [
-        "HODINKY",
-        "STROJ",
-        "LASER",
-        "VÝPOČET"
+        "SEKERA",
+        "KOSA",
+        "BRUSLE",
+        "MEČ"
       ]
     }
   ]

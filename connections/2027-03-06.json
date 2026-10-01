@@ -1,40 +1,40 @@
 {
-  "id": "conn-79",
+  "id": "conn-444",
   "groups": [
     {
-      "name": "Svatba",
+      "name": "V aktovce",
       "words": [
-        "PRSTEN",
-        "KYTICE",
-        "ŽENICH",
-        "NEVĚSTA"
+        "SEŠIT",
+        "UČEBNICE",
+        "PENÁL",
+        "SVAČINA"
       ]
     },
     {
-      "name": "Oslava",
+      "name": "Obory biologie",
       "words": [
-        "DORT",
-        "SVÍČKY",
-        "PŘÍPITEK",
-        "DÁREK"
+        "BOTANIKA",
+        "ZOOLOGIE",
+        "GENETIKA",
+        "EKOLOGIE"
       ]
     },
     {
-      "name": "U moře",
+      "name": "Slovenské řeky",
       "words": [
-        "PLÁŽ",
-        "SLUNEČNÍK",
-        "LEHÁTKO",
-        "PLAVKY"
+        "VÁH",
+        "HRON",
+        "NITRA",
+        "ORAVA"
       ]
     },
     {
-      "name": "Šťastná ___",
+      "name": "Mají dvě strany",
       "words": [
-        "HVĚZDA",
-        "NÁHODA",
-        "SEDMIČKA",
-        "VOLBA"
+        "MINCE",
+        "MEDAILE",
+        "LIST",
+        "SPOR"
       ]
     }
   ]

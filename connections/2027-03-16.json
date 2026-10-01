@@ -1,40 +1,40 @@
 {
-  "id": "conn-89",
+  "id": "conn-454",
   "groups": [
     {
-      "name": "Ve vinařství",
+      "name": "K obleku",
       "words": [
-        "RÉVA",
-        "SUD",
-        "LIS",
-        "SKLEP"
+        "MOTÝLEK",
+        "KAPESNÍČEK",
+        "ŠLE",
+        "MANŽETY"
       ]
     },
     {
-      "name": "Odrůdy vína",
+      "name": "Ostrovy Pacifiku",
       "words": [
-        "RYZLINK",
-        "VELTLÍN",
-        "FRANKOVKA",
-        "TRAMÍN"
+        "TAHITI",
+        "FIDŽI",
+        "SAMOA",
+        "TONGA"
       ]
     },
     {
-      "name": "Chuť vína",
+      "name": "Bradavické koleje",
       "words": [
-        "SUCHÉ",
-        "POLOSUCHÉ",
-        "POLOSLADKÉ",
-        "SLADKÉ"
+        "NEBELVÍR",
+        "ZMIJOZEL",
+        "HAVRASPÁR",
+        "MRZIMOR"
       ]
     },
     {
-      "name": "Zralé ___",
+      "name": "Ukrývají domácí zvíře",
       "words": [
-        "HROZNY",
-        "ROZHODNUTÍ",
-        "OBILÍ",
-        "OVOCE"
+        "KRAVATA",
+        "HUSAR",
+        "KOZAČKA",
+        "TELEFON"
       ]
     }
   ]

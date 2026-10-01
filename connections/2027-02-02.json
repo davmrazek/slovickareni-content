@@ -1,40 +1,40 @@
 {
-  "id": "conn-47",
+  "id": "conn-412",
   "groups": [
     {
-      "name": "Řemesla",
+      "name": "Svíčka",
       "words": [
-        "TESAŘ",
-        "KOVÁŘ",
-        "ZEDNÍK",
-        "TRUHLÁŘ"
+        "KNOT",
+        "VOSK",
+        "PLAMEN",
+        "SVÍCEN"
       ]
     },
     {
-      "name": "Stavební materiály",
+      "name": "Čeští malíři",
       "words": [
-        "DŘEVO",
-        "BETON",
-        "SKLO",
-        "OCEL"
+        "MÁNES",
+        "ALEŠ",
+        "ŠPÁLA",
+        "KUPKA"
       ]
     },
     {
-      "name": "Části střechy",
+      "name": "Karibské ostrovy",
       "words": [
-        "TAŠKA",
-        "KROV",
-        "OKAP",
-        "HŘEBEN"
+        "KUBA",
+        "JAMAJKA",
+        "HAITI",
+        "BARBADOS"
       ]
     },
     {
-      "name": "___ zeď",
+      "name": "___ hodiny",
       "words": [
-        "ČÍNSKÁ",
-        "BERLÍNSKÁ",
-        "NOSNÁ",
-        "OPĚRNÁ"
+        "PŘESÝPACÍ",
+        "SLUNEČNÍ",
+        "KUKAČKOVÉ",
+        "NÁSTĚNNÉ"
       ]
     }
   ]

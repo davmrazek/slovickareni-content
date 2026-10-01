@@ -1,40 +1,40 @@
 {
-  "id": "conn-132",
+  "id": "conn-497",
   "groups": [
     {
-      "name": "Ložní prádlo",
+      "name": "K pivu",
       "words": [
-        "POVLAK",
-        "PROSTĚRADLO",
-        "PEŘINA",
-        "POLŠTÁŘ"
+        "PRECLÍK",
+        "TYČINKY",
+        "ARAŠÍDY",
+        "UTOPENEC"
       ]
     },
     {
-      "name": "Spánkové fáze",
+      "name": "Slavní tenoři",
       "words": [
-        "USÍNÁNÍ",
-        "SNĚNÍ",
-        "PROBUZENÍ",
-        "CHRÁPÁNÍ"
+        "PAVAROTTI",
+        "DOMINGO",
+        "CARRERAS",
+        "CARUSO"
       ]
     },
     {
-      "name": "Noční obloha",
+      "name": "Tvary těstovin",
       "words": [
-        "MĚSÍC",
-        "HVĚZDA",
-        "KOMETA",
-        "PLANETA"
+        "PENNE",
+        "FUSILLI",
+        "RIGATONI",
+        "FARFALLE"
       ]
     },
     {
-      "name": "Zdravý ___",
+      "name": "___ bar",
       "words": [
-        "SPÁNEK",
-        "ROZUM",
-        "VZDUCH",
-        "ÚSUDEK"
+        "NOČNÍ",
+        "SALÁTOVÝ",
+        "HOTELOVÝ",
+        "MLÉČNÝ"
       ]
     }
   ]

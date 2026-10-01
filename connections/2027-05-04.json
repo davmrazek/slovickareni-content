@@ -1,40 +1,40 @@
 {
-  "id": "conn-138",
+  "id": "conn-503",
   "groups": [
     {
-      "name": "Bouřka",
+      "name": "Mražené dobroty",
       "words": [
-        "BLESK",
-        "HROM",
-        "PRŮTRŽ",
-        "KROUPY"
+        "NANUK",
+        "SORBET",
+        "TŘÍŠŤ",
+        "SEMIFREDDO"
       ]
     },
     {
-      "name": "Elektrické veličiny",
+      "name": "Paříž",
       "words": [
-        "NAPĚTÍ",
-        "PROUD",
-        "ODPOR",
-        "VÝKON"
+        "MONTMARTRE",
+        "INVALIDOVNA",
+        "PANTHEON",
+        "BASTILA"
       ]
     },
     {
-      "name": "V rozvaděči",
+      "name": "Čeští prozaici 20. století",
       "words": [
-        "JISTIČ",
-        "SVORKA",
-        "KABEL",
-        "POJISTKA"
+        "HRABAL",
+        "KUNDERA",
+        "ŠKVORECKÝ",
+        "KLÍMA"
       ]
     },
     {
-      "name": "Krátké ___",
+      "name": "___ led",
       "words": [
-        "SPOJENÍ",
-        "VLASY",
-        "SLOVO",
-        "KALHOTY"
+        "SUCHÝ",
+        "UMĚLÝ",
+        "ŠELFOVÝ",
+        "TENKÝ"
       ]
     }
   ]

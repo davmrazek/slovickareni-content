@@ -1,40 +1,40 @@
 {
-  "id": "conn-253",
+  "id": "conn-618",
   "groups": [
     {
-      "name": "V koupelně",
+      "name": "Bramborová sklizeň",
       "words": [
-        "UMYVADLO",
-        "KOUT",
-        "OBKLAD",
-        "RUČNÍK"
+        "MOTYKA",
+        "KOŠÍKY",
+        "NAŤ",
+        "SKLEP"
       ]
     },
     {
-      "name": "Hygiena",
+      "name": "Díla Dvořáka",
       "words": [
-        "MÝDLO",
-        "ŽÍNKA",
-        "KARTÁČEK",
-        "DEODORANT"
+        "HUMORESKA",
+        "DUMKY",
+        "RUSALKA",
+        "REKVIEM"
       ]
     },
     {
-      "name": "Instalatérské práce",
+      "name": "Bratislavské čtvrti",
       "words": [
-        "SIFON",
-        "BATERIE",
-        "TĚSNĚNÍ",
-        "ODPAD"
+        "PETRŽALKA",
+        "RAČA",
+        "DEVÍN",
+        "RUŽINOV"
       ]
     },
     {
-      "name": "Teplá ___",
+      "name": "Mají hlízy",
       "words": [
-        "VODA",
-        "DEKA",
-        "BARVA",
-        "PŘEDPOVĚĎ"
+        "JIŘINA",
+        "TOPINAMBUR",
+        "BATÁT",
+        "BRAMBORY"
       ]
     }
   ]

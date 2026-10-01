@@ -1,40 +1,40 @@
 {
-  "id": "conn-65",
+  "id": "conn-430",
   "groups": [
     {
-      "name": "Australská zvířata",
+      "name": "Na namazání",
       "words": [
-        "KLOKAN",
-        "KOALA",
-        "EMU",
-        "VOMBAT"
+        "MÁSLO",
+        "DŽEM",
+        "MED",
+        "PAŠTIKA"
       ]
     },
     {
-      "name": "Polární zvířata",
+      "name": "Pohoří Evropy",
       "words": [
-        "TULEŇ",
-        "MROŽ",
-        "SOB",
-        "LIŠKA"
+        "ALPY",
+        "PYRENEJE",
+        "KARPATY",
+        "APENINY"
       ]
     },
     {
-      "name": "Horská zvířata",
+      "name": "Autoři sci-fi",
       "words": [
-        "KAMZÍK",
-        "SVIŠŤ",
-        "KOZOROŽEC",
-        "ORLOSUP"
+        "ASIMOV",
+        "BRADBURY",
+        "CLARKE",
+        "HERBERT"
       ]
     },
     {
-      "name": "Velká ___",
+      "name": "___ kost",
       "words": [
-        "VODA",
-        "CENA",
-        "PÍSMENA",
-        "RYBA"
+        "SLONOVÁ",
+        "STEHENNÍ",
+        "KLÍČNÍ",
+        "SPÁNKOVÁ"
       ]
     }
   ]

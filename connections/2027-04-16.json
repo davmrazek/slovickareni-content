@@ -1,40 +1,40 @@
 {
-  "id": "conn-120",
+  "id": "conn-485",
   "groups": [
     {
-      "name": "Na úřadě",
+      "name": "Do práce",
       "words": [
-        "RAZÍTKO",
-        "FORMULÁŘ",
-        "PŘEPÁŽKA",
-        "LHŮTA"
+        "AUTOBUS",
+        "VLAK",
+        "PĚŠKY",
+        "TRAMVAJ"
       ]
     },
     {
-      "name": "Doklady",
+      "name": "Hollywoodské legendy",
       "words": [
-        "OBČANKA",
-        "PAS",
-        "ŘIDIČÁK",
-        "VÝPIS"
+        "MONROE",
+        "CHAPLIN",
+        "BOGART",
+        "HEPBURN"
       ]
     },
     {
-      "name": "Volby",
+      "name": "Kanárské ostrovy",
       "words": [
-        "URNA",
-        "LÍSTEK",
-        "KANDIDÁT",
-        "OKRSEK"
+        "TENERIFE",
+        "LANZAROTE",
+        "FUERTEVENTURA",
+        "GOMERA"
       ]
     },
     {
-      "name": "Bílé ___",
+      "name": "Mají řidítka",
       "words": [
-        "MÍSTO",
-        "VÍNO",
-        "MASO",
-        "ZLATO"
+        "KOLO",
+        "KOLOBĚŽKA",
+        "MOTORKA",
+        "TŘÍKOLKA"
       ]
     }
   ]

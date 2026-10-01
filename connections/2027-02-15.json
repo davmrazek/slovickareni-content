@@ -1,40 +1,40 @@
 {
-  "id": "conn-60",
+  "id": "conn-425",
   "groups": [
     {
-      "name": "Vánoce",
+      "name": "Obchody",
       "words": [
-        "STROMEK",
-        "KAPR",
-        "BETLÉM",
-        "KOLEDA"
+        "PEKÁRNA",
+        "ŘEZNICTVÍ",
+        "DROGERIE",
+        "TRAFIKA"
       ]
     },
     {
-      "name": "Zimní jevy",
+      "name": "Čeští olympionici",
       "words": [
-        "JINOVATKA",
-        "RAMPOUCH",
-        "ZÁVĚJ",
-        "LEDOVKA"
+        "ZÁTOPEK",
+        "ČÁSLAVSKÁ",
+        "ŽELEZNÝ",
+        "SÁBLÍKOVÁ"
       ]
     },
     {
-      "name": "Silvestr",
+      "name": "Čeští patroni",
       "words": [
-        "PETARDA",
-        "PŘÍPITEK",
-        "PŮLNOC",
-        "PŘEDSEVZETÍ"
+        "VÁCLAV",
+        "LUDMILA",
+        "VOJTĚCH",
+        "PROKOP"
       ]
     },
     {
-      "name": "Ledová ___",
+      "name": "___ měsíc",
       "words": [
-        "SPRCHA",
-        "KRA",
-        "PLOCHA",
-        "KRÁLOVNA"
+        "MEDOVÝ",
+        "NOVÝ",
+        "KALENDÁŘNÍ",
+        "UBÝVAJÍCÍ"
       ]
     }
   ]

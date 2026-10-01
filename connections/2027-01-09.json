@@ -1,40 +1,40 @@
 {
-  "id": "conn-23",
+  "id": "conn-388",
   "groups": [
     {
-      "name": "Plazi",
+      "name": "Na stole",
       "words": [
-        "HAD",
-        "JEŠTĚRKA",
-        "KROKODÝL",
-        "ŽELVA"
+        "TALÍŘ",
+        "MISKA",
+        "HRNEK",
+        "PODŠÁLEK"
       ]
     },
     {
-      "name": "Teplé nápoje",
+      "name": "Části kytary",
       "words": [
-        "ČAJ",
-        "KÁVA",
-        "KAKAO",
-        "GROG"
+        "HMATNÍK",
+        "PRAŽEC",
+        "KOBYLKA",
+        "ROZETA"
       ]
     },
     {
-      "name": "Fotbalové posty",
+      "name": "Africké metropole",
       "words": [
-        "BRANKÁŘ",
-        "OBRÁNCE",
-        "ZÁLOŽNÍK",
-        "ÚTOČNÍK"
+        "NAIROBI",
+        "DAKAR",
+        "ACCRA",
+        "LUSAKA"
       ]
     },
     {
-      "name": "Zlý ___",
+      "name": "Ukrývají ženské jméno",
       "words": [
-        "DUCH",
-        "SEN",
-        "JAZYK",
-        "OSUD"
+        "PLENKA",
+        "DŮVĚRA",
+        "DIVADLO",
+        "LEVANDULE"
       ]
     }
   ]

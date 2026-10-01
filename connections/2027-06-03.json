@@ -1,40 +1,40 @@
 {
-  "id": "conn-168",
+  "id": "conn-533",
   "groups": [
     {
-      "name": "Fyzikální veličiny",
+      "name": "Letní noc",
       "words": [
-        "HMOTNOST",
-        "RYCHLOST",
-        "TEPLOTA",
-        "ENERGIE"
+        "HVĚZDY",
+        "METEORY",
+        "SVĚTLUŠKY",
+        "CVRČCI"
       ]
     },
     {
-      "name": "Jednotky SI",
+      "name": "Fotbalové stadiony",
       "words": [
-        "KELVIN",
-        "AMPÉR",
-        "KANDELA",
-        "MOL"
+        "WEMBLEY",
+        "ANFIELD",
+        "BERNABÉU",
+        "MARACANA"
       ]
     },
     {
-      "name": "Mechanika",
+      "name": "Choroby rostlin",
       "words": [
-        "PÁKA",
-        "KLADKA",
-        "TŘENÍ",
-        "SETRVAČNOST"
+        "PLÍSEŇ",
+        "PADLÍ",
+        "RZ",
+        "STRUPOVITOST"
       ]
     },
     {
-      "name": "Volný ___",
+      "name": "___ déšť",
       "words": [
-        "PÁD",
-        "VÝBĚH",
-        "DEN",
-        "PRŮCHOD"
+        "METEORICKÝ",
+        "KYSELÝ",
+        "ZLATÝ",
+        "LETNÍ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-202",
+  "id": "conn-567",
   "groups": [
     {
-      "name": "Na tržnici",
+      "name": "Suvenýry z dovolené",
       "words": [
-        "STÁNEK",
-        "VÁHA",
-        "PŘEPRAVKA",
-        "SMLOUVÁNÍ"
+        "MAGNETKA",
+        "POHLED",
+        "HRNEK",
+        "TRIČKO"
       ]
     },
     {
-      "name": "Kořenová zelenina",
+      "name": "Chorvatské národní parky",
       "words": [
-        "MRKEV",
-        "PETRŽEL",
-        "CELER",
-        "ŘEDKEV"
+        "PLITVICE",
+        "KRKA",
+        "MLJET",
+        "PAKLENICA"
       ]
     },
     {
-      "name": "Listová zelenina",
+      "name": "Tolkienovi trpaslíci",
       "words": [
-        "ŠPENÁT",
-        "SALÁT",
-        "RUKOLA",
-        "MANGOLD"
+        "THORIN",
+        "GIMLI",
+        "BALIN",
+        "DWALIN"
       ]
     },
     {
-      "name": "Zelený ___",
+      "name": "___ pohled",
       "words": [
-        "HRÁŠEK",
-        "ZÁKAL",
-        "ČTVRTEK",
-        "ČAJ"
+        "LETMÝ",
+        "ZKOUMAVÝ",
+        "VRAŽEDNÝ",
+        "SKLOPENÝ"
       ]
     }
   ]

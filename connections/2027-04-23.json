@@ -1,40 +1,40 @@
 {
-  "id": "conn-127",
+  "id": "conn-492",
   "groups": [
     {
-      "name": "Ve školní jídelně",
+      "name": "Letní obuv",
       "words": [
-        "TÁC",
-        "PŘÍBOR",
-        "POLÉVKA",
-        "ČIP"
+        "SANDÁLY",
+        "ŽABKY",
+        "ESPADRILKY",
+        "SLIPONY"
       ]
     },
     {
-      "name": "Obědové přílohy",
+      "name": "Měsíce planet",
       "words": [
-        "KNEDLÍK",
-        "BRAMBORY",
-        "RÝŽE",
-        "TĚSTOVINY"
+        "TITAN",
+        "TRITON",
+        "FOBOS",
+        "CHARON"
       ]
     },
     {
-      "name": "Omáčky",
+      "name": "Rytířské řády",
       "words": [
-        "SVÍČKOVÁ",
-        "RAJSKÁ",
-        "KOPROVKA",
-        "GULÁŠOVÁ"
+        "TEMPLÁŘI",
+        "JOHANITÉ",
+        "KŘIŽOVNÍCI",
+        "LAZARIÁNI"
       ]
     },
     {
-      "name": "Sladká ___",
+      "name": "Mají řemínek",
       "words": [
-        "TEČKA",
-        "ODMĚNA",
-        "SMETANA",
-        "CHUŤ"
+        "HODINKY",
+        "BATOH",
+        "FOTOAPARÁT",
+        "HELMA"
       ]
     }
   ]

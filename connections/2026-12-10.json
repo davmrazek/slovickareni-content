@@ -2,7 +2,7 @@
   "id": "conn-358",
   "groups": [
     {
-      "name": "Životní jubilea",
+      "name": "Velká jubilea",
       "words": [
         "PADESÁTKA",
         "ABRAHÁM",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "name": "Přípitky",
+      "name": "Na zdraví",
       "words": [
         "TOAST",
         "PŘÍPITEK",
@@ -29,12 +29,12 @@
       ]
     },
     {
-      "name": "Zlaté ___",
+      "name": "Životní ___",
       "words": [
-        "VÝROČÍ",
-        "RUČIČKY",
-        "ČASY",
-        "VEJCE"
+        "ÚROVEŇ",
+        "POJIŠTĚNÍ",
+        "STYL",
+        "DRÁHA"
       ]
     }
   ]

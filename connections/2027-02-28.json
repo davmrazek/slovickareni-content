@@ -1,40 +1,40 @@
 {
-  "id": "conn-73",
+  "id": "conn-438",
   "groups": [
     {
-      "name": "Sopka",
+      "name": "Prostírání",
       "words": [
-        "LÁVA",
-        "KRÁTER",
-        "POPEL",
-        "MAGMA"
+        "UBROUS",
+        "UBROUSEK",
+        "PŘÍBOR",
+        "SOLNIČKA"
       ]
     },
     {
-      "name": "Pouště",
+      "name": "České kapely",
       "words": [
-        "SAHARA",
-        "GOBI",
-        "KALAHARI",
-        "ATACAMA"
+        "OLYMPIC",
+        "KABÁT",
+        "LUCIE",
+        "ŠKWOR"
       ]
     },
     {
-      "name": "Přírodní katastrofy",
+      "name": "Části kostela",
       "words": [
-        "POVODEŇ",
-        "TORNÁDO",
-        "LAVINA",
-        "SUCHO"
+        "LOĎ",
+        "APSIDA",
+        "PRESBYTÁŘ",
+        "KRYPTA"
       ]
     },
     {
-      "name": "___ vlna",
+      "name": "___ loď",
       "words": [
-        "HORKÁ",
-        "ZVUKOVÁ",
-        "MEXICKÁ",
-        "PŘÍLIVOVÁ"
+        "VESMÍRNÁ",
+        "VLAJKOVÁ",
+        "PIRÁTSKÁ",
+        "VÁLEČNÁ"
       ]
     }
   ]

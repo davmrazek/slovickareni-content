@@ -1,40 +1,40 @@
 {
-  "id": "conn-22",
+  "id": "conn-387",
   "groups": [
     {
-      "name": "Vodní ptáci",
+      "name": "Do vlasů",
       "words": [
-        "LABUŤ",
-        "VOLAVKA",
-        "ČÁP",
-        "PELIKÁN"
+        "SPONA",
+        "ČELENKA",
+        "GUMIČKA",
+        "SKŘIPEC"
       ]
     },
     {
-      "name": "Části kola",
+      "name": "Stanice metra A",
       "words": [
-        "SEDLO",
-        "ŘETĚZ",
-        "PEDÁL",
-        "RÁM"
+        "DEJVICKÁ",
+        "MALOSTRANSKÁ",
+        "FLORA",
+        "SKALKA"
       ]
     },
     {
-      "name": "Suroviny na pečení",
+      "name": "Impresionisté",
       "words": [
-        "MOUKA",
-        "CUKR",
-        "VEJCE",
-        "DROŽDÍ"
+        "MONET",
+        "MANET",
+        "RENOIR",
+        "DEGAS"
       ]
     },
     {
-      "name": "Volný ___",
+      "name": "Slova i česká města",
       "words": [
-        "ČAS",
-        "PÁD",
-        "VSTUP",
-        "VERŠ"
+        "MOST",
+        "TÁBOR",
+        "POLIČKA",
+        "PŘÍBOR"
       ]
     }
   ]

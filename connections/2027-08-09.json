@@ -1,40 +1,40 @@
 {
-  "id": "conn-235",
+  "id": "conn-600",
   "groups": [
     {
-      "name": "Jarní úklid",
+      "name": "Hry na papír",
       "words": [
-        "OKNA",
-        "KOBERCE",
-        "SKŘÍNĚ",
-        "VĚTRÁNÍ"
+        "PIŠKVORKY",
+        "LODĚ",
+        "ŠIBENICE",
+        "TEČKY"
       ]
     },
     {
-      "name": "Čisticí prostředky",
+      "name": "Filmoví komici",
       "words": [
-        "SAVO",
-        "OCET",
-        "SODA",
-        "HOUBIČKA"
+        "KEATON",
+        "LLOYD",
+        "TATI",
+        "LAUREL"
       ]
     },
     {
-      "name": "Nářadí na úklid",
+      "name": "Logické hlavolamy",
       "words": [
-        "VYSAVAČ",
-        "SMETÁK",
-        "HADR",
-        "KBELÍK"
+        "KAKURO",
+        "NONOGRAM",
+        "TANGRAM",
+        "HANOJ"
       ]
     },
     {
-      "name": "Čisté ___",
+      "name": "Hra na ___",
       "words": [
-        "SVĚDOMÍ",
-        "PRÁDLO",
-        "NEBE",
-        "VÍTĚZSTVÍ"
+        "BABU",
+        "HONĚNOU",
+        "SCHOVÁVANOU",
+        "JISTOTU"
       ]
     }
   ]

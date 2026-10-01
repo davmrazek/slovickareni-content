@@ -1,40 +1,40 @@
 {
-  "id": "conn-52",
+  "id": "conn-417",
   "groups": [
     {
-      "name": "Lékové formy",
+      "name": "V českém lese",
       "words": [
-        "TABLETA",
-        "MAST",
-        "KAPKY",
-        "SIRUP"
+        "LIŠKA",
+        "JEZEVEC",
+        "VEVERKA",
+        "SRNA"
       ]
     },
     {
-      "name": "Nemoci",
+      "name": "Kosmické agentury",
       "words": [
-        "CHŘIPKA",
-        "ANGÍNA",
-        "NEŠTOVICE",
-        "SPALNIČKY"
+        "NASA",
+        "ESA",
+        "ROSKOSMOS",
+        "JAXA"
       ]
     },
     {
-      "name": "V nemocnici",
+      "name": "Postavy ze Švejka",
       "words": [
-        "LÉKAŘ",
-        "SESTRA",
-        "CHIRURG",
-        "SANITÁŘ"
+        "ŠVEJK",
+        "LUKÁŠ",
+        "VANĚK",
+        "PALIVEC"
       ]
     },
     {
-      "name": "___ teplota",
+      "name": "U ___ (pražské hospody)",
       "words": [
-        "TĚLESNÁ",
-        "POKOJOVÁ",
-        "ZVÝŠENÁ",
-        "PRŮMĚRNÁ"
+        "KALICHA",
+        "FLEKŮ",
+        "MEDVÍDKŮ",
+        "PINKASŮ"
       ]
     }
   ]

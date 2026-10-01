@@ -1,40 +1,40 @@
 {
-  "id": "conn-17",
+  "id": "conn-382",
   "groups": [
     {
-      "name": "Kořenová zelenina",
+      "name": "Hudební pomůcky",
       "words": [
-        "ŘEPA",
-        "CELER",
-        "PETRŽEL",
-        "KŘEN"
+        "NOTY",
+        "PULT",
+        "LADIČKA",
+        "METRONOM"
       ]
     },
     {
-      "name": "Oceány",
+      "name": "Sušené ovoce",
       "words": [
-        "ATLANTSKÝ",
-        "TICHÝ",
-        "INDICKÝ",
-        "SEVERNÍ"
+        "ROZINKY",
+        "DATLE",
+        "FÍKY",
+        "MERUŇKY"
       ]
     },
     {
-      "name": "Školní potřeby",
+      "name": "Vojevůdci",
       "words": [
-        "TUŽKA",
-        "GUMA",
-        "PRAVÍTKO",
-        "SEŠIT"
+        "NAPOLEON",
+        "CAESAR",
+        "ŽIŽKA",
+        "HANNIBAL"
       ]
     },
     {
-      "name": "Šedá ___",
+      "name": "Mají klávesy",
       "words": [
-        "EMINENCE",
-        "ZÓNA",
-        "KŮRA",
-        "MYŠ"
+        "KLAVÍR",
+        "POČÍTAČ",
+        "VARHANY",
+        "SYNTEZÁTOR"
       ]
     }
   ]

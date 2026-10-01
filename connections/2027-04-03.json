@@ -1,40 +1,40 @@
 {
-  "id": "conn-107",
+  "id": "conn-472",
   "groups": [
     {
-      "name": "V přístavu",
+      "name": "Na sezení",
       "words": [
-        "MOLO",
-        "KOTVA",
-        "JEŘÁB",
-        "DOK"
+        "ŽIDLE",
+        "KŘESLO",
+        "POHOVKA",
+        "TABURET"
       ]
     },
     {
-      "name": "Námořní hodnosti",
+      "name": "Moravské řeky",
       "words": [
-        "KAPITÁN",
-        "KORMIDELNÍK",
-        "LODNÍK",
-        "PLAVČÍK"
+        "MORAVA",
+        "DYJE",
+        "SVRATKA",
+        "BEČVA"
       ]
     },
     {
-      "name": "Typy plavidel",
+      "name": "Prsty",
       "words": [
-        "PLACHETNICE",
-        "TANKER",
-        "TRAJEKT",
-        "KATAMARÁN"
+        "PALEC",
+        "UKAZOVÁČEK",
+        "PROSTŘEDNÍČEK",
+        "PRSTENÍČEK"
       ]
     },
     {
-      "name": "Slaná ___",
+      "name": "___ židle",
       "words": [
-        "VODA",
-        "CHUŤ",
-        "TYČINKA",
-        "SLZA"
+        "ELEKTRICKÁ",
+        "HOUPACÍ",
+        "SKLÁDACÍ",
+        "OTOČNÁ"
       ]
     }
   ]

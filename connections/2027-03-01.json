@@ -1,40 +1,40 @@
 {
-  "id": "conn-74",
+  "id": "conn-439",
   "groups": [
     {
-      "name": "Vyšetřování",
+      "name": "Moučníky",
       "words": [
-        "STOPA",
-        "OTISK",
-        "VÝSLECH",
-        "ALIBI"
+        "ŠTRŮDL",
+        "ŽEMLOVKA",
+        "LÍVANCE",
+        "BUBLANINA"
       ]
     },
     {
-      "name": "U soudu",
+      "name": "Africké jazyky",
       "words": [
-        "SOUDCE",
-        "POROTA",
-        "ROZSUDEK",
-        "OBHÁJCE"
+        "SVAHILŠTINA",
+        "AMHARŠTINA",
+        "JORUBŠTINA",
+        "ZULŠTINA"
       ]
     },
     {
-      "name": "Ve vězení",
+      "name": "Staré názvy zemí",
       "words": [
-        "CELA",
-        "MŘÍŽE",
-        "DOZORCE",
-        "TREST"
+        "RHODÉSIE",
+        "SIAM",
+        "PERSIE",
+        "BARMA"
       ]
     },
     {
-      "name": "Čistý ___",
+      "name": "Mají špičku",
       "words": [
-        "ŠTÍT",
-        "REJSTŘÍK",
-        "STŮL",
-        "ZISK"
+        "BOTA",
+        "NŮŽ",
+        "JAZYK",
+        "LEDOVEC"
       ]
     }
   ]

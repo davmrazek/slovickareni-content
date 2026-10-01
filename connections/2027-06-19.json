@@ -1,40 +1,40 @@
 {
-  "id": "conn-184",
+  "id": "conn-549",
   "groups": [
     {
-      "name": "Moravské kraje",
+      "name": "Dezerty",
       "words": [
-        "SLOVÁCKO",
-        "HANÁ",
-        "VALAŠSKO",
-        "PODLUŽÍ"
+        "PUDINK",
+        "ŽELÉ",
+        "TIRAMISU",
+        "MOUSSE"
       ]
     },
     {
-      "name": "Folklor",
+      "name": "Slavné tenistky",
       "words": [
-        "CIMBÁL",
-        "VERBUŇK",
-        "KROJ",
-        "HODY"
+        "GRAFOVÁ",
+        "WILLIAMSOVÁ",
+        "SELEŠOVÁ",
+        "HINGISOVÁ"
       ]
     },
     {
-      "name": "Vinné sklepy",
+      "name": "Indonéské ostrovy",
       "words": [
-        "BÚDA",
-        "ARCHIV",
-        "KOŠT",
-        "SUD"
+        "JÁVA",
+        "BALI",
+        "SUMATRA",
+        "BORNEO"
       ]
     },
     {
-      "name": "Sladké ___",
+      "name": "Ukrývají GRAF",
       "words": [
-        "VÍNO",
-        "SNY",
-        "NIC",
-        "ŘEČI"
+        "FOTOGRAF",
+        "PARAGRAF",
+        "GRAFIKA",
+        "TELEGRAF"
       ]
     }
   ]

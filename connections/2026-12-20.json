@@ -1,40 +1,40 @@
 {
-  "id": "conn-3",
+  "id": "conn-368",
   "groups": [
     {
-      "name": "Domácí zvířata",
+      "name": "Části boty",
       "words": [
-        "PES",
-        "KOČKA",
-        "KRÁLÍK",
-        "KŮŇ"
+        "PODRÁŽKA",
+        "PODPATEK",
+        "TKANIČKA",
+        "JAZYK"
       ]
     },
     {
-      "name": "Ostrý ___",
+      "name": "Slovenská pohoří",
       "words": [
-        "JAZYK",
-        "ZUB",
-        "ÚHEL",
-        "SÝR"
+        "TATRY",
+        "FATRA",
+        "VIHORLAT",
+        "TRIBEČ"
       ]
     },
     {
-      "name": "Karetní barvy",
+      "name": "Mořští korýši",
       "words": [
-        "SRDCE",
-        "KŘÍŽ",
-        "PIK",
-        "KÁRO"
+        "KREVETA",
+        "HUMR",
+        "LANGUSTA",
+        "KRAB"
       ]
     },
     {
-      "name": "Zabijačkové speciality",
+      "name": "Palindromy",
       "words": [
-        "OVAR",
-        "JELITO",
-        "JITRNICE",
-        "TLAČENKA"
+        "KAJAK",
+        "RADAR",
+        "OKO",
+        "REPER"
       ]
     }
   ]

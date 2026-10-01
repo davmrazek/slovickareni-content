@@ -1,40 +1,40 @@
 {
-  "id": "conn-129",
+  "id": "conn-494",
   "groups": [
     {
-      "name": "Asijská kuchyně",
+      "name": "Ve sklepě",
       "words": [
-        "SUŠI",
-        "KARI",
-        "WOK",
-        "NUDLE"
+        "BRAMBORY",
+        "UHLÍ",
+        "VÍNO",
+        "ZAVAŘENINY"
       ]
     },
     {
-      "name": "Sójové výrobky",
+      "name": "Šumavská jezera",
       "words": [
-        "TOFU",
-        "TEMPEH",
-        "MISO",
-        "OMÁČKA"
+        "ČERTOVO",
+        "ČERNÉ",
+        "PLEŠNÉ",
+        "LAKA"
       ]
     },
     {
-      "name": "Kuchyňské náčiní",
+      "name": "Egyptské památky",
       "words": [
-        "MISKA",
-        "PÁNEV",
-        "PARNÍK",
-        "SÍTKO"
+        "SFINGA",
+        "KARNAK",
+        "LUXOR",
+        "GÍZA"
       ]
     },
     {
-      "name": "Pálivý ___",
+      "name": "___ sklep",
       "words": [
-        "CHILLI",
-        "ZÁZVOR",
-        "PEPŘ",
-        "KŘEN"
+        "VINNÝ",
+        "UHELNÝ",
+        "BRAMBOROVÝ",
+        "PIVNÍ"
       ]
     }
   ]

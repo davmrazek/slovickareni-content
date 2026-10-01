@@ -1,40 +1,40 @@
 {
-  "id": "conn-169",
+  "id": "conn-534",
   "groups": [
     {
-      "name": "V laboratoři",
+      "name": "Ptáci ve městě",
       "words": [
-        "KÁDINKA",
-        "KAHAN",
-        "ZKUMAVKA",
-        "PIPETA"
+        "HOLUB",
+        "VRABEC",
+        "RORÝS",
+        "KAVKA"
       ]
     },
     {
-      "name": "Skupenství",
+      "name": "Kryptoměny",
       "words": [
-        "PEVNÉ",
-        "KAPALNÉ",
-        "PLYNNÉ",
-        "PLAZMA"
+        "BITCOIN",
+        "ETHER",
+        "DOGECOIN",
+        "LITECOIN"
       ]
     },
     {
-      "name": "Chemické děje",
+      "name": "Zvířecí skupiny",
       "words": [
-        "VAR",
-        "TÁNÍ",
-        "OXIDACE",
-        "NEUTRALIZACE"
+        "HEJNO",
+        "SMEČKA",
+        "STÁDO",
+        "KOLONIE"
       ]
     },
     {
-      "name": "Těžká ___",
+      "name": "Ukrývají ROJ",
       "words": [
-        "VODA",
-        "TECHNIKA",
-        "ATLETIKA",
-        "HODINA"
+        "STROJ",
+        "ZDROJ",
+        "KROJ",
+        "ZBROJ"
       ]
     }
   ]

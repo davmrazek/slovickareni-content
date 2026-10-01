@@ -1,40 +1,40 @@
 {
-  "id": "conn-219",
+  "id": "conn-584",
   "groups": [
     {
-      "name": "Plavecké styly",
+      "name": "Na safari",
       "words": [
-        "KRAUL",
-        "MOTÝLEK",
-        "ZNAK",
-        "PRSA"
+        "DŽÍP",
+        "RANGER",
+        "KEMP",
+        "VYHLÍDKA"
       ]
     },
     {
-      "name": "V bazénu",
+      "name": "Lví král",
       "words": [
-        "DRÁHA",
-        "BLOK",
-        "OBRÁTKA",
-        "ČEPICE"
+        "SIMBA",
+        "MUFASA",
+        "SCAR",
+        "PUMBAA"
       ]
     },
     {
-      "name": "Skoky do vody",
+      "name": "Antilopy",
       "words": [
-        "MŮSTEK",
-        "VĚŽ",
-        "SALTO",
-        "VRUT"
+        "IMPALA",
+        "GAZELA",
+        "PAKŮŇ",
+        "KUDU"
       ]
     },
     {
-      "name": "Hluboká ___",
+      "name": "Mají pruhy",
       "words": [
-        "VODA",
-        "ÚCTA",
-        "NOC",
-        "MYŠLENKA"
+        "ZEBRA",
+        "TYGR",
+        "PŘECHOD",
+        "VLAJKA"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-93",
+  "id": "conn-458",
   "groups": [
     {
-      "name": "Rybníkářství",
+      "name": "Kvetou na jaře",
       "words": [
-        "VÝLOV",
-        "SÁDKA",
-        "NÁSADA",
-        "BAHNO"
+        "ZLATICE",
+        "MAGNÓLIE",
+        "SAKURA",
+        "ŠEŘÍK"
       ]
     },
     {
-      "name": "Kapr a spol.",
+      "name": "Menšinové jazyky",
       "words": [
-        "AMUR",
-        "TOLSTOLOBIK",
-        "LÍN",
-        "CEJN"
+        "BASKIČTINA",
+        "BRETONŠTINA",
+        "KATALÁNŠTINA",
+        "VELŠTINA"
       ]
     },
     {
-      "name": "Při rybaření",
+      "name": "Jednotky tlaku",
       "words": [
-        "PODBĚRÁK",
-        "VEZÍREK",
-        "ZÁSEK",
-        "TROFEJ"
+        "PASCAL",
+        "BAR",
+        "ATMOSFÉRA",
+        "TORR"
       ]
     },
     {
-      "name": "Kalná ___",
+      "name": "Programovací jazyky",
       "words": [
-        "VODA",
-        "HLADINA",
-        "PŘEDSTAVA",
-        "ŘEKA"
+        "PYTHON",
+        "JAVA",
+        "RUBY",
+        "SWIFT"
       ]
     }
   ]

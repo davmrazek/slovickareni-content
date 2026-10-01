@@ -1,40 +1,40 @@
 {
-  "id": "conn-170",
+  "id": "conn-535",
   "groups": [
     {
-      "name": "Buňka",
+      "name": "Natírání plotu",
       "words": [
-        "JÁDRO",
-        "MEMBRÁNA",
-        "RIBOZOM",
-        "CHLOROPLAST"
+        "ŠTĚTEC",
+        "ŘEDIDLO",
+        "LAK",
+        "BRUSKA"
       ]
     },
     {
-      "name": "Dědičnost",
+      "name": "České filmy 90. let",
       "words": [
-        "GEN",
-        "MUTACE",
-        "CHROMOZOM",
-        "ZNAK"
+        "PELÍŠKY",
+        "KOLJA",
+        "SAMOTÁŘI",
+        "KNOFLÍKÁŘI"
       ]
     },
     {
-      "name": "Mikroskop",
+      "name": "Italské rody",
       "words": [
-        "OKULÁR",
-        "PREPARÁT",
-        "SKLÍČKO",
-        "ZVĚTŠENÍ"
+        "MEDICEJOVÉ",
+        "BORGIOVÉ",
+        "SFORZOVÉ",
+        "ESTE"
       ]
     },
     {
-      "name": "Živá ___",
+      "name": "Mají štětiny",
       "words": [
-        "BUŇKA",
-        "VODA",
-        "PAMĚŤ",
-        "LEGENDA"
+        "KARTÁČ",
+        "PRASE",
+        "KOŠTĚ",
+        "DIVOČÁK"
       ]
     }
   ]

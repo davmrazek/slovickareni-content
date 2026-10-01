@@ -1,40 +1,40 @@
 {
-  "id": "conn-118",
+  "id": "conn-483",
   "groups": [
     {
-      "name": "Hlavolamy",
+      "name": "Ping-pong",
       "words": [
-        "KOSTKA",
-        "SUDOKU",
-        "KŘÍŽOVKA",
-        "REBUS"
+        "PÁLKA",
+        "MÍČEK",
+        "SÍŤKA",
+        "STŮL"
       ]
     },
     {
-      "name": "Slovní hry",
+      "name": "Tenisové povrchy",
       "words": [
-        "PŘESMYČKA",
-        "OSMISMĚRKA",
-        "ŠIBENICE",
-        "SCRABBLE"
+        "ANTUKA",
+        "TRÁVA",
+        "KOBEREC",
+        "HARD"
       ]
     },
     {
-      "name": "Logika",
+      "name": "Beatles",
       "words": [
-        "DEDUKCE",
-        "PREMISA",
-        "DŮKAZ",
-        "PARADOX"
+        "JOHN",
+        "PAUL",
+        "GEORGE",
+        "RINGO"
       ]
     },
     {
-      "name": "Tvrdý ___",
+      "name": "Jsou zelené",
       "words": [
-        "OŘÍŠEK",
-        "SPÁNEK",
-        "ÚDER",
-        "DISK"
+        "SMARAGD",
+        "LIMETKA",
+        "OKURKA",
+        "ŽÁBA"
       ]
     }
   ]

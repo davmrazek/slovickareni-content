@@ -1,40 +1,40 @@
 {
-  "id": "conn-229",
+  "id": "conn-594",
   "groups": [
     {
-      "name": "Kosmetická taštička",
+      "name": "Včelař",
       "words": [
-        "ŘASENKA",
-        "RTĚNKA",
-        "PUDR",
-        "ŠTĚTEC"
+        "MEDOMET",
+        "KOUŘÁK",
+        "KUKLA",
+        "RÁMEČEK"
       ]
     },
     {
-      "name": "Péče o vlasy",
+      "name": "Přírodovědci",
       "words": [
-        "ŠAMPON",
-        "KONDICIONÉR",
-        "HŘEBEN",
-        "FÉN"
+        "DARWIN",
+        "LINNÉ",
+        "HUMBOLDT",
+        "LAMARCK"
       ]
     },
     {
-      "name": "Manikúra",
+      "name": "Stepní zvířata",
       "words": [
-        "PILNÍK",
-        "LAK",
-        "NŮŽKY",
-        "KŮŽIČKA"
+        "SAJGA",
+        "SYSEL",
+        "DROP",
+        "KŘEČEK"
       ]
     },
     {
-      "name": "Umělé ___",
+      "name": "Mají rám",
       "words": [
-        "ŘASY",
-        "SVĚTLO",
-        "HEDVÁBÍ",
-        "DÝCHÁNÍ"
+        "OBRAZ",
+        "KOLO",
+        "OKNO",
+        "BRÝLE"
       ]
     }
   ]

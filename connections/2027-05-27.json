@@ -1,40 +1,40 @@
 {
-  "id": "conn-161",
+  "id": "conn-526",
   "groups": [
     {
-      "name": "Ve sklenářství",
+      "name": "Hry na pláži",
       "words": [
-        "TABULE",
-        "DIAMANT",
-        "TMEL",
-        "VITRÁŽ"
+        "FRISBEE",
+        "PETANQUE",
+        "BEACHVOLEJBAL",
+        "KUBB"
       ]
     },
     {
-      "name": "Sklářské výrobky",
+      "name": "Filmoví skladatelé",
       "words": [
-        "POHÁR",
-        "VÁZA",
-        "LUSTR",
-        "TĚŽÍTKO"
+        "SVOBODA",
+        "UHLÍŘ",
+        "HAPKA",
+        "LIŠKA"
       ]
     },
     {
-      "name": "Křehké materiály",
+      "name": "Mušle",
       "words": [
-        "PORCELÁN",
-        "KERAMIKA",
-        "LED",
-        "SKOŘÁPKA"
+        "SLÁVKA",
+        "ÚSTŘICE",
+        "HŘEBENATKA",
+        "SRDCOVKA"
       ]
     },
     {
-      "name": "Křišťálově ___",
+      "name": "___ víla",
       "words": [
-        "ČISTÝ",
-        "PRŮZRAČNÝ",
-        "JASNÝ",
-        "ČIRÝ"
+        "MOŘSKÁ",
+        "LESNÍ",
+        "VODNÍ",
+        "ZUBNÍ"
       ]
     }
   ]

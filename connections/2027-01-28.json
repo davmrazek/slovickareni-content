@@ -1,40 +1,40 @@
 {
-  "id": "conn-42",
+  "id": "conn-407",
   "groups": [
     {
-      "name": "Cirkusoví artisté",
+      "name": "Salámy",
       "words": [
-        "KLAUN",
-        "ŽONGLÉR",
-        "KROTITEL",
-        "AKROBAT"
+        "VYSOČINA",
+        "POLIČAN",
+        "HERKULES",
+        "LOVECKÝ"
       ]
     },
     {
-      "name": "Šicí potřeby",
+      "name": "Kytovci",
       "words": [
-        "JEHLA",
-        "NIT",
-        "NÁPRSTEK",
-        "NŮŽKY"
+        "VELRYBA",
+        "DELFÍN",
+        "PLISKAVICE",
+        "KOSATKA"
       ]
     },
     {
-      "name": "Části hradu",
+      "name": "Slavné sopky",
       "words": [
-        "VĚŽ",
-        "HRADBY",
-        "PŘÍKOP",
-        "NÁDVOŘÍ"
+        "ETNA",
+        "VESUV",
+        "FUDŽI",
+        "HEKLA"
       ]
     },
     {
-      "name": "___ oheň",
+      "name": "Končí na -VAL",
       "words": [
-        "OLYMPIJSKÝ",
-        "VĚČNÝ",
-        "BENGÁLSKÝ",
-        "TÁBOROVÝ"
+        "KARNEVAL",
+        "FESTIVAL",
+        "INTERVAL",
+        "RIVAL"
       ]
     }
   ]

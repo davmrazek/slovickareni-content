@@ -1,40 +1,40 @@
 {
-  "id": "conn-115",
+  "id": "conn-480",
   "groups": [
     {
-      "name": "Gymnastika",
+      "name": "Plísňové sýry",
       "words": [
-        "KLADINA",
-        "BRADLA",
-        "KRUHY",
-        "PŘESKOK"
+        "GORGONZOLA",
+        "ROQUEFORT",
+        "CAMEMBERT",
+        "BRIE"
       ]
     },
     {
-      "name": "Atletické disciplíny",
+      "name": "Francouzské regiony",
       "words": [
-        "OŠTĚP",
-        "KOULE",
-        "DÁLKA",
-        "PŘEKÁŽKY"
+        "BRETAŇ",
+        "NORMANDIE",
+        "PROVENCE",
+        "ALSASKO"
       ]
     },
     {
-      "name": "Cyklistika",
+      "name": "Francouzští spisovatelé",
       "words": [
-        "PELOTON",
-        "ETAPA",
-        "DRES",
-        "SPURT"
+        "HUGO",
+        "BALZAC",
+        "DUMAS",
+        "CAMUS"
       ]
     },
     {
-      "name": "Rychlý jako ___",
+      "name": "Mají díry",
       "words": [
-        "BLESK",
-        "VÍTR",
-        "ŠÍP",
-        "GEPARD"
+        "EMENTÁL",
+        "CEDNÍK",
+        "SÍTO",
+        "FLÉTNA"
       ]
     }
   ]

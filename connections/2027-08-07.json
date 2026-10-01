@@ -1,40 +1,40 @@
 {
-  "id": "conn-233",
+  "id": "conn-598",
   "groups": [
     {
-      "name": "Obuvnictví",
+      "name": "Druhy kol",
       "words": [
-        "PODRÁŽKA",
-        "TKANIČKA",
-        "KOPYTO",
-        "STÉLKA"
+        "SILNIČKA",
+        "ELEKTROKOLO",
+        "TANDEM",
+        "BMX"
       ]
     },
     {
-      "name": "Druhy bot",
+      "name": "České motorky",
       "words": [
-        "LODIČKY",
-        "SANDÁLY",
-        "KOTNÍKOVÉ",
-        "TENISKY"
+        "JAWA",
+        "ČZ",
+        "BABETTA",
+        "STADION"
       ]
     },
     {
-      "name": "Péče o boty",
+      "name": "Slovanské bohyně",
       "words": [
-        "KRÉM",
-        "KARTÁČ",
-        "IMPREGNACE",
-        "NAPÍNÁK"
+        "MORANA",
+        "VESNA",
+        "ŽIVA",
+        "MOKOŠ"
       ]
     },
     {
-      "name": "Bosá ___",
+      "name": "Mládežnické organizace",
       "words": [
-        "NOHA",
-        "CHŮZE",
-        "PATA",
-        "STOPA"
+        "PIONÝR",
+        "SKAUT",
+        "JUNÁK",
+        "SOKOL"
       ]
     }
   ]

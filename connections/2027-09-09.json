@@ -1,40 +1,40 @@
 {
-  "id": "conn-266",
+  "id": "conn-631",
   "groups": [
     {
-      "name": "Ve školní družině",
+      "name": "Z jablek",
       "words": [
-        "SVAČINA",
-        "ÚKOLY",
-        "VYCHOVATELKA",
-        "HRA"
+        "MOŠT",
+        "ŠTRŮDL",
+        "PYRÉ",
+        "KŘÍŽALY"
       ]
     },
     {
-      "name": "Školní pomůcky",
+      "name": "Technologické firmy",
       "words": [
-        "PENÁL",
-        "AKTOVKA",
-        "PRAVÍTKO",
-        "GUMA"
+        "APPLE",
+        "GOOGLE",
+        "MICROSOFT",
+        "AMAZON"
       ]
     },
     {
-      "name": "Předměty ve škole",
+      "name": "Bájné ženy",
       "words": [
-        "ČEŠTINA",
-        "DĚJEPIS",
-        "PŘÍRODOPIS",
-        "VÝTVARKA"
+        "AMAZONKY",
+        "SIRÉNY",
+        "MÚZY",
+        "NYMFY"
       ]
     },
     {
-      "name": "Velká ___",
+      "name": "___ jablko",
       "words": [
-        "ŠKOLA",
-        "VODA",
-        "PŘESTÁVKA",
-        "ODMĚNA"
+        "ADAMOVO",
+        "ZAKÁZANÉ",
+        "RAJSKÉ",
+        "OTRÁVENÉ"
       ]
     }
   ]

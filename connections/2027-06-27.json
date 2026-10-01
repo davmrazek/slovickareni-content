@@ -1,40 +1,40 @@
 {
-  "id": "conn-192",
+  "id": "conn-557",
   "groups": [
     {
-      "name": "Vánoční cukroví",
+      "name": "Žně",
       "words": [
-        "ROHLÍČKY",
-        "LINECKÉ",
-        "KOKOSKY",
-        "PERNÍČKY"
+        "KOMBAJN",
+        "SLÁMA",
+        "BALÍKY",
+        "KLASY"
       ]
     },
     {
-      "name": "Štědrý den",
+      "name": "Bitvy druhé světové",
       "words": [
-        "KAPR",
-        "SALÁT",
-        "STROMEČEK",
-        "PŮST"
+        "STALINGRAD",
+        "MIDWAY",
+        "KURSK",
+        "ALAMEIN"
       ]
     },
     {
-      "name": "Ozdoby",
+      "name": "Nové olympijské sporty",
       "words": [
-        "BAŇKA",
-        "ŘETĚZ",
-        "ŠPIČKA",
-        "ANDĚL"
+        "SURFING",
+        "SKATEBOARDING",
+        "LEZENÍ",
+        "BREAKING"
       ]
     },
     {
-      "name": "Štědrý ___",
+      "name": "___ klobouk",
       "words": [
-        "VEČER",
-        "DAR",
-        "HOSTITEL",
-        "SPONZOR"
+        "SLAMĚNÝ",
+        "KOUZELNICKÝ",
+        "PLSTĚNÝ",
+        "TROPICKÝ"
       ]
     }
   ]

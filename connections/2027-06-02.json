@@ -1,40 +1,40 @@
 {
-  "id": "conn-167",
+  "id": "conn-532",
   "groups": [
     {
-      "name": "Matematické operace",
+      "name": "Na balkoně",
       "words": [
-        "SČÍTÁNÍ",
-        "DĚLENÍ",
-        "MOCNINA",
-        "ODMOCNINA"
+        "KVĚTINÁČ",
+        "TRUHLÍK",
+        "SUBSTRÁT",
+        "KONEVKA"
       ]
     },
     {
-      "name": "Geometrie",
+      "name": "Portugalská města",
       "words": [
-        "ÚHLOPŘÍČKA",
-        "OBVOD",
-        "OSA",
-        "TĚŽIŠTĚ"
+        "LISABON",
+        "PORTO",
+        "FARO",
+        "COIMBRA"
       ]
     },
     {
-      "name": "Číselné množiny",
+      "name": "Ruští skladatelé",
       "words": [
-        "PŘIROZENÁ",
-        "CELÁ",
-        "RACIONÁLNÍ",
-        "REÁLNÁ"
+        "ČAJKOVSKIJ",
+        "MUSORGSKIJ",
+        "STRAVINSKIJ",
+        "PROKOFJEV"
       ]
     },
     {
-      "name": "Pravý ___",
+      "name": "___ tanec",
       "words": [
-        "ÚHEL",
-        "OPAK",
-        "BŘEH",
-        "DŮVOD"
+        "BŘIŠNÍ",
+        "LIDOVÝ",
+        "SVATEBNÍ",
+        "DEŠŤOVÝ"
       ]
     }
   ]

@@ -1,40 +1,40 @@
 {
-  "id": "conn-116",
+  "id": "conn-481",
   "groups": [
     {
-      "name": "Basketbal",
+      "name": "Na spaní",
       "words": [
-        "KOŠ",
-        "DRIBLINK",
-        "DOSKOK",
-        "TROJKA"
+        "PYŽAMO",
+        "ŽUPAN",
+        "KOŠILKA",
+        "POLŠTÁŘ"
       ]
     },
     {
-      "name": "Volejbal",
+      "name": "Pražské kavárny",
       "words": [
-        "SMEČ",
-        "BLOK",
-        "NAHRÁVKA",
-        "PODÁNÍ"
+        "SLAVIA",
+        "LOUVRE",
+        "IMPERIAL",
+        "SAVOY"
       ]
     },
     {
-      "name": "Házená",
+      "name": "Švýcarské hory",
       "words": [
-        "SEDMIČKA",
-        "KŘÍDLO",
-        "SPOJKA",
-        "PIVOT"
+        "EIGER",
+        "JUNGFRAU",
+        "MÖNCH",
+        "PILATUS"
       ]
     },
     {
-      "name": "Vysoký ___",
+      "name": "___ sen",
       "words": [
-        "SKOK",
-        "ÚČET",
-        "TLAK",
-        "VÝKON"
+        "AMERICKÝ",
+        "ZLÝ",
+        "ŽIVÝ",
+        "VĚČNÝ"
       ]
     }
   ]

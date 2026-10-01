@@ -1,40 +1,40 @@
 {
-  "id": "conn-18",
+  "id": "conn-383",
   "groups": [
     {
-      "name": "Drůbež",
+      "name": "Mráz a sníh",
       "words": [
-        "SLEPICE",
-        "KOHOUT",
-        "KACHNA",
-        "HUSA"
+        "ZÁVĚJ",
+        "NÁLEDÍ",
+        "JÍNOVATKA",
+        "RAMPOUCH"
       ]
     },
     {
-      "name": "Vesmírné objekty",
+      "name": "Česká jídla",
       "words": [
-        "HVĚZDA",
-        "KOMETA",
-        "GALAXIE",
-        "METEOR"
+        "SVÍČKOVÁ",
+        "GULÁŠ",
+        "KULAJDA",
+        "SEGEDÍN"
       ]
     },
     {
-      "name": "Části obličeje",
+      "name": "Americké státy",
       "words": [
-        "NOS",
-        "ÚSTA",
-        "BRADA",
-        "TVÁŘ"
+        "TEXAS",
+        "OHIO",
+        "UTAH",
+        "MAINE"
       ]
     },
     {
-      "name": "Divoká ___",
+      "name": "Zvířata začínající zájmenem",
       "words": [
-        "ZVĚŘ",
-        "KARTA",
-        "RŮŽE",
-        "VODA"
+        "TYGR",
+        "MYŠ",
+        "VYDRA",
+        "ONDATRA"
       ]
     }
   ]

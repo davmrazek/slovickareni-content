@@ -1,40 +1,40 @@
 {
-  "id": "conn-194",
+  "id": "conn-559",
   "groups": [
     {
-      "name": "Etiketa",
+      "name": "Surfování",
       "words": [
-        "POZDRAV",
-        "PODÁNÍ",
-        "TYKÁNÍ",
-        "PŘEDNOST"
+        "PRKNO",
+        "VLNA",
+        "LEASH",
+        "NEOPREN"
       ]
     },
     {
-      "name": "U stolu",
+      "name": "Havaj",
       "words": [
-        "UBRUS",
-        "UBROUSEK",
-        "PŘÍPITEK",
-        "SERVÍROVÁNÍ"
+        "ALOHA",
+        "LEI",
+        "HULA",
+        "UKULELE"
       ]
     },
     {
-      "name": "Zdvořilost",
+      "name": "Jednoduché stroje",
       "words": [
-        "PROSÍM",
-        "DĚKUJI",
-        "PROMIŇTE",
-        "DOVOLTE"
+        "PÁKA",
+        "KLADKA",
+        "KLÍN",
+        "ŠROUB"
       ]
     },
     {
-      "name": "Dobrý ___",
+      "name": "Nosí masku",
       "words": [
-        "DEN",
-        "SKUTEK",
-        "MRAV",
-        "ÚMYSL"
+        "POTÁPĚČ",
+        "CHIRURG",
+        "ŠERMÍŘ",
+        "SVÁŘEČ"
       ]
     }
   ]

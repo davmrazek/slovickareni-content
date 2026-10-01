@@ -1,40 +1,40 @@
 {
-  "id": "conn-83",
+  "id": "conn-448",
   "groups": [
     {
-      "name": "Ranní rituál",
+      "name": "Ovocné stromy",
       "words": [
-        "BUDÍK",
-        "SPRCHA",
-        "KÁVA",
-        "ZUBY"
+        "JABLOŇ",
+        "HRUŠEŇ",
+        "TŘEŠEŇ",
+        "SLIVOŇ"
       ]
     },
     {
-      "name": "Cereálie",
+      "name": "Rakouští skladatelé",
       "words": [
-        "VLOČKY",
-        "GRANOLA",
-        "KAŠE",
-        "LUPÍNKY"
+        "MOZART",
+        "SCHUBERT",
+        "HAYDN",
+        "MAHLER"
       ]
     },
     {
-      "name": "Druhy vajec",
+      "name": "Vesmírné teleskopy",
       "words": [
-        "SÁZENÁ",
-        "MÍCHANÁ",
-        "NATVRDO",
-        "ZTRACENÁ"
+        "HUBBLE",
+        "SPITZER",
+        "CHANDRA",
+        "HERSCHEL"
       ]
     },
     {
-      "name": "Ranní ___",
+      "name": "Mají rukáv",
       "words": [
-        "PTÁČE",
-        "ZORA",
-        "ROSA",
-        "SMĚNA"
+        "KOŠILE",
+        "SVETR",
+        "ŘEKA",
+        "LETIŠTĚ"
       ]
     }
   ]

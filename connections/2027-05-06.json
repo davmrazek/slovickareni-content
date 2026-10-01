@@ -1,40 +1,40 @@
 {
-  "id": "conn-140",
+  "id": "conn-505",
   "groups": [
     {
-      "name": "Astronomie",
+      "name": "Úklid podlahy",
       "words": [
-        "DALEKOHLED",
-        "HVĚZDÁRNA",
-        "KOMETA",
-        "ZATMĚNÍ"
+        "MOP",
+        "KÝBL",
+        "SMETÁK",
+        "LEŠTĚNKA"
       ]
     },
     {
-      "name": "Souhvězdí",
+      "name": "Americké národní parky",
       "words": [
-        "ORION",
-        "KASIOPEJA",
-        "LABUŤ",
-        "VOZKA"
+        "YELLOWSTONE",
+        "YOSEMITE",
+        "ZION",
+        "EVERGLADES"
       ]
     },
     {
-      "name": "Vesmírné mise",
+      "name": "Svátosti",
       "words": [
-        "RAKETA",
-        "SONDA",
-        "MODUL",
-        "PŘISTÁNÍ"
+        "KŘEST",
+        "BIŘMOVÁNÍ",
+        "MANŽELSTVÍ",
+        "POKÁNÍ"
       ]
     },
     {
-      "name": "Černá ___",
+      "name": "Mají hlaveň",
       "words": [
-        "DÍRA",
-        "HODINKA",
-        "MŮRA",
-        "MAGIE"
+        "PUŠKA",
+        "DĚLO",
+        "REVOLVER",
+        "TANK"
       ]
     }
   ]

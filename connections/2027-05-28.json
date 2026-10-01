@@ -1,40 +1,40 @@
 {
-  "id": "conn-162",
+  "id": "conn-527",
   "groups": [
     {
-      "name": "Truhlářství",
+      "name": "Studené polévky",
       "words": [
-        "HOBLÍK",
-        "DLÁTO",
-        "PILA",
-        "SVĚRÁK"
+        "GASPACHO",
+        "OKROŠKA",
+        "TARATOR",
+        "VICHYSSOISE"
       ]
     },
     {
-      "name": "Druhy dřeva",
+      "name": "Letiště",
       "words": [
-        "DUB",
-        "BUK",
-        "SMRK",
-        "OŘECH"
+        "HEATHROW",
+        "SCHIPHOL",
+        "ORLY",
+        "CHANGI"
       ]
     },
     {
-      "name": "Spoje ve dřevě",
+      "name": "Baletní pojmy",
       "words": [
-        "ČEP",
-        "KOLÍK",
-        "LEPIDLO",
-        "VRUT"
+        "PIRUETA",
+        "PLIÉ",
+        "BATTEMENT",
+        "ENTRECHAT"
       ]
     },
     {
-      "name": "Suchý ___",
+      "name": "Ukrývají národ",
       "words": [
-        "ZÁKON",
-        "CHLÉB",
-        "DOK",
-        "HUMOR"
+        "ARABESKA",
+        "RUSALKA",
+        "ŘEKA",
+        "FINTA"
       ]
     }
   ]

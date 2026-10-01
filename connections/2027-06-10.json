@@ -1,40 +1,40 @@
 {
-  "id": "conn-175",
+  "id": "conn-540",
   "groups": [
     {
-      "name": "Ve stáji",
+      "name": "Na hradní prohlídce",
       "words": [
-        "SENÍK",
-        "ŽLAB",
-        "PODESTÝLKA",
-        "BOX"
+        "PRŮVODCE",
+        "VSTUPENKA",
+        "EXPOZICE",
+        "NÁDVOŘÍ"
       ]
     },
     {
-      "name": "Koňský postroj",
+      "name": "České zámky",
       "words": [
-        "UZDA",
-        "TŘMEN",
-        "OTĚŽE",
-        "SEDLO"
+        "HLUBOKÁ",
+        "KONOPIŠTĚ",
+        "VALTICE",
+        "SYCHROV"
       ]
     },
     {
-      "name": "Jezdecké disciplíny",
+      "name": "Kmeny Izraele",
       "words": [
-        "DREZURA",
-        "PARKUR",
-        "VOLTIŽ",
-        "DOSTIHY"
+        "JUDA",
+        "BENJAMIN",
+        "LEVI",
+        "DAN"
       ]
     },
     {
-      "name": "Silný jako ___",
+      "name": "Mají dvířka",
       "words": [
-        "KŮŇ",
-        "BÝK",
-        "MEDVĚD",
-        "TUR"
+        "LEDNICE",
+        "TROUBA",
+        "SKŘÍŇKA",
+        "KLEC"
       ]
     }
   ]

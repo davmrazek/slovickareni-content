@@ -1,40 +1,40 @@
 {
-  "id": "conn-134",
+  "id": "conn-499",
   "groups": [
     {
-      "name": "Sadařství",
+      "name": "Pálení čarodějnic",
       "words": [
-        "ROUBOVÁNÍ",
-        "ŘEZ",
-        "PODNOŽ",
-        "ŠKOLKA"
+        "HRANICE",
+        "OHEŇ",
+        "BUŘTY",
+        "FIGURÍNA"
       ]
     },
     {
-      "name": "Peckoviny",
+      "name": "Čarodějky z příběhů",
       "words": [
-        "MERUŇKA",
-        "BROSKEV",
-        "TŘEŠEŇ",
-        "SLÍVA"
+        "JEŽIBABA",
+        "HERMIONA",
+        "SABRINA",
+        "MORGANA"
       ]
     },
     {
-      "name": "Zpracování ovoce",
+      "name": "Lidová strašidla",
       "words": [
-        "MOŠT",
-        "POVIDLA",
-        "SUŠENÍ",
-        "PÁLENKA"
+        "HEJKAL",
+        "BUBÁK",
+        "POLEDNICE",
+        "KLEKÁNICE"
       ]
     },
     {
-      "name": "Kyselé ___",
+      "name": "___ hranice",
       "words": [
-        "JABLKO",
-        "ZELÍ",
-        "MLÉKO",
-        "OKURKY"
+        "STÁTNÍ",
+        "ZELENÁ",
+        "HORNÍ",
+        "DOLNÍ"
       ]
     }
   ]

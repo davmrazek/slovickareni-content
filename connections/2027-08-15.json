@@ -1,40 +1,40 @@
 {
-  "id": "conn-241",
+  "id": "conn-606",
   "groups": [
     {
-      "name": "Ve včelařském roce",
+      "name": "Ze švestek",
       "words": [
-        "MEDOBRANÍ",
-        "ZAZIMOVÁNÍ",
-        "ROJENÍ",
-        "KRMENÍ"
+        "POVIDLA",
+        "SLIVOVICE",
+        "KNEDLÍKY",
+        "KOLÁČ"
       ]
     },
     {
-      "name": "Sladké lahůdky",
+      "name": "Pražské kluby",
       "words": [
-        "PERNÍK",
-        "BAKLAVA",
-        "NUGÁT",
-        "KARAMEL"
+        "ROXY",
+        "FUTURUM",
+        "VAGON",
+        "AKROPOLIS"
       ]
     },
     {
-      "name": "Hmyzí opylovači",
+      "name": "Obléhací stroje",
       "words": [
-        "ČMELÁK",
-        "MOTÝL",
-        "PESTŘENKA",
-        "SAMOTÁŘKA"
+        "BERAN",
+        "KATAPULT",
+        "BALISTA",
+        "TREBUCHET"
       ]
     },
     {
-      "name": "Pilný jako ___",
+      "name": "Ukrývají KAT",
       "words": [
-        "VČELKA",
-        "MRAVENEC",
-        "BOBR",
-        "STUDENT"
+        "KATALOG",
+        "KATEDRA",
+        "DELIKATESA",
+        "KATASTR"
       ]
     }
   ]

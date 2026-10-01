@@ -1,40 +1,40 @@
 {
-  "id": "conn-55",
+  "id": "conn-420",
   "groups": [
     {
-      "name": "Peníze",
+      "name": "Ryby z rybníka",
       "words": [
-        "MINCE",
-        "BANKOVKA",
-        "ŠEK",
-        "HOTOVOST"
+        "KAPR",
+        "AMUR",
+        "ŠTIKA",
+        "CANDÁT"
       ]
     },
     {
-      "name": "V obchodě",
+      "name": "Náboženství",
       "words": [
-        "ZÁKAZNÍK",
-        "VÝLOHA",
-        "REGÁL",
-        "SLEVA"
+        "JUDAISMUS",
+        "ISLÁM",
+        "HINDUISMUS",
+        "BUDDHISMUS"
       ]
     },
     {
-      "name": "V restauraci",
+      "name": "Osmitisícovky",
       "words": [
-        "JÍDELNÍČEK",
-        "ČÍŠNÍK",
-        "SPROPITNÉ",
-        "OBJEDNÁVKA"
+        "EVEREST",
+        "LHOTSE",
+        "MAKALU",
+        "ANNAPURNA"
       ]
     },
     {
-      "name": "___ karta",
+      "name": "Ukrývají LEV",
       "words": [
-        "PLATEBNÍ",
-        "ŽLUTÁ",
-        "TRUMFOVÁ",
-        "ČERVENÁ"
+        "KLEVETA",
+        "PLEVEL",
+        "SLEVA",
+        "LEVICE"
       ]
     }
   ]

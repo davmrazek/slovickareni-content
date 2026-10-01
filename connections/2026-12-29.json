@@ -1,40 +1,40 @@
 {
-  "id": "conn-12",
+  "id": "conn-377",
   "groups": [
     {
-      "name": "MHD",
+      "name": "Do vánočky",
       "words": [
-        "AUTOBUS",
-        "TRAMVAJ",
-        "METRO",
-        "TROLEJBUS"
+        "ROZINKY",
+        "MANDLE",
+        "DROŽDÍ",
+        "MOUKA"
       ]
     },
     {
-      "name": "Části domu",
+      "name": "Hlavonožci",
       "words": [
-        "STŘECHA",
-        "KOMÍN",
-        "SCHODY",
-        "PŮDA"
+        "CHOBOTNICE",
+        "SÉPIE",
+        "OLIHEŇ",
+        "LODĚNKA"
       ]
     },
     {
-      "name": "Koření",
+      "name": "Evropské hory",
       "words": [
-        "PEPŘ",
-        "SKOŘICE",
-        "ZÁZVOR",
-        "KMÍN"
+        "ELBRUS",
+        "TRIGLAV",
+        "OLYMP",
+        "MATTERHORN"
       ]
     },
     {
-      "name": "Studená ___",
+      "name": "Mají zuby",
       "words": [
-        "VÁLKA",
-        "SPRCHA",
-        "KREV",
-        "KUCHYNĚ"
+        "HŘEBEN",
+        "PILA",
+        "ZIP",
+        "HRÁBĚ"
       ]
     }
   ]

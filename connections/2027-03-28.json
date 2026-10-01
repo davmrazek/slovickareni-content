@@ -1,40 +1,40 @@
 {
-  "id": "conn-101",
+  "id": "conn-466",
   "groups": [
     {
-      "name": "Vodní ptáci na rybníce",
+      "name": "Zdobení kraslic",
       "words": [
-        "LYSKA",
-        "POTÁPKA",
-        "VOLAVKA",
-        "POLÁK"
+        "VOSK",
+        "BARVA",
+        "ŠKRÁBÁNÍ",
+        "NÁLEPKY"
       ]
     },
     {
-      "name": "Ptačí tělo",
+      "name": "Díla Komenského",
       "words": [
-        "BRK",
-        "ZOBÁK",
-        "VOLE",
-        "DRÁPY"
+        "LABYRINT",
+        "DIDAKTIKA",
+        "JANUA",
+        "INFORMATORIUM"
       ]
     },
     {
-      "name": "Tažní ptáci",
+      "name": "Jarní souhvězdí",
       "words": [
-        "ČÁP",
-        "VLAŠTOVKA",
-        "ŠPAČEK",
-        "JEŘÁB"
+        "LEV",
+        "PANNA",
+        "RAK",
+        "HYDRA"
       ]
     },
     {
-      "name": "Lehký jako ___",
+      "name": "___ zajíc",
       "words": [
-        "PÍRKO",
-        "VÁNEK",
-        "VZDUCH",
-        "MOTÝL"
+        "VELIKONOČNÍ",
+        "POLNÍ",
+        "SLEPÝ",
+        "HORSKÝ"
       ]
     }
   ]

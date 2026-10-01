@@ -1,40 +1,40 @@
 {
-  "id": "conn-154",
+  "id": "conn-519",
   "groups": [
     {
-      "name": "Sociální sítě",
+      "name": "Skatepark",
       "words": [
-        "PROFIL",
-        "SDÍLENÍ",
-        "KOMENTÁŘ",
-        "SLEDUJÍCÍ"
+        "RAMPA",
+        "ZÁBRADLÍ",
+        "HALFPIPE",
+        "OLLIE"
       ]
     },
     {
-      "name": "E-mail",
+      "name": "Čeští animátoři",
       "words": [
-        "PŘÍLOHA",
-        "PŘEDMĚT",
-        "SCHRÁNKA",
-        "ODESLAT"
+        "TRNKA",
+        "ZEMAN",
+        "POJAR",
+        "MILER"
       ]
     },
     {
-      "name": "Nakupování online",
+      "name": "Malá psí plemena",
       "words": [
-        "KOŠÍK",
-        "DOPRAVA",
-        "RECENZE",
-        "VRÁCENÍ"
+        "JORKŠÍR",
+        "ČIVAVA",
+        "MOPS",
+        "PUDL"
       ]
     },
     {
-      "name": "Rychlý ___",
+      "name": "Plody keřů",
       "words": [
-        "INTERNET",
-        "OBĚD",
-        "SPÁD",
-        "ÚSUDEK"
+        "ŠÍPEK",
+        "BEZINKA",
+        "DŘÍN",
+        "ARONIE"
       ]
     }
   ]

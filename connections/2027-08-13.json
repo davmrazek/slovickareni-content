@@ -1,40 +1,40 @@
 {
-  "id": "conn-239",
+  "id": "conn-604",
   "groups": [
     {
-      "name": "U veterináře",
+      "name": "Na gril zeleninu",
       "words": [
-        "OČKOVÁNÍ",
-        "ČIPOVÁNÍ",
-        "PRŮKAZ",
-        "PROHLÍDKA"
+        "LILEK",
+        "CUKETA",
+        "ŽAMPIONY",
+        "PAPRIKA"
       ]
     },
     {
-      "name": "Zvířecí potrava",
+      "name": "Mount Rushmore",
       "words": [
-        "SENO",
-        "KONZERVA",
-        "PAMLSEK",
-        "ZRNÍ"
+        "WASHINGTON",
+        "JEFFERSON",
+        "ROOSEVELT",
+        "LINCOLN"
       ]
     },
     {
-      "name": "Zvířata na statku",
+      "name": "Hlavní města států USA",
       "words": [
-        "PRASE",
-        "KRÁVA",
-        "HUSA",
-        "OSEL"
+        "AUSTIN",
+        "ATLANTA",
+        "PHOENIX",
+        "NASHVILLE"
       ]
     },
     {
-      "name": "Domácí ___",
+      "name": "___ zelenina",
       "words": [
-        "MAZLÍČEK",
-        "VĚZENÍ",
-        "ŘÁD",
-        "ŠTĚSTÍ"
+        "KOŘENOVÁ",
+        "LISTOVÁ",
+        "KOŠŤÁLOVÁ",
+        "PLODOVÁ"
       ]
     }
   ]

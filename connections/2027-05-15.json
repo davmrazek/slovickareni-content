@@ -1,40 +1,40 @@
 {
-  "id": "conn-149",
+  "id": "conn-514",
   "groups": [
     {
-      "name": "Novinařina",
+      "name": "V parku",
       "words": [
-        "REDAKCE",
-        "TITULEK",
-        "ROZHOVOR",
-        "UZÁVĚRKA"
+        "FONTÁNA",
+        "ALEJ",
+        "ALTÁN",
+        "LAVIČKA"
       ]
     },
     {
-      "name": "Rozhlas",
+      "name": "Památky UNESCO v ČR",
       "words": [
-        "VYSÍLÁNÍ",
-        "MODERÁTOR",
-        "FREKVENCE",
-        "ZPRÁVY"
+        "TELČ",
+        "LITOMYŠL",
+        "KROMĚŘÍŽ",
+        "TŘEBÍČ"
       ]
     },
     {
-      "name": "Reklama",
+      "name": "Obory fyziky",
       "words": [
-        "SLOGAN",
-        "BILLBOARD",
-        "SPOT",
-        "ZNAČKA"
+        "OPTIKA",
+        "MECHANIKA",
+        "AKUSTIKA",
+        "TERMODYNAMIKA"
       ]
     },
     {
-      "name": "Horký ___",
+      "name": "___ sonáta",
       "words": [
-        "KANDIDÁT",
-        "ČAJ",
-        "VZDUCH",
-        "TIP"
+        "MĚSÍČNÍ",
+        "KREUTZEROVA",
+        "PATETICKÁ",
+        "PODZIMNÍ"
       ]
     }
   ]

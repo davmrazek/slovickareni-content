@@ -1,40 +1,40 @@
 {
-  "id": "conn-67",
+  "id": "conn-432",
   "groups": [
     {
-      "name": "Pěvecké hlasy",
+      "name": "Hmyz v domě",
       "words": [
-        "SOPRÁN",
-        "ALT",
-        "TENOR",
-        "BAS"
+        "MOUCHA",
+        "KOMÁR",
+        "MOL",
+        "ŠVÁB"
       ]
     },
     {
-      "name": "Hudební pojmy",
+      "name": "Barokní skladatelé",
       "words": [
-        "STUPNICE",
-        "AKORD",
-        "PAUZA",
-        "TAKT"
+        "BACH",
+        "VIVALDI",
+        "HÄNDEL",
+        "TELEMANN"
       ]
     },
     {
-      "name": "Bicí nástroje",
+      "name": "Jedovaté rostliny",
       "words": [
-        "BUBEN",
-        "ČINELY",
-        "TRIANGL",
-        "TAMBURÍNA"
+        "BLÍN",
+        "NÁPRSTNÍK",
+        "OMĚJ",
+        "RULÍK"
       ]
     },
     {
-      "name": "___ klid",
+      "name": "___ prášek",
       "words": [
-        "SVATÝ",
-        "LEDOVÝ",
-        "NOČNÍ",
-        "DUŠEVNÍ"
+        "PRACÍ",
+        "KYPŘICÍ",
+        "PUDINKOVÝ",
+        "SVĚDIVÝ"
       ]
     }
   ]

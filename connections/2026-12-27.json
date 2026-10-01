@@ -1,40 +1,40 @@
 {
-  "id": "conn-10",
+  "id": "conn-375",
   "groups": [
     {
-      "name": "Obiloviny",
+      "name": "Stavíme sněhuláka",
       "words": [
-        "PŠENICE",
-        "ŽITO",
-        "OVES",
-        "JEČMEN"
-      ]
-    },
-    {
-      "name": "Divadelní žánry",
-      "words": [
-        "KOMEDIE",
-        "TRAGÉDIE",
-        "DRAMA",
-        "MUZIKÁL"
-      ]
-    },
-    {
-      "name": "Nádobí",
-      "words": [
+        "MRKEV",
+        "UHLÍKY",
         "HRNEC",
-        "PÁNEV",
-        "TALÍŘ",
-        "MISKA"
+        "KOŠTĚ"
       ]
     },
     {
-      "name": "Bílá ___",
+      "name": "Krasobruslařské skoky",
       "words": [
-        "VRÁNA",
-        "PANÍ",
-        "HORA",
-        "KNIHA"
+        "AXEL",
+        "RITTBERGER",
+        "SALCHOW",
+        "TULUP"
+      ]
+    },
+    {
+      "name": "Operní skladatelé",
+      "words": [
+        "VERDI",
+        "PUCCINI",
+        "WAGNER",
+        "BIZET"
+      ]
+    },
+    {
+      "name": "Začínají ptákem",
+      "words": [
+        "KOSTRA",
+        "EMULZE",
+        "ARAŠÍD",
+        "VÝROBA"
       ]
     }
   ]

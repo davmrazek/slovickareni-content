@@ -1,40 +1,40 @@
 {
-  "id": "conn-193",
+  "id": "conn-558",
   "groups": [
     {
-      "name": "Narozeniny",
+      "name": "Přístřešky",
       "words": [
-        "SVÍČKY",
-        "PŘÁNÍ",
-        "PŘÍPITEK",
-        "OSLAVENEC"
+        "STAN",
+        "JURTA",
+        "TÝPÍ",
+        "IGLÚ"
       ]
     },
     {
-      "name": "Dárkové balení",
+      "name": "Addamsova rodina",
       "words": [
-        "STUHA",
-        "PAPÍR",
-        "MAŠLE",
-        "KRABICE"
+        "GOMEZ",
+        "MORTICIA",
+        "PUGSLEY",
+        "FESTER"
       ]
     },
     {
-      "name": "Party výbava",
+      "name": "Velká psí plemena",
       "words": [
-        "BALÓNKY",
-        "KONFETY",
-        "GIRLANDA",
-        "PLAYLIST"
+        "DOGA",
+        "NOVOFUNDLANĎAN",
+        "MASTIF",
+        "LEONBERGER"
       ]
     },
     {
-      "name": "Kulaté ___",
+      "name": "Dny anglicky",
       "words": [
-        "VÝROČÍ",
-        "ČÍSLO",
-        "OKNO",
-        "BŘÍŠKO"
+        "WEDNESDAY",
+        "MONDAY",
+        "FRIDAY",
+        "SUNDAY"
       ]
     }
   ]

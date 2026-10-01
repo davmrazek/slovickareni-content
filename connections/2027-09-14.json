@@ -1,40 +1,40 @@
 {
-  "id": "conn-271",
+  "id": "conn-636",
   "groups": [
     {
-      "name": "Sportovní úrazy",
+      "name": "Podzimní výzdoba",
       "words": [
-        "VÝRON",
-        "NATAŽENÍ",
-        "OTŘES",
-        "VYKLOUBENÍ"
+        "DÝNĚ",
+        "KAŠTANY",
+        "ŠÍPKY",
+        "ŽALUDY"
       ]
     },
     {
-      "name": "Ortopedie",
+      "name": "Hudební ceny",
       "words": [
-        "SÁDRA",
-        "DLAHA",
-        "BERLE",
-        "ORTÉZA"
+        "GRAMMY",
+        "BRIT",
+        "ANDĚL",
+        "SLAVÍK"
       ]
     },
     {
-      "name": "Fyzioterapie",
+      "name": "Operní domy",
       "words": [
-        "CVIK",
-        "PROTAŽENÍ",
-        "ELEKTRODA",
-        "BAZÉN"
+        "MET",
+        "SCALA",
+        "BASTILLE",
+        "SEMPEROPER"
       ]
     },
     {
-      "name": "Kloubní ___",
+      "name": "___ anděl",
       "words": [
-        "POUZDRO",
-        "VÝŽIVA",
-        "SPOJENÍ",
-        "OPOTŘEBENÍ"
+        "STRÁŽNÝ",
+        "PADLÝ",
+        "VÁNOČNÍ",
+        "SNĚŽNÝ"
       ]
     }
   ]

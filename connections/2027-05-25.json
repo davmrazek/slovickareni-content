@@ -1,40 +1,40 @@
 {
-  "id": "conn-159",
+  "id": "conn-524",
   "groups": [
     {
-      "name": "Policejní práce",
+      "name": "Vodácká výbava",
       "words": [
-        "HLÍDKA",
-        "POUTA",
-        "SLUŽEBNA",
-        "PROTOKOL"
+        "PÁDLO",
+        "BAREL",
+        "HELMA",
+        "LOĎÁK"
       ]
     },
     {
-      "name": "Kriminalistika",
+      "name": "Vodácké řeky",
       "words": [
-        "OTISK",
-        "STOPA",
-        "SVĚDEK",
-        "REKONSTRUKCE"
+        "SÁZAVA",
+        "LUŽNICE",
+        "BEROUNKA",
+        "OHŘE"
       ]
     },
     {
-      "name": "Bezpečnost domova",
+      "name": "Asterix",
       "words": [
-        "ALARM",
-        "ZÁMEK",
-        "KAMERA",
-        "TREZOR"
+        "ASTERIX",
+        "OBELIX",
+        "IDEFIX",
+        "PANORAMIX"
       ]
     },
     {
-      "name": "Ostrá ___",
+      "name": "Slavní psi",
       "words": [
-        "MUNICE",
-        "STŘELBA",
-        "TUŽKA",
-        "ZBRAŇ"
+        "LASSIE",
+        "REX",
+        "HAČIKO",
+        "BALTO"
       ]
     }
   ]

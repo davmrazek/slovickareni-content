@@ -1,40 +1,40 @@
 {
-  "id": "conn-81",
+  "id": "conn-446",
   "groups": [
     {
-      "name": "Cukrářské suroviny",
+      "name": "Kytice",
       "words": [
-        "MARCIPÁN",
-        "ŠLEHAČKA",
-        "POLEVA",
-        "PIŠKOT"
+        "KARAFIÁT",
+        "TULIPÁN",
+        "RŮŽE",
+        "FRÉZIE"
       ]
     },
     {
-      "name": "Druhy medu",
+      "name": "Slavné Češky",
       "words": [
-        "KVĚTOVÝ",
-        "LESNÍ",
-        "AKÁTOVÝ",
-        "PASTOVÝ"
+        "NĚMCOVÁ",
+        "DESTINNOVÁ",
+        "HORÁKOVÁ",
+        "PLAMÍNKOVÁ"
       ]
     },
     {
-      "name": "Sudokopytníci",
+      "name": "Řecké bohyně",
       "words": [
-        "JELEN",
-        "SRNEC",
-        "KAMZÍK",
-        "MUFLON"
+        "ATHÉNA",
+        "AFRODITA",
+        "HÉRA",
+        "ARTEMIS"
       ]
     },
     {
-      "name": "Medový ___",
+      "name": "Den ___",
       "words": [
-        "MĚSÍC",
-        "PERNÍK",
-        "PLÁST",
-        "HLAS"
+        "MATEK",
+        "ŽEN",
+        "DĚTÍ",
+        "UČITELŮ"
       ]
     }
   ]

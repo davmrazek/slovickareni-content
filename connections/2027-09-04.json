@@ -1,40 +1,40 @@
 {
-  "id": "conn-261",
+  "id": "conn-626",
   "groups": [
     {
-      "name": "Hlavolam kostka",
+      "name": "Podzimní houby",
       "words": [
-        "OTOČKA",
-        "STĚNA",
-        "ALGORITMUS",
-        "SKLÁDÁNÍ"
+        "RYZEC",
+        "HŘIB",
+        "KLOUZEK",
+        "VÁCLAVKA"
       ]
     },
     {
-      "name": "Sudoku",
+      "name": "Asijské nástroje",
       "words": [
-        "ŘÁDEK",
-        "SLOUPEC",
-        "ČTVEREC",
-        "KANDIDÁT"
+        "SITÁR",
+        "KOTO",
+        "ŠAMISEN",
+        "GAMELAN"
       ]
     },
     {
-      "name": "Křížovka",
+      "name": "Řeholní řády",
       "words": [
-        "TAJENKA",
-        "LEGENDA",
-        "POLÍČKO",
-        "VODOROVNĚ"
+        "BENEDIKTINI",
+        "FRANTIŠKÁNI",
+        "DOMINIKÁNI",
+        "JEZUITÉ"
       ]
     },
     {
-      "name": "Skrytá ___",
+      "name": "Mají prsten",
       "words": [
-        "ZPRÁVA",
-        "VADA",
-        "HROZBA",
-        "KAMERA"
+        "BEDLA",
+        "SATURN",
+        "SNOUBENEC",
+        "BISKUP"
       ]
     }
   ]

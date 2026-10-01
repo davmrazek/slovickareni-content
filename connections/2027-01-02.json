@@ -1,40 +1,40 @@
 {
-  "id": "conn-16",
+  "id": "conn-381",
   "groups": [
     {
-      "name": "Čeští skladatelé",
+      "name": "V předsíni",
       "words": [
-        "SMETANA",
-        "DVOŘÁK",
-        "JANÁČEK",
-        "MARTINŮ"
+        "BOTNÍK",
+        "VĚŠÁK",
+        "ZRCADLO",
+        "ROHOŽKA"
       ]
     },
     {
-      "name": "Planety",
+      "name": "Pražské kopce",
       "words": [
-        "MERKUR",
-        "JUPITER",
-        "URAN",
-        "NEPTUN"
+        "PETŘÍN",
+        "VÍTKOV",
+        "LETNÁ",
+        "VYŠEHRAD"
       ]
     },
     {
-      "name": "Sváteční ___",
+      "name": "Koňská plemena",
       "words": [
-        "OBĚD",
-        "NÁLADA",
-        "ŘIDIČ",
-        "ŠATY"
+        "ARAB",
+        "HAFLING",
+        "KLADRUBÁK",
+        "LIPICÁN"
       ]
     },
     {
-      "name": "Míčové sporty",
+      "name": "Mají oko",
       "words": [
-        "VOLEJBAL",
-        "BASKETBAL",
-        "HÁZENÁ",
-        "RAGBY"
+        "JEHLA",
+        "BOUŘE",
+        "SÍŤ",
+        "BRAMBORA"
       ]
     }
   ]

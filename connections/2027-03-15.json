@@ -1,40 +1,40 @@
 {
-  "id": "conn-88",
+  "id": "conn-453",
   "groups": [
     {
-      "name": "Ve mlýně",
+      "name": "Spojovací materiál",
       "words": [
-        "KÁMEN",
-        "NÁSYPKA",
-        "KOLO",
-        "PYTEL"
+        "HŘEBÍK",
+        "ŠROUB",
+        "NÝT",
+        "SPONKA"
       ]
     },
     {
-      "name": "Pekárna",
+      "name": "Tolkienovy národy",
       "words": [
-        "KVÁSEK",
-        "TĚSTO",
-        "PEC",
-        "VÁLEK"
+        "ELFOVÉ",
+        "TRPASLÍCI",
+        "HOBITI",
+        "SKŘETI"
       ]
     },
     {
-      "name": "Druhy rohlíků",
+      "name": "Tenisové legendy",
       "words": [
-        "CELOZRNNÝ",
-        "MÁSLOVÝ",
-        "GRAHAMOVÝ",
-        "SEZAMOVÝ"
+        "FEDERER",
+        "NADAL",
+        "DJOKOVIČ",
+        "SAMPRAS"
       ]
     },
     {
-      "name": "Bílý jako ___",
+      "name": "Ukrývají OBR",
       "words": [
-        "STĚNA",
-        "MOUKA",
-        "SNÍH",
-        "KŘÍDA"
+        "DOBROTA",
+        "KOBRA",
+        "OBRUBA",
+        "OBRNA"
       ]
     }
   ]
