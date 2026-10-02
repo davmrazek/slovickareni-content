@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "M",
+      "U",
       "J",
-      "A",
-      "K",
       "#"
     ],
     [
-      "S",
+      "V",
+      "A",
+      "D",
       "I",
-      "R",
-      "A",
-      "N"
+      "T"
     ],
     [
-      "A",
+      "I",
+      "K",
+      "O",
       "N",
-      "E",
-      "B",
-      "O"
+      "A"
     ],
     [
-      "T",
+      "S",
       "A",
-      "N",
-      "E",
-      "C"
+      "L",
+      "A",
+      "M"
     ],
     [
       "#",
+      "T",
+      "I",
       "K",
-      "A",
-      "L",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Přivlastňovací zájmeno první osoby"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Sůl kyseliny sírové"
+      "clue": "Být na obtíž"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Rytmický pohyb do hudby"
+      "clue": "Uzenina nakrájená na kolečka"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Nervový záškub oka"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "clue": "Hovorově tvrdě pracovat"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "clue": "Níže položené místo mezi kopci"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Silný izolovaný vodič"
+      "clue": "Jiným způsobem, odlišně"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně oděv, roucho"
+      "clue": "Cvik na hrazdě, nohy nad zemí"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "clue": "Na onom místě, opak sem"
     }
   ]
 }

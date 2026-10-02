@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "#",
       "P",
-      "O",
-      "D",
-      "#"
-    ],
-    [
-      "Z",
-      "A",
-      "B",
-      "I",
-      "T"
-    ],
-    [
-      "U",
-      "N",
-      "A",
-      "V",
-      "A"
-    ],
-    [
-      "B",
-      "A",
-      "V",
-      "I",
-      "T"
+      "R",
+      "O"
     ],
     [
       "#",
-      "K",
+      "#",
+      "R",
+      "E",
+      "K"
+    ],
+    [
+      "Z",
+      "L",
       "A",
       "T",
+      "O"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Předložka označující nižší polohu"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Připravit o život"
+      "col": 2,
+      "cells": 3,
+      "clue": "Knižně hrdina"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vyčerpání po námaze"
+      "clue": "Drahý žlutý kov; také oslovení milované osoby"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Poskytovat zábavu"
+      "cells": 3,
+      "clue": "Král zvířat"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Kdo vykonává popravu"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Malá sklenka tvrdého alkoholu; nebo figurka"
+      "clue": "Soubor zákonů; nárok"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Strach z budoucího"
+      "col": 3,
+      "cells": 3,
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Být překvapen (~ se)"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Nástroj ke kousání v ústech"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Špatně, nedobře"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Rozsáhlý porost stromů"
     }
   ]
 }

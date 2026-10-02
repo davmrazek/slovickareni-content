@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "D",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "S",
-      "A",
-      "T",
-      "E",
-      "K"
-    ],
-    [
-      "U",
-      "V",
-      "A",
+      "#",
       "H",
+      "R",
       "A"
     ],
     [
-      "P",
-      "A",
-      "P",
-      "E",
-      "Z"
+      "#",
+      "#",
+      "R",
+      "O",
+      "H"
     ],
     [
-      "#",
-      "T",
+      "H",
+      "L",
       "A",
+      "V",
+      "A"
+    ],
+    [
+      "L",
+      "E",
+      "N",
+      "#",
+      "#"
+    ],
+    [
       "T",
+      "M",
+      "A",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Čtvercový kus látky na hlavu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Promýšlení věci; slohový útvar"
+      "clue": "Nejvyšší část těla"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Hlava katolické církve"
+      "cells": 3,
+      "clue": "Rostlina na plátno a olej"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Poskytovat, věnovat"
+      "clue": "Ostré rozhraní dvou ploch"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "col": 3,
+      "cells": 3,
+      "clue": "Knižně: hrob"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Rohovitý útvar na konci prstu"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Mrchožravý dravec"
+      "clue": "Citoslovce náhlého pochopení"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "clue": "Jedno velké polknutí; na jeden ~"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Okraj, obruba oděvu"
     }
   ]
 }

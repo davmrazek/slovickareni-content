@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "E",
       "#",
+      "N",
+      "E",
+      "Z",
       "#"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "A",
+      "Z"
     ],
     [
       "O",
-      "U",
-      "T",
-      "#",
-      "#"
+      "P",
+      "O",
+      "R",
+      "A"
     ],
     [
-      "P",
-      "L",
-      "A",
-      "S",
+      "D",
+      "O",
+      "Z",
+      "I",
       "T"
     ],
     [
       "#",
-      "#",
-      "P",
-      "A",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "N",
-      "I"
+      "J",
+      "E",
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Spojka ve srovnání (větší ~ ty)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "cells": 5,
+      "clue": "Rozhodující zápas o postup"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Svrchní oděv do deště"
+      "clue": "Ten, o koho se lze opřít"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Strávit zbytek života"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Dva k sobě patřící; nebo několik málo"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Pohybovat se dopravním prostředkem"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Úder nohou, např. do míče"
+      "col": 1,
+      "cells": 5,
+      "clue": "Co se pije"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "col": 2,
+      "cells": 5,
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Bájný drak z pohádek"
+      "cells": 5,
+      "clue": "Vydávat jasné světlo"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tečka; nebo jednotka skóre"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Počet nohou stativu"
+      "clue": "Knižně sklízet obilí srpem"
     }
   ]
 }

@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "B",
-      "A"
-    ],
-    [
-      "M",
-      "O",
       "T",
-      "Y",
+      "R",
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "U",
       "L"
     ],
     [
-      "O",
       "K",
+      "L",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "R",
       "O",
+      "V",
       "#",
       "#"
     ],
     [
-      "K",
-      "R",
-      "K",
+      "A",
+      "B",
+      "Y",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Místo, kde se prodává a nakupuje"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Řídká bavlněná tkanina na obvazy"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Hmyz s barevnými křídly, býval housenkou"
+      "clue": "Pokládat na místo"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Knižně: hrob"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Spojka účelu (~ ses učil)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Malý vodní tok"
+      "clue": "Málo světlý, blízký černé"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Obyvatel největší země světa"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Jedno velké polknutí; na jeden ~"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně nápoj"
+      "clue": "Plovoucí ledová deska"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Vysoký oblouk míčku přes soupeře"
     }
   ]
 }

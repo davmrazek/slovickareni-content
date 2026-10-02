@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "R",
-      "I"
-    ],
-    [
-      "#",
-      "#",
-      "S",
-      "A",
-      "N"
-    ],
-    [
-      "V",
-      "Z",
-      "A",
-      "D",
-      "U"
-    ],
-    [
+      "J",
       "I",
+      "Z"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "O",
+      "D"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "T",
       "O",
       "N",
       "#",
       "#"
     ],
     [
-      "S",
+      "O",
       "K",
-      "I",
+      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
+      "clue": "Knižně: už"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Bájný drak z pohádek"
+      "clue": "Herní úprava od fanoušků"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na zadní straně, opak vpředu"
+      "clue": "Svislá plocha místnosti; také lezecká"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Zvuk určité výšky"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Lyžařský, v názvech vleků a areálů"
+      "clue": "Zrakový orgán; také poutko na provaze"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Zaznamenávání písmen; také dopis"
+      "clue": "Jak se kdo nazývá"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Cvik na hrazdě, nohy nad zemí"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Velký pytel na vlnu nebo chmel"
+      "clue": "Plynutí vody; nebo proud elektřiny"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "P",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "B",
-      "A"
-    ],
-    [
       "M",
-      "O",
-      "T",
-      "Y",
-      "L"
-    ],
-    [
-      "A",
-      "S",
-      "I",
-      "#",
+      "U",
+      "Z",
       "#"
     ],
     [
       "K",
-      "A",
-      "Z",
+      "O",
+      "L",
+      "E",
+      "M"
+    ],
+    [
+      "U",
+      "D",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "N",
+      "E",
+      "H",
+      "E",
+      "T"
+    ],
+    [
       "#",
+      "L",
+      "A",
+      "N",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Dospělý člověk, kterému se říká pán"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "col": 0,
+      "cells": 5,
+      "clue": "Dokola; přibližně"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Hmyz s barevnými křídly, býval housenkou"
+      "clue": "Níže položené místo mezi kopci"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "cells": 5,
+      "clue": "Rohovitý útvar na konci prstu"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "clue": "Velké souvislé pole"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Překážka, která práci zdrží"
+      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Zadání k řešení; nebo role"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Barva listů a trávy; městská roste v parcích"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Červená polní květina; její semínka se sypou do buchet"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Vlastnit; nebo ~ se k světu"
     }
   ]
 }

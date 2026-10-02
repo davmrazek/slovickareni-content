@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "P",
-      "R",
-      "I",
       "#",
-      "#"
+      "T",
+      "R",
+      "U",
+      "P"
     ],
     [
+      "#",
       "R",
       "O",
-      "D",
-      "#",
+      "L",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "Z",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "B",
+      "U",
+      "V",
       "#"
     ],
     [
-      "S",
-      "V",
-      "E",
-      "T",
-      "R"
-    ],
-    [
-      "#",
-      "#",
+      "D",
       "A",
-      "R",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "I",
-      "D"
+      "M",
+      "A",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "col": 1,
+      "cells": 4,
+      "clue": "Tělo bez hlavy a končetin; část letadla"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Postava, kterou herec ztvárňuje"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pletený oděv na zimu"
+      "clue": "Být v poloze naplocho"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Co se obouvá"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Obyvatelstvo země"
+      "col": 0,
+      "cells": 4,
+      "clue": "Urozená žena; také desková hra"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "col": 1,
+      "cells": 5,
+      "clue": "Například; nebo je nutné"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Knižně: hrob"
+      "col": 2,
+      "cells": 5,
+      "clue": "Schopnost uvažovat"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
+      "clue": "Pocit po odeznění tíhy"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Počet prstů na ruce"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Počet nohou stativu"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Plavidlo; také hlavní prostor kostela"
     }
   ]
 }

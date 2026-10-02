@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "M",
-      "U",
-      "J",
-      "#"
-    ],
-    [
-      "V",
-      "O",
-      "N",
-      "E",
-      "T"
-    ],
-    [
-      "O",
-      "B",
-      "A",
-      "V",
-      "A"
-    ],
-    [
       "Z",
-      "I",
-      "V",
-      "I",
-      "T"
+      "D",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "O",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
+      "O"
     ],
     [
       "#",
-      "L",
-      "A",
-      "T",
-      "#"
+      "#",
+      "C",
+      "I",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "H",
+      "M"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "clue": "Na tomto místě, tady"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Šířit příjemný pach"
+      "cells": 3,
+      "clue": "Místo těžby kamene; také ~ světla v hranolu"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Strach z budoucího"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Zajišťovat obživu"
+      "clue": "Kolem dokola"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Zvýšené c v hudbě"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Telefon, který nosíme v kapse"
+      "col": 0,
+      "cells": 3,
+      "clue": "Opak dobra; vybírá se vždy to menší"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vyčerpání po námaze"
+      "col": 1,
+      "cells": 3,
+      "clue": "Místo v přístavu, kde se opravují lodě"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
+      "clue": "Cit, silné hnutí mysli"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Povoz tažený koňmi"
+      "clue": "Etanol, základ tvrdého alkoholu"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Číslo mezi sedmi a devíti"
     }
   ]
 }

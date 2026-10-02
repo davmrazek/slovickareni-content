@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
-      "R",
-      "S",
-      "T"
+      "#",
+      "N",
+      "I",
+      "C"
     ],
     [
       "#",
-      "K",
-      "O",
-      "T",
-      "E"
-    ],
-    [
-      "K",
-      "A",
-      "M",
-      "E",
-      "N"
-    ],
-    [
-      "E",
-      "L",
+      "#",
       "A",
       "N",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "P",
+      "U",
+      "L"
+    ],
+    [
+      "O",
+      "N",
+      "I",
+      "#",
       "#"
     ],
     [
-      "R",
-      "A",
-      "N",
-      "A",
+      "S",
+      "O",
+      "T",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Chlupatý pokryv zvířete"
+      "col": 2,
+      "cells": 3,
+      "clue": "Naprostá absence čehokoli"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Mládě, které si hraje s klubkem"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+      "clue": "Rovným dílem mezi dva"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "cells": 3,
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 4,
-      "clue": "Poranění; také úder"
+      "cells": 3,
+      "clue": "Krátká reportáž ve zprávách"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Holý kamenný útvar; pevný jako ~"
+      "clue": "Uhasit žízeň"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rozsáhlé prozaické dílo"
+      "col": 3,
+      "cells": 3,
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
-    },
-    {
-      "num": 4,
-      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Místo, kam směřuje cesta; meta"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
-      "P",
-      "O",
-      "J"
+      "#",
+      "A",
+      "L",
+      "E"
     ],
     [
       "#",
-      "K",
-      "O",
-      "P",
-      "I"
-    ],
-    [
-      "D",
-      "O",
-      "J",
-      "E",
+      "#",
+      "N",
+      "I",
       "T"
     ],
     [
-      "U",
-      "D",
+      "Z",
+      "M",
       "E",
-      "R",
+      "N",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "B",
+      "#",
       "#"
     ],
     [
-      "M",
-      "A",
-      "M",
-      "A",
+      "O",
+      "K",
+      "O",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
+      "col": 2,
+      "cells": 3,
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Dlouhá bodná zbraň jezdce"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dorazit na místo vozem"
+      "clue": "Přechod do jiného stavu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Prudká rána; také ~ hodin o půlnoci"
+      "cells": 3,
+      "clue": "Vysoký oblouk míčku přes soupeře"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 4,
-      "clue": "Důvěrně matka"
+      "cells": 3,
+      "clue": "Zrakový orgán; také poutko na provaze"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Způsobená ztráta; také mladoboleslavská značka"
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Obecná představa označená slovem"
+      "col": 3,
+      "cells": 3,
+      "clue": "Sladkovodní ryba se slizkou kůží"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Zpívané jevištní dílo"
-    },
-    {
-      "num": 4,
-      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Sedmé písmeno řecké abecedy"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Opak dobra; vybírá se vždy to menší"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "clue": "Knižně nápoj"
     }
   ]
 }

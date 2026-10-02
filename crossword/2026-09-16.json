@@ -5,36 +5,36 @@
   "grid": [
     [
       "#",
-      "M",
-      "U",
-      "J",
+      "N",
+      "E",
+      "Z",
       "#"
     ],
     [
-      "V",
-      "O",
-      "N",
-      "E",
-      "T"
+      "B",
+      "A",
+      "R",
+      "A",
+      "Z"
     ],
     [
       "O",
       "B",
-      "A",
-      "V",
-      "A"
+      "O",
+      "C",
+      "I"
     ],
     [
+      "D",
+      "O",
       "Z",
-      "I",
-      "V",
       "I",
       "T"
     ],
     [
       "#",
-      "L",
-      "A",
+      "J",
+      "E",
       "T",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "clue": "Spojka ve srovnání (větší ~ ty)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Šířit příjemný pach"
+      "clue": "Rozhodující zápas o postup"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Strach z budoucího"
+      "clue": "Chloupky nad okem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Zajišťovat obživu"
+      "clue": "Strávit zbytek života"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Pohybovat se dopravním prostředkem"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Telefon, který nosíme v kapse"
+      "clue": "Střelivo do zbraně"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vyčerpání po námaze"
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
+      "clue": "Pustit se do práce"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Povoz tažený koňmi"
+      "clue": "Tečka; nebo jednotka skóre"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Být naživu"
     }
   ]
 }

@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "R",
-      "O"
+      "T",
+      "A",
+      "M"
     ],
     [
       "#",
       "#",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "V",
+      "S",
+      "A",
+      "K"
+    ],
+    [
       "L",
-      "E",
-      "N"
-    ],
-    [
+      "I",
       "T",
-      "R",
-      "E",
-      "T",
-      "I"
-    ],
-    [
-      "M",
-      "E",
-      "C",
       "#",
       "#"
     ],
     [
-      "A",
-      "C",
-      "H",
+      "E",
+      "S",
+      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Řadová číslovka po druhém"
+      "clue": "Knižní odporovací spojka: ale, jenže"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "clue": "Nalévat; nebo ~ jako z konve"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Směs mouky a vody před pečením"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Cvik na hrazdě, nohy nad zemí"
     }
   ]
 }

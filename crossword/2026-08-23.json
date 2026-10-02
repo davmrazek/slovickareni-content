@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
+      "D",
+      "V",
       "A",
-      "L",
-      "E",
-      "#",
-      "#"
-    ],
-    [
-      "S",
-      "E",
-      "F",
       "#",
       "#"
     ],
     [
       "I",
-      "D",
+      "N",
+      "U",
+      "#",
+      "#"
+    ],
+    [
+      "L",
       "E",
-      "A",
-      "L"
-    ],
-    [
-      "#",
-      "#",
-      "K",
-      "R",
-      "A"
-    ],
-    [
-      "#",
-      "#",
       "T",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "R",
       "A",
-      "K"
+      "P"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Číslo mezi jedničkou a trojkou"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Nadřízený v práci"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
+      "clue": "V tomto roce"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Rytmicky mluvený hudební styl"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Jedna část celku či seriálu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Venku, mimo; opak uvnitř"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Výsledný účinek; také zvukový ~ ve filmu"
+      "clue": "Ten, kdo dílo vytvořil"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
     }
   ]
 }

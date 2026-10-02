@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "P",
+      "R",
+      "O",
       "#",
-      "#",
-      "C",
-      "A",
-      "S"
+      "#"
     ],
     [
-      "#",
-      "#",
+      "R",
+      "O",
       "H",
-      "L",
-      "T"
+      "#",
+      "#"
     ],
     [
-      "Z",
+      "S",
+      "K",
       "L",
       "A",
-      "T",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "S",
       "O"
     ],
     [
-      "L",
-      "E",
-      "T",
       "#",
-      "#"
-    ],
-    [
-      "O",
+      "#",
       "D",
-      "A",
-      "#",
-      "#"
+      "I",
+      "K"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Plyne a měříme ho hodinami"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "clue": "Hala, kde se ukládá zboží"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Projev vděčnosti, poděkování"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rekreační stavení"
+      "col": 0,
+      "cells": 3,
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
+      "col": 2,
+      "cells": 5,
+      "clue": "Šetrnost k druhým"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Snad, pravděpodobně"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Místo v přístavu, kde se opravují lodě"
     }
   ]
 }

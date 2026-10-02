@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "#",
-      "L",
-      "Z",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "Z",
+      "K",
+      "D",
       "E",
-      "T"
+      "#",
+      "#"
     ],
     [
-      "H",
-      "L",
-      "I",
-      "N",
-      "A"
-    ],
-    [
-      "M",
+      "D",
       "O",
-      "C",
+      "M",
       "#",
       "#"
     ],
     [
-      "M",
-      "S",
-      "E",
+      "O",
+      "K",
+      "O",
+      "L",
+      "O"
+    ],
+    [
       "#",
-      "#"
+      "#",
+      "C",
+      "A",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "T",
+      "A"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Je možné (~ to udělat)"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Velký chrám (kolínský, milánský)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Zemina na keramiku"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Vládní síla; nebo velmi"
+      "clue": "Kolem dokola"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Katolická bohoslužba"
+      "clue": "Plyne a měříme ho hodinami"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Příbor na polévku"
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Buddhistický směr meditace"
+      "clue": "Místo v přístavu, kde se opravují lodě"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Citoslovce zamyšlení či váhání"
+      "col": 2,
+      "cells": 5,
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     }
   ]
 }

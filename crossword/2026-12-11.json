@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "N",
-      "A",
-      "S",
-      "#",
-      "#"
-    ],
-    [
+      "K",
+      "D",
       "O",
-      "U",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "I",
       "T",
       "#",
       "#"
     ],
     [
-      "S",
-      "T",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "R",
       "E",
-      "T"
+      "L",
+      "I",
+      "T",
+      "A"
     ],
     [
       "#",
       "#",
-      "T",
-      "M",
-      "A"
+      "S",
+      "U",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "R",
+      "T"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno (~ dům)"
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Odehrávat se, přihodit se"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bez přestání"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Bílé krystalické koření"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Jedna část celku či seriálu"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Okamžik zahájení závodu"
+      "clue": "Stopa prstu na sklenici"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Okraj, obruba oděvu"
+      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Hluboký ženský hlas"
     }
   ]
 }

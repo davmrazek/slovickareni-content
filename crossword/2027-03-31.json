@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
-      "P",
-      "O",
-      "J"
+      "V",
+      "T",
+      "I",
+      "P"
     ],
     [
       "#",
-      "K",
-      "O",
-      "P",
-      "I"
+      "L",
+      "E",
+      "D",
+      "A"
     ],
     [
-      "D",
-      "O",
-      "J",
+      "B",
+      "A",
+      "S",
       "E",
-      "T"
+      "N"
     ],
     [
       "U",
-      "D",
-      "E",
-      "R",
+      "S",
+      "T",
+      "A",
       "#"
     ],
     [
-      "M",
-      "A",
-      "M",
-      "A",
+      "S",
+      "T",
+      "O",
+      "L",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 4,
-      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
+      "clue": "Krátký příběh k zasmání"
     },
     {
       "num": 5,
       "row": 1,
       "col": 1,
       "cells": 4,
-      "clue": "Dlouhá bodná zbraň jezdce"
+      "clue": "Nanejvýš, jedině"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dorazit na místo vozem"
+      "clue": "Dílo ve verších"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 4,
-      "clue": "Prudká rána; také ~ hodin o půlnoci"
+      "clue": "Otvor s rty a zuby"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 4,
-      "clue": "Důvěrně matka"
+      "clue": "Nábytek k jídlu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Způsobená ztráta; také mladoboleslavská značka"
+      "clue": "Rodná země"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Obecná představa označená slovem"
+      "clue": "Směs mouky a vody před pečením"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Zpívané jevištní dílo"
+      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
     },
     {
       "num": 4,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Zdvořilé oslovení muže"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "clue": "Hovorově autobus"
     }
   ]
 }

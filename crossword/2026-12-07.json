@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "U",
-      "Z",
-      "#"
-    ],
-    [
+      "#",
       "P",
-      "A",
-      "N",
       "A",
       "K"
     ],
     [
-      "O",
-      "S",
-      "A",
-      "D",
-      "A"
-    ],
-    [
-      "D",
-      "I",
-      "V",
-      "A",
-      "T"
-    ],
-    [
       "#",
+      "#",
+      "S",
+      "U",
+      "D"
+    ],
+    [
+      "S",
       "V",
       "A",
       "T",
+      "Y"
+    ],
+    [
+      "R",
+      "Y",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "R",
+      "I",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Dospělý člověk, kterému se říká pán"
+      "clue": "Potom, následně"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Malá sklenka tvrdého alkoholu; nebo figurka"
+      "col": 2,
+      "cells": 3,
+      "clue": "Dřevěná nádoba na pivo"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Malé sídlo, obvykle rekreační"
+      "clue": "Uctívaný církví"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Upírat zrak"
+      "cells": 3,
+      "clue": "Nářadí na kopání záhonu, šlape se na něj"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Foukat, o větru"
+      "clue": "Předložka blízkosti (~ cestě)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Rozsáhlý horský celek"
+      "clue": "Určený ke psaní"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vyčerpání po námaze"
+      "col": 3,
+      "cells": 3,
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Prosit o vyřízení"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Předložka označující nižší polohu"
+      "clue": "Tázací příslovce času"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Kdo vykonává popravu"
+      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Naše největší sova s oranžovýma očima"
     }
   ]
 }

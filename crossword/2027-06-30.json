@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "S",
-      "R",
-      "S",
-      "T"
-    ],
-    [
-      "#",
-      "K",
-      "O",
       "T",
-      "E"
+      "E",
+      "N",
+      "#",
+      "#"
     ],
     [
-      "K",
       "A",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
       "M",
-      "E",
+      "A",
+      "L",
+      "B",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "O",
       "N"
     ],
     [
-      "E",
-      "L",
-      "A",
-      "N",
-      "#"
-    ],
-    [
+      "#",
+      "#",
+      "T",
       "R",
-      "A",
-      "N",
-      "A",
-      "#"
+      "I"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Chlupatý pokryv zvířete"
+      "col": 0,
+      "cells": 3,
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Mládě, které si hraje s klubkem"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "clue": "Obraz nanesený barvami"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Elektricky nabitá částice"
+    },
+    {
+      "num": 9,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Poranění; také úder"
+      "col": 2,
+      "cells": 3,
+      "clue": "Počet nohou stativu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Holý kamenný útvar; pevný jako ~"
+      "col": 0,
+      "cells": 3,
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rozsáhlé prozaické dílo"
+      "col": 1,
+      "cells": 3,
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
-    },
-    {
-      "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Naplnit sklenici až po okraj"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 3,
       "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "clue": "Suchý les s jehličím a pískem"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ]
 }

@@ -6,33 +6,33 @@
     [
       "#",
       "#",
-      "K",
-      "D",
-      "E"
+      "C",
+      "A",
+      "S"
     ],
     [
       "#",
       "#",
+      "H",
       "L",
-      "O",
-      "G"
+      "T"
     ],
     [
-      "P",
-      "R",
-      "I",
-      "M",
+      "Z",
+      "L",
+      "A",
+      "T",
       "O"
     ],
     [
       "L",
-      "O",
-      "M",
+      "I",
+      "T",
       "#",
       "#"
     ],
     [
-      "Z",
+      "O",
       "D",
       "A",
       "#",
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Plyne a měříme ho hodinami"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Záznam událostí v počítači"
+      "clue": "Jedno velké polknutí; na jeden ~"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bez oklik"
+      "clue": "Drahý žlutý kov; také oslovení milované osoby"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+      "clue": "Nalévat; nebo ~ jako z konve"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Dlouhodobé podnebí"
+      "clue": "Rekreační stavení"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Velký chrám (kolínský, milánský)"
+      "clue": "Hluboký ženský hlas"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Vlastní já; nafouklé bývá u hvězd"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Opak dobra; vybírá se vždy to menší"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Obyvatelstvo země"
     }
   ]
 }

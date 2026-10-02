@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "J",
-      "A",
-      "K",
       "#",
-      "#"
+      "V",
+      "O",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "C",
+      "L",
+      "E",
+      "N"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "N",
+      "I"
     ],
     [
       "E",
-      "R",
+      "L",
       "A",
-      "#",
+      "N",
       "#"
     ],
     [
-      "T",
+      "Z",
       "A",
-      "B",
-      "O",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "B",
-      "Y"
-    ],
-    [
-      "#",
-      "#",
-      "T",
-      "A",
-      "C"
+      "R",
+      "E",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "col": 1,
+      "cells": 4,
+      "clue": "Sloučenina vodíku a kyslíku"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Ten, kdo patří do spolku"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
+      "clue": "Patřící do nejteplejšího období"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nadšený rozmach do práce"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Podnos na roznášení"
+      "col": 0,
+      "cells": 4,
+      "clue": "Světelný jas na obzoru"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Pohybovat se dopravním prostředkem"
+      "col": 1,
+      "cells": 5,
+      "clue": "Hmyz, který dělá med"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "col": 2,
+      "cells": 5,
+      "clue": "Stůl v čele kostela"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Svrchní zimní oděv; také kapela z Teplic"
+      "clue": "Každý den"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Nářadí na kopání záhonu, šlape se na něj"
+      "clue": "Vědomá nepravda"
     }
   ]
 }

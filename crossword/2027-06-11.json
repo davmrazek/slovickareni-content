@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "I",
-      "T",
-      "#"
-    ],
-    [
-      "S",
-      "O",
-      "K",
-      "O",
-      "L"
-    ],
-    [
-      "U",
-      "D",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "M",
-      "E",
-      "N",
-      "I",
-      "T"
+      "#",
+      "P",
+      "R",
+      "O"
     ],
     [
       "#",
+      "#",
       "L",
-      "A",
+      "E",
+      "K"
+    ],
+    [
       "K",
+      "O",
+      "N",
+      "T",
+      "O"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "T",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+      "col": 2,
+      "cells": 3,
+      "clue": "Prostředek proti nemoci"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
+      "clue": "Bankovní účet"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Přetvářet do jiné podoby; také ~ peníze v bance"
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "clue": "Odehrávat se, přihodit se"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
+      "clue": "Naplňovat; nebo splňovat úkol"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "col": 3,
+      "cells": 3,
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Takové množství (~ práce)"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Velká dřevěná nádoba na zelí"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     }
   ]
 }

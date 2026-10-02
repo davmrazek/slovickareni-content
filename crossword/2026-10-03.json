@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
       "K",
-      "D",
-      "O"
+      "R",
+      "E",
+      "V"
     ],
     [
-      "#",
       "#",
       "R",
-      "A",
-      "J"
-    ],
-    [
-      "K",
       "O",
-      "U",
       "L",
       "E"
     ],
     [
-      "A",
-      "K",
+      "R",
+      "I",
+      "D",
+      "I",
+      "C"
+    ],
+    [
+      "U",
+      "Z",
+      "I",
       "T",
-      "#",
       "#"
     ],
     [
-      "P",
-      "R",
-      "Y",
-      "#",
+      "M",
+      "E",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Místo blaženosti, zahrada Eden"
+      "col": 1,
+      "cells": 4,
+      "clue": "Rudá tekutina v cévách"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Postava, kterou herec ztvárňuje"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dokonale kulaté těleso"
+      "clue": "Ten, kdo sedí za volantem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "cells": 4,
+      "clue": "Upotřebit; také si vychutnat"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Uvozuje doslechnutou zprávu"
+      "cells": 4,
+      "clue": "Cíl, ke kterému směřujeme"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Nemilosrdný"
+      "clue": "Vážné zhoršení poměrů"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Do větší vzdálenosti"
+      "col": 2,
+      "cells": 5,
+      "clue": "Přivádět na svět"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Tyč, za kterou táhne kůň vůz"
+      "col": 3,
+      "cells": 5,
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Zvuk padající krůpěje"
+      "clue": "Předmět; nebo záležitost"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Destilát z cukrové třtiny"
     }
   ]
 }

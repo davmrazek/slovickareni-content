@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "N",
-      "A",
-      "S",
-      "#",
-      "#"
-    ],
-    [
+      "P",
+      "R",
       "O",
-      "U",
-      "T",
       "#",
       "#"
     ],
     [
-      "S",
-      "T",
-      "A",
       "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "I",
-      "T"
-    ],
-    [
-      "#",
-      "#",
       "A",
-      "H",
-      "A"
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "Z",
+      "D",
+      "R",
+      "O",
+      "J"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "A",
+      "D"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno (~ dům)"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Nátěr na nehty nebo na dřevo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bez přestání"
+      "clue": "Odkud něco pochází"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Splétat věnec z kvítí"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Vysázený ovocný porost"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Tekutina vylisovaná z ovoce"
+      "clue": "Územní jednotka"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Prvek v dezinfekci ran"
     }
   ]
 }

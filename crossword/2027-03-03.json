@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "J",
-      "A",
-      "K"
+      "Z",
+      "D",
+      "E"
     ],
     [
       "#",
       "#",
+      "L",
       "A",
-      "N",
-      "O"
+      "T"
+    ],
+    [
+      "C",
+      "H",
+      "A",
+      "T",
+      "A"
     ],
     [
       "O",
-      "B",
-      "D",
-      "I",
-      "V"
-    ],
-    [
-      "J",
-      "A",
-      "R",
+      "U",
+      "T",
       "#",
       "#"
     ],
     [
-      "E",
-      "S",
-      "O",
+      "Z",
+      "L",
+      "Y",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Na tomto místě, tady"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Uznalý úžas nad něčím"
+      "clue": "Rekreační stavení"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Zkratka Jihoafrické republiky"
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Plný zloby, nedobrý"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Střed ořechu; také atomu"
+      "clue": "Z drahého žlutého kovu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Lesklý tavitelný materiál, např. železo"
+      "clue": "Sedmé písmeno řecké abecedy"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Tyč, za kterou táhne kůň vůz"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Nejhlubší mužský hlas"
+      "clue": "Opora při chůzi"
     }
   ]
 }

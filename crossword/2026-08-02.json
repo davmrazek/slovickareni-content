@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
       "R",
-      "S",
-      "T"
-    ],
-    [
-      "#",
-      "K",
       "O",
-      "T",
-      "E"
+      "K",
+      "#"
     ],
     [
       "K",
       "A",
+      "B",
+      "A",
+      "T"
+    ],
+    [
+      "E",
       "M",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "Z",
+      "E",
+      "L",
       "E",
       "N"
     ],
     [
-      "E",
+      "#",
+      "C",
+      "I",
       "L",
-      "A",
-      "N",
-      "#"
-    ],
-    [
-      "R",
-      "A",
-      "N",
-      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 4,
-      "clue": "Chlupatý pokryv zvířete"
+      "cells": 3,
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
-      "num": 5,
+      "num": 4,
       "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Mládě, které si hraje s klubkem"
+      "col": 0,
+      "cells": 5,
+      "clue": "Svrchní zimní oděv; také kapela z Teplic"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "cells": 5,
+      "clue": "Barva listů a trávy; městská roste v parcích"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Poranění; také úder"
+      "col": 1,
+      "cells": 3,
+      "clue": "Místo, kam směřuje cesta; meta"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Holý kamenný útvar; pevný jako ~"
+      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rozsáhlé prozaické dílo"
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
+      "clue": "Štěkavý průvodce nachlazení"
     },
     {
       "num": 4,
-      "row": 0,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vyjadřuje přání: ~ by to byla pravda"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
       "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
     }
   ]
 }

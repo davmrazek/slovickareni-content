@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "H",
-      "R",
-      "A"
+      "M",
+      "I",
+      "T"
     ],
     [
       "#",
       "#",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "V",
+      "S",
+      "T",
+      "U",
+      "P"
+    ],
+    [
       "L",
       "E",
-      "V"
-    ],
-    [
-      "P",
-      "L",
-      "I",
-      "C",
-      "E"
-    ],
-    [
-      "L",
-      "I",
-      "N",
+      "T",
       "#",
       "#"
     ],
     [
-      "Z",
+      "K",
       "D",
-      "A",
+      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
+      "clue": "Vlastnit; nebo ~ se k světu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Král zvířat"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Orgán dýchání"
+      "clue": "Vejití; nebo poplatek za vpuštění"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Sladkovodní ryba se slizkou kůží"
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Tázací zájmeno ptající se na osobu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Zemina na keramiku"
+      "clue": "Heslo či citát v čele textu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Latinský pozdrav v modlitbě"
+      "clue": "Odhad, sázka na výsledek"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Obyvatelstvo země"
+      "clue": "Barva popela, mezi bílou a černou"
     }
   ]
 }

@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "O",
+      "N",
+      "E",
+      "Z",
       "#",
       "#"
     ],
     [
-      "O",
-      "U",
-      "T",
+      "A",
+      "R",
+      "A",
       "#",
       "#"
     ],
     [
-      "S",
-      "M",
-      "I",
-      "C",
-      "H"
-    ],
-    [
-      "#",
-      "#",
       "S",
       "A",
-      "L"
+      "Z",
+      "B",
+      "A"
     ],
     [
       "#",
       "#",
-      "K",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "T",
       "R",
-      "T"
+      "I"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Spojka ve srovnání (větší ~ ty)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Reakce na vtip; prý nejlepší lék"
+      "clue": "Stanovená míra platby; úprava textu"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Místnost pro ples; také pruh látky kolem krku"
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "clue": "Počet nohou stativu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Černý pták se žlutým zobákem"
+      "clue": "Přivlastňovací zájmeno (~ dům)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "clue": "Prožít na vlastní kůži"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Suchý les s jehličím a pískem"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ]
 }

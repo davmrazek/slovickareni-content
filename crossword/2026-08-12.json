@@ -26,15 +26,15 @@
     ],
     [
       "M",
-      "E",
-      "C",
+      "Y",
+      "S",
       "#",
       "#"
     ],
     [
       "A",
-      "C",
-      "H",
+      "K",
+      "T",
       "#",
       "#"
     ]
@@ -66,14 +66,14 @@
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "clue": "Kočičí kořist; také výběžek pevniny do moře"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Splétat vlnu jehlicemi"
     },
     {
       "num": 2,
@@ -110,7 +110,7 @@
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Hromový řev davu či zvěře"
     }
   ]
 }

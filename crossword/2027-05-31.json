@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "J",
-      "I",
-      "Z"
-    ],
-    [
-      "#",
-      "#",
-      "M",
-      "O",
-      "D"
-    ],
-    [
-      "Z",
-      "M",
+      "T",
       "E",
-      "N",
-      "A"
+      "N"
     ],
     [
-      "D",
+      "#",
+      "#",
       "A",
+      "S",
+      "I"
+    ],
+    [
       "N",
+      "E",
+      "B",
+      "O",
+      "T"
+    ],
+    [
+      "A",
+      "R",
+      "A",
       "#",
       "#"
     ],
     [
-      "E",
-      "G",
-      "O",
+      "S",
+      "A",
+      "K",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Knižně: už"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Herní úprava od fanoušků"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Přechod do jiného stavu"
+      "clue": "Spojka příčiny: protože, vždyť"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Povinná platba státu"
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Vlastní já; nafouklé bývá u hvězd"
+      "clue": "Rybářská síť na tyči"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Přivlastňovací zájmeno (~ dům)"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Čaroděj, kouzelník"
+      "clue": "Dějinné období, epocha"
     }
   ]
 }

@@ -6,37 +6,37 @@
     [
       "P",
       "R",
-      "O",
+      "I",
       "#",
       "#"
     ],
     [
       "R",
       "O",
-      "V",
+      "D",
       "#",
       "#"
     ],
     [
       "S",
-      "K",
-      "O",
-      "L",
+      "V",
+      "E",
+      "T",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "R",
       "A"
     ],
     [
       "#",
       "#",
-      "C",
+      "L",
       "I",
-      "N"
-    ],
-    [
-      "#",
-      "#",
-      "E",
-      "S",
-      "O"
+      "D"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Předložka blízkosti (~ cestě)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně: hrob"
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Budova, kde se učí; podle staré komedie základ života"
+      "clue": "Pletený oděv na zimu"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Skutek, konání; také kov na pocínování"
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Obyvatelstvo země"
     }
   ],
   "down": [
@@ -89,28 +89,28 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Knižně: hrob"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Sladké plody stromů"
+      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Stroj, který tlakem drtí nebo tvaruje"
+      "clue": "Počet nohou stativu"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     }
   ]
 }

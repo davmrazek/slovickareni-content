@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "Z",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "M",
+      "T",
       "A",
-      "G"
+      "M"
     ],
     [
-      "J",
-      "M",
-      "E",
-      "N",
-      "O"
+      "#",
+      "#",
+      "O",
+      "S",
+      "A"
     ],
     [
-      "H",
+      "P",
+      "A",
+      "L",
+      "I",
+      "T"
+    ],
+    [
       "O",
       "N",
+      "I",
       "#",
       "#"
     ],
     [
-      "O",
       "D",
-      "A",
+      "O",
+      "K",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Čaroděj, kouzelník"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "clue": "Působit žárem; destilovat"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Štvanice na zvěř"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Místo v přístavu, kde se opravují lodě"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Přechod do jiného stavu"
+      "clue": "Takové množství (~ práce)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Povinná platba státu"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Vlastní já; nafouklé bývá u hvězd"
+      "clue": "Rozhodující tah, jímž končí šachová partie"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Dřevo na krku tažného dobytka; útlak"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Herní úprava od fanoušků"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     }
   ]
 }

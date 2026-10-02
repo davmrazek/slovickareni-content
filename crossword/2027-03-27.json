@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "S",
+      "T",
+      "O",
       "#",
+      "#"
+    ],
+    [
       "M",
-      "U",
-      "J",
+      "Y",
+      "S",
+      "#",
       "#"
     ],
     [
       "S",
-      "A",
       "M",
-      "E",
-      "C"
-    ],
-    [
-      "U",
+      "A",
       "L",
-      "E",
-      "V",
-      "A"
-    ],
-    [
-      "P",
-      "I",
-      "L",
-      "I",
-      "R"
+      "T"
     ],
     [
       "#",
-      "R",
-      "Y",
-      "T",
-      "#"
+      "#",
+      "D",
+      "U",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "H",
+      "A"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Zvíře mužského pohlaví"
+      "cells": 3,
+      "clue": "Kočičí kořist; také výběžek pevniny do moře"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Mohutná svislá podpěra mostu"
+      "clue": "Sklovitý povlak na plechovém hrnci"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "clue": "Stavba k bydlení; nebo obchodní ~"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce náhlého pochopení"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "col": 0,
+      "cells": 3,
+      "clue": "Krátká textová zpráva"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vyrobený, ne přírodní"
+      "col": 1,
+      "cells": 3,
+      "clue": "Skupina hráčů či pracovníků"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Mrchožravý dravec"
+      "clue": "Vlhký les a louky při řece; s háji tvoří známou dvojici"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     }
   ]
 }

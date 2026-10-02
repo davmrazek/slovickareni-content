@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "Z",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "B",
-      "U",
-      "M"
-    ],
-    [
-      "S",
-      "P",
-      "O",
-      "L",
-      "U"
-    ],
-    [
-      "R",
+      "T",
       "A",
-      "Z",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "L",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "H",
+      "E",
+      "V"
+    ],
+    [
+      "O",
+      "S",
+      "A",
       "#",
       "#"
     ],
     [
-      "P",
-      "R",
+      "S",
       "I",
+      "N",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Zvuk výbuchu"
+      "clue": "Poplatek za dovoz zboží přes hranice"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Společně"
+      "clue": "Skleněná nádoba na nápoje"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Svérázná povaha kraje nebo stavby"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
+      "clue": "Velký reprezentační sál"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Co se prodává v regálech"
+      "clue": "Otec manželky nebo manžela"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Australský neletící pták"
+      "clue": "Lesklý tavitelný materiál, např. železo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
+      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Dva k sobě patřící; nebo několik málo"
+      "clue": "Snad, pravděpodobně"
     }
   ]
 }

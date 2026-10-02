@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "A",
+      "R",
+      "O",
       "K"
     ],
     [
       "#",
       "#",
       "O",
-      "K",
+      "B",
       "R"
     ],
     [
-      "L",
-      "H",
-      "U",
       "T",
-      "A"
+      "A",
+      "B",
+      "A",
+      "K"
     ],
     [
+      "E",
+      "S",
       "O",
-      "U",
-      "T",
       "#",
       "#"
     ],
     [
-      "S",
+      "D",
+      "I",
       "T",
-      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Čas, do kdy je nutné něco stihnout"
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Odehrávat se, přihodit se"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Silný vztah; také želízka na rukou"
+      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "clue": "V tomto okamžiku"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Závod na zpracování kovu"
+      "clue": "Snad, pravděpodobně"
     }
   ]
 }

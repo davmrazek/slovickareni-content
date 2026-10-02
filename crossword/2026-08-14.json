@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "I",
-      "T",
-      "#"
-    ],
-    [
+      "P",
+      "A",
       "S",
-      "O",
-      "K",
-      "O",
-      "L"
-    ],
-    [
-      "U",
-      "D",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "M",
-      "E",
-      "N",
-      "I",
       "T"
     ],
     [
       "#",
-      "L",
-      "A",
+      "R",
+      "U",
       "K",
+      "A"
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      "O",
+      "M"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "L",
+      "#"
+    ],
+    [
+      "S",
+      "I",
+      "R",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "cells": 4,
+      "clue": "Nastražené zařízení na zvíře"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+      "col": 1,
+      "cells": 4,
+      "clue": "Horní končetina s pěti prsty"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
+      "clue": "Následně, později"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Přetvářet do jiné podoby; také ~ peníze v bance"
+      "cells": 4,
+      "clue": "Korálový ostrov ve tvaru prstence"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "col": 0,
+      "cells": 4,
+      "clue": "Žlutý prvek zapáchající po zápalkách"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
+      "clue": "Předložka odporu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "clue": "Ten, kdo dílo vytvořil"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Budova, kde se učí; podle staré komedie základ života"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Na onom místě, opak sem"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Řemen kolem beder; také doklad na cesty"
     }
   ]
 }

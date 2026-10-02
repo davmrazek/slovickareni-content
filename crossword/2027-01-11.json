@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "A",
+      "#",
+      "P",
+      "R",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "E",
+      "N"
+    ],
+    [
+      "V",
+      "E",
+      "N",
       "K",
+      "U"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "#",
       "#"
     ],
     [
       "S",
-      "I",
-      "R",
-      "A",
-      "N"
-    ],
-    [
-      "A",
-      "N",
-      "E",
-      "B",
-      "O"
-    ],
-    [
+      "O",
       "T",
-      "A",
-      "N",
-      "E",
-      "C"
-    ],
-    [
       "#",
-      "K",
-      "A",
-      "L",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Předložka blízkosti (~ cestě)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Sůl kyseliny sírové"
+      "col": 2,
+      "cells": 3,
+      "clue": "Rostlina na plátno a olej"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Mimo budovu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Rytmický pohyb do hudby"
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Krátká reportáž ve zprávách"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "clue": "Naplňovat; nebo splňovat úkol"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "col": 3,
+      "cells": 3,
+      "clue": "Knižně hrdina"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Silný izolovaný vodič"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Knižně oděv, roucho"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "clue": "Přivlastňovací zájmeno druhé osoby množné"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ]
 }

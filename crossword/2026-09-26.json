@@ -6,36 +6,36 @@
     [
       "K",
       "D",
-      "O",
+      "E",
       "#",
       "#"
     ],
     [
-      "O",
-      "U",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "S",
-      "M",
+      "D",
       "I",
-      "C",
-      "H"
+      "L",
+      "#",
+      "#"
     ],
     [
-      "#",
-      "#",
+      "O",
+      "T",
+      "I",
       "S",
-      "A",
-      "L"
+      "K"
     ],
     [
       "#",
       "#",
+      "T",
+      "U",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "A",
       "K",
-      "R",
       "T"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Jedna část celku či seriálu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Reakce na vtip; prý nejlepší lék"
+      "clue": "Stopa prstu na sklenici"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Místnost pro ples; také pruh látky kolem krku"
+      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Černý pták se žlutým zobákem"
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "clue": "Odehrávat se, přihodit se"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Tvrdé místo po větvi v prkně"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
     }
   ]
 }

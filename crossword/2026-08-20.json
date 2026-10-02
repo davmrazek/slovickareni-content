@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "M",
-      "I",
-      "T",
       "#",
-      "#"
-    ],
-    [
-      "A",
-      "N",
+      "R",
       "O",
-      "#",
-      "#"
-    ],
-    [
       "K",
-      "U",
-      "P",
-      "E",
-      "C"
+      "#"
     ],
     [
-      "#",
-      "#",
+      "D",
+      "U",
+      "V",
       "O",
-      "S",
+      "D"
+    ],
+    [
+      "I",
+      "K",
+      "O",
+      "N",
       "A"
     ],
     [
+      "K",
+      "A",
+      "C",
+      "E",
+      "T"
+    ],
+    [
       "#",
-      "#",
-      "L",
-      "O",
-      "S"
+      "V",
+      "E",
+      "C",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "cells": 5,
+      "clue": "Příčina jednání"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Obchodník; ten, kdo kupuje"
+      "clue": "Náboženský obraz; nebo symbol na displeji"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Porážet stromy"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "clue": "Předmět; nebo záležitost"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Červená polní květina; její semínka se sypou do buchet"
+      "col": 1,
+      "cells": 5,
+      "clue": "Část oděvu na paži"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Sladké plody stromů"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Štíhlý strom vysazovaný do alejí"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "cells": 5,
+      "clue": "Opak začátku; když je dobrý, všechno je dobré"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Projev vděčnosti, poděkování"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Plyne a měříme ho hodinami"
+      "clue": "Poskytnout, věnovat"
     }
   ]
 }

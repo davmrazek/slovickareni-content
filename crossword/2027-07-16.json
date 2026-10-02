@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "A",
-      "K",
-      "#"
+      "#",
+      "P",
+      "R",
+      "O"
     ],
     [
+      "#",
+      "#",
+      "L",
+      "E",
+      "K"
+    ],
+    [
+      "K",
+      "O",
+      "N",
+      "T",
+      "O"
+    ],
+    [
+      "A",
       "S",
       "I",
-      "R",
-      "A",
-      "N"
-    ],
-    [
-      "A",
-      "N",
-      "E",
-      "B",
-      "O"
+      "#",
+      "#"
     ],
     [
       "T",
       "A",
-      "N",
-      "E",
-      "C"
-    ],
-    [
+      "T",
       "#",
-      "K",
-      "A",
-      "L",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Sůl kyseliny sírové"
+      "col": 2,
+      "cells": 3,
+      "clue": "Prostředek proti nemoci"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Bankovní účet"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Rytmický pohyb do hudby"
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Měnit se z ledu ve vodu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "clue": "Naplňovat; nebo splňovat úkol"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "col": 3,
+      "cells": 3,
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Silný izolovaný vodič"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Knižně oděv, roucho"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "clue": "Kdo vykonává popravu"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     }
   ]
 }

@@ -8,25 +8,25 @@
       "#",
       "J",
       "I",
-      "T"
+      "Z"
     ],
     [
       "#",
       "#",
       "M",
       "O",
-      "R"
+      "D"
     ],
     [
-      "C",
-      "T",
+      "Z",
+      "M",
       "E",
       "N",
-      "I"
+      "A"
     ],
     [
       "L",
-      "I",
+      "A",
       "N",
       "#",
       "#"
@@ -45,28 +45,28 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Knižně: už"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Zhoubná nakažlivá nemoc"
+      "clue": "Herní úprava od fanoušků"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vnímání textu"
+      "clue": "Přechod do jiného stavu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Sladkovodní ryba se slizkou kůží"
+      "clue": "Velké souvislé pole"
     },
     {
       "num": 8,
@@ -96,21 +96,21 @@
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Počet nohou stativu"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Poplatek za dovoz zboží přes hranice"
+      "clue": "Opak dobra; vybírá se vždy to menší"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Nervový záškub oka"
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
     }
   ]
 }

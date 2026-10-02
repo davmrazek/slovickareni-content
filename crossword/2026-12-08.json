@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "D",
-      "V",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "R",
-      "E",
-      "C"
-    ],
-    [
-      "P",
-      "R",
-      "A",
-      "C",
-      "H"
-    ],
-    [
-      "L",
-      "O",
       "M",
-      "#",
+      "O",
+      "C",
       "#"
     ],
     [
-      "Z",
-      "D",
+      "K",
       "A",
+      "B",
+      "E",
+      "L"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "E",
+      "K"
+    ],
+    [
       "#",
+      "T",
+      "I",
+      "K",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Číslo mezi jedničkou a trojkou"
+      "clue": "Vládní síla; nebo velmi"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "col": 0,
+      "cells": 5,
+      "clue": "Silný izolovaný vodič"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jemné suché částice; nebo střelný ~"
+      "clue": "Kolem dokola"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+      "cells": 5,
+      "clue": "Malý papírový nebo igelitový obal"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Nervový záškub oka"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Divadelní hra s vážným dějem"
+      "clue": "Hovorově tvrdě pracovat"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Předmět; nebo záležitost"
+      "col": 2,
+      "cells": 5,
+      "clue": "Chloupky nad okem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Souhrn všech částí"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Černý pták se žlutým zobákem"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Jeden doušek nápoje"
     }
   ]
 }

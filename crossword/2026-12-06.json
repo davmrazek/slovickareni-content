@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "M",
-      "U",
       "J",
+      "A",
+      "K",
+      "#",
       "#"
     ],
     [
-      "S",
-      "A",
-      "M",
-      "E",
-      "C"
-    ],
-    [
+      "H",
       "U",
       "L",
-      "E",
-      "V",
-      "A"
+      "#",
+      "#"
     ],
     [
-      "P",
+      "O",
+      "T",
       "I",
-      "L",
-      "I",
-      "R"
+      "S",
+      "K"
     ],
     [
       "#",
-      "R",
-      "Y",
-      "T",
-      "#"
+      "#",
+      "M",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "B",
+      "Y"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Zvíře mužského pohlaví"
+      "cells": 3,
+      "clue": "Opora při chůzi"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Mohutná svislá podpěra mostu"
+      "clue": "Stopa prstu na sklenici"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "clue": "Herní úprava od fanoušků"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Spojka účelu (~ ses učil)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "col": 0,
+      "cells": 3,
+      "clue": "Dřevo na krku tažného dobytka; útlak"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vyrobený, ne přírodní"
+      "col": 1,
+      "cells": 3,
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
+      "clue": "Dlouhodobé podnebí"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Mrchožravý dravec"
+      "clue": "Severský jelen, který táhne saně"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Tázací příslovce času"
     }
   ]
 }

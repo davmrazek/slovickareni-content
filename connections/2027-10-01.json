@@ -1,0 +1,41 @@
+{
+  "id": "conn-653",
+  "groups": [
+    {
+      "name": "Odlétají na jih",
+      "words": [
+        "HUSY",
+        "JEŘÁBI",
+        "ČÁPI",
+        "VLAŠTOVKY"
+      ]
+    },
+    {
+      "name": "Africká jezera",
+      "words": [
+        "TANGANIKA",
+        "TURKANA",
+        "VIKTORIE",
+        "KIVU"
+      ]
+    },
+    {
+      "name": "Ornitologie",
+      "words": [
+        "KROUŽKOVÁNÍ",
+        "TAH",
+        "HNÍZDĚNÍ",
+        "PŘEPEŘENÍ"
+      ]
+    },
+    {
+      "name": "Africké státy",
+      "words": [
+        "MALAWI",
+        "ČAD",
+        "KEŇA",
+        "NIGER"
+      ]
+    }
+  ]
+}

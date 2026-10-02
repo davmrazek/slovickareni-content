@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "A",
+      "R",
+      "O",
       "K",
       "#"
     ],
     [
-      "S",
-      "I",
-      "R",
+      "L",
       "A",
+      "K",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "M",
+      "O",
+      "C",
+      "E"
+    ],
+    [
+      "Z",
+      "E",
+      "L",
+      "E",
       "N"
     ],
     [
-      "A",
-      "N",
-      "E",
-      "B",
-      "O"
-    ],
-    [
-      "T",
-      "A",
-      "N",
-      "E",
-      "C"
-    ],
-    [
       "#",
-      "K",
-      "A",
-      "L",
+      "C",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Sůl kyseliny sírové"
+      "clue": "Vábit k sobě"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Rytmický pohyb do hudby"
+      "clue": "Barva listů a trávy; městská roste v parcích"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Emoce; nebo schopnost vnímat"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Silný izolovaný vodič"
+      "clue": "Porážet stromy"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně oděv, roucho"
+      "clue": "Vědomá nepravda"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     }
   ]
 }

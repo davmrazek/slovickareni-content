@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "R",
+      "O",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "I",
+      "N",
+      "C",
+      "E"
+    ],
+    [
       "#",
       "#",
       "T",
-      "R",
+      "A",
       "H"
     ],
     [
       "#",
       "#",
-      "M",
       "O",
-      "R"
-    ],
-    [
-      "V",
-      "L",
-      "A",
-      "D",
-      "A"
-    ],
-    [
-      "L",
-      "O",
-      "V",
-      "#",
-      "#"
-    ],
-    [
-      "K",
-      "D",
-      "Y",
-      "#",
-      "#"
+      "S",
+      "M"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Zhoubná nakažlivá nemoc"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Sbor ministrů"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Pronásledování zvěře"
+      "clue": "Kovový peníz"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Pohyb figurkou; nebo silné vytažení"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Číslo mezi sedmi a devíti"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Málo světlý, blízký černé"
+      "col": 0,
+      "cells": 3,
+      "clue": "Obruba obrazu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+      "col": 2,
+      "cells": 5,
+      "clue": "Bankovní účet"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Plavidlo; také hlavní prostor kostela"
+      "clue": "Plyne a měříme ho hodinami"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "I",
       "T",
+      "E",
+      "N",
       "#"
     ],
     [
       "S",
-      "O",
-      "K",
-      "O",
-      "L"
-    ],
-    [
-      "U",
-      "D",
-      "O",
-      "L",
-      "I"
-    ],
-    [
+      "A",
       "M",
       "E",
-      "N",
-      "I",
       "T"
     ],
     [
-      "#",
+      "U",
       "L",
-      "A",
-      "K",
+      "O",
+      "H",
+      "A"
+    ],
+    [
+      "M",
+      "I",
+      "C",
+      "E",
+      "K"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "T",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
+      "clue": "Zadání k řešení; nebo role"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Přetvářet do jiné podoby; také ~ peníze v bance"
+      "clue": "Malý míč, např. pingpongový"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     }
   ],
   "down": [
@@ -82,21 +82,21 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
+      "clue": "Nádobí, ze kterého se jí"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Rohovitý útvar na konci prstu"
     },
     {
       "num": 4,
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Tímto způsobem"
     }
   ]
 }

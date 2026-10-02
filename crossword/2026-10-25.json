@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "I",
-      "T",
-      "#"
-    ],
-    [
-      "Z",
-      "A",
-      "K",
-      "A",
-      "Z"
-    ],
-    [
+      "#",
       "O",
       "S",
-      "O",
-      "B",
-      "A"
-    ],
-    [
-      "K",
-      "A",
-      "N",
-      "A",
-      "L"
+      "M"
     ],
     [
       "#",
-      "T",
+      "#",
+      "R",
+      "Y",
+      "S"
+    ],
+    [
+      "D",
+      "V",
+      "E",
+      "R",
+      "E"
+    ],
+    [
+      "N",
+      "I",
+      "C",
+      "#",
+      "#"
+    ],
+    [
       "A",
-      "K",
+      "C",
+      "H",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Číslo mezi sedmi a devíti"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Úřední zápověď"
+      "col": 2,
+      "cells": 3,
+      "clue": "Šelma se štětičkami na uších; také povahová črta"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jednotlivý člověk"
+      "clue": "Vstup do místnosti"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Umělé vodní koryto; nebo stoka"
+      "cells": 3,
+      "clue": "Naprostá absence čehokoli"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Citoslovce podivu či bolesti"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Hlasitě se radovat"
+      "clue": "Plod v tvrdé skořápce"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "col": 3,
+      "cells": 3,
+      "clue": "Mléčný výrobek se zráním"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Rostlina, ze které se vyrábějí cigarety"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Velký pytel na vlnu nebo chmel"
+      "clue": "Katolická bohoslužba"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Hluboký smutek"
+      "clue": "Nositelka dědičné informace"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Ve větším množství"
     }
   ]
 }

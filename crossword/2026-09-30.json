@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "S",
+      "A",
+      "M",
       "#",
-      "#",
-      "J",
-      "I",
-      "Z"
+      "#"
     ],
     [
-      "#",
-      "#",
       "M",
-      "O",
-      "D"
+      "U",
+      "L",
+      "#",
+      "#"
     ],
     [
-      "Z",
-      "M",
+      "S",
+      "T",
       "E",
       "N",
       "A"
     ],
     [
-      "D",
-      "A",
-      "N",
       "#",
-      "#"
+      "#",
+      "K",
+      "A",
+      "R"
     ],
     [
-      "E",
-      "G",
-      "O",
       "#",
-      "#"
+      "#",
+      "O",
+      "D",
+      "A"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Knižně: už"
+      "clue": "Zcela bez doprovodu"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Herní úprava od fanoušků"
+      "clue": "Řídká bavlněná tkanina na obvazy"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Přechod do jiného stavu"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Povinná platba státu"
+      "clue": "Svislá plocha místnosti; také lezecká"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Vlastní já; nafouklé bývá u hvězd"
+      "clue": "Ledovcový kotel v horách"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "col": 0,
+      "cells": 3,
+      "clue": "Krátká textová zpráva"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "col": 2,
+      "cells": 5,
+      "clue": "Bílá tekutina od krávy"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Čaroděj, kouzelník"
+      "clue": "Předložka vyšší polohy"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
     }
   ]
 }

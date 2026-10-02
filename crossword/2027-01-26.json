@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
+      "#",
+      "R",
+      "O",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "R"
+    ],
+    [
+      "V",
+      "Z",
+      "D",
       "A",
-      "K",
+      "T"
+    ],
+    [
+      "L",
+      "E",
+      "N",
+      "#",
       "#"
     ],
     [
       "K",
-      "A",
-      "N",
-      "A",
-      "L"
-    ],
-    [
-      "U",
-      "Z",
-      "E",
-      "M",
-      "I"
-    ],
-    [
-      "N",
-      "A",
-      "B",
-      "E",
-      "H"
-    ],
-    [
+      "D",
+      "Y",
       "#",
-      "T",
-      "O",
-      "N",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Umělé vodní koryto; nebo stoka"
+      "col": 2,
+      "cells": 3,
+      "clue": "Pohádkový velikán"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vymezená část země, teritorium"
+      "clue": "Přestat v boji"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Rozběh; nebo počáteční fáze"
+      "cells": 3,
+      "clue": "Rostlina na plátno a olej"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Klást otázky, ptát se"
+      "clue": "Vztahující se k místu narození"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "col": 3,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Domácí kopytník tažný a jezdecký"
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Svislá zděná stěna"
     }
   ]
 }

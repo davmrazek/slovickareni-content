@@ -6,35 +6,35 @@
     [
       "#",
       "S",
-      "R",
-      "S",
-      "T"
+      "P",
+      "O",
+      "J"
     ],
     [
       "#",
       "K",
       "O",
-      "T",
-      "E"
+      "P",
+      "I"
     ],
     [
-      "K",
-      "A",
-      "M",
+      "D",
+      "O",
+      "J",
       "E",
-      "N"
+      "T"
     ],
     [
+      "U",
+      "D",
       "E",
-      "L",
-      "A",
-      "N",
+      "R",
       "#"
     ],
     [
-      "R",
+      "M",
       "A",
-      "N",
+      "M",
       "A",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 4,
-      "clue": "Chlupatý pokryv zvířete"
+      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
     },
     {
       "num": 5,
       "row": 1,
       "col": 1,
       "cells": 4,
-      "clue": "Mládě, které si hraje s klubkem"
+      "clue": "Dlouhá bodná zbraň jezdce"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+      "clue": "Dorazit na místo vozem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "clue": "Prudká rána; také ~ hodin o půlnoci"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 4,
-      "clue": "Poranění; také úder"
+      "clue": "Důvěrně matka"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Holý kamenný útvar; pevný jako ~"
+      "clue": "Způsobená ztráta; také mladoboleslavská značka"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rozsáhlé prozaické dílo"
+      "clue": "Obecná představa označená slovem"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
+      "clue": "Zpívané jevištní dílo"
     },
     {
       "num": 4,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Pohybovat se pěšky"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "clue": "Stavba k bydlení; nebo obchodní ~"
     }
   ]
 }

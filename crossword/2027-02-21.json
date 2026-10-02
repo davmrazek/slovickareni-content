@@ -7,34 +7,34 @@
       "#",
       "#",
       "P",
-      "R",
-      "O"
+      "A",
+      "K"
     ],
     [
       "#",
       "#",
-      "L",
-      "E",
-      "N"
+      "S",
+      "U",
+      "D"
     ],
     [
+      "S",
+      "V",
+      "A",
       "T",
-      "R",
-      "E",
-      "T",
-      "I"
+      "Y"
     ],
     [
-      "M",
-      "E",
-      "C",
+      "I",
+      "O",
+      "N",
       "#",
       "#"
     ],
     [
-      "A",
-      "C",
-      "H",
+      "P",
+      "R",
+      "I",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Potom, následně"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "clue": "Dřevěná nádoba na pivo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Řadová číslovka po druhém"
+      "clue": "Uctívaný církví"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Předložka blízkosti (~ cestě)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Zaznamenávání písmen; také dopis"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Tázací příslovce času"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Střela vystřelená z luku"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Plavidlo svázané z klád"
     }
   ]
 }

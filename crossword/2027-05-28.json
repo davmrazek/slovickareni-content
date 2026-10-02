@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "L",
-      "Z",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "Z",
-      "E",
-      "T"
-    ],
-    [
-      "T",
-      "R",
+      "N",
       "I",
-      "D",
-      "A"
+      "C"
     ],
     [
-      "M",
+      "#",
+      "#",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "P",
+      "U",
+      "L"
+    ],
+    [
       "E",
-      "C",
+      "R",
+      "A",
       "#",
       "#"
     ],
     [
+      "Z",
       "A",
-      "V",
-      "E",
+      "D",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Je možné (~ to udělat)"
+      "clue": "Naprostá absence čehokoli"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Skupina žáků; také kvalita"
+      "clue": "Rovným dílem mezi dva"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Latinský pozdrav v modlitbě"
+      "clue": "Kormidelní konec lodi"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Příbor na polévku"
+      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Svislá zděná stěna"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Místo, kam směřuje cesta; meta"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Spojka ve srovnání (větší ~ ty)"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Hlasitý zvuk zvířete"
+      "clue": "Velký barevný papoušek"
     }
   ]
 }

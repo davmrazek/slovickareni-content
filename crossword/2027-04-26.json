@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
+      "N",
+      "I",
+      "C"
+    ],
+    [
+      "#",
+      "#",
       "A",
-      "K"
+      "N",
+      "O"
     ],
     [
-      "#",
-      "#",
-      "O",
       "K",
-      "R"
-    ],
-    [
+      "A",
       "L",
-      "H",
       "U",
-      "T",
-      "A"
+      "Z"
     ],
     [
       "O",
-      "U",
-      "T",
+      "N",
+      "I",
       "#",
       "#"
     ],
     [
       "S",
+      "I",
       "T",
-      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Naprostá absence čehokoli"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Čas, do kdy je nutné něco stihnout"
+      "clue": "Louže vody po dešti"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Pletivo z nití; nebo internet"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Silný vztah; také želízka na rukou"
+      "clue": "Naplnit sklenici až po okraj"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "clue": "Černý pták se žlutým zobákem"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Závod na zpracování kovu"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "P",
-      "R",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "L",
+      "J",
       "E",
-      "K"
-    ],
-    [
-      "K",
-      "O",
       "N",
-      "T",
-      "O"
-    ],
-    [
-      "A",
-      "S",
-      "I",
-      "#",
       "#"
     ],
     [
-      "M",
+      "B",
       "A",
-      "T",
+      "R",
+      "A",
+      "Z"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "D",
+      "O",
+      "Z",
+      "I",
+      "T"
+    ],
+    [
       "#",
+      "Z",
+      "E",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Pouze, nic víc; také japonská měna"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Prostředek proti nemoci"
+      "col": 0,
+      "cells": 5,
+      "clue": "Rozhodující zápas o postup"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bankovní účet"
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "cells": 5,
+      "clue": "Strávit zbytek života"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Rozhodující tah, jímž končí šachová partie"
+      "clue": "Pro tchána i tchyni manžel jejich dcery"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Naplňovat; nebo splňovat úkol"
+      "clue": "Knižně: a rovněž, a též"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "col": 2,
+      "cells": 5,
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Naplnit sklenici až po okraj"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Tečka; nebo jednotka skóre"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Tázací příslovce směru"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Být naživu"
     }
   ]
 }

@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "O",
-      "U",
       "T",
+      "A",
+      "M",
       "#",
       "#"
     ],
     [
+      "E",
       "S",
-      "M",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "N",
       "I",
-      "C",
-      "H"
-    ],
-    [
-      "#",
-      "#",
-      "S",
-      "A",
-      "L"
-    ],
-    [
-      "#",
-      "#",
+      "Z",
       "K",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "A",
       "R",
-      "T"
+      "A"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Reakce na vtip; prý nejlepší lék"
+      "clue": "Blízko země, opak vysoko"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Místnost pro ples; také pruh látky kolem krku"
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "clue": "Velký barevný papoušek"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Černý pták se žlutým zobákem"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "clue": "Snad, je to pravděpodobné"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Ledovcový kotel v horách"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ]
 }

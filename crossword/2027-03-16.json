@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "J",
-      "A",
-      "K"
+      "Z",
+      "D",
+      "E"
     ],
     [
       "#",
       "#",
-      "I",
-      "N",
+      "L",
+      "E",
+      "M"
+    ],
+    [
+      "V",
+      "Z",
+      "A",
+      "D",
       "U"
     ],
     [
+      "L",
+      "A",
       "T",
-      "E",
-      "N",
-      "I",
-      "S"
-    ],
-    [
-      "A",
-      "R",
-      "A",
       "#",
       "#"
     ],
     [
-      "M",
-      "A",
       "K",
+      "D",
+      "Y",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Na tomto místě, tady"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Okraj, obruba oděvu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Hra s raketou přes síť"
+      "clue": "Na zadní straně, opak vpředu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Červená polní květina; její semínka se sypou do buchet"
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "clue": "Z drahého žlutého kovu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Otec rodiče"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Jeden odlomený či oddělený díl"
+      "clue": "Australský neletící pták"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Kormidelní konec lodi"
     }
   ]
 }

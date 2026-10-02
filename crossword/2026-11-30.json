@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "U",
-      "J",
+      "P",
+      "A",
+      "K",
       "#"
     ],
     [
-      "S",
+      "K",
+      "O",
+      "N",
       "A",
-      "M",
-      "E",
-      "C"
+      "T"
     ],
     [
-      "U",
-      "L",
+      "A",
+      "R",
       "E",
-      "V",
+      "N",
       "A"
     ],
     [
-      "P",
-      "I",
-      "L",
-      "I",
-      "R"
+      "R",
+      "O",
+      "B",
+      "O",
+      "T"
     ],
     [
       "#",
-      "R",
-      "Y",
-      "T",
+      "D",
+      "O",
+      "N",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "clue": "Potom, následně"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Zvíře mužského pohlaví"
+      "clue": "Uskutečňovat čin"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Mohutná svislá podpěra mostu"
+      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "clue": "Španělský šlechtický titul"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "clue": "Příchod dítěte na svět"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vyrobený, ne přírodní"
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
+      "clue": "Dělo z dob plachetnic"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Mrchožravý dravec"
+      "clue": "Ledovcový kotel v horách"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Měnit se z ledu ve vodu"
     }
   ]
 }

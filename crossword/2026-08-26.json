@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "E",
       "N",
+      "E",
+      "Z",
       "#"
     ],
     [
-      "B",
-      "A",
-      "R",
-      "A",
-      "Z"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "D",
-      "O",
       "Z",
+      "A",
+      "M",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "P",
       "I",
-      "T"
+      "L",
+      "Y"
+    ],
+    [
+      "K",
+      "A",
+      "S",
+      "E",
+      "L"
     ],
     [
       "#",
-      "Z",
+      "D",
       "E",
-      "T",
+      "N",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Spojka ve srovnání (větší ~ ty)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Rozhodující zápas o postup"
+      "clue": "Šlechtické sídlo; nebo zařízení na klíč"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
+      "clue": "Pod vlivem alkoholu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Strávit zbytek života"
+      "clue": "Štěkavý průvodce nachlazení"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Knižně: a rovněž, a též"
+      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Naplnit sklenici až po okraj"
+      "clue": "Barva listů a trávy; městská roste v parcích"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Tečka; nebo jednotka skóre"
+      "clue": "Velký pytel na vlnu nebo chmel"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Být naživu"
+      "clue": "Nosný hřbet lodi pod hladinou"
     }
   ]
 }

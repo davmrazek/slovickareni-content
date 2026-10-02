@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "A",
-      "L",
-      "E",
       "#",
+      "M",
+      "I",
+      "T",
       "#"
     ],
     [
       "S",
-      "E",
-      "F",
-      "#",
-      "#"
-    ],
-    [
-      "I",
-      "D",
-      "E",
-      "A",
+      "O",
+      "K",
+      "O",
       "L"
     ],
     [
-      "#",
-      "#",
-      "K",
-      "R",
-      "A"
+      "U",
+      "D",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "I",
+      "S"
     ],
     [
       "#",
-      "#",
-      "T",
+      "L",
       "A",
-      "T"
+      "K",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Vlastnit; nebo ~ se k světu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Nadřízený v práci"
+      "cells": 5,
+      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
+      "clue": "Níže položené místo mezi kopci"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Hra s raketou přes síť"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Plovoucí ledová deska"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Nátěr na nehty nebo na dřevo"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 1,
+      "cells": 5,
+      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "col": 2,
+      "cells": 5,
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Výsledný účinek; také zvukový ~ ve filmu"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "cells": 5,
+      "clue": "Takové množství (~ práce)"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rozpadlé zdivo, trosky"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Stroj, který tlakem drtí nebo tvaruje"
     }
   ]
 }

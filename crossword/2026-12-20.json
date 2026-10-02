@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "E",
       "#",
-      "#"
+      "#",
+      "T",
+      "R",
+      "H"
     ],
     [
-      "D",
-      "A",
-      "L",
       "#",
-      "#"
-    ],
-    [
+      "#",
+      "M",
       "O",
-      "T",
-      "I",
-      "S",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "T",
-      "U",
       "R"
     ],
     [
-      "#",
-      "#",
+      "V",
+      "L",
       "A",
+      "D",
+      "A"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "#",
+      "#"
+    ],
+    [
       "K",
-      "T"
+      "D",
+      "Y",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Místo, kde se prodává a nakupuje"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Do větší vzdálenosti"
+      "clue": "Zhoubná nakažlivá nemoc"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "clue": "Sbor ministrů"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Král zvířat"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "col": 2,
+      "cells": 5,
+      "clue": "Málo světlý, blízký černé"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "col": 4,
+      "cells": 3,
+      "clue": "Zábava podle pravidel; také divadelní text"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Tvrdé místo po větvi v prkně"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "clue": "Zmrzlá voda; v nápoji chrastí"
     }
   ]
 }

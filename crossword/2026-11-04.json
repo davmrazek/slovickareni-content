@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "S",
-      "T",
+      "P",
+      "R",
       "O"
     ],
     [
       "#",
       "#",
-      "K",
-      "U",
-      "R"
+      "R",
+      "E",
+      "K"
     ],
     [
-      "S",
-      "P",
-      "O",
-      "R",
-      "T"
-    ],
-    [
-      "R",
+      "Z",
+      "L",
       "A",
+      "T",
+      "O"
+    ],
+    [
       "D",
+      "I",
+      "V",
       "#",
       "#"
     ],
     [
-      "P",
+      "E",
       "S",
-      "A",
+      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Místo s varhanami v kostele"
+      "clue": "Knižně hrdina"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pohybová soutěž"
+      "clue": "Drahý žlutý kov; také oslovení milované osoby"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Zázrak, něco úžasného"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Čtyřnohý společník na vodítku (4. pád)"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Způsobená ztráta; také mladoboleslavská značka"
+      "clue": "Soubor zákonů; nárok"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
+      "clue": "Na tomto místě, tady"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Řemen kolem beder; také doklad na cesty"
+      "clue": "Stroj, který tlakem drtí nebo tvaruje"
     }
   ]
 }

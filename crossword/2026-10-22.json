@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "I",
-      "T",
-      "#"
-    ],
-    [
       "S",
-      "O",
-      "K",
-      "O",
-      "L"
-    ],
-    [
-      "U",
-      "D",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "M",
-      "E",
-      "N",
-      "I",
+      "R",
+      "S",
       "T"
     ],
     [
       "#",
+      "K",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "M",
+      "E",
+      "N"
+    ],
+    [
+      "E",
       "L",
       "A",
-      "K",
+      "N",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "N",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "cells": 4,
+      "clue": "Chlupatý pokryv zvířete"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+      "col": 1,
+      "cells": 4,
+      "clue": "Mládě, které si hraje s klubkem"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
+      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Přetvářet do jiné podoby; také ~ peníze v bance"
+      "cells": 4,
+      "clue": "Nadšený rozmach do práce"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "col": 0,
+      "cells": 4,
+      "clue": "Poranění; také úder"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
+      "clue": "Holý kamenný útvar; pevný jako ~"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "clue": "Rozsáhlé prozaické dílo"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Svislá plocha místnosti; také lezecká"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nízká dřevina bez kmene"
     }
   ]
 }

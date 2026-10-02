@@ -6,35 +6,35 @@
     [
       "#",
       "#",
+      "T",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "S",
+      "A"
+    ],
+    [
       "P",
-      "R",
-      "O"
-    ],
-    [
-      "#",
-      "#",
+      "A",
       "L",
-      "E",
-      "N"
+      "I",
+      "T"
     ],
     [
-      "T",
-      "R",
-      "E",
-      "T",
-      "I"
-    ],
-    [
-      "M",
-      "E",
-      "C",
+      "O",
+      "N",
+      "I",
       "#",
       "#"
     ],
     [
-      "A",
-      "C",
-      "H",
+      "T",
+      "I",
+      "K",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Řadová číslovka po druhém"
+      "clue": "Působit žárem; destilovat"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Nervový záškub oka"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Takové množství (~ práce)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Kdo vykonává popravu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Tekutina na kůži při horku"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ]
 }

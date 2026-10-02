@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "S",
-      "P",
-      "O",
-      "J"
-    ],
-    [
-      "#",
       "T",
       "A",
       "K",
-      "E"
+      "#",
+      "#"
     ],
     [
-      "K",
       "A",
       "N",
       "O",
-      "N"
-    ],
-    [
-      "O",
-      "R",
-      "E",
-      "L",
+      "#",
       "#"
     ],
     [
-      "D",
+      "M",
       "I",
-      "L",
-      "O",
-      "#"
+      "S",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "R",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "H",
+      "M"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
+      "col": 0,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Rovněž, taktéž"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dělo z dob plachetnic"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 4,
-      "clue": "Dravec ve státním znaku"
+      "clue": "Určený bod v prostoru"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
+    },
+    {
+      "num": 9,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Výsledek tvůrčí práce"
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Pokročilý věk"
+      "col": 0,
+      "cells": 3,
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Plochý díl; také ovládací deska"
+      "col": 1,
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Kolem dokola"
-    },
-    {
-      "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Náčiní na zametání"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 3,
       "cells": 3,
-      "clue": "Šifra; posloupnost znaků k odemčení"
+      "clue": "Místo, kde se prodává a nakupuje"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Číslo mezi sedmi a devíti"
     }
   ]
 }

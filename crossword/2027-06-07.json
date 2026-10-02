@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "H",
-      "R",
-      "A"
+      "T",
+      "A",
+      "K"
     ],
     [
       "#",
       "#",
+      "C",
       "L",
-      "E",
-      "C"
+      "O"
     ],
     [
-      "P",
+      "L",
+      "A",
+      "H",
+      "E",
+      "V"
+    ],
+    [
+      "E",
       "R",
       "A",
-      "C",
-      "H"
-    ],
-    [
-      "L",
-      "O",
-      "V",
       "#",
       "#"
     ],
     [
-      "Z",
-      "D",
+      "S",
       "A",
+      "N",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Knižní spojka odporovací"
+      "clue": "Poplatek za dovoz zboží přes hranice"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jemné suché částice; nebo střelný ~"
+      "clue": "Skleněná nádoba na nápoje"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Pronásledování zvěře"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Bájný drak z pohádek"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Nejvyšší část těla"
+      "clue": "Otec manželky nebo manžela"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Lesklý tavitelný materiál, např. železo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Rozsáhlý porost stromů"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Velký barevný papoušek"
     }
   ]
 }

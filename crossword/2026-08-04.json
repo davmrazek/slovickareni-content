@@ -6,36 +6,36 @@
     [
       "#",
       "T",
-      "E",
-      "N",
+      "A",
+      "K",
       "#"
     ],
     [
-      "S",
+      "K",
       "A",
-      "M",
+      "N",
       "A",
-      "N"
+      "L"
     ],
     [
-      "O",
-      "B",
-      "O",
-      "J",
+      "U",
+      "Z",
+      "E",
+      "M",
       "I"
     ],
     [
-      "T",
-      "O",
-      "C",
-      "I",
-      "T"
+      "N",
+      "A",
+      "B",
+      "E",
+      "H"
     ],
     [
       "#",
-      "R",
-      "E",
       "T",
+      "O",
+      "N",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "clue": "Umělé vodní koryto; nebo stoka"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Obou druhů zároveň"
+      "clue": "Vymezená část země, teritorium"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "clue": "Rozběh; nebo počáteční fáze"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Zvuk určité výšky"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
+      "clue": "Klást otázky, ptát se"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Objevit, co se dlouho hledalo"
+      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Etanol, základ tvrdého alkoholu"
     }
   ]
 }

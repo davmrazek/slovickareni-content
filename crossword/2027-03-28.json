@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "O",
-      "R"
-    ],
-    [
-      "L",
-      "A",
-      "S",
-      "K",
+      "H",
+      "R",
       "A"
     ],
     [
+      "#",
+      "#",
+      "L",
       "O",
-      "B",
+      "B"
+    ],
+    [
+      "P",
+      "R",
       "A",
+      "V",
+      "Y"
+    ],
+    [
+      "L",
+      "O",
+      "V",
       "#",
       "#"
     ],
     [
-      "B",
-      "Y",
-      "K",
+      "Z",
+      "D",
+      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Plavidlo svázané z klád"
+      "clue": "Vysoký oblouk míčku přes soupeře"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejsilnější cit"
+      "clue": "Nefalšovaný; opak levého"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Pronásledování zvěře"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Samec skotu"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Nejvyšší část těla"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Jeden doušek nápoje"
+      "clue": "Knižně: hrob"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Spojka účelu (~ ses učil)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Vysoký oblouk míčku přes soupeře"
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     }
   ]
 }

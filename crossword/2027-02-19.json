@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "T",
-      "A",
       "K",
+      "D",
+      "E",
       "#",
       "#"
     ],
     [
-      "A",
-      "N",
       "O",
+      "R",
+      "T",
       "#",
       "#"
     ],
     [
-      "M",
-      "I",
       "S",
-      "T",
-      "O"
+      "N",
+      "A",
+      "H",
+      "A"
     ],
     [
       "#",
       "#",
-      "T",
-      "I",
+      "P",
+      "U",
       "K"
     ],
     [
       "#",
       "#",
-      "E",
-      "S",
-      "O"
+      "A",
+      "L",
+      "T"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Vodorovná důlní chodba"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Určený bod v prostoru"
+      "clue": "Vynaložené úsilí"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Nervový záškub oka"
+      "clue": "Kotouček v ledním hokeji"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Hluboký ženský hlas"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Černý pták se žlutým zobákem"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Vyříznutý kus trávníku"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náčiní na zametání"
+      "clue": "Úsek cesty nebo vývoje, fáze"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Jehličnatý strom s červenými plody"
+      "clue": "Opora při chůzi"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ]
 }

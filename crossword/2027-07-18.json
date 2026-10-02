@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "P",
-      "R",
-      "O",
+      "T",
+      "A",
+      "M",
       "#",
       "#"
     ],
     [
-      "R",
-      "O",
-      "V",
-      "#",
-      "#"
-    ],
-    [
-      "S",
-      "K",
-      "O",
-      "L",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "C",
-      "I",
-      "N"
-    ],
-    [
-      "#",
-      "#",
       "E",
       "S",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "I",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
       "O"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "U",
+      "K"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně: hrob"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Budova, kde se učí; podle staré komedie základ života"
+      "clue": "Působit zkázu, hubit"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Skutek, konání; také kov na pocínování"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Napjatá zbraň k vystřelování šípů"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Sladké plody stromů"
+      "clue": "Bažina, mokřad"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Stroj, který tlakem drtí nebo tvaruje"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Plynutí vody; nebo proud elektřiny"
     }
   ]
 }

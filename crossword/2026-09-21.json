@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "U",
-      "J",
-      "#"
-    ],
-    [
       "S",
-      "A",
-      "M",
-      "E",
-      "C"
+      "P",
+      "O",
+      "J"
     ],
     [
-      "U",
-      "L",
+      "#",
+      "T",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "O",
+      "R",
       "E",
-      "V",
-      "A"
+      "L",
+      "#"
     ],
     [
       "P",
       "I",
-      "L",
-      "I",
-      "R"
-    ],
-    [
-      "#",
-      "R",
-      "Y",
-      "T",
+      "V",
+      "O",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "cells": 4,
+      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Zvíře mužského pohlaví"
+      "col": 1,
+      "cells": 4,
+      "clue": "Rovněž, taktéž"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
+      "clue": "Dělo z dob plachetnic"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Mohutná svislá podpěra mostu"
+      "cells": 4,
+      "clue": "Dravec ve státním znaku"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "col": 0,
+      "cells": 4,
+      "clue": "Nápoj z chmele a sladu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "clue": "Pokročilý věk"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vyrobený, ne přírodní"
+      "clue": "Nádoba na smažení"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
+      "clue": "Kolem dokola"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Mrchožravý dravec"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Pouze, nic víc; také japonská měna"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Úder nohou, např. do míče"
     }
   ]
 }

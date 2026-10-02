@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "N",
-      "E",
-      "Z",
-      "#"
-    ],
-    [
-      "S",
-      "A",
-      "M",
-      "E",
-      "T"
-    ],
-    [
+      "#",
+      "C",
       "O",
-      "P",
-      "I",
-      "L",
-      "Y"
-    ],
-    [
-      "K",
-      "A",
-      "S",
-      "E",
-      "L"
+      "Z"
     ],
     [
       "#",
+      "#",
+      "H",
+      "U",
+      "L"
+    ],
+    [
+      "Z",
+      "L",
+      "A",
+      "T",
+      "Y"
+    ],
+    [
       "D",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
       "E",
-      "N",
+      "T",
+      "A",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
+      "col": 2,
+      "cells": 3,
+      "clue": "Opora při chůzi"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pod vlivem alkoholu"
+      "clue": "Z drahého žlutého kovu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Štěkavý průvodce nachlazení"
+      "cells": 3,
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
+      "clue": "Rekreační stavení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+      "col": 3,
+      "cells": 3,
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Soupeř, protivník"
+      "clue": "Plný zloby, nedobrý"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Zadní část hlavy; také jemná průsvitná látka"
+      "clue": "Na tomto místě, tady"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     }
   ]
 }

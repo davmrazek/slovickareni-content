@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "S",
-      "A",
-      "M",
-      "A",
-      "N"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "L",
-      "I"
-    ],
-    [
+      "#",
       "T",
-      "O",
-      "C",
-      "I",
-      "T"
+      "A",
+      "M"
     ],
     [
       "#",
-      "Z",
+      "#",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "V",
+      "S",
+      "A",
+      "K"
+    ],
+    [
+      "L",
       "E",
       "T",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Dějinné období, epocha"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
+      "clue": "Knižní odporovací spojka: ale, jenže"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "cells": 3,
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Knižně: a rovněž, a též"
+      "clue": "Směs mouky a vody před pečením"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 3,
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Naplnit sklenici až po okraj"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Malá obec na venkově"
     }
   ]
 }

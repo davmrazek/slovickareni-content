@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
-      "P",
-      "O",
-      "J"
+      "#",
+      "D",
+      "N",
+      "O"
     ],
     [
       "#",
-      "T",
+      "#",
+      "R",
       "A",
-      "K",
+      "J"
+    ],
+    [
+      "V",
+      "S",
+      "U",
+      "D",
       "E"
     ],
     [
-      "K",
-      "A",
-      "N",
-      "O",
-      "N"
-    ],
-    [
-      "O",
-      "R",
-      "E",
       "L",
+      "E",
+      "H",
+      "#",
       "#"
     ],
     [
+      "K",
       "D",
-      "I",
-      "L",
-      "O",
+      "Y",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
+      "col": 2,
+      "cells": 3,
+      "clue": "Nejnižší část nádoby či rybníka"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Místo blaženosti, zahrada Eden"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Rovněž, taktéž"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dělo z dob plachetnic"
+      "clue": "Na všech místech"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Dravec ve státním znaku"
+      "cells": 3,
+      "clue": "Poloha na zádech při cvičení"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 4,
-      "clue": "Výsledek tvůrčí práce"
+      "cells": 3,
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Pokročilý věk"
+      "clue": "Následující po prvním"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Plochý díl; také ovládací deska"
+      "col": 3,
+      "cells": 3,
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Kolem dokola"
-    },
-    {
-      "num": 4,
-      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Tyč, za kterou táhne kůň vůz"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Šifra; posloupnost znaků k odemčení"
+      "clue": "Barva popela, mezi bílou a černou"
     }
   ]
 }

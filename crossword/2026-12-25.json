@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "K",
-      "D",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "R",
-      "E",
-      "J"
-    ],
-    [
-      "V",
-      "S",
-      "U",
-      "D",
-      "E"
-    ],
-    [
-      "L",
-      "E",
       "T",
-      "#",
+      "E",
+      "N",
       "#"
     ],
     [
-      "K",
       "D",
-      "Y",
+      "A",
+      "R",
+      "E",
+      "K"
+    ],
+    [
+      "U",
+      "L",
+      "O",
+      "H",
+      "A"
+    ],
+    [
+      "M",
+      "I",
+      "Z",
+      "E",
+      "T"
+    ],
+    [
       "#",
+      "R",
+      "E",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Divoký vír tance"
+      "col": 0,
+      "cells": 5,
+      "clue": "Věc pod stromečkem"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na všech místech"
+      "clue": "Zadání k řešení; nebo role"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "cells": 5,
+      "clue": "Ztrácet se z dohledu"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Nemilosrdný"
+      "clue": "Nádobí, ze kterého se jí"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Otec rodiče"
+      "col": 2,
+      "cells": 5,
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Rohovitý útvar na konci prstu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Tyč, za kterou táhne kůň vůz"
+      "clue": "Stavba k bydlení; nebo obchodní ~"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Barva popela, mezi bílou a černou"
+      "clue": "Kdo vykonává popravu"
     }
   ]
 }

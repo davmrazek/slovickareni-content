@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "D",
-      "E",
+      "#",
+      "T",
+      "A",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "S",
+      "A"
+    ],
+    [
       "N",
+      "A",
+      "L",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "N",
+      "I",
+      "#",
       "#"
     ],
     [
       "S",
-      "A",
-      "T",
-      "E",
-      "K"
-    ],
-    [
-      "U",
-      "V",
-      "A",
-      "H",
-      "A"
-    ],
-    [
-      "P",
-      "A",
-      "P",
-      "E",
-      "Z"
-    ],
-    [
+      "O",
+      "K",
       "#",
-      "T",
-      "A",
-      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Čtvercový kus látky na hlavu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Promýšlení věci; slohový útvar"
+      "clue": "Naplnit sklenici až po okraj"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Hlava katolické církve"
+      "cells": 3,
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Soupeř, protivník"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Poskytovat, věnovat"
+      "clue": "Takové množství (~ práce)"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "col": 3,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Rohovitý útvar na konci prstu"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Mrchožravý dravec"
+      "clue": "Rozhodující tah, jímž končí šachová partie"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     }
   ]
 }

@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "M",
-      "I",
-      "T"
+      "T",
+      "A",
+      "K"
     ],
     [
       "#",
       "#",
-      "O",
+      "A",
       "N",
-      "I"
+      "O"
     ],
     [
-      "V",
+      "M",
+      "O",
+      "T",
+      "I",
+      "V"
+    ],
+    [
       "S",
-      "T",
       "U",
-      "P"
-    ],
-    [
-      "L",
-      "E",
-      "T",
+      "K",
       "#",
       "#"
     ],
     [
-      "K",
-      "D",
-      "O",
+      "E",
+      "T",
+      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vejití; nebo poplatek za vpuštění"
+      "clue": "Pohnutka; opakující se prvek"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "clue": "Tvrdé místo po větvi v prkně"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Heslo či citát v čele textu"
+      "clue": "Důvěrné oslovení otce"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Odhad, sázka na výsledek"
+      "clue": "Lesklý tavitelný materiál, např. železo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+      "clue": "Katolická bohoslužba"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Barva popela, mezi bílou a černou"
+      "clue": "Míč mimo hřiště (anglicky)"
     }
   ]
 }

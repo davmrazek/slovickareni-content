@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
       "R",
+      "O",
+      "K",
+      "#"
+    ],
+    [
+      "P",
+      "A",
       "S",
+      "A",
+      "Z"
+    ],
+    [
+      "U",
+      "D",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "D",
+      "E",
+      "B",
+      "U",
       "T"
     ],
     [
       "#",
       "K",
-      "O",
-      "T",
-      "E"
-    ],
-    [
-      "K",
       "A",
-      "M",
-      "E",
-      "N"
-    ],
-    [
-      "E",
-      "L",
-      "A",
-      "N",
-      "#"
-    ],
-    [
-      "R",
-      "A",
-      "N",
-      "A",
+      "Z",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 4,
-      "clue": "Chlupatý pokryv zvířete"
+      "cells": 3,
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
-      "num": 5,
+      "num": 4,
       "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Mládě, které si hraje s klubkem"
+      "col": 0,
+      "cells": 5,
+      "clue": "Krytý průchod mezi ulicemi; také úsek textu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+      "clue": "Níže položené místo mezi kopci"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "cells": 5,
+      "clue": "První veřejné vystoupení umělce"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Poranění; také úder"
+      "col": 1,
+      "cells": 3,
+      "clue": "Vada; také díra v zubu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Holý kamenný útvar; pevný jako ~"
+      "clue": "Jedna vodorovná řada písmen"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rozsáhlé prozaické dílo"
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
+      "clue": "Louže vody po dešti"
     },
     {
       "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
-    },
-    {
-      "num": 6,
-      "row": 2,
+      "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "clue": "Vrozený nutkavý sklon"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Být naživu"
     }
   ]
 }

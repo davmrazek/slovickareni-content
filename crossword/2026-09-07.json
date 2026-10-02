@@ -21,22 +21,22 @@
       "L",
       "E",
       "T",
-      "O",
-      "S"
+      "E",
+      "T"
     ],
     [
       "#",
       "#",
       "O",
-      "B",
-      "R"
+      "S",
+      "A"
     ],
     [
       "#",
       "#",
       "R",
-      "A",
-      "P"
+      "O",
+      "H"
     ]
   ],
   "across": [
@@ -59,21 +59,21 @@
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "V tomto roce"
+      "clue": "Pohybovat se vzduchem"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Rytmicky mluvený hudební styl"
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     }
   ],
   "down": [
@@ -103,14 +103,14 @@
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
+      "clue": "Pohyb figurkou; nebo silné vytažení"
     }
   ]
 }

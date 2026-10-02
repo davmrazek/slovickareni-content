@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "T",
+      "E",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "J",
+      "A",
+      "D",
+      "R",
+      "O"
+    ],
+    [
+      "#",
       "#",
       "R",
-      "O",
-      "K",
-      "#"
-    ],
-    [
-      "K",
       "A",
-      "B",
-      "A",
-      "T"
-    ],
-    [
-      "E",
-      "M",
-      "I",
-      "S",
-      "E"
-    ],
-    [
-      "Z",
-      "E",
-      "L",
-      "E",
-      "N"
+      "J"
     ],
     [
       "#",
-      "C",
-      "I",
-      "L",
-      "#"
+      "#",
+      "Z",
+      "D",
+      "E"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Svrchní zimní oděv; také kapela z Teplic"
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
+      "clue": "Střed ořechu; také atomu"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Místo, kam směřuje cesta; meta"
+      "clue": "Místo blaženosti, zahrada Eden"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Na tomto místě, tady"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
+      "col": 0,
+      "cells": 3,
+      "clue": "Knižně: co má zůstat skryto"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Pšenice, žito a podobné plodiny"
+      "col": 1,
+      "cells": 3,
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Štěkavý průvodce nachlazení"
+      "clue": "Zásobník na kapalinu"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Vyjadřuje přání: ~ by to byla pravda"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Tyč, za kterou táhne kůň vůz"
     }
   ]
 }

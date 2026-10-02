@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
       "O",
       "B",
       "R"
     ],
     [
-      "P",
+      "#",
+      "#",
+      "B",
       "O",
-      "H",
-      "Y",
-      "B"
+      "A"
     ],
     [
-      "O",
+      "A",
       "K",
       "O",
+      "R",
+      "D"
+    ],
+    [
+      "L",
+      "E",
+      "C",
       "#",
       "#"
     ],
     [
       "T",
       "R",
-      "N",
+      "I",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Škrtič z pralesa; také péřový šál"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Změna polohy"
+      "clue": "Souzvuk více tónů"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Knižní spojka odporovací"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Ostrý výrůstek na růži"
+      "clue": "Počet nohou stativu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Co uvádí stroj do pohybu"
+      "clue": "Chloupky nad okem"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Suchý les s jehličím a pískem"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Otevřené ohniště v obývacím pokoji"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Tekutina na kůži při horku"
+      "clue": "Hluboký ženský hlas"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Nízká dřevina bez kmene"
     }
   ]
 }

@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "K",
-      "D",
+      "N",
+      "I",
+      "C"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
       "O"
     ],
     [
-      "#",
-      "#",
-      "R",
-      "E",
-      "J"
-    ],
-    [
-      "P",
-      "R",
+      "K",
       "A",
-      "S",
-      "E"
+      "L",
+      "U",
+      "Z"
     ],
     [
-      "L",
       "O",
-      "S",
+      "N",
+      "I",
       "#",
       "#"
     ],
     [
-      "Z",
-      "D",
-      "A",
+      "P",
+      "I",
+      "T",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Naprostá absence čehokoli"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Divoký vír tance"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Domácí zvíře na zabijačku"
+      "clue": "Louže vody po dešti"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Přijímat tekutinu ústy"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vlastnost toho, co se líbí"
+      "clue": "Naplnit sklenici až po okraj"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Silná hrůza"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Tyč, za kterou táhne kůň vůz"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Úder nohou, např. do míče"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ]
 }

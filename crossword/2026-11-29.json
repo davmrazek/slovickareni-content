@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
+      "C",
       "O",
-      "K",
-      "R"
+      "Z"
     ],
     [
-      "L",
+      "#",
+      "#",
       "H",
-      "U",
-      "T",
+      "R",
       "A"
     ],
     [
-      "O",
+      "B",
+      "R",
+      "A",
+      "T",
+      "R"
+    ],
+    [
+      "A",
       "U",
       "T",
       "#",
       "#"
     ],
     [
-      "S",
       "T",
-      "O",
+      "M",
+      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Čas, do kdy je nutné něco stihnout"
+      "clue": "Mužský sourozenec"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Silný vztah; také želízka na rukou"
+      "clue": "Rekreační stavení"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Vodorovná důlní chodba"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "clue": "Sálavé horko z ohně"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "clue": "Pociťovat strach (~ se)"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Závod na zpracování kovu"
+      "clue": "Destilát z cukrové třtiny"
     }
   ]
 }

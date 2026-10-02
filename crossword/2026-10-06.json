@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "Z",
-      "D",
-      "E"
+      "J",
+      "I",
+      "Z"
     ],
     [
       "#",
       "#",
-      "B",
-      "U",
-      "M"
-    ],
-    [
-      "S",
-      "P",
+      "M",
       "O",
-      "L",
-      "U"
+      "D"
     ],
     [
-      "R",
-      "A",
       "Z",
+      "M",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "D",
+      "A",
+      "N",
       "#",
       "#"
     ],
     [
-      "P",
-      "R",
-      "I",
+      "E",
+      "G",
+      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Knižně: už"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Zvuk výbuchu"
+      "clue": "Herní úprava od fanoušků"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Společně"
+      "clue": "Přechod do jiného stavu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Svérázná povaha kraje nebo stavby"
+      "clue": "Povinná platba státu"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
+      "clue": "Vlastní já; nafouklé bývá u hvězd"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Co se prodává v regálech"
+      "clue": "Jak se kdo nazývá"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Australský neletící pták"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
+      "clue": "Na tomto místě, tady"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Dva k sobě patřící; nebo několik málo"
+      "clue": "Čaroděj, kouzelník"
     }
   ]
 }

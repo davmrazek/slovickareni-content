@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "T",
+      "P",
       "R",
-      "H"
+      "O"
     ],
     [
       "#",
       "#",
-      "M",
-      "U",
-      "L"
+      "L",
+      "E",
+      "K"
     ],
     [
       "K",
-      "L",
-      "A",
-      "S",
-      "T"
+      "O",
+      "N",
+      "T",
+      "O"
     ],
     [
-      "R",
-      "E",
-      "V",
+      "A",
+      "N",
+      "I",
       "#",
       "#"
     ],
     [
-      "K",
-      "D",
-      "Y",
+      "M",
+      "I",
+      "T",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Řídká bavlněná tkanina na obvazy"
+      "clue": "Prostředek proti nemoci"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pokládat na místo"
+      "clue": "Bankovní účet"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Hlasitý zvuk zvířete"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Vlastnit; nebo ~ se k světu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Málo světlý, blízký černé"
+      "clue": "Naplňovat; nebo splňovat úkol"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Obyvatel největší země světa"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Tázací příslovce směru"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     }
   ]
 }

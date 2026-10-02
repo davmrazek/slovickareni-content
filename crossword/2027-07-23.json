@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "A",
-      "K",
-      "#"
-    ],
-    [
-      "S",
-      "I",
-      "R",
-      "A",
+      "#",
+      "T",
+      "E",
       "N"
     ],
     [
+      "#",
+      "#",
+      "A",
+      "S",
+      "I"
+    ],
+    [
+      "P",
+      "I",
+      "L",
+      "O",
+      "T"
+    ],
+    [
       "A",
       "N",
-      "E",
-      "B",
-      "O"
+      "I",
+      "#",
+      "#"
     ],
     [
       "T",
-      "A",
-      "N",
-      "E",
-      "C"
-    ],
-    [
+      "U",
+      "R",
       "#",
-      "K",
-      "A",
-      "L",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Sůl kyseliny sírové"
+      "col": 2,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Kdo řídí letadlo"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Rytmický pohyb do hudby"
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "clue": "Nádobí, ze kterého se jí"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "col": 3,
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Silný izolovaný vodič"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Knižně oděv, roucho"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "clue": "Nerozhodný konec šachové partie"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     }
   ]
 }

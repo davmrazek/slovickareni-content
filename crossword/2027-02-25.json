@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "S",
-      "A",
-      "M",
-      "A",
-      "N"
-    ],
-    [
+      "#",
       "O",
       "K",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "C",
-      "I",
-      "T"
+      "O"
     ],
     [
       "#",
-      "Z",
-      "E",
+      "#",
+      "P",
+      "A",
+      "R"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "R",
+      "T"
+    ],
+    [
       "T",
+      "U",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Dva k sobě patřící; nebo několik málo"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
+      "clue": "Pohybová soutěž"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "cells": 3,
+      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Knižně: a rovněž, a též"
+      "clue": "Ten, o koho se lze opřít"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 3,
+      "cells": 3,
+      "clue": "Ledovcový kotel v horách"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Naplnit sklenici až po okraj"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Vodorovná důlní chodba"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Vrozený nutkavý sklon"
     }
   ]
 }

@@ -5,17 +5,17 @@
   "grid": [
     [
       "#",
-      "T",
+      "N",
       "A",
-      "K",
+      "D",
       "#"
     ],
     [
       "K",
       "A",
       "N",
-      "A",
-      "L"
+      "O",
+      "N"
     ],
     [
       "U",
@@ -25,17 +25,17 @@
       "I"
     ],
     [
-      "N",
-      "A",
+      "R",
+      "O",
       "B",
-      "E",
-      "H"
+      "O",
+      "T"
     ],
     [
       "#",
-      "T",
+      "R",
       "O",
-      "N",
+      "V",
       "#"
     ]
   ],
@@ -45,14 +45,14 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Umělé vodní koryto; nebo stoka"
+      "clue": "Dělo z dob plachetnic"
     },
     {
       "num": 6,
@@ -66,14 +66,14 @@
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Rozběh; nebo počáteční fáze"
+      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "clue": "Knižně: hrob"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Klást otázky, ptát se"
+      "clue": "Osobní stanovisko"
     },
     {
       "num": 2,
@@ -96,21 +96,21 @@
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+      "clue": "Místo, kam patříme"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Domácí kopytník tažný a jezdecký"
+      "clue": "Místo s varhanami v kostele"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

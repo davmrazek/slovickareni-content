@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "T",
+      "A",
+      "L",
       "E",
-      "N",
+      "#",
       "#"
     ],
     [
       "S",
-      "A",
-      "M",
-      "A",
-      "N"
+      "E",
+      "F",
+      "#",
+      "#"
     ],
     [
-      "O",
-      "B",
-      "O",
-      "J",
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "C",
       "I",
-      "T"
+      "D",
+      "E",
+      "A",
+      "L"
     ],
     [
       "#",
+      "#",
+      "K",
       "R",
-      "E",
+      "A"
+    ],
+    [
+      "#",
+      "#",
       "T",
-      "#"
+      "A",
+      "T"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "cells": 3,
+      "clue": "Nadřízený v práci"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Obou druhů zároveň"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Plovoucí ledová deska"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Měnit se z ledu ve vodu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
+      "col": 0,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 1,
+      "cells": 3,
+      "clue": "Zmrzlá voda; v nápoji chrastí"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Objevit, co se dlouho hledalo"
+      "clue": "Výsledný účinek; také zvukový ~ ve filmu"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Velký barevný papoušek"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     }
   ]
 }

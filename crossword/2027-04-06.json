@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "N",
+      "Z",
+      "D",
       "A",
-      "S",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "N",
       "#",
       "#"
     ],
     [
       "O",
-      "U",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "S",
-      "T",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
       "R",
       "E",
-      "T"
+      "C",
+      "H"
     ],
     [
       "#",
       "#",
-      "T",
-      "M",
-      "A"
+      "B",
+      "A",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "R",
+      "T"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno (~ dům)"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Velké souvislé pole"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bez přestání"
+      "clue": "Plod v tvrdé skořápce"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Zastarale ples, taneční zábava"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Vodorovná důlní chodba"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
+      "clue": "Opak dobra; vybírá se vždy to menší"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Věc věnovaná bezplatně"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Okamžik zahájení závodu"
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Okraj, obruba oděvu"
+      "clue": "Ruský panovník, třeba Petr Veliký"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Jedno velké polknutí; na jeden ~"
     }
   ]
 }

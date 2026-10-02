@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "S",
-      "A",
-      "M",
-      "#",
-      "#"
-    ],
-    [
-      "M",
-      "U",
-      "L",
-      "#",
-      "#"
-    ],
-    [
-      "S",
-      "T",
-      "A",
-      "R",
-      "I"
-    ],
-    [
-      "#",
       "#",
       "D",
+      "E",
+      "N",
+      "#"
+    ],
+    [
+      "V",
+      "O",
+      "L",
       "A",
-      "N"
+      "T"
+    ],
+    [
+      "U",
+      "L",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "Z",
+      "A",
+      "T",
+      "E",
+      "Z"
     ],
     [
       "#",
-      "#",
-      "E",
-      "M",
-      "U"
+      "R",
+      "A",
+      "Z",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Zcela bez doprovodu"
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Řídká bavlněná tkanina na obvazy"
+      "cells": 5,
+      "clue": "Hlasitě zvát; telefonovat"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pokročilý věk"
+      "clue": "Cesta mezi domy; slepá nikam nevede"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nesené břemeno; také zkouška pevnosti"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Povinná platba státu"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Australský neletící pták"
+      "clue": "Svérázná povaha kraje nebo stavby"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Krátká textová zpráva"
+      "col": 1,
+      "cells": 5,
+      "clue": "Americká měna"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "col": 2,
+      "cells": 5,
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Potomek zvířete"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Obruba obrazu"
+      "cells": 5,
+      "clue": "A potom, a nato"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vozidlo, zejména osobní automobil"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Knižně: také"
     }
   ]
 }

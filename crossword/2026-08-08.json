@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
       "P",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "#",
       "R",
-      "O"
+      "U",
+      "K",
+      "A"
     ],
     [
-      "#",
-      "#",
-      "L",
-      "E",
-      "N"
-    ],
-    [
+      "P",
+      "O",
       "T",
-      "R",
-      "E",
-      "T",
-      "I"
-    ],
-    [
-      "M",
-      "E",
-      "C",
-      "#",
-      "#"
+      "O",
+      "M"
     ],
     [
       "A",
-      "C",
-      "H",
-      "#",
+      "T",
+      "O",
+      "L",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "R",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Předložka vyjadřující účel"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "col": 1,
+      "cells": 4,
+      "clue": "Nastražené zařízení na zvíře"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Horní končetina s pěti prsty"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Řadová číslovka po druhém"
+      "clue": "Následně, později"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "cells": 4,
+      "clue": "Korálový ostrov ve tvaru prstence"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "cells": 4,
+      "clue": "Otvor v látce"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Předložka odporu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "col": 2,
+      "cells": 5,
+      "clue": "Ten, kdo dílo vytvořil"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "col": 3,
+      "cells": 5,
+      "clue": "Budova, kde se učí; podle staré komedie základ života"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Volný ~ z výšky; čeština jich má sedm"
     }
   ]
 }

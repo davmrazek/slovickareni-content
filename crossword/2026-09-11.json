@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "B",
-      "R"
-    ],
-    [
-      "P",
-      "O",
-      "H",
-      "Y",
-      "B"
-    ],
-    [
-      "O",
       "K",
-      "O",
+      "D",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "R",
+      "U",
+      "M",
       "#",
       "#"
     ],
     [
-      "T",
-      "R",
-      "N",
+      "A",
+      "H",
+      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Změna polohy"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Destilát z cukrové třtiny"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Ostrý výrůstek na růži"
+      "clue": "Citoslovce náhlého pochopení"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Co uvádí stroj do pohybu"
+      "clue": "Dlouhodobé podnebí"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Otevřené ohniště v obývacím pokoji"
+      "clue": "Sedmé písmeno řecké abecedy"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Tekutina na kůži při horku"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Vlhký les a louky při řece; s háji tvoří známou dvojici"
     }
   ]
 }

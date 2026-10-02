@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "O",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "#",
       "N",
-      "I"
+      "A",
+      "S"
     ],
     [
-      "#",
-      "#",
+      "M",
+      "L",
+      "E",
+      "K",
+      "O"
+    ],
+    [
       "S",
-      "A",
-      "N"
-    ],
-    [
-      "V",
-      "Z",
-      "A",
-      "D",
-      "U"
-    ],
-    [
-      "R",
-      "A",
-      "D",
+      "O",
+      "B",
       "#",
       "#"
     ],
     [
-      "H",
-      "R",
-      "A",
+      "E",
+      "G",
+      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Bájný drak z pohádek"
+      "clue": "Přivlastňovací zájmeno (~ dům)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na zadní straně, opak vpředu"
+      "clue": "Bílá tekutina od krávy"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Severský jelen, který táhne saně"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
+      "clue": "Vlastní já; nafouklé bývá u hvězd"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Malé sídlo, obvykle rekreační"
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Předložka vyšší polohy"
+      "clue": "Nátěr na nehty nebo na dřevo"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Hod koulí; nebo mláďata narozená naráz"
+      "clue": "Katolická bohoslužba"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Sálavé horko z ohně"
+      "clue": "Záznam událostí v počítači"
     }
   ]
 }

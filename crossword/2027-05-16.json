@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "S",
+      "T",
       "A",
       "M"
     ],
     [
       "#",
       "#",
-      "C",
-      "L",
-      "O"
-    ],
-    [
+      "O",
       "S",
-      "V",
-      "E",
-      "T",
-      "R"
+      "A"
     ],
     [
+      "P",
+      "A",
+      "L",
       "I",
+      "T"
+    ],
+    [
       "O",
       "N",
+      "I",
       "#",
       "#"
     ],
     [
+      "D",
+      "I",
       "K",
-      "R",
-      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Zcela bez doprovodu"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Poplatek za dovoz zboží přes hranice"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pletený oděv na zimu"
+      "clue": "Působit žárem; destilovat"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "clue": "Projev vděčnosti, poděkování"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Výjev ve hře; žárlivci je rádi dělají"
+      "clue": "Takové množství (~ práce)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Zhoubná nakažlivá nemoc"
+      "clue": "Rozhodující tah, jímž končí šachová partie"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Sevřený vojenský útvar; nebo elegantní"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Plavidlo svázané z klád"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ]
 }

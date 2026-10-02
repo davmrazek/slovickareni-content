@@ -4,38 +4,38 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
+      "P",
+      "R",
       "O",
       "#",
       "#"
     ],
     [
+      "R",
       "O",
-      "U",
-      "T",
+      "H",
       "#",
       "#"
     ],
     [
       "S",
-      "M",
-      "I",
-      "C",
-      "H"
+      "K",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "S",
+      "I"
     ],
     [
       "#",
       "#",
       "S",
       "A",
-      "L"
-    ],
-    [
-      "#",
-      "#",
-      "K",
-      "R",
       "T"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Reakce na vtip; prý nejlepší lék"
+      "clue": "Náklon plochy; nebo náchylnost k něčemu"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Místnost pro ples; také pruh látky kolem krku"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "clue": "Knižně oděv, roucho"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Černý pták se žlutým zobákem"
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "clue": "Odezva, reakce na něco"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

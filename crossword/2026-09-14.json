@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "D",
+      "M",
+      "U",
+      "J",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "U",
+      "L",
+      "E",
       "V",
       "A"
     ],
     [
-      "#",
-      "#",
-      "R",
-      "E",
-      "C"
-    ],
-    [
-      "P",
-      "R",
-      "A",
-      "C",
-      "H"
-    ],
-    [
-      "L",
-      "O",
       "M",
-      "#",
-      "#"
+      "I",
+      "R",
+      "I",
+      "T"
     ],
     [
-      "Z",
-      "D",
-      "A",
       "#",
+      "R",
+      "Y",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Číslo mezi jedničkou a trojkou"
+      "clue": "Přivlastňovací zájmeno první osoby"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "col": 0,
+      "cells": 5,
+      "clue": "Čtvercový kus látky na hlavu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jemné suché částice; nebo střelný ~"
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+      "cells": 5,
+      "clue": "Zaměřovat na cíl"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Zarývat se do země jako krtek"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Divadelní hra s vážným dějem"
+      "clue": "Kdo maluje obrazy nebo stěny"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Předmět; nebo záležitost"
+      "col": 2,
+      "cells": 5,
+      "clue": "Druhý den týdne"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Ukazovat se navenek (~ se)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Kdo vykonává popravu"
     }
   ]
 }

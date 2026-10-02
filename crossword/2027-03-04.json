@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "N",
-      "E",
-      "Z",
+      "P",
+      "O",
+      "D",
       "#"
     ],
     [
-      "S",
+      "Z",
       "A",
-      "M",
-      "E",
+      "B",
+      "I",
       "T"
     ],
     [
-      "O",
-      "P",
-      "I",
-      "L",
-      "Y"
+      "U",
+      "N",
+      "A",
+      "V",
+      "A"
     ],
     [
-      "K",
+      "B",
       "A",
-      "S",
-      "E",
-      "L"
+      "V",
+      "I",
+      "T"
     ],
     [
       "#",
-      "D",
-      "E",
-      "N",
+      "K",
+      "A",
+      "T",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
+      "clue": "Připravit o život"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pod vlivem alkoholu"
+      "clue": "Vyčerpání po námaze"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Štěkavý průvodce nachlazení"
+      "clue": "Poskytovat zábavu"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Kdo vykonává popravu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
+      "clue": "Malá sklenka tvrdého alkoholu; nebo figurka"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+      "clue": "Strach z budoucího"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
+      "clue": "Být překvapen (~ se)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Soupeř, protivník"
+      "clue": "Nástroj ke kousání v ústech"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Zadní část hlavy; také jemná průsvitná látka"
+      "clue": "Měnit se z ledu ve vodu"
     }
   ]
 }

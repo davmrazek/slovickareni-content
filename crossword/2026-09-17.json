@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "E",
       "#",
-      "#"
-    ],
-    [
-      "A",
-      "U",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "Z",
-      "L",
-      "A",
-      "T",
-      "O"
-    ],
-    [
-      "#",
-      "#",
+      "S",
       "P",
-      "R",
-      "S"
+      "O",
+      "J"
     ],
     [
       "#",
-      "#",
+      "T",
       "A",
-      "H",
-      "A"
+      "K",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "L",
+      "O",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tázací příslovce místa"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "col": 1,
+      "cells": 4,
+      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Rovněž, taktéž"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Dělo z dob plachetnic"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dravec ve státním znaku"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "col": 0,
+      "cells": 4,
+      "clue": "Výsledek tvůrčí práce"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "col": 1,
+      "cells": 5,
+      "clue": "Pokročilý věk"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "col": 2,
+      "cells": 5,
+      "clue": "Plochý díl; také ovládací deska"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "clue": "Kolem dokola"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pouze, nic víc; také japonská měna"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Šifra; posloupnost znaků k odemčení"
     }
   ]
 }

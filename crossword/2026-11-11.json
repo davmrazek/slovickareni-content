@@ -11,32 +11,32 @@
       "#"
     ],
     [
-      "R",
-      "O",
-      "V",
+      "L",
+      "A",
+      "T",
       "#",
       "#"
     ],
     [
-      "S",
-      "K",
+      "Z",
+      "D",
+      "R",
       "O",
-      "L",
+      "J"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
       "A"
     ],
     [
       "#",
       "#",
-      "C",
-      "A",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "E",
-      "T",
-      "A"
+      "K",
+      "R",
+      "K"
     ]
   ],
   "across": [
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně: hrob"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Budova, kde se učí; podle staré komedie základ života"
+      "clue": "Odkud něco pochází"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Sladké plody stromů"
+      "clue": "Člověk držený v úplné nesvobodě"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
     }
   ]
 }

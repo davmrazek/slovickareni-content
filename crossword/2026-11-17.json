@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "B",
+      "D",
+      "V",
       "A"
     ],
     [
-      "M",
-      "O",
-      "T",
-      "Y",
-      "L"
+      "#",
+      "#",
+      "R",
+      "E",
+      "C"
     ],
     [
+      "P",
+      "R",
+      "A",
+      "C",
+      "H"
+    ],
+    [
+      "L",
       "O",
-      "K",
-      "O",
+      "M",
       "#",
       "#"
     ],
     [
-      "K",
-      "R",
-      "K",
+      "Z",
+      "D",
+      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Číslo mezi jedničkou a trojkou"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Mluvený projev; také jazyk národa"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Hmyz s barevnými křídly, býval housenkou"
+      "clue": "Jemné suché částice; nebo střelný ~"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Místo těžby kamene; také ~ světla v hranolu"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Malý vodní tok"
+      "clue": "Divadelní hra s vážným dějem"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Předmět; nebo záležitost"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Citoslovce podivu či bolesti"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně nápoj"
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     }
   ]
 }

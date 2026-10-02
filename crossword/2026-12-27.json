@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "Z",
-      "D",
-      "A",
       "#",
-      "#"
-    ],
-    [
-      "L",
-      "O",
-      "K",
       "#",
-      "#"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "L",
-      "O"
+      "T",
+      "M",
+      "A"
     ],
     [
       "#",
       "#",
       "R",
-      "A",
-      "D"
+      "E",
+      "C"
     ],
     [
+      "P",
+      "L",
+      "E",
+      "C",
+      "H"
+    ],
+    [
+      "R",
+      "Y",
+      "T",
       "#",
+      "#"
+    ],
+    [
+      "S",
+      "K",
+      "I",
       "#",
-      "D",
-      "N",
-      "A"
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Jeden doušek nápoje"
+      "clue": "Mluvený projev; také jazyk národa"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kolem dokola"
+      "clue": "Tenký kovový list; také na pečení"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zarývat se do země jako krtek"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Nositelka dědičné informace"
+      "clue": "Lyžařský, v názvech vleků a areálů"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
+      "col": 2,
+      "cells": 5,
+      "clue": "Řadová číslovka po druhém"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Místo v přístavu, kde se opravují lodě"
+      "clue": "Chladná zbraň rytířů"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Souzvuk více tónů"
+      "col": 4,
+      "cells": 3,
+      "clue": "Citoslovce podivu či bolesti"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Velké souvislé pole"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Vodivá pletiva pod kůrou stromů (2. pád mn. č.)"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "#",
       "T",
-      "A",
-      "K",
-      "#"
-    ],
-    [
-      "K",
-      "A",
-      "N",
-      "A",
-      "L"
-    ],
-    [
-      "U",
-      "Z",
       "E",
-      "M",
-      "I"
-    ],
-    [
-      "N",
-      "A",
-      "B",
-      "E",
-      "H"
+      "N"
     ],
     [
       "#",
-      "T",
+      "#",
+      "A",
+      "S",
+      "I"
+    ],
+    [
+      "P",
+      "I",
+      "L",
+      "O",
+      "T"
+    ],
+    [
       "O",
       "N",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "U",
+      "R",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Umělé vodní koryto; nebo stoka"
+      "col": 2,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vymezená část země, teritorium"
+      "clue": "Kdo řídí letadlo"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Rozběh; nebo počáteční fáze"
+      "cells": 3,
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Klást otázky, ptát se"
+      "clue": "Nádobí, ze kterého se jí"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "col": 3,
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Domácí kopytník tažný a jezdecký"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
+      "clue": "Tekutina na kůži při horku"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     }
   ]
 }

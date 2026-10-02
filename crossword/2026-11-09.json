@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "A",
-      "L",
-      "E"
+      "P",
+      "R",
+      "I"
     ],
     [
       "#",
       "#",
+      "S",
+      "A",
+      "N"
+    ],
+    [
       "V",
+      "Z",
       "A",
-      "R"
+      "D",
+      "U"
     ],
     [
-      "C",
-      "E",
-      "S",
-      "T",
-      "A"
-    ],
-    [
+      "I",
       "O",
-      "S",
-      "A",
+      "N",
       "#",
       "#"
     ],
     [
-      "Z",
-      "O",
+      "S",
       "K",
+      "I",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Předložka blízkosti (~ cestě)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Bublání vroucí vody"
+      "clue": "Bájný drak z pohádek"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Trasa z místa na místo"
+      "clue": "Na zadní straně, opak vpředu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Velký pytel na vlnu nebo chmel"
+      "clue": "Lyžařský, v názvech vleků a areálů"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Zaznamenávání písmen; také dopis"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
+      "clue": "Cvik na hrazdě, nohy nad zemí"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Velký pytel na vlnu nebo chmel"
     }
   ]
 }

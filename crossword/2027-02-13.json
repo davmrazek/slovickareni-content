@@ -6,34 +6,34 @@
     [
       "#",
       "#",
-      "M",
-      "I",
-      "T"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "N",
-      "I"
-    ],
-    [
+      "D",
       "V",
-      "S",
-      "T",
-      "U",
-      "P"
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "E",
+      "C"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "C",
+      "H"
     ],
     [
       "R",
       "A",
-      "K",
+      "M",
       "#",
       "#"
     ],
     [
-      "T",
-      "M",
+      "O",
+      "D",
       "A",
       "#",
       "#"
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Číslo mezi jedničkou a trojkou"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Mluvený projev; také jazyk národa"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vejití; nebo poplatek za vpuštění"
+      "clue": "Jemné suché částice; nebo střelný ~"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
+      "clue": "Obruba obrazu"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Ženský rodič"
+      "clue": "Divadelní hra s vážným dějem"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Předmět; nebo záležitost"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Odhad, sázka na výsledek"
+      "clue": "Citoslovce podivu či bolesti"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Hloubený otvor do země"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Zcela bez doprovodu"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     }
   ]
 }

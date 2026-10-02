@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "D",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "S",
-      "A",
-      "T",
-      "E",
-      "K"
-    ],
-    [
-      "U",
-      "V",
-      "A",
-      "H",
-      "A"
-    ],
-    [
-      "P",
-      "A",
-      "P",
-      "E",
+      "#",
+      "C",
+      "O",
       "Z"
     ],
     [
       "#",
-      "T",
+      "#",
+      "H",
+      "U",
+      "L"
+    ],
+    [
+      "Z",
+      "L",
       "A",
       "T",
+      "Y"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Čtvercový kus látky na hlavu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Opora při chůzi"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Promýšlení věci; slohový útvar"
+      "clue": "Z drahého žlutého kovu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Hlava katolické církve"
+      "cells": 3,
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Poskytovat, věnovat"
+      "clue": "Rekreační stavení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "col": 3,
+      "cells": 3,
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Rohovitý útvar na konci prstu"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Mrchožravý dravec"
+      "clue": "Plný zloby, nedobrý"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "clue": "Opak dobra; vybírá se vždy to menší"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zmrzlá voda; v nápoji chrastí"
     }
   ]
 }

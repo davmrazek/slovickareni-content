@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "#",
+      "P",
       "R",
-      "O",
-      "K",
-      "#"
+      "O"
     ],
     [
-      "K",
-      "A",
-      "B",
-      "A",
-      "T"
-    ],
-    [
-      "E",
-      "M",
-      "I",
-      "S",
-      "E"
-    ],
-    [
-      "Z",
-      "E",
+      "#",
+      "#",
       "L",
       "E",
       "N"
     ],
     [
-      "#",
+      "T",
+      "R",
+      "E",
+      "T",
+      "I"
+    ],
+    [
+      "M",
+      "E",
       "C",
-      "I",
-      "L",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "H",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Svrchní zimní oděv; také kapela z Teplic"
+      "col": 2,
+      "cells": 3,
+      "clue": "Rostlina na plátno a olej"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+      "clue": "Řadová číslovka po druhém"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
+      "cells": 3,
+      "clue": "Chladná zbraň rytířů"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Místo, kam směřuje cesta; meta"
+      "clue": "Citoslovce podivu či bolesti"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
+      "clue": "Tenký kovový list; také na pečení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Pšenice, žito a podobné plodiny"
+      "col": 3,
+      "cells": 3,
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Štěkavý průvodce nachlazení"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Vyjadřuje přání: ~ by to byla pravda"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Mluvený projev; také jazyk národa"
     }
   ]
 }

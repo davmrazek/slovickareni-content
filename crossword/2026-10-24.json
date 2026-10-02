@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "#",
+      "H",
       "R",
-      "O",
-      "K",
-      "#"
-    ],
-    [
-      "D",
-      "U",
-      "V",
-      "O",
-      "D"
-    ],
-    [
-      "I",
-      "K",
-      "O",
-      "N",
       "A"
     ],
     [
-      "K",
-      "A",
-      "C",
-      "E",
-      "T"
+      "#",
+      "#",
+      "R",
+      "O",
+      "H"
     ],
     [
-      "#",
+      "S",
+      "T",
+      "A",
       "V",
+      "A"
+    ],
+    [
       "E",
-      "C",
+      "R",
+      "B",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "S",
+      "E",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Příčina jednání"
+      "col": 2,
+      "cells": 3,
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "clue": "Tekutina vylisovaná z ovoce"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Porážet stromy"
+      "cells": 3,
+      "clue": "Šlechtický znak na štítu"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Předmět; nebo záležitost"
+      "clue": "Katolická bohoslužba"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Část oděvu na paži"
+      "clue": "Šlechtický titul, vyšší než baron"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Sladké plody stromů"
+      "col": 3,
+      "cells": 3,
+      "clue": "Knižně: hrob"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Opak začátku; když je dobrý, všechno je dobré"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Projev vděčnosti, poděkování"
+      "clue": "Citoslovce náhlého pochopení"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Směrem k mluvčímu"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
     }
   ]
 }

@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "S",
+      "A",
+      "M",
       "#",
-      "J",
-      "E",
-      "N",
       "#"
     ],
     [
-      "B",
+      "M",
+      "U",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "T",
       "A",
       "R",
-      "A",
-      "Z"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "D",
-      "O",
-      "Z",
-      "I",
       "T"
     ],
     [
       "#",
-      "Z",
+      "#",
+      "D",
+      "Y",
+      "M"
+    ],
+    [
+      "#",
+      "#",
       "E",
       "T",
-      "#"
+      "A"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Zcela bez doprovodu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Rozhodující zápas o postup"
+      "cells": 3,
+      "clue": "Řídká bavlněná tkanina na obvazy"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Strávit zbytek života"
+      "clue": "Okamžik zahájení závodu"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "To, co stoupá z komína"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Knižně: a rovněž, a též"
+      "col": 0,
+      "cells": 3,
+      "clue": "Krátká textová zpráva"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "col": 1,
+      "cells": 3,
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Naplnit sklenici až po okraj"
+      "clue": "Potomek zvířete"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Tečka; nebo jednotka skóre"
+      "clue": "Zarývat se do země jako krtek"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Být naživu"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     }
   ]
 }

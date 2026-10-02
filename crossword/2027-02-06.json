@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "R",
-      "O",
-      "K",
-      "#"
-    ],
-    [
-      "N",
-      "A",
-      "P",
-      "O",
-      "J"
-    ],
-    [
-      "U",
-      "D",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "Z",
-      "I",
-      "R",
-      "A",
-      "T"
-    ],
-    [
       "#",
       "T",
       "A",
-      "C",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "V",
+      "S",
+      "A",
+      "K"
+    ],
+    [
+      "L",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Co se pije"
+      "col": 2,
+      "cells": 3,
+      "clue": "Dějinné období, epocha"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
+      "clue": "Knižní odporovací spojka: ale, jenže"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Upřeně a udiveně hledět"
+      "cells": 3,
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Podnos na roznášení"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Dávat doporučení"
+      "clue": "Směs mouky a vody před pečením"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Ten, o koho se lze opřít"
+      "col": 3,
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Kulaté pečivo s tvarohem a povidly"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Nástroj ke krájení"
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno druhé osoby množné"
     }
   ]
 }

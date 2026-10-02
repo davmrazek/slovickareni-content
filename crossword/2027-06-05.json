@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "#",
-      "Z",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "B",
-      "U",
-      "M"
-    ],
-    [
-      "S",
-      "P",
-      "O",
+      "A",
       "L",
-      "U"
-    ],
-    [
-      "M",
-      "U",
-      "Z",
+      "E",
       "#",
       "#"
     ],
     [
       "S",
-      "K",
-      "I",
+      "E",
+      "F",
       "#",
       "#"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "A",
+      "K"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Zvuk výbuchu"
+      "clue": "Nadřízený v práci"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Společně"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Dospělý člověk, kterému se říká pán"
+      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Lyžařský, v názvech vleků a areálů"
+      "clue": "Plovoucí ledová deska"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tímto způsobem"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Co se prodává v regálech"
+      "col": 0,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "clue": "Zmrzlá voda; v nápoji chrastí"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Australský neletící pták"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Krátká textová zpráva"
+      "col": 2,
+      "cells": 5,
+      "clue": "Výsledný účinek; také zvukový ~ ve filmu"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Kotouček v ledním hokeji"
+      "clue": "Velký barevný papoušek"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nátěr na nehty nebo na dřevo"
     }
   ]
 }

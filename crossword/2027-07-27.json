@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "R",
-      "O",
-      "K",
-      "#"
-    ],
-    [
-      "K",
+      "T",
       "A",
-      "B",
-      "A",
-      "T"
-    ],
-    [
-      "E",
       "M",
-      "I",
-      "S",
-      "E"
+      "#",
+      "#"
     ],
     [
-      "Z",
       "E",
-      "L",
-      "E",
-      "N"
+      "S",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "I",
+      "T",
+      "R",
+      "O"
     ],
     [
       "#",
-      "C",
-      "I",
-      "L",
-      "#"
+      "#",
+      "T",
+      "U",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "R"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Svrchní zimní oděv; také kapela z Teplic"
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
+      "clue": "Vnitřek věci; také lidské city"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Místo, kam směřuje cesta; meta"
+      "clue": "Mastná složka potravy"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pohádkový velikán"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
+      "col": 0,
+      "cells": 3,
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Pšenice, žito a podobné plodiny"
+      "col": 1,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Štěkavý průvodce nachlazení"
+      "clue": "Heslo či citát v čele textu"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Vyjadřuje přání: ~ by to byla pravda"
+      "clue": "Opačná strana líce"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Žlutohnědý přírodní pigment"
     }
   ]
 }

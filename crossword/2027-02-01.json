@@ -4,9 +4,9 @@
   "size": 5,
   "grid": [
     [
+      "M",
+      "I",
       "T",
-      "A",
-      "K",
       "#",
       "#"
     ],
@@ -18,25 +18,25 @@
       "#"
     ],
     [
-      "M",
-      "I",
-      "S",
       "T",
-      "O"
+      "U",
+      "R",
+      "N",
+      "E"
     ],
     [
       "#",
       "#",
-      "T",
-      "I",
-      "K"
+      "Z",
+      "A",
+      "R"
     ],
     [
       "#",
       "#",
-      "E",
-      "S",
-      "O"
+      "O",
+      "D",
+      "A"
     ]
   ],
   "across": [
@@ -45,7 +45,7 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Vlastnit; nebo ~ se k světu"
     },
     {
       "num": 4,
@@ -59,21 +59,21 @@
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Určený bod v prostoru"
+      "clue": "Série vystoupení na různých místech"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Nervový záškub oka"
+      "clue": "Sálavé horko z ohně"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Rozhodující tah, jímž končí šachová partie"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náčiní na zametání"
+      "clue": "Neúplný celek; trup sochy bez končetin"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Jehličnatý strom s červenými plody"
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Dějinné období, epocha"
     }
   ]
 }

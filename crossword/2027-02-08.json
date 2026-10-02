@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "N",
-      "E",
-      "Z",
-      "#"
-    ],
-    [
-      "S",
-      "A",
+      "#",
       "M",
-      "A",
-      "N"
-    ],
-    [
-      "O",
-      "B",
-      "O",
-      "C",
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "C",
       "I",
       "T"
     ],
     [
       "#",
-      "J",
+      "#",
+      "L",
+      "O",
+      "M"
+    ],
+    [
+      "Z",
+      "M",
       "E",
-      "T",
+      "N",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "clue": "Vlastnit; nebo ~ se k světu"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Místo těžby kamene; také ~ světla v hranolu"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Chloupky nad okem"
+      "clue": "Přechod do jiného stavu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "cells": 3,
+      "clue": "Jeden doušek nápoje"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Pohybovat se dopravním prostředkem"
+      "clue": "Zrakový orgán; také poutko na provaze"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Střelivo do zbraně"
+      "clue": "Bílá tekutina od krávy"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 3,
+      "cells": 3,
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Pustit se do práce"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Opak dobra; vybírá se vždy to menší"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Knižně nápoj"
     }
   ]
 }

@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "O",
-      "N",
-      "I",
-      "#",
-      "#"
-    ],
-    [
       "K",
-      "O",
       "D",
+      "O",
       "#",
       "#"
     ],
     [
-      "O",
-      "C",
+      "D",
+      "I",
+      "T",
+      "#",
+      "#"
+    ],
+    [
       "E",
-      "A",
-      "N"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "N",
-      "O"
-    ],
-    [
-      "#",
-      "#",
       "L",
       "I",
-      "S"
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "U",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "R",
+      "T"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Šifra; posloupnost znaků k odemčení"
+      "clue": "Odehrávat se, přihodit se"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Největší vodní plocha na Zemi"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Tvrdé místo po větvi v prkně"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Stroj, který tlakem drtí nebo tvaruje"
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "clue": "Jedna část celku či seriálu"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
+      "clue": "Stopa prstu na sklenici"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ]
 }

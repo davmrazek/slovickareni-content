@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "H",
+      "P",
       "R",
       "O",
-      "B"
+      "#",
+      "#"
     ],
     [
-      "#",
       "R",
-      "I",
+      "O",
+      "V",
+      "#",
+      "#"
+    ],
+    [
       "S",
-      "E"
-    ],
-    [
+      "K",
       "O",
-      "D",
-      "K",
-      "A",
-      "Z"
-    ],
-    [
-      "K",
       "L",
-      "A",
-      "D",
-      "#"
+      "A"
     ],
     [
-      "R",
-      "O",
-      "T",
+      "#",
+      "#",
+      "C",
       "A",
-      "#"
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "T",
+      "A"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Místo posledního odpočinku"
+      "col": 0,
+      "cells": 3,
+      "clue": "Předložka vyjadřující účel"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Knižně: hrob"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Velký stát ovládaný císařem"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Poukaz na zdroj; dědictví"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 4,
-      "clue": "Dobrá stránka věci, opak záporu"
+      "clue": "Budova, kde se učí; podle staré komedie základ života"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Ruský panovník, třeba Petr Veliký"
+    },
+    {
+      "num": 9,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Vojenská jednotka"
+      "col": 2,
+      "cells": 3,
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Krční průchod; úzké místo"
+      "col": 0,
+      "cells": 3,
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Sdělovat slovy"
+      "col": 1,
+      "cells": 3,
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Malé sídlo, obvykle rekreační"
-    },
-    {
-      "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Předložka nedostatku; také keř s bílými květy"
+      "clue": "Sladké plody stromů"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 3,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
     }
   ]
 }

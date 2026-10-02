@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "O",
-      "N",
-      "I",
-      "#",
-      "#"
-    ],
-    [
       "K",
-      "O",
       "D",
+      "O",
       "#",
       "#"
     ],
     [
-      "O",
-      "C",
+      "R",
+      "A",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "R",
       "E",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "R",
       "A",
-      "N"
+      "M"
     ],
     [
       "#",
       "#",
       "A",
-      "N",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "I",
-      "S"
+      "H",
+      "A"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Šifra; posloupnost znaků k odemčení"
+      "clue": "Rytmicky mluvený hudební styl"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Největší vodní plocha na Zemi"
+      "clue": "Postih za provinění"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Obruba obrazu"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Stroj, který tlakem drtí nebo tvaruje"
+      "clue": "Citoslovce náhlého pochopení"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "clue": "Věc věnovaná bezplatně"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
+      "clue": "Zpívané jevištní dílo"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Stará délková míra, necelé dva metry"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     }
   ]
 }

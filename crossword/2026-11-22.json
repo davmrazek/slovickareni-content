@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "H",
+      "N",
+      "E",
+      "D"
+    ],
+    [
       "#",
-      "D",
-      "V",
+      "M",
+      "A",
+      "M",
       "A"
     ],
     [
-      "#",
-      "#",
-      "V",
-      "E",
-      "S"
-    ],
-    [
-      "O",
-      "B",
+      "T",
       "O",
       "C",
-      "I"
+      "I",
+      "T"
     ],
     [
-      "R",
-      "A",
-      "J",
-      "#",
+      "U",
+      "T",
+      "E",
+      "S",
       "#"
     ],
     [
-      "T",
-      "R",
-      "I",
-      "#",
+      "F",
+      "A",
+      "Z",
+      "E",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Číslo mezi jedničkou a trojkou"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Malá obec na venkově"
+      "col": 1,
+      "cells": 4,
+      "clue": "Bez odkladu"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Důvěrně matka"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Chloupky nad okem"
+      "clue": "Otáčet dokola; natáčet film"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Místo blaženosti, zahrada Eden"
+      "cells": 4,
+      "clue": "Strmá skalní stěna nad mořem"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Počet nohou stativu"
+      "cells": 4,
+      "clue": "Etapa vývoje"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Dvou různých druhů zároveň"
+      "clue": "Látka, z níž se skládají tělesa"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Předmět; nebo záležitost"
+      "col": 2,
+      "cells": 5,
+      "clue": "A potom, a nato"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 3,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Podnik s nápoji a vysokými židlemi"
+      "clue": "Sopečná usazená hornina"
     }
   ]
 }

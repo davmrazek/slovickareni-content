@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "A",
-      "L",
-      "E",
       "#",
-      "#"
+      "#",
+      "C",
+      "O",
+      "Z"
     ],
     [
-      "S",
-      "E",
-      "F",
       "#",
-      "#"
-    ],
-    [
-      "I",
-      "D",
-      "E",
-      "A",
+      "#",
+      "H",
+      "U",
       "L"
     ],
     [
-      "#",
-      "#",
       "K",
       "R",
-      "A"
+      "U",
+      "T",
+      "Y"
     ],
     [
+      "R",
+      "E",
+      "Z",
       "#",
-      "#",
-      "T",
+      "#"
+    ],
+    [
       "A",
-      "T"
+      "V",
+      "E",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Nadřízený v práci"
+      "clue": "Opora při chůzi"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
+      "clue": "Nemilosrdný"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rána vedená ostřím"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Plovoucí ledová deska"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Latinský pozdrav v modlitbě"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 2,
+      "cells": 5,
+      "clue": "Pohyb po nohou"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Výsledný účinek; také zvukový ~ ve filmu"
+      "col": 4,
+      "cells": 3,
+      "clue": "Plný zloby, nedobrý"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plovoucí ledová deska"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Hlasitý zvuk zvířete"
     }
   ]
 }

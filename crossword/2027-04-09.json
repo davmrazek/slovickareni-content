@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "J",
-      "I",
-      "T"
+      "H",
+      "R",
+      "A"
     ],
     [
       "#",
       "#",
-      "M",
-      "O",
-      "R"
-    ],
-    [
-      "C",
-      "T",
+      "L",
       "E",
-      "N",
-      "I"
+      "V"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "C",
+      "E"
     ],
     [
       "L",
-      "I",
-      "N",
+      "O",
+      "V",
       "#",
       "#"
     ],
     [
-      "O",
-      "K",
-      "O",
+      "Z",
+      "D",
+      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Zhoubná nakažlivá nemoc"
+      "clue": "Král zvířat"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vnímání textu"
+      "clue": "Činnost za odměnu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Sladkovodní ryba se slizkou kůží"
+      "clue": "Pronásledování zvěře"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "clue": "Nejvyšší část těla"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Mluvený projev; také jazyk národa"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Počet nohou stativu"
+      "clue": "Latinský pozdrav v modlitbě"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Poplatek za dovoz zboží přes hranice"
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Nervový záškub oka"
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     }
   ]
 }

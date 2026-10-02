@@ -5,37 +5,37 @@
   "grid": [
     [
       "T",
-      "R",
-      "H",
-      "#",
-      "#"
-    ],
-    [
-      "R",
       "A",
       "M",
       "#",
       "#"
     ],
     [
-      "S",
-      "K",
-      "O",
+      "E",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "A",
       "L",
+      "K",
       "A"
     ],
     [
       "#",
       "#",
-      "T",
-      "Y",
-      "L"
+      "B",
+      "U",
+      "K"
     ],
     [
       "#",
       "#",
       "A",
-      "K",
+      "L",
       "T"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Obruba obrazu"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Budova, kde se učí; podle staré komedie základ života"
+      "clue": "Velká vzdálenost"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Zadní část hlavy; také jemná průsvitná látka"
+      "clue": "Listnatý strom s hladkou kůrou"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Hluboký ženský hlas"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
+      "clue": "V tomto okamžiku"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Látka, z níž se skládají tělesa"
+      "clue": "Obraz nanesený barvami"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Vodivá pletiva pod kůrou stromů (2. pád mn. č.)"
+      "clue": "Zaražená dřevěná opora"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ]
 }

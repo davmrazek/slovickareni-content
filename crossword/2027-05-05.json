@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "D",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "V",
-      "O",
-      "L",
-      "A",
-      "T"
-    ],
-    [
-      "U",
-      "L",
-      "I",
-      "C",
-      "E"
-    ],
-    [
-      "Z",
-      "A",
-      "T",
-      "E",
-      "Z"
+      "#",
+      "P",
+      "R",
+      "O"
     ],
     [
       "#",
-      "R",
+      "#",
+      "L",
+      "E",
+      "K"
+    ],
+    [
+      "K",
+      "O",
+      "N",
+      "T",
+      "O"
+    ],
+    [
       "A",
-      "Z",
+      "N",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "I",
+      "T",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Hlasitě zvát; telefonovat"
+      "col": 2,
+      "cells": 3,
+      "clue": "Prostředek proti nemoci"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Cesta mezi domy; slepá nikam nevede"
+      "clue": "Bankovní účet"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Nesené břemeno; také zkouška pevnosti"
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Svérázná povaha kraje nebo stavby"
+      "clue": "Nalévat; nebo ~ jako z konve"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Americká měna"
+      "clue": "Naplňovat; nebo splňovat úkol"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "col": 3,
+      "cells": 3,
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "A potom, a nato"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Vozidlo, zejména osobní automobil"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Knižně: také"
+      "clue": "Usazenina, bahno na dně"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     }
   ]
 }

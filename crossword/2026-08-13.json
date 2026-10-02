@@ -5,17 +5,17 @@
   "grid": [
     [
       "#",
-      "R",
-      "O",
-      "K",
+      "M",
+      "I",
+      "T",
       "#"
     ],
     [
-      "N",
-      "A",
-      "P",
+      "S",
       "O",
-      "J"
+      "K",
+      "O",
+      "L"
     ],
     [
       "U",
@@ -25,17 +25,17 @@
       "I"
     ],
     [
-      "Z",
+      "M",
+      "E",
+      "N",
       "I",
-      "R",
-      "A",
       "T"
     ],
     [
       "#",
-      "T",
+      "L",
       "A",
-      "C",
+      "K",
       "#"
     ]
   ],
@@ -45,14 +45,14 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Vlastnit; nebo ~ se k světu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Co se pije"
+      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
     },
     {
       "num": 6,
@@ -66,14 +66,14 @@
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Upřeně a udiveně hledět"
+      "clue": "Přetvářet do jiné podoby; také ~ peníze v bance"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Podnos na roznášení"
+      "clue": "Nátěr na nehty nebo na dřevo"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Dávat doporučení"
+      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Ten, o koho se lze opřít"
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Kulaté pečivo s tvarohem a povidly"
+      "clue": "Takové množství (~ práce)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Nástroj ke krájení"
+      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Nalévat; nebo ~ jako z konve"
     }
   ]
 }

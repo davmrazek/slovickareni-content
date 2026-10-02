@@ -5,36 +5,36 @@
   "grid": [
     [
       "#",
-      "S",
-      "P",
-      "O",
+      "U",
+      "D",
+      "A",
       "J"
     ],
     [
       "#",
-      "K",
+      "M",
       "O",
-      "P",
-      "I"
-    ],
-    [
-      "D",
-      "O",
-      "J",
-      "E",
-      "T"
-    ],
-    [
-      "U",
-      "D",
-      "E",
       "R",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "D",
+      "E",
+      "N"
+    ],
+    [
+      "E",
+      "L",
+      "A",
+      "N",
       "#"
     ],
     [
-      "M",
-      "A",
-      "M",
+      "K",
+      "Y",
+      "T",
       "A",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 4,
-      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
+      "clue": "Jednotlivá informace"
     },
     {
       "num": 5,
       "row": 1,
       "col": 1,
       "cells": 4,
-      "clue": "Dlouhá bodná zbraň jezdce"
+      "clue": "Velká slaná vodní plocha"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dorazit na místo vozem"
+      "clue": "První měsíc roku"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 4,
-      "clue": "Prudká rána; také ~ hodin o půlnoci"
+      "clue": "Nadšený rozmach do práce"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 4,
-      "clue": "Důvěrně matka"
+      "clue": "Vepřové stehno na řízky i do udírny"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Způsobená ztráta; také mladoboleslavská značka"
+      "clue": "Vyrobený, ne přírodní"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Obecná představa označená slovem"
+      "clue": "Doplnit; doručit zboží"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Zpívané jevištní dílo"
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
       "num": 4,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Pouze, nic víc; také japonská měna"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "clue": "Prostředek proti nemoci"
     }
   ]
 }

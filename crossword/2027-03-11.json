@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
-      "P",
-      "O",
-      "J"
+      "#",
+      "V",
+      "A",
+      "S"
     ],
     [
       "#",
-      "T",
-      "A",
-      "K",
-      "E"
-    ],
-    [
-      "K",
-      "A",
-      "N",
-      "O",
-      "N"
-    ],
-    [
-      "O",
-      "R",
+      "#",
       "E",
-      "L",
-      "#"
+      "H",
+      "M"
+    ],
+    [
+      "O",
+      "B",
+      "C",
+      "A",
+      "S"
     ],
     [
       "D",
-      "I",
-      "L",
       "O",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "B",
+      "Y",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
+      "col": 2,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno druhé osoby množné"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Rovněž, taktéž"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dělo z dob plachetnic"
+      "clue": "Jen někdy"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Dravec ve státním znaku"
+      "cells": 3,
+      "clue": "Španělský šlechtický titul"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 4,
-      "clue": "Výsledek tvůrčí práce"
+      "cells": 3,
+      "clue": "Spojka účelu (~ ses učil)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Pokročilý věk"
+      "clue": "Trvající navždy"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Plochý díl; také ovládací deska"
+      "col": 3,
+      "cells": 3,
+      "clue": "Citoslovce náhlého pochopení"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Kolem dokola"
-    },
-    {
-      "num": 4,
-      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Krátká textová zpráva"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Oslavná báseň, třeba na radost"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Šifra; posloupnost znaků k odemčení"
+      "clue": "Luštěnina; také závodní sáně řítící se ledovým korytem"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "J",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "A",
+      "D",
+      "E",
       "N",
-      "O"
-    ],
-    [
-      "M",
-      "A",
-      "S",
-      "I",
-      "V"
-    ],
-    [
-      "O",
-      "B",
-      "A",
-      "#",
       "#"
     ],
     [
-      "R",
-      "Y",
-      "T",
+      "S",
+      "A",
+      "M",
+      "A",
+      "N"
+    ],
+    [
+      "U",
+      "S",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "E",
+      "T"
+    ],
+    [
       "#",
+      "N",
+      "E",
+      "Z",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "col": 0,
+      "cells": 5,
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Rozsáhlý horský celek"
+      "clue": "Vynaložená námaha"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "cells": 5,
+      "clue": "Počet prstů na rukou"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "clue": "Spojka ve srovnání (větší ~ ty)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Hlasitě se radovat"
+      "clue": "Růžová tkáň, ze které rostou zuby"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Objevený předmět; lékařský závěr"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Lesklý tavitelný materiál, např. železo"
+      "clue": "Dřevěná nádoba na pivo"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Zhoubná nakažlivá nemoc"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

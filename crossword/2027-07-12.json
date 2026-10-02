@@ -5,36 +5,36 @@
   "grid": [
     [
       "#",
-      "M",
-      "I",
-      "T",
+      "N",
+      "A",
+      "D",
       "#"
     ],
     [
-      "S",
-      "O",
       "K",
-      "O",
+      "A",
+      "N",
+      "A",
       "L"
     ],
     [
-      "U",
-      "D",
       "O",
-      "L",
-      "I"
+      "P",
+      "E",
+      "R",
+      "A"
     ],
     [
-      "M",
+      "D",
+      "U",
+      "B",
       "E",
-      "N",
-      "I",
-      "T"
+      "N"
     ],
     [
       "#",
       "L",
-      "A",
+      "O",
       "K",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+      "clue": "Umělé vodní koryto; nebo stoka"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
+      "clue": "Zpívané jevištní dílo"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Přetvářet do jiné podoby; také ~ peníze v bance"
+      "clue": "Čtvrtý měsíc roku"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "clue": "Jeden doušek nápoje"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
+      "clue": "Rovným dílem mezi dva"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Věc pod stromečkem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
+      "clue": "Šifra; posloupnost znaků k odemčení"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Velké souvislé pole"
     }
   ]
 }

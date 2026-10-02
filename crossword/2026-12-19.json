@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "K",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "T"
-    ],
-    [
       "O",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "#",
       "S",
       "A",
-      "D",
-      "A"
+      "N"
     ],
     [
+      "V",
+      "Z",
+      "A",
       "D",
-      "E",
-      "S",
+      "U"
+    ],
+    [
+      "R",
+      "A",
+      "D",
       "#",
       "#"
     ],
     [
+      "H",
+      "R",
       "A",
-      "K",
-      "T",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "clue": "Bájný drak z pohádek"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Malé sídlo, obvykle rekreační"
+      "clue": "Na zadní straně, opak vpředu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Silná hrůza"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Zábava podle pravidel; také divadelní text"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Pokládat na místo"
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Otec rodiče"
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Hod koulí; nebo mláďata narozená naráz"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Platební poukaz místo hotovosti"
+      "clue": "Sálavé horko z ohně"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
-      "A",
-      "K",
-      "#"
-    ],
-    [
-      "K",
-      "A",
-      "N",
-      "A",
-      "L"
-    ],
-    [
-      "U",
-      "Z",
-      "E",
-      "M",
-      "I"
-    ],
-    [
-      "N",
-      "A",
-      "B",
-      "E",
-      "H"
+      "#",
+      "R",
+      "O",
+      "K"
     ],
     [
       "#",
-      "T",
+      "#",
       "O",
+      "B",
+      "R"
+    ],
+    [
+      "T",
+      "A",
+      "B",
+      "A",
+      "K"
+    ],
+    [
+      "A",
       "N",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "I",
+      "T",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Umělé vodní koryto; nebo stoka"
+      "col": 2,
+      "cells": 3,
+      "clue": "Pohádkový velikán"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vymezená část země, teritorium"
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Rozběh; nebo počáteční fáze"
+      "cells": 3,
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "clue": "Vlastnit; nebo ~ se k světu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Klást otázky, ptát se"
+      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "col": 3,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Domácí kopytník tažný a jezdecký"
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
+      "clue": "Na onom místě, opak sem"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "I",
-      "R"
-    ],
-    [
-      "P",
-      "A",
-      "S",
-      "T",
-      "A"
-    ],
-    [
-      "O",
-      "S",
-      "A",
-      "#",
+      "M",
+      "U",
+      "J",
       "#"
     ],
     [
-      "D",
-      "I",
       "K",
+      "O",
+      "M",
+      "I",
+      "N"
+    ],
+    [
+      "U",
+      "C",
+      "E",
+      "N",
+      "I"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "A",
+      "T"
+    ],
+    [
       "#",
+      "L",
+      "Y",
+      "K",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Přivlastňovací zájmeno první osoby"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Původce chřipky; také rotující proud vody"
+      "col": 0,
+      "cells": 5,
+      "clue": "Odvádí kouř nad střechu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Zubní ~; hustá mazlavá hmota"
+      "clue": "Osvojování znalostí"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "cells": 5,
+      "clue": "Mísa nakrájené zeleniny"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Projev vděčnosti, poděkování"
+      "clue": "Vodivá pletiva pod kůrou stromů (2. pád mn. č.)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Bažina, mokřad"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vyrobený, ne přírodní"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Jiným způsobem, odlišně"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Jeden odlomený či oddělený díl"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Předložka označující nižší polohu"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

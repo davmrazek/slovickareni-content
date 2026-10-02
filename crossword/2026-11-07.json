@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "A",
-      "R"
-    ],
-    [
-      "C",
-      "E",
-      "S",
       "T",
-      "A"
-    ],
-    [
-      "O",
-      "S",
-      "A",
-      "#",
+      "E",
+      "N",
       "#"
     ],
     [
-      "Z",
+      "S",
+      "A",
+      "M",
+      "A",
+      "N"
+    ],
+    [
       "O",
+      "B",
+      "O",
+      "C",
+      "I"
+    ],
+    [
       "K",
+      "A",
+      "C",
+      "E",
+      "T"
+    ],
+    [
       "#",
+      "K",
+      "E",
+      "Z",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Bublání vroucí vody"
+      "col": 0,
+      "cells": 5,
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Trasa z místa na místo"
+      "clue": "Chloupky nad okem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "cells": 5,
+      "clue": "Porážet stromy"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Velký pytel na vlnu nebo chmel"
+      "clue": "Vyjadřuje přání: ~ by to byla pravda"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "col": 2,
+      "cells": 5,
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "A potom, a nato"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Soupeř, protivník"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "A",
-      "L",
+      "Z",
+      "D",
       "E"
     ],
     [
       "#",
       "#",
+      "L",
+      "E",
+      "M"
+    ],
+    [
       "V",
+      "Z",
       "A",
-      "R"
+      "D",
+      "U"
     ],
     [
-      "P",
-      "A",
-      "S",
+      "L",
+      "E",
       "T",
-      "A"
-    ],
-    [
-      "O",
-      "S",
-      "A",
       "#",
       "#"
     ],
     [
-      "D",
-      "I",
       "K",
+      "D",
+      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Na tomto místě, tady"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Bublání vroucí vody"
+      "clue": "Okraj, obruba oděvu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Zubní ~; hustá mazlavá hmota"
+      "clue": "Na zadní straně, opak vpředu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Projev vděčnosti, poděkování"
+      "clue": "Tázací zájmeno ptající se na osobu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Drahý žlutý kov; také oslovení milované osoby"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Otec rodiče"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Australský neletící pták"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Předložka označující nižší polohu"
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Svislá zděná stěna"
     }
   ]
 }

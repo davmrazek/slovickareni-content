@@ -11,32 +11,32 @@
       "#"
     ],
     [
-      "A",
+      "O",
       "U",
       "T",
       "#",
       "#"
     ],
     [
-      "Z",
+      "S",
       "L",
       "A",
-      "T",
-      "O"
+      "V",
+      "A"
     ],
     [
       "#",
       "#",
       "P",
       "A",
-      "D"
+      "V"
     ],
     [
       "#",
       "#",
       "A",
-      "H",
-      "A"
+      "L",
+      "E"
     ]
   ],
   "across": [
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Široký věhlas"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Volný ~ z výšky; čeština jich má sedm"
+      "clue": "Pták s okatým vějířem"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "clue": "Černý pták se žlutým zobákem"
     },
     {
       "num": 2,
@@ -103,14 +103,14 @@
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Pohyb figurkou; nebo silné vytažení"
+      "clue": "Zemní obranné navršení"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Latinský pozdrav v modlitbě"
     }
   ]
 }

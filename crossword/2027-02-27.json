@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "N",
+      "K",
+      "D",
       "E",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "U",
+      "T",
+      "#",
+      "#"
+    ],
+    [
       "Z",
-      "#"
-    ],
-    [
-      "S",
+      "L",
       "A",
-      "M",
-      "A",
-      "N"
-    ],
-    [
-      "O",
-      "B",
-      "O",
-      "C",
-      "I"
-    ],
-    [
       "T",
-      "O",
-      "C",
-      "I",
-      "T"
+      "O"
     ],
     [
       "#",
-      "J",
-      "E",
-      "T",
-      "#"
+      "#",
+      "P",
+      "Y",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "L",
+      "T"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "cells": 3,
+      "clue": "Míč za postranní čárou"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Chloupky nad okem"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "clue": "Drahý žlutý kov; také oslovení milované osoby"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Pohybovat se dopravním prostředkem"
+      "clue": "Vytrvalý plevel s bílými oddenky"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Hluboký ženský hlas"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Střelivo do zbraně"
+      "col": 0,
+      "cells": 3,
+      "clue": "Vada; také díra v zubu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 1,
+      "cells": 3,
+      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Pustit se do práce"
+      "clue": "Úsek cesty nebo vývoje, fáze"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Zadní část hlavy; také jemná průsvitná látka"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Vodorovná důlní chodba"
     }
   ]
 }

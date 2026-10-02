@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "P",
-      "O",
-      "D",
-      "#"
+      "#",
+      "T",
+      "A",
+      "K"
     ],
     [
-      "S",
-      "O",
-      "K",
-      "O",
-      "L"
+      "#",
+      "#",
+      "C",
+      "L",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "H",
+      "E",
+      "V"
     ],
     [
       "E",
       "R",
-      "O",
-      "Z",
-      "E"
-    ],
-    [
-      "N",
       "A",
-      "L",
-      "I",
-      "T"
+      "#",
+      "#"
     ],
     [
-      "#",
       "D",
-      "I",
-      "T",
+      "A",
+      "N",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Předložka označující nižší polohu"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+      "col": 2,
+      "cells": 3,
+      "clue": "Poplatek za dovoz zboží přes hranice"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "clue": "Skleněná nádoba na nápoje"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Naplnit sklenici až po okraj"
+      "cells": 3,
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "clue": "Povinná platba státu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Neustále"
+      "clue": "Otec manželky nebo manžela"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
+      "col": 3,
+      "cells": 3,
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Strávit zbytek života"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Obrazy ve spánku; nebo velká touha"
+      "clue": "Lesklý tavitelný materiál, např. železo"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "clue": "Zmrzlá voda; v nápoji chrastí"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
     }
   ]
 }

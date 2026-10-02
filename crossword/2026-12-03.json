@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
+      "T",
+      "E",
+      "D",
+      "#"
+    ],
+    [
       "P",
       "O",
-      "J"
+      "M",
+      "O",
+      "C"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "C",
+      "I",
+      "S",
+      "A",
+      "R"
     ],
     [
       "#",
       "K",
-      "O",
-      "P",
-      "I"
-    ],
-    [
-      "D",
-      "O",
-      "J",
       "E",
-      "T"
-    ],
-    [
-      "U",
-      "D",
-      "E",
-      "R",
-      "#"
-    ],
-    [
-      "M",
-      "A",
-      "M",
-      "A",
+      "Z",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 4,
-      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
+      "cells": 3,
+      "clue": "V tomto okamžiku"
     },
     {
-      "num": 5,
+      "num": 4,
       "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Dlouhá bodná zbraň jezdce"
+      "col": 0,
+      "cells": 5,
+      "clue": "Podpora v nouzi"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dorazit na místo vozem"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Prudká rána; také ~ hodin o půlnoci"
+      "cells": 5,
+      "clue": "Panovník říše"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Důvěrně matka"
+      "col": 1,
+      "cells": 3,
+      "clue": "Vyjadřuje přání: ~ by to byla pravda"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Způsobená ztráta; také mladoboleslavská značka"
+      "clue": "Takové množství (~ práce)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Obecná představa označená slovem"
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Zpívané jevištní dílo"
+      "clue": "Položená otázka"
     },
     {
       "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Pohybovat se pěšky"
-    },
-    {
-      "num": 6,
-      "row": 2,
+      "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "clue": "Zděné zařízení k tavení nebo topení"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Ruský panovník, třeba Petr Veliký"
     }
   ]
 }

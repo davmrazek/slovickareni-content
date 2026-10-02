@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "R",
-      "O",
-      "K",
       "#",
-      "#"
-    ],
-    [
-      "O",
-      "B",
-      "A",
-      "#",
-      "#"
-    ],
-    [
       "H",
-      "R",
-      "U",
-      "Z",
+      "N",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "M",
+      "A",
+      "M",
       "A"
     ],
     [
-      "#",
-      "#",
-      "Z",
-      "A",
-      "L"
+      "P",
+      "O",
+      "C",
+      "I",
+      "T"
     ],
     [
-      "#",
-      "#",
+      "U",
+      "T",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "B",
       "A",
-      "K",
-      "T"
+      "Z",
+      "E",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "col": 1,
+      "cells": 4,
+      "clue": "Bez odkladu"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Důvěrně matka"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Zděšení, které vžene mráz po zádech"
+      "clue": "Vnitřní prožitek"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Strmá skalní stěna nad mořem"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Hluboký smutek"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "col": 0,
+      "cells": 4,
+      "clue": "Základna; opak kyseliny"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
+      "col": 1,
+      "cells": 5,
+      "clue": "Látka, z níž se skládají tělesa"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Pohádkový velikán"
+      "col": 2,
+      "cells": 5,
+      "clue": "A potom, a nato"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Sledovaný právní případ"
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Dítě, které chodí do školy"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Anglická hospoda"
     }
   ]
 }

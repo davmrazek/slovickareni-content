@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "P",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "K",
-      "R"
-    ],
-    [
-      "K",
-      "A",
-      "R",
       "T",
-      "A"
-    ],
-    [
       "E",
-      "R",
-      "A",
-      "#",
+      "D",
       "#"
     ],
     [
-      "R",
+      "D",
+      "A",
+      "T",
+      "U",
+      "M"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "N",
+      "A",
+      "P",
+      "O",
+      "J"
+    ],
+    [
+      "#",
+      "K",
       "A",
       "D",
-      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "V tomto okamžiku"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "col": 0,
+      "cells": 5,
+      "clue": "Den v kalendáři"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "List v balíčku na hraní; platební"
+      "clue": "Strach z budoucího"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "cells": 5,
+      "clue": "Co se pije"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Velká dřevěná nádoba na zelí"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Neustále"
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "col": 2,
+      "cells": 5,
+      "clue": "Úsek cesty nebo vývoje, fáze"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Příčina jednání"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "clue": "Španělský šlechtický titul"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Pátý měsíc v roce; lásky čas"
     }
   ]
 }

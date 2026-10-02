@@ -4,46 +4,46 @@
   "size": 5,
   "grid": [
     [
-      "#",
       "M",
       "I",
       "T",
+      "#",
       "#"
     ],
     [
-      "S",
-      "O",
-      "K",
-      "O",
-      "L"
-    ],
-    [
-      "U",
-      "D",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "M",
-      "E",
+      "A",
       "N",
-      "I",
-      "T"
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "U",
+      "P",
+      "E",
+      "C"
     ],
     [
       "#",
+      "#",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "#",
       "L",
-      "A",
-      "K",
-      "#"
+      "O",
+      "S"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
       "clue": "Vlastnit; nebo ~ se k světu"
     },
@@ -51,66 +51,66 @@
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+      "cells": 3,
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Přetvářet do jiné podoby; také ~ peníze v bance"
+      "clue": "Obchodník; ten, kdo kupuje"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
+      "col": 0,
+      "cells": 3,
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "col": 1,
+      "cells": 3,
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Štíhlý strom vysazovaný do alejí"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Plyne a měříme ho hodinami"
     }
   ]
 }

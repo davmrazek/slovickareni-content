@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
-      "A",
-      "K",
+      "N",
+      "O",
+      "C",
       "#"
     ],
     [
       "K",
       "A",
-      "N",
-      "A",
+      "B",
+      "E",
       "L"
     ],
     [
-      "U",
-      "Z",
-      "E",
-      "M",
-      "I"
+      "O",
+      "P",
+      "I",
+      "L",
+      "Y"
     ],
     [
-      "N",
+      "S",
       "A",
-      "B",
+      "L",
       "E",
-      "H"
+      "K"
     ],
     [
       "#",
-      "T",
-      "O",
-      "N",
+      "D",
+      "I",
+      "K",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Umělé vodní koryto; nebo stoka"
+      "clue": "Silný izolovaný vodič"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vymezená část země, teritorium"
+      "clue": "Pod vlivem alkoholu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Rozběh; nebo počáteční fáze"
+      "clue": "Nádobka na čaj s ouškem"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "clue": "Projev vděčnosti, poděkování"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Klást otázky, ptát se"
+      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+      "clue": "Souhrn všech částí"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Domácí kopytník tažný a jezdecký"
+      "clue": "Černý pták se žlutým zobákem"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
+      "clue": "Vodivá pletiva pod kůrou stromů (2. pád mn. č.)"
     }
   ]
 }

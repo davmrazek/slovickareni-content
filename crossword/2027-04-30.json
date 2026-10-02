@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "E",
-      "#",
-      "#"
-    ],
-    [
-      "A",
-      "U",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "Z",
-      "L",
-      "A",
-      "T",
-      "O"
-    ],
-    [
-      "#",
-      "#",
       "P",
       "R",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "O",
       "S"
     ],
     [
       "#",
       "#",
       "A",
-      "H",
-      "A"
+      "N",
+      "I"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Předložka blízkosti (~ cestě)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Souhlas dvou stran; mluvnický jev"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
+      "clue": "Španělský šlechtický titul"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Snad, pravděpodobně"
     }
   ]
 }

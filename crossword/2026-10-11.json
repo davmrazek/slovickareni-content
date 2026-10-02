@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
-      "R",
-      "S",
-      "T"
-    ],
-    [
       "#",
-      "K",
-      "O",
-      "T",
+      "Z",
+      "D",
       "E"
     ],
     [
-      "K",
-      "A",
+      "#",
+      "#",
       "M",
-      "E",
-      "N"
+      "A",
+      "G"
     ],
     [
+      "J",
+      "M",
       "E",
-      "L",
-      "A",
       "N",
+      "O"
+    ],
+    [
+      "H",
+      "O",
+      "N",
+      "#",
       "#"
     ],
     [
-      "R",
+      "O",
+      "D",
       "A",
-      "N",
-      "A",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Chlupatý pokryv zvířete"
+      "col": 2,
+      "cells": 3,
+      "clue": "Na tomto místě, tady"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Čaroděj, kouzelník"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Mládě, které si hraje s klubkem"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+      "clue": "Jak se kdo nazývá"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "cells": 3,
+      "clue": "Štvanice na zvěř"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 4,
-      "clue": "Poranění; také úder"
+      "cells": 3,
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Holý kamenný útvar; pevný jako ~"
+      "clue": "Přechod do jiného stavu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rozsáhlé prozaické dílo"
+      "col": 3,
+      "cells": 3,
+      "clue": "Povinná platba státu"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
-    },
-    {
-      "num": 4,
-      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Vlastní já; nafouklé bývá u hvězd"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dřevo na krku tažného dobytka; útlak"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "clue": "Herní úprava od fanoušků"
     }
   ]
 }

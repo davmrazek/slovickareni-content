@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "K",
+      "D",
+      "O",
       "#",
-      "M",
-      "U",
-      "J",
       "#"
     ],
     [
+      "R",
+      "E",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "N",
+      "I",
+      "Z",
+      "E"
+    ],
+    [
+      "#",
+      "#",
       "S",
       "A",
-      "M",
-      "E",
-      "C"
-    ],
-    [
-      "U",
-      "L",
-      "E",
-      "V",
-      "A"
-    ],
-    [
-      "P",
-      "I",
-      "L",
-      "I",
-      "R"
+      "T"
     ],
     [
       "#",
+      "#",
+      "K",
       "R",
-      "Y",
-      "T",
-      "#"
+      "A"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Zvíře mužského pohlaví"
+      "cells": 3,
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Mohutná svislá podpěra mostu"
+      "clue": "Vysoký šlechtický titul pod králem"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "clue": "Knižně oděv, roucho"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Plovoucí ledová deska"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "col": 0,
+      "cells": 3,
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vyrobený, ne přírodní"
+      "col": 1,
+      "cells": 3,
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
+      "clue": "Stopa prstu na sklenici"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Mrchožravý dravec"
+      "clue": "Sálavé horko z ohně"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "#",
+      "D",
       "N",
-      "E",
-      "Z",
-      "#"
-    ],
-    [
-      "S",
-      "A",
-      "M",
-      "A",
-      "N"
-    ],
-    [
-      "O",
-      "B",
-      "O",
-      "C",
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "C",
-      "I",
-      "T"
+      "O"
     ],
     [
       "#",
-      "J",
-      "E",
-      "T",
+      "#",
+      "R",
+      "A",
+      "J"
+    ],
+    [
+      "V",
+      "S",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "L",
+      "U",
+      "H",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "D",
+      "Y",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "clue": "Nejnižší část nádoby či rybníka"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Místo blaženosti, zahrada Eden"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Chloupky nad okem"
+      "clue": "Na všech místech"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "cells": 3,
+      "clue": "Vlhký les a louky při řece; s háji tvoří známou dvojici"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Pohybovat se dopravním prostředkem"
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Střelivo do zbraně"
+      "clue": "Následující po prvním"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 3,
+      "cells": 3,
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Pustit se do práce"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Tyč, za kterou táhne kůň vůz"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Dřevěná nádoba na pivo"
     }
   ]
 }

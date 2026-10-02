@@ -4,74 +4,74 @@
   "size": 5,
   "grid": [
     [
-      "N",
-      "A",
-      "S",
       "#",
-      "#"
-    ],
-    [
+      "#",
+      "C",
       "O",
+      "Z"
+    ],
+    [
+      "#",
+      "#",
+      "H",
       "U",
+      "L"
+    ],
+    [
+      "Z",
+      "L",
+      "A",
+      "T",
+      "Y"
+    ],
+    [
+      "D",
+      "I",
       "T",
       "#",
       "#"
     ],
     [
-      "S",
-      "T",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "I",
-      "T"
-    ],
-    [
-      "#",
-      "#",
       "A",
       "H",
-      "A"
+      "A",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno (~ dům)"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Opora při chůzi"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bez přestání"
+      "clue": "Z drahého žlutého kovu"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Odehrávat se, přihodit se"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Splétat věnec z kvítí"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 0,
       "cells": 3,
       "clue": "Citoslovce náhlého pochopení"
     }
@@ -80,37 +80,37 @@
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
+      "col": 2,
+      "cells": 5,
+      "clue": "Rekreační stavení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Tekutina vylisovaná z ovoce"
+      "col": 4,
+      "cells": 3,
+      "clue": "Plný zloby, nedobrý"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 1,
       "cells": 3,
       "clue": "Etanol, základ tvrdého alkoholu"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
     }
   ]
 }

@@ -6,34 +6,34 @@
     [
       "#",
       "#",
-      "P",
       "A",
-      "K"
+      "L",
+      "E"
     ],
     [
       "#",
       "#",
-      "O",
-      "B",
+      "V",
+      "A",
+      "R"
+    ],
+    [
+      "L",
+      "A",
+      "S",
+      "K",
       "A"
     ],
     [
-      "M",
       "O",
-      "T",
-      "Y",
-      "L"
-    ],
-    [
-      "O",
-      "K",
-      "O",
+      "B",
+      "A",
       "#",
       "#"
     ],
     [
-      "K",
-      "R",
+      "B",
+      "Y",
       "K",
       "#",
       "#"
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Bublání vroucí vody"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Hmyz s barevnými křídly, býval housenkou"
+      "clue": "Nejsilnější cit"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Samec skotu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Malý vodní tok"
+      "clue": "Knižní odporovací spojka: ale, jenže"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Nátěr na nehty nebo na dřevo"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně nápoj"
+      "clue": "Vysoký oblouk míčku přes soupeře"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Spojka účelu (~ ses učil)"
     }
   ]
 }

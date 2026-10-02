@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "E",
-      "N",
-      "#"
+      "#",
+      "P",
+      "R",
+      "I"
     ],
     [
-      "S",
-      "A",
-      "M",
+      "#",
+      "#",
+      "L",
       "A",
       "N"
     ],
     [
-      "O",
-      "K",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "C",
-      "I",
-      "T"
-    ],
-    [
-      "#",
-      "Z",
+      "V",
       "E",
+      "N",
+      "K",
+      "U"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "O",
       "T",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Předložka blízkosti (~ cestě)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Velké souvislé pole"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
+      "clue": "Mimo budovu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Krátká reportáž ve zprávách"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Knižně: a rovněž, a též"
+      "clue": "Naplňovat; nebo splňovat úkol"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 3,
+      "cells": 3,
+      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Naplnit sklenici až po okraj"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Přivlastňovací zájmeno druhé osoby množné"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ]
 }

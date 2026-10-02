@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "J",
-      "I",
-      "Z"
-    ],
-    [
-      "#",
-      "#",
-      "M",
-      "O",
-      "D"
-    ],
-    [
-      "Z",
-      "M",
-      "E",
-      "N",
-      "A"
-    ],
-    [
-      "D",
+      "T",
       "A",
-      "N",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "L",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "H",
+      "E",
+      "V"
+    ],
+    [
+      "E",
+      "R",
+      "A",
       "#",
       "#"
     ],
     [
-      "E",
-      "G",
-      "O",
+      "V",
+      "A",
+      "N",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Knižně: už"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Herní úprava od fanoušků"
+      "clue": "Poplatek za dovoz zboží přes hranice"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Přechod do jiného stavu"
+      "clue": "Skleněná nádoba na nápoje"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Povinná platba státu"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Vlastní já; nafouklé bývá u hvězd"
+      "clue": "Slabý pohyb vzduchu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "clue": "Otec manželky nebo manžela"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Lesklý tavitelný materiál, např. železo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Král zvířat"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Čaroděj, kouzelník"
+      "clue": "Velký barevný papoušek"
     }
   ]
 }

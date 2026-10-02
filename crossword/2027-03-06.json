@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "N",
-      "E",
+      "#",
+      "L",
       "Z",
-      "#"
+      "E"
     ],
     [
-      "S",
-      "A",
-      "M",
+      "#",
+      "#",
+      "Z",
       "E",
       "T"
     ],
     [
-      "O",
-      "P",
+      "T",
+      "R",
       "I",
-      "L",
-      "Y"
-    ],
-    [
-      "K",
-      "A",
-      "S",
-      "E",
-      "L"
-    ],
-    [
-      "#",
       "D",
+      "A"
+    ],
+    [
+      "M",
       "E",
-      "N",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "V",
+      "E",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "clue": "Je možné (~ to udělat)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
+      "col": 2,
+      "cells": 3,
+      "clue": "Pro tchána i tchyni manžel jejich dcery"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pod vlivem alkoholu"
+      "clue": "Skupina žáků; také kvalita"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Štěkavý průvodce nachlazení"
+      "cells": 3,
+      "clue": "Chladná zbraň rytířů"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Latinský pozdrav v modlitbě"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
+      "clue": "Příbor na polévku"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+      "col": 3,
+      "cells": 3,
+      "clue": "Svislá zděná stěna"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Soupeř, protivník"
+      "clue": "Sedmé písmeno řecké abecedy"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Zadní část hlavy; také jemná průsvitná látka"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Hlasitý zvuk zvířete"
     }
   ]
 }

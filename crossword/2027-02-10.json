@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "A",
-      "L",
+      "K",
+      "D",
       "E",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "U",
+      "T",
       "#",
       "#"
     ],
     [
       "S",
-      "E",
-      "F",
-      "#",
-      "#"
-    ],
-    [
-      "I",
-      "D",
-      "E",
+      "L",
       "A",
-      "L"
-    ],
-    [
-      "#",
-      "#",
-      "K",
-      "R",
+      "V",
       "A"
     ],
     [
       "#",
       "#",
-      "T",
+      "P",
+      "E",
+      "L"
+    ],
+    [
+      "#",
+      "#",
       "A",
-      "K"
+      "K",
+      "T"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Nadřízený v práci"
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
+      "clue": "Široký věhlas"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "clue": "Básnicky květní poprašek; přeneseně svěžest mládí"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Černý pták se žlutým zobákem"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Výsledný účinek; také zvukový ~ ve filmu"
+      "clue": "Úsek cesty nebo vývoje, fáze"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Počet prožitých let"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "clue": "Hluboký ženský hlas"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "B",
-      "U",
-      "H",
-      "#"
-    ],
-    [
-      "T",
-      "E",
-      "M",
-      "E",
-      "R"
-    ],
-    [
-      "U",
-      "T",
-      "E",
-      "R",
-      "Y"
-    ],
-    [
       "K",
-      "O",
-      "N",
+      "R",
       "E",
-      "C"
+      "V"
     ],
     [
       "#",
-      "N",
+      "R",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "R",
       "I",
-      "C",
+      "D",
+      "I",
+      "C"
+    ],
+    [
+      "O",
+      "Z",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "V",
+      "E",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Nejvyšší božská bytost"
+      "cells": 4,
+      "clue": "Rudá tekutina v cévách"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Skoro, bezmála"
+      "col": 1,
+      "cells": 4,
+      "clue": "Postava, kterou herec ztvárňuje"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Druhý den týdne"
+      "clue": "Ten, kdo sedí za volantem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Opak začátku; když je dobrý, všechno je dobré"
+      "cells": 4,
+      "clue": "Znovu se probrat k životu"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Naprostá absence čehokoli"
+      "col": 0,
+      "cells": 4,
+      "clue": "Celek zakončený tečkou"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Směs cementu, písku a vody"
+      "clue": "Vážné zhoršení poměrů"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Malířství, hudba, sochařství — jedním slovem"
+      "clue": "Přivádět na svět"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Ten, kdo hraje role"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Mastná složka potravy"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Nářadí na kopání záhonu, šlape se na něj"
+      "clue": "Předmět; nebo záležitost"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Knižně: hrob"
     }
   ]
 }

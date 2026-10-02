@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "E",
-      "#",
-      "#"
-    ],
-    [
-      "D",
-      "A",
-      "L",
+      "J",
+      "I",
+      "Z",
       "#",
       "#"
     ],
     [
       "O",
-      "T",
+      "N",
       "I",
-      "S",
-      "K"
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "U",
+      "V",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "A"
     ],
     [
       "#",
       "#",
       "T",
-      "U",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "K",
-      "T"
+      "R",
+      "N"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Knižně: už"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Do větší vzdálenosti"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "clue": "Příčina jednání"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Ostrý výrůstek na růži"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Prvek v dezinfekci ran"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Opak smrti"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Tvrdé místo po větvi v prkně"
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "clue": "Povinná platba státu"
     }
   ]
 }

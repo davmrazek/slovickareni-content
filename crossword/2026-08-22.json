@@ -6,37 +6,37 @@
     [
       "T",
       "A",
-      "K",
-      "#",
-      "#"
-    ],
-    [
-      "A",
-      "N",
-      "O",
-      "#",
-      "#"
-    ],
-    [
       "M",
-      "I",
+      "#",
+      "#"
+    ],
+    [
+      "O",
       "S",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "I",
       "T",
+      "R",
       "O"
     ],
     [
       "#",
       "#",
-      "T",
-      "I",
-      "K"
-    ],
-    [
-      "#",
-      "#",
+      "K",
       "E",
-      "S",
-      "O"
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "K",
+      "T"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Určený bod v prostoru"
+      "clue": "Vnitřek věci; také lidské city"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Nervový záškub oka"
+      "clue": "Nízká dřevina bez kmene"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Zvuk určité výšky"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náčiní na zametání"
+      "clue": "Ženský rodič"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Jehličnatý strom s červenými plody"
+      "clue": "Knižně hrdina"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Vodorovná důlní chodba"
     }
   ]
 }

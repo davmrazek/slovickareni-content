@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "R",
-      "I"
-    ],
-    [
-      "#",
-      "#",
-      "S",
+      "C",
       "A",
-      "N"
+      "S"
     ],
     [
-      "V",
+      "#",
+      "#",
+      "H",
+      "L",
+      "T"
+    ],
+    [
       "Z",
+      "L",
       "A",
-      "D",
-      "U"
+      "T",
+      "O"
     ],
     [
-      "I",
-      "O",
-      "N",
+      "L",
+      "E",
+      "T",
       "#",
       "#"
     ],
     [
-      "S",
-      "K",
-      "I",
+      "O",
+      "D",
+      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
+      "clue": "Plyne a měříme ho hodinami"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Bájný drak z pohádek"
+      "clue": "Jedno velké polknutí; na jeden ~"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na zadní straně, opak vpředu"
+      "clue": "Drahý žlutý kov; také oslovení milované osoby"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Lyžařský, v názvech vleků a areálů"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Zaznamenávání písmen; také dopis"
+      "clue": "Rekreační stavení"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Hluboký ženský hlas"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Cvik na hrazdě, nohy nad zemí"
+      "clue": "Opak dobra; vybírá se vždy to menší"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Velký pytel na vlnu nebo chmel"
+      "clue": "Zmrzlá voda; v nápoji chrastí"
     }
   ]
 }

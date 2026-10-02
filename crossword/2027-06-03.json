@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "Z",
-      "D",
-      "E"
+      "N",
+      "I",
+      "C"
     ],
     [
       "#",
       "#",
-      "B",
-      "U",
-      "M"
+      "O",
+      "N",
+      "I"
     ],
     [
-      "S",
       "P",
       "O",
-      "L",
-      "U"
+      "S",
+      "U",
+      "N"
     ],
     [
-      "R",
       "A",
-      "Z",
+      "S",
+      "I",
       "#",
       "#"
     ],
     [
-      "P",
-      "R",
-      "I",
+      "S",
+      "A",
+      "T",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Naprostá absence čehokoli"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Zvuk výbuchu"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Společně"
+      "clue": "Přesun o kus dál"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Svérázná povaha kraje nebo stavby"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
+      "clue": "Knižně oděv, roucho"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Co se prodává v regálech"
+      "clue": "Přemísťovat opakovaně; mít na sobě"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Australský neletící pták"
+      "clue": "Skutek, konání; také kov na pocínování"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
+      "clue": "Řemen kolem beder; také doklad na cesty"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Dva k sobě patřící; nebo několik málo"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     }
   ]
 }

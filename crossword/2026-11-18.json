@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "A",
-      "K"
+      "M",
+      "I",
+      "T"
     ],
     [
       "#",
       "#",
+      "L",
       "O",
-      "B",
-      "R"
+      "M"
     ],
     [
-      "J",
-      "A",
       "Z",
-      "Y",
-      "K"
+      "M",
+      "E",
+      "N",
+      "A"
     ],
     [
+      "L",
       "A",
-      "N",
-      "O",
+      "K",
       "#",
       "#"
     ],
     [
-      "M",
-      "I",
-      "R",
+      "O",
+      "K",
+      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Vlastnit; nebo ~ se k světu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Místo těžby kamene; také ~ světla v hranolu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Orgán v ústech; také řeč národa"
+      "clue": "Přechod do jiného stavu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Nátěr na nehty nebo na dřevo"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Stav bez války"
+      "clue": "Zrakový orgán; také poutko na provaze"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Varovné zvolání"
+      "clue": "Bílá tekutina od krávy"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Hudební improvizace muzikantů"
+      "clue": "Opak dobra; vybírá se vždy to menší"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
     }
   ]
 }

@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "D",
-      "V",
-      "A",
-      "#",
-      "#"
-    ],
-    [
-      "I",
-      "N",
-      "U",
-      "#",
-      "#"
-    ],
-    [
-      "L",
-      "E",
-      "T",
+      "R",
       "O",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "I",
+      "S",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "R",
       "S"
     ],
     [
       "#",
       "#",
-      "O",
-      "B",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "R",
-      "A",
-      "P"
+      "E",
+      "H",
+      "M"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Číslo mezi jedničkou a trojkou"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "V tomto roce"
+      "clue": "Určený bod v prostoru"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Rytmicky mluvený hudební styl"
+      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Jedna část celku či seriálu"
+      "clue": "Obruba obrazu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Venku, mimo; opak uvnitř"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Ten, kdo dílo vytvořil"
+      "clue": "Náčiní na zametání"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Místo, kde se prodává a nakupuje"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
+      "clue": "Číslo mezi sedmi a devíti"
     }
   ]
 }

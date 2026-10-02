@@ -5,36 +5,36 @@
   "grid": [
     [
       "#",
-      "D",
-      "E",
-      "N",
+      "M",
+      "U",
+      "Z",
       "#"
     ],
     [
-      "V",
-      "O",
+      "S",
+      "A",
       "L",
       "A",
-      "T"
+      "M"
     ],
     [
-      "U",
+      "E",
       "L",
       "I",
-      "C",
-      "E"
+      "T",
+      "A"
     ],
     [
-      "Z",
-      "A",
-      "T",
+      "M",
+      "I",
+      "C",
       "E",
-      "Z"
+      "K"
     ],
     [
       "#",
       "R",
-      "A",
+      "E",
       "Z",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Dospělý člověk, kterému se říká pán"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Hlasitě zvát; telefonovat"
+      "clue": "Uzenina nakrájená na kolečka"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Cesta mezi domy; slepá nikam nevede"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Nesené břemeno; také zkouška pevnosti"
+      "clue": "Malý míč, např. pingpongový"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Svérázná povaha kraje nebo stavby"
+      "clue": "Rána vedená ostřím"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Americká měna"
+      "clue": "Kdo maluje obrazy nebo stěny"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "A potom, a nato"
+      "clue": "Nesené břemeno; také zkouška pevnosti"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Vozidlo, zejména osobní automobil"
+      "clue": "Směrem k mluvčímu"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Knižně: také"
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
     }
   ]
 }

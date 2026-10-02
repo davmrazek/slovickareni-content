@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "S",
       "T",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "I",
-      "R"
-    ],
-    [
-      "V",
-      "L",
-      "A",
-      "S",
-      "T"
-    ],
-    [
-      "L",
       "E",
-      "T",
-      "#",
+      "N",
       "#"
     ],
     [
-      "K",
-      "D",
-      "Y",
+      "P",
+      "O",
+      "R",
+      "A",
+      "D"
+    ],
+    [
+      "O",
+      "P",
+      "O",
+      "R",
+      "A"
+    ],
+    [
+      "P",
+      "O",
+      "Z",
+      "O",
+      "R"
+    ],
+    [
       "#",
+      "L",
+      "E",
+      "K",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Původce chřipky; také rotující proud vody"
+      "col": 0,
+      "cells": 5,
+      "clue": "Neustále"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Rodná země"
+      "clue": "Ten, o koho se lze opřít"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "cells": 5,
+      "clue": "Varovné zvolání"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Prostředek proti nemoci"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Uctívaný církví"
+      "clue": "Štíhlý strom vysazovaný do alejí"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Jehličnatý strom s červenými plody"
+      "col": 2,
+      "cells": 5,
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Oprávněný požadavek"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Hudba z rádiových hitparád"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Věc věnovaná bezplatně"
     }
   ]
 }

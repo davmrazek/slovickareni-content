@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "R",
-      "O"
+      "N",
+      "I",
+      "C"
     ],
     [
       "#",
       "#",
-      "L",
-      "E",
-      "N"
-    ],
-    [
-      "T",
-      "R",
-      "E",
-      "T",
+      "O",
+      "N",
       "I"
     ],
     [
-      "M",
-      "E",
-      "C",
+      "P",
+      "O",
+      "S",
+      "U",
+      "N"
+    ],
+    [
+      "A",
+      "S",
+      "I",
       "#",
       "#"
     ],
     [
+      "K",
       "A",
-      "C",
-      "H",
+      "T",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Naprostá absence čehokoli"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Řadová číslovka po druhém"
+      "clue": "Přesun o kus dál"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Kdo vykonává popravu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Přemísťovat opakovaně; mít na sobě"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Skutek, konání; také kov na pocínování"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Potom, následně"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     }
   ]
 }

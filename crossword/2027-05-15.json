@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "C",
-      "A",
-      "S"
+      "R",
+      "O",
+      "K"
     ],
     [
       "#",
       "#",
-      "H",
-      "L",
-      "T"
+      "O",
+      "B",
+      "R"
     ],
     [
-      "Z",
-      "L",
-      "A",
       "T",
-      "O"
+      "A",
+      "B",
+      "A",
+      "K"
     ],
     [
-      "L",
       "E",
-      "T",
+      "S",
+      "O",
       "#",
       "#"
     ],
     [
-      "O",
-      "D",
-      "A",
+      "N",
+      "I",
+      "T",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Plyne a měříme ho hodinami"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rekreační stavení"
+      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Snad, pravděpodobně"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
+      "#",
+      "P",
       "R",
-      "S",
-      "T"
+      "O"
     ],
     [
       "#",
+      "#",
+      "L",
+      "E",
+      "K"
+    ],
+    [
       "K",
       "O",
-      "T",
-      "E"
-    ],
-    [
-      "K",
-      "A",
-      "M",
-      "E",
-      "N"
-    ],
-    [
-      "E",
-      "L",
-      "A",
       "N",
+      "T",
+      "O"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "#",
       "#"
     ],
     [
-      "R",
+      "Z",
       "A",
-      "N",
-      "A",
+      "T",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Chlupatý pokryv zvířete"
+      "col": 2,
+      "cells": 3,
+      "clue": "Předložka vyjadřující účel"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Prostředek proti nemoci"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Mládě, které si hraje s klubkem"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+      "clue": "Bankovní účet"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 4,
-      "clue": "Poranění; také úder"
+      "cells": 3,
+      "clue": "Knižně sklízet obilí srpem"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Holý kamenný útvar; pevný jako ~"
+      "clue": "Naplňovat; nebo splňovat úkol"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rozsáhlé prozaické dílo"
+      "col": 3,
+      "cells": 3,
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
-    },
-    {
-      "num": 4,
-      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Zrakový orgán; také poutko na provaze"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vada; také díra v zubu"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     }
   ]
 }

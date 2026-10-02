@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "K",
-      "D",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "N",
+      "P",
       "A",
-      "D"
+      "K"
     ],
     [
-      "E",
+      "#",
+      "#",
+      "O",
+      "K",
+      "R"
+    ],
+    [
       "L",
-      "I",
+      "H",
+      "U",
       "T",
       "A"
     ],
     [
+      "O",
+      "U",
       "T",
-      "E",
-      "Z",
       "#",
       "#"
     ],
     [
-      "A",
-      "V",
-      "E",
+      "S",
+      "T",
+      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Potom, následně"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Předložka vyšší polohy"
+      "clue": "Žlutohnědý přírodní pigment"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Čas, do kdy je nutné něco stihnout"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně: také"
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Latinský pozdrav v modlitbě"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vysoký šlechtický titul pod králem"
+      "clue": "Silný vztah; také želízka na rukou"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Dějství divadelní hry; také úřední listina"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Plovoucí ledová deska"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Král zvířat"
+      "clue": "Závod na zpracování kovu"
     }
   ]
 }

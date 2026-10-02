@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "S",
+      "A",
+      "M",
       "#",
+      "#"
+    ],
+    [
+      "T",
+      "U",
+      "N",
       "#",
-      "L",
-      "Z",
-      "E"
+      "#"
+    ],
+    [
+      "O",
+      "T",
+      "I",
+      "S",
+      "K"
     ],
     [
       "#",
       "#",
-      "Z",
-      "E",
-      "T"
+      "C",
+      "A",
+      "R"
     ],
     [
+      "#",
+      "#",
       "H",
       "L",
-      "I",
-      "N",
-      "A"
-    ],
-    [
-      "M",
-      "O",
-      "C",
-      "#",
-      "#"
-    ],
-    [
-      "M",
-      "S",
-      "E",
-      "#",
-      "#"
+      "T"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Je možné (~ to udělat)"
+      "clue": "Zcela bez doprovodu"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Hluboké tiché místo v řece"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Zemina na keramiku"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Vládní síla; nebo velmi"
+      "clue": "Stopa prstu na sklenici"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Katolická bohoslužba"
+      "clue": "Ruský panovník, třeba Petr Veliký"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Jedno velké polknutí; na jeden ~"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Příbor na polévku"
+      "col": 0,
+      "cells": 3,
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Buddhistický směr meditace"
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Citoslovce zamyšlení či váhání"
+      "col": 2,
+      "cells": 5,
+      "clue": "Muž žijící v klášteře podle řehole"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "clue": "Místnost pro ples; také pruh látky kolem krku"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
     }
   ]
 }

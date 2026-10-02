@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
+      "#",
       "R",
-      "S",
-      "T"
+      "O",
+      "K"
     ],
     [
       "#",
-      "K",
+      "#",
       "O",
+      "B",
+      "R"
+    ],
+    [
       "T",
-      "E"
+      "R",
+      "V",
+      "A",
+      "T"
     ],
     [
-      "K",
-      "A",
-      "M",
-      "E",
-      "N"
-    ],
-    [
-      "E",
-      "L",
-      "A",
+      "I",
+      "O",
       "N",
+      "#",
       "#"
     ],
     [
-      "R",
-      "A",
-      "N",
-      "A",
+      "K",
+      "D",
+      "Y",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Chlupatý pokryv zvířete"
+      "col": 2,
+      "cells": 3,
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Mládě, které si hraje s klubkem"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+      "clue": "Mít určitou dobu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "cells": 3,
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 4,
-      "clue": "Poranění; také úder"
+      "cells": 3,
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Holý kamenný útvar; pevný jako ~"
+      "clue": "Bez zakřivení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rozsáhlé prozaické dílo"
+      "col": 3,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
-    },
-    {
-      "num": 4,
-      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nervový záškub oka"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     }
   ]
 }

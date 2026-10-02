@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "#",
       "J",
-      "A",
-      "K",
-      "#"
-    ],
-    [
-      "S",
       "I",
-      "R",
-      "A",
-      "N"
-    ],
-    [
-      "A",
-      "N",
-      "E",
-      "B",
-      "O"
-    ],
-    [
-      "T",
-      "A",
-      "N",
-      "E",
-      "C"
+      "Z"
     ],
     [
       "#",
+      "#",
+      "M",
+      "O",
+      "D"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "T",
+      "U",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "O",
       "K",
-      "A",
-      "L",
+      "O",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Knižně: už"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Sůl kyseliny sírové"
+      "col": 2,
+      "cells": 3,
+      "clue": "Herní úprava od fanoušků"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Svislá plocha místnosti; také lezecká"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Rytmický pohyb do hudby"
+      "cells": 3,
+      "clue": "Hluboké tiché místo v řece"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Zrakový orgán; také poutko na provaze"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "clue": "Jak se kdo nazývá"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "col": 3,
+      "cells": 3,
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Silný izolovaný vodič"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Knižně oděv, roucho"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Mastná složka potravy"
     }
   ]
 }

@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "#",
-      "Z",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "M"
-    ],
-    [
-      "V",
-      "Z",
-      "A",
-      "D",
-      "U"
-    ],
-    [
-      "L",
-      "E",
       "T",
+      "E",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "A",
       "#",
       "#"
     ],
     [
       "K",
-      "D",
-      "Y",
+      "A",
+      "B",
+      "A",
+      "T"
+    ],
+    [
       "#",
-      "#"
+      "#",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "J",
+      "I",
+      "H"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Okraj, obruba oděvu"
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na zadní straně, opak vpředu"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "clue": "Svrchní zimní oděv; také kapela z Teplic"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Světová strana proti severu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Z drahého žlutého kovu"
+      "col": 0,
+      "cells": 3,
+      "clue": "Tímto způsobem"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Otec rodiče"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Australský neletící pták"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+      "col": 2,
+      "cells": 5,
+      "clue": "Střelivo do zbraně"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Svislá zděná stěna"
+      "clue": "Snad, pravděpodobně"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pohyb figurkou; nebo silné vytažení"
     }
   ]
 }

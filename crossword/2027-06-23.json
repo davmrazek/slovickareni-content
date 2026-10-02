@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "A",
-      "K",
-      "#"
-    ],
-    [
-      "S",
-      "I",
+      "#",
       "R",
-      "A",
-      "N"
+      "O",
+      "K"
     ],
     [
-      "A",
-      "N",
-      "E",
+      "#",
+      "#",
+      "O",
       "B",
-      "O"
+      "R"
     ],
     [
       "T",
       "A",
-      "N",
-      "E",
-      "C"
+      "B",
+      "A",
+      "K"
     ],
     [
+      "E",
+      "S",
+      "O",
       "#",
-      "K",
-      "A",
-      "L",
+      "#"
+    ],
+    [
+      "P",
+      "I",
+      "T",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Sůl kyseliny sírové"
+      "col": 2,
+      "cells": 3,
+      "clue": "Pohádkový velikán"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Rytmický pohyb do hudby"
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Přijímat tekutinu ústy"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "col": 3,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Silný izolovaný vodič"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Knižně oděv, roucho"
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "clue": "Pravidelný úder srdce"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     }
   ]
 }

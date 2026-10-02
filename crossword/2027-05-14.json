@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "O",
+      "S",
+      "U",
+      "D"
+    ],
+    [
       "#",
       "S",
       "A",
-      "M"
-    ],
-    [
-      "#",
-      "#",
-      "C",
       "L",
-      "O"
+      "A"
     ],
     [
-      "S",
-      "V",
-      "E",
-      "T",
-      "R"
-    ],
-    [
-      "I",
+      "P",
       "O",
-      "N",
-      "#",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "C",
       "#"
     ],
     [
-      "K",
-      "R",
+      "T",
       "A",
-      "#",
+      "K",
+      "E",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zcela bez doprovodu"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Poplatek za dovoz zboží přes hranice"
+      "col": 1,
+      "cells": 4,
+      "clue": "Předurčený běh života"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Dlouhý pruh látky kolem krku"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pletený oděv na zimu"
+      "clue": "Vnitřní prožitek"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "cells": 4,
+      "clue": "Nejmenší samosprávné sídlo"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "cells": 4,
+      "clue": "Rovněž, taktéž"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Výjev ve hře; žárlivci je rádi dělají"
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "col": 2,
+      "cells": 5,
+      "clue": "Malý papírový nebo igelitový obal"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Zhoubná nakažlivá nemoc"
+      "col": 3,
+      "cells": 5,
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Sevřený vojenský útvar; nebo elegantní"
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Plavidlo svázané z klád"
+      "clue": "Tekutina na kůži při horku"
     }
   ]
 }

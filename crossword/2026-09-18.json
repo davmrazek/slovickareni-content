@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "K",
+      "D",
+      "E",
       "#",
-      "M",
+      "#"
+    ],
+    [
+      "O",
       "U",
-      "J",
+      "T",
+      "#",
       "#"
     ],
     [
       "V",
-      "O",
-      "N",
-      "E",
-      "T"
-    ],
-    [
-      "O",
-      "B",
+      "L",
       "A",
-      "V",
+      "D",
       "A"
     ],
     [
-      "Z",
-      "I",
-      "V",
-      "I",
-      "T"
+      "#",
+      "#",
+      "P",
+      "A",
+      "V"
     ],
     [
       "#",
-      "L",
+      "#",
       "A",
-      "T",
-      "#"
+      "L",
+      "E"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Šířit příjemný pach"
+      "cells": 3,
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Strach z budoucího"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Zajišťovat obživu"
+      "clue": "Sbor ministrů"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Pták s okatým vějířem"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Telefon, který nosíme v kapse"
+      "col": 0,
+      "cells": 3,
+      "clue": "Lesklý tavitelný materiál, např. železo"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vyčerpání po námaze"
+      "col": 1,
+      "cells": 3,
+      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
+      "clue": "Úsek cesty nebo vývoje, fáze"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Povoz tažený koňmi"
+      "clue": "Do větší vzdálenosti"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Latinský pozdrav v modlitbě"
     }
   ]
 }

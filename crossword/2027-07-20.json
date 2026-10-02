@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
+      "P",
       "R",
       "O",
-      "K",
+      "#",
       "#"
     ],
     [
-      "K",
-      "A",
-      "B",
-      "A",
-      "T"
+      "R",
+      "O",
+      "H",
+      "#",
+      "#"
     ],
     [
-      "E",
-      "M",
-      "I",
       "S",
-      "E"
-    ],
-    [
-      "Z",
-      "E",
+      "K",
       "L",
       "E",
-      "N"
+      "P"
     ],
     [
       "#",
-      "C",
-      "I",
-      "L",
-      "#"
+      "#",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "A",
+      "N"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Svrchní zimní oděv; také kapela z Teplic"
+      "cells": 3,
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
+      "clue": "Prostor pod domem"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Místo, kam směřuje cesta; meta"
+      "clue": "Velký barevný papoušek"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Bájný drak z pohádek"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
+      "col": 0,
+      "cells": 3,
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Pšenice, žito a podobné plodiny"
+      "col": 1,
+      "cells": 3,
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Štěkavý průvodce nachlazení"
+      "clue": "Odezva, reakce na něco"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Vyjadřuje přání: ~ by to byla pravda"
+      "clue": "Dějinné období, epocha"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Zdvořilé oslovení muže"
     }
   ]
 }

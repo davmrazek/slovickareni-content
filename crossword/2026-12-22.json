@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "O",
       "#",
-      "#"
+      "#",
+      "Z",
+      "D",
+      "E"
     ],
     [
-      "O",
-      "U",
+      "#",
+      "#",
+      "L",
+      "E",
+      "M"
+    ],
+    [
+      "V",
+      "Z",
+      "A",
+      "D",
+      "U"
+    ],
+    [
+      "L",
+      "E",
       "T",
       "#",
       "#"
     ],
     [
-      "S",
-      "M",
-      "I",
-      "C",
-      "H"
-    ],
-    [
-      "#",
-      "#",
-      "S",
-      "A",
-      "L"
-    ],
-    [
-      "#",
-      "#",
       "K",
-      "R",
-      "T"
+      "D",
+      "Y",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Na tomto místě, tady"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Okraj, obruba oděvu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Reakce na vtip; prý nejlepší lék"
+      "clue": "Na zadní straně, opak vpředu"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Místnost pro ples; také pruh látky kolem krku"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Černý pták se žlutým zobákem"
+      "col": 2,
+      "cells": 5,
+      "clue": "Z drahého žlutého kovu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "clue": "Otec rodiče"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "col": 4,
+      "cells": 3,
+      "clue": "Australský neletící pták"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Svislá zděná stěna"
     }
   ]
 }

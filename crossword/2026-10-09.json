@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "#",
+      "S",
       "T",
-      "R",
-      "H"
+      "O",
+      "#",
+      "#"
     ],
     [
-      "#",
-      "#",
       "M",
-      "O",
-      "R"
-    ],
-    [
-      "V",
-      "L",
-      "A",
-      "D",
-      "A"
-    ],
-    [
-      "L",
-      "O",
-      "V",
-      "#",
-      "#"
-    ],
-    [
-      "K",
-      "D",
       "Y",
+      "T",
       "#",
       "#"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "R",
+      "A"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Zhoubná nakažlivá nemoc"
+      "clue": "Zbavovat špíny vodou"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Sbor ministrů"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Pronásledování zvěře"
+      "clue": "Pravděpodobněji"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Pletivo z nití; nebo internet"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Plovoucí ledová deska"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Málo světlý, blízký černé"
+      "col": 0,
+      "cells": 3,
+      "clue": "Krátká textová zpráva"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Druh, kategorie věci"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+      "col": 2,
+      "cells": 5,
+      "clue": "Stopa prstu na sklenici"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Plavidlo; také hlavní prostor kostela"
+      "clue": "Anglické zdvořilé oslovení muže"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ]
 }

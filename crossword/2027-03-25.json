@@ -11,20 +11,6 @@
       "#"
     ],
     [
-      "S",
-      "A",
-      "M",
-      "E",
-      "C"
-    ],
-    [
-      "U",
-      "L",
-      "E",
-      "V",
-      "A"
-    ],
-    [
       "P",
       "I",
       "L",
@@ -32,10 +18,24 @@
       "R"
     ],
     [
-      "#",
+      "A",
       "R",
-      "Y",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "D",
+      "I",
+      "V",
+      "A",
+      "K"
+    ],
+    [
+      "#",
       "T",
+      "A",
+      "K",
       "#"
     ]
   ],
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Zvíře mužského pohlaví"
+      "clue": "Mohutná svislá podpěra mostu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Mohutná svislá podpěra mostu"
+      "clue": "Ten, kdo sleduje představení"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "clue": "Tímto způsobem"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "clue": "Zaměřovat na cíl"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vyrobený, ne přírodní"
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
+      "clue": "Jiným způsobem, odlišně"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Mrchožravý dravec"
+      "clue": "Volný ~ z výšky; čeština jich má sedm"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
     }
   ]
 }

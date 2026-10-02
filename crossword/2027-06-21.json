@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "#",
       "T",
-      "E",
-      "N",
-      "#"
+      "A",
+      "M"
     ],
     [
+      "#",
+      "#",
+      "O",
       "S",
-      "A",
-      "M",
-      "A",
-      "N"
+      "A"
     ],
     [
-      "O",
-      "B",
-      "O",
-      "J",
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "C",
+      "P",
+      "A",
+      "L",
       "I",
       "T"
     ],
     [
+      "O",
+      "N",
+      "I",
       "#",
-      "R",
-      "E",
+      "#"
+    ],
+    [
       "T",
+      "O",
+      "K",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Obou druhů zároveň"
+      "clue": "Působit žárem; destilovat"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "cells": 3,
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Plynutí vody; nebo proud elektřiny"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
+      "clue": "Takové množství (~ práce)"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 3,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Objevit, co se dlouho hledalo"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Rozhodující tah, jímž končí šachová partie"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Tekutina na kůži při horku"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     }
   ]
 }

@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "Z",
+      "D",
+      "A",
       "#",
-      "H",
-      "N",
-      "E",
+      "#"
+    ],
+    [
+      "L",
+      "O",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "A",
       "D"
     ],
     [
       "#",
-      "M",
-      "A",
-      "M",
+      "#",
+      "D",
+      "N",
       "A"
-    ],
-    [
-      "P",
-      "O",
-      "C",
-      "I",
-      "T"
-    ],
-    [
-      "U",
-      "T",
-      "E",
-      "S",
-      "#"
-    ],
-    [
-      "B",
-      "A",
-      "Z",
-      "E",
-      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Bez odkladu"
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Jeden doušek nápoje"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Důvěrně matka"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vnitřní prožitek"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 4,
-      "clue": "Strmá skalní stěna nad mořem"
+      "clue": "Kolem dokola"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+    },
+    {
+      "num": 9,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Základna; opak kyseliny"
+      "col": 2,
+      "cells": 3,
+      "clue": "Nositelka dědičné informace"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Látka, z níž se skládají tělesa"
+      "col": 0,
+      "cells": 3,
+      "clue": "Opak dobra; vybírá se vždy to menší"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "A potom, a nato"
+      "col": 1,
+      "cells": 3,
+      "clue": "Místo v přístavu, kde se opravují lodě"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
-    },
-    {
-      "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Souzvuk více tónů"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 3,
       "cells": 3,
-      "clue": "Anglická hospoda"
+      "clue": "Velké souvislé pole"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ]
 }

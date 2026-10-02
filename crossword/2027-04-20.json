@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "D",
-      "V",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "R",
-      "E",
-      "C"
-    ],
-    [
-      "P",
-      "R",
       "A",
-      "C",
-      "H"
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "A",
+      "R"
     ],
     [
       "L",
+      "A",
+      "S",
+      "K",
+      "A"
+    ],
+    [
       "O",
-      "M",
+      "B",
+      "A",
       "#",
       "#"
     ],
     [
-      "Z",
-      "D",
-      "A",
+      "S",
+      "Y",
+      "K",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Číslo mezi jedničkou a trojkou"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Bublání vroucí vody"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jemné suché částice; nebo střelný ~"
+      "clue": "Nejsilnější cit"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Zvuk hada"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Divadelní hra s vážným dějem"
+      "clue": "Knižní odporovací spojka: ale, jenže"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Předmět; nebo záležitost"
+      "clue": "Nátěr na nehty nebo na dřevo"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Spojka účelu (~ ses učil)"
     }
   ]
 }

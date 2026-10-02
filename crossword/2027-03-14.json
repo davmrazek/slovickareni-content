@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "U",
-      "J",
-      "#"
-    ],
-    [
-      "V",
+      "#",
+      "C",
       "O",
-      "N",
-      "E",
-      "T"
-    ],
-    [
-      "O",
-      "B",
-      "A",
-      "V",
-      "A"
-    ],
-    [
-      "Z",
-      "I",
-      "V",
-      "I",
-      "T"
+      "Z"
     ],
     [
       "#",
+      "#",
+      "H",
+      "U",
+      "L"
+    ],
+    [
+      "Z",
       "L",
       "A",
       "T",
+      "Y"
+    ],
+    [
+      "L",
+      "I",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Šířit příjemný pach"
+      "col": 2,
+      "cells": 3,
+      "clue": "Opora při chůzi"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Strach z budoucího"
+      "clue": "Z drahého žlutého kovu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Zajišťovat obživu"
+      "cells": 3,
+      "clue": "Nalévat; nebo ~ jako z konve"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Telefon, který nosíme v kapse"
+      "clue": "Rekreační stavení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vyčerpání po námaze"
+      "col": 3,
+      "cells": 3,
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Povoz tažený koňmi"
+      "clue": "Plný zloby, nedobrý"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Opak dobra; vybírá se vždy to menší"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Obyvatelstvo země"
     }
   ]
 }

@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
-      "R",
-      "O"
+      "O",
+      "B",
+      "R"
     ],
     [
       "#",
       "#",
+      "B",
+      "O",
+      "A"
+    ],
+    [
+      "A",
+      "K",
+      "O",
+      "R",
+      "D"
+    ],
+    [
       "L",
-      "E",
-      "N"
-    ],
-    [
-      "T",
-      "R",
-      "E",
-      "T",
-      "I"
-    ],
-    [
-      "M",
-      "E",
-      "C",
+      "U",
+      "J",
       "#",
       "#"
     ],
     [
-      "A",
-      "C",
-      "H",
+      "T",
+      "R",
+      "I",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "clue": "Škrtič z pralesa; také péřový šál"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Řadová číslovka po druhém"
+      "clue": "Souzvuk více tónů"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "clue": "Tuhý živočišný tuk, v zimě se dává ptákům"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Počet nohou stativu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Obou druhů zároveň"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Suchý les s jehličím a pískem"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Hluboký ženský hlas"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Místo s varhanami v kostele"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
-      "P",
+      "J",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "Z",
+      "A",
+      "K",
+      "A",
+      "Z"
+    ],
+    [
       "O",
-      "J"
+      "S",
+      "O",
+      "B",
+      "A"
+    ],
+    [
+      "K",
+      "A",
+      "N",
+      "A",
+      "L"
     ],
     [
       "#",
       "T",
       "A",
       "K",
-      "E"
-    ],
-    [
-      "K",
-      "A",
-      "N",
-      "O",
-      "N"
-    ],
-    [
-      "O",
-      "R",
-      "E",
-      "L",
-      "#"
-    ],
-    [
-      "D",
-      "I",
-      "L",
-      "O",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 4,
-      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
+      "cells": 3,
+      "clue": "Pohybovat se pěšky"
     },
     {
-      "num": 5,
+      "num": 4,
       "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Rovněž, taktéž"
+      "col": 0,
+      "cells": 5,
+      "clue": "Úřední zápověď"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dělo z dob plachetnic"
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Dravec ve státním znaku"
+      "cells": 5,
+      "clue": "Umělé vodní koryto; nebo stoka"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Výsledek tvůrčí práce"
+      "col": 1,
+      "cells": 3,
+      "clue": "Tímto způsobem"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Pokročilý věk"
+      "clue": "Hlasitě se radovat"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Plochý díl; také ovládací deska"
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Kolem dokola"
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
     },
     {
       "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
-    },
-    {
-      "num": 6,
-      "row": 2,
+      "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Šifra; posloupnost znaků k odemčení"
+      "clue": "Velký pytel na vlnu nebo chmel"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Hluboký smutek"
     }
   ]
 }

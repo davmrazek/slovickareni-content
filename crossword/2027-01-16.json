@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "I",
-      "T",
+      "N",
+      "E",
+      "Z",
       "#"
     ],
     [
       "S",
-      "O",
-      "K",
-      "O",
-      "L"
+      "A",
+      "M",
+      "A",
+      "N"
     ],
     [
-      "U",
-      "D",
       "O",
-      "L",
+      "B",
+      "O",
+      "J",
       "I"
     ],
     [
-      "M",
-      "E",
-      "N",
+      "T",
+      "O",
+      "C",
       "I",
       "T"
     ],
     [
       "#",
-      "L",
-      "A",
-      "K",
+      "J",
+      "E",
+      "T",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Spojka ve srovnání (větší ~ ty)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
+      "clue": "Obou druhů zároveň"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Přetvářet do jiné podoby; také ~ peníze v bance"
+      "clue": "Otáčet dokola; natáčet film"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "clue": "Pohybovat se dopravním prostředkem"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
+      "clue": "Střelivo do zbraně"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Vypravit se kousek dál"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
+      "clue": "Krátká reportáž ve zprávách"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

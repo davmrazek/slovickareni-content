@@ -5,36 +5,36 @@
   "grid": [
     [
       "#",
-      "R",
-      "O",
-      "K",
+      "D",
+      "U",
+      "M",
       "#"
     ],
     [
-      "N",
-      "A",
-      "P",
+      "K",
       "O",
+      "L",
+      "E",
       "J"
     ],
     [
-      "U",
-      "D",
-      "O",
-      "L",
-      "I"
+      "E",
+      "M",
+      "I",
+      "S",
+      "E"
     ],
     [
-      "Z",
+      "L",
+      "E",
+      "C",
       "I",
-      "R",
-      "A",
       "T"
     ],
     [
       "#",
-      "T",
-      "A",
+      "K",
+      "E",
       "C",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Stavba k bydlení; nebo obchodní ~"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Co se pije"
+      "clue": "Ubytovna studentů; vede po ní vlak"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Upřeně a udiveně hledět"
+      "clue": "Odstraňovat nemoc"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Podnos na roznášení"
+      "clue": "Nesmysl, žvást"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Dávat doporučení"
+      "clue": "Malé stavení"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Ten, o koho se lze opřít"
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Kulaté pečivo s tvarohem a povidly"
+      "clue": "Dvanáctina roku; také družice Země"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Nástroj ke krájení"
+      "clue": "Zahnutý zub kance nebo slona"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Pohybovat se dopravním prostředkem"
     }
   ]
 }

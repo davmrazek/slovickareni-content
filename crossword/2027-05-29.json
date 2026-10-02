@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "K",
-      "D",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "N",
+      "T",
       "A",
-      "D"
+      "M"
     ],
     [
-      "H",
-      "L",
-      "I",
-      "N",
+      "#",
+      "#",
+      "O",
+      "S",
       "A"
     ],
     [
-      "M",
-      "E",
-      "Z",
+      "P",
+      "A",
+      "L",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "N",
+      "I",
       "#",
       "#"
     ],
     [
-      "M",
-      "S",
-      "E",
+      "T",
+      "I",
+      "K",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Předložka vyšší polohy"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Zemina na keramiku"
+      "clue": "Působit žárem; destilovat"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Hranice, kterou nelze překročit"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Katolická bohoslužba"
+      "clue": "Nervový záškub oka"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vysoký šlechtický titul pod králem"
+      "clue": "Takové množství (~ práce)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Povinná platba státu"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Rozhodující tah, jímž končí šachová partie"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Citoslovce zamyšlení či váhání"
+      "clue": "Tekutina na kůži při horku"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Rozsáhlý porost stromů"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ]
 }

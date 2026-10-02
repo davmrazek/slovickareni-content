@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "S",
-      "A",
+      "#",
       "M",
-      "A",
-      "N"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "C",
       "I",
       "T"
     ],
     [
       "#",
-      "Z",
-      "E",
+      "#",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "V",
+      "S",
       "T",
+      "U",
+      "P"
+    ],
+    [
+      "A",
+      "U",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "D",
+      "O",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Vlastnit; nebo ~ se k světu"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
+      "clue": "Vejití; nebo poplatek za vpuštění"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "cells": 3,
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Tázací zájmeno ptající se na osobu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Knižně: a rovněž, a též"
+      "clue": "Heslo či citát v čele textu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 3,
+      "cells": 3,
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Naplnit sklenici až po okraj"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Odhad, sázka na výsledek"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Měkký nosič na věci"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Dřevěná nádoba na pivo"
     }
   ]
 }

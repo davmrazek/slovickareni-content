@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "Z",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "B",
-      "U",
-      "M"
-    ],
-    [
-      "S",
-      "P",
-      "O",
-      "L",
-      "U"
-    ],
-    [
-      "R",
-      "A",
-      "Z",
-      "#",
+      "T",
+      "E",
+      "N",
       "#"
     ],
     [
-      "P",
+      "B",
+      "A",
       "R",
+      "A",
+      "Z"
+    ],
+    [
+      "O",
+      "B",
+      "O",
+      "J",
+      "I"
+    ],
+    [
+      "D",
+      "O",
+      "Z",
       "I",
+      "T"
+    ],
+    [
       "#",
+      "R",
+      "E",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zvuk výbuchu"
+      "col": 0,
+      "cells": 5,
+      "clue": "Rozhodující zápas o postup"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Společně"
+      "clue": "Obou druhů zároveň"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Svérázná povaha kraje nebo stavby"
+      "cells": 5,
+      "clue": "Strávit zbytek života"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Co se prodává v regálech"
+      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "col": 2,
+      "cells": 5,
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Objevit, co se dlouho hledalo"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Australský neletící pták"
+      "clue": "Tečka; nebo jednotka skóre"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Dva k sobě patřící; nebo několik málo"
+      "clue": "Být naživu"
     }
   ]
 }

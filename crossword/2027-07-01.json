@@ -6,35 +6,35 @@
     [
       "#",
       "#",
+      "T",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      "I",
+      "T"
+    ],
+    [
       "O",
       "N",
-      "I"
-    ],
-    [
-      "#",
-      "#",
-      "S",
-      "A",
-      "N"
-    ],
-    [
-      "V",
-      "Z",
-      "A",
-      "D",
-      "U"
-    ],
-    [
-      "R",
-      "A",
-      "D",
+      "I",
       "#",
       "#"
     ],
     [
-      "H",
-      "R",
-      "A",
+      "D",
+      "I",
+      "K",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Bájný drak z pohádek"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na zadní straně, opak vpředu"
+      "clue": "Působit žárem; destilovat"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
+      "clue": "Projev vděčnosti, poděkování"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Malé sídlo, obvykle rekreační"
+      "clue": "Takové množství (~ práce)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Předložka vyšší polohy"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Kdo vykonává popravu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Hod koulí; nebo mláďata narozená naráz"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Sálavé horko z ohně"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ]
 }

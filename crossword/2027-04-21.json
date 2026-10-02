@@ -4,38 +4,38 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "E",
-      "#",
-      "#"
-    ],
-    [
-      "A",
-      "U",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "Z",
-      "L",
-      "A",
-      "T",
-      "O"
-    ],
-    [
-      "#",
-      "#",
       "P",
       "R",
-      "S"
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "V",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "K",
+      "O",
+      "D",
+      "A"
     ],
     [
       "#",
       "#",
+      "C",
       "A",
-      "H",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "T",
       "A"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Knižně: hrob"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Způsobená ztráta; také mladoboleslavská značka"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "clue": "Ruský panovník, třeba Petr Veliký"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "clue": "Sladké plody stromů"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Velký barevný papoušek"
     }
   ]
 }

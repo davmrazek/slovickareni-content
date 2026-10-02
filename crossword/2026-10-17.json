@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
+      "J",
+      "I",
       "T",
+      "#"
+    ],
+    [
+      "L",
+      "E",
+      "K",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "R",
+      "O",
+      "Z",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "N",
       "A",
       "K"
     ],
     [
       "#",
-      "#",
-      "C",
-      "L",
-      "O"
-    ],
-    [
-      "L",
-      "A",
-      "H",
-      "E",
-      "V"
-    ],
-    [
-      "O",
       "B",
       "A",
-      "#",
-      "#"
-    ],
-    [
-      "S",
-      "Y",
-      "N",
-      "#",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Pohybovat se pěšky"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Poplatek za dovoz zboží přes hranice"
+      "col": 0,
+      "cells": 5,
+      "clue": "Ten, kdo léčí pacienty"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Skleněná nádoba na nápoje"
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "cells": 5,
+      "clue": "Malá sklenka tvrdého alkoholu; nebo figurka"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Mužský potomek"
+      "clue": "Pociťovat strach (~ se)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Otec manželky nebo manžela"
+      "clue": "Zvedací stavební stroj; také pták s dlouhým krkem"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "col": 2,
+      "cells": 5,
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Klást otázky, ptát se"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Lesklý tavitelný materiál, např. železo"
+      "clue": "Vazká nástraha na mouchy; sednout někomu na ~"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Knižně hrdina"
     }
   ]
 }

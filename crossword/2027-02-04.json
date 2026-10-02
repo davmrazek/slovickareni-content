@@ -11,31 +11,31 @@
       "#"
     ],
     [
+      "P",
+      "A",
+      "S",
+      "A",
+      "Z"
+    ],
+    [
+      "O",
       "K",
-      "A",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "D",
+      "E",
       "B",
-      "A",
+      "U",
       "T"
     ],
     [
-      "E",
-      "M",
-      "I",
-      "S",
-      "E"
-    ],
-    [
-      "Z",
-      "E",
-      "L",
-      "E",
-      "N"
-    ],
-    [
       "#",
-      "C",
-      "I",
-      "L",
+      "V",
+      "A",
+      "Z",
       "#"
     ]
   ],
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Svrchní zimní oděv; také kapela z Teplic"
+      "clue": "Krytý průchod mezi ulicemi; také úsek textu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
+      "clue": "První veřejné vystoupení umělce"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Místo, kam směřuje cesta; meta"
+      "clue": "Pruh pojiva držící kosti u sebe; před výkonem se přeje zlomit"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
+      "clue": "Truhla, do níž se ukládá zesnulý"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Pšenice, žito a podobné plodiny"
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Štěkavý průvodce nachlazení"
+      "clue": "Louže vody po dešti"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Vyjadřuje přání: ~ by to byla pravda"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Být naživu"
     }
   ]
 }

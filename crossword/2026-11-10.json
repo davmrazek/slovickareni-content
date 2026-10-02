@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "T",
       "A",
-      "K",
+      "L",
+      "E",
       "#",
       "#"
     ],
     [
-      "A",
-      "N",
+      "V",
       "O",
+      "R",
       "#",
       "#"
     ],
     [
+      "E",
       "M",
-      "I",
-      "S",
-      "T",
-      "O"
+      "O",
+      "C",
+      "E"
     ],
     [
       "#",
       "#",
-      "T",
-      "I",
-      "K"
+      "Z",
+      "A",
+      "T"
     ],
     [
       "#",
       "#",
       "E",
-      "S",
-      "O"
+      "R",
+      "A"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Plavidlo svázané z klád"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Určený bod v prostoru"
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Nervový záškub oka"
+      "clue": "Knižně sklízet obilí srpem"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Dějinné období, epocha"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Latinský pozdrav v modlitbě"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Místo těžby kamene; také ~ světla v hranolu"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náčiní na zametání"
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Jehličnatý strom s červenými plody"
+      "clue": "Ruský panovník, třeba Petr Veliký"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ]
 }

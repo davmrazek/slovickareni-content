@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
-      "A",
-      "K",
+      "D",
+      "U",
+      "M",
       "#"
     ],
     [
-      "K",
-      "A",
-      "N",
-      "A",
-      "L"
-    ],
-    [
-      "U",
+      "M",
+      "O",
       "Z",
       "E",
-      "M",
-      "I"
+      "K"
     ],
     [
-      "N",
-      "A",
-      "B",
+      "O",
+      "P",
       "E",
-      "H"
+      "R",
+      "A"
+    ],
+    [
+      "L",
+      "I",
+      "M",
+      "I",
+      "T"
     ],
     [
       "#",
+      "S",
+      "I",
       "T",
-      "O",
-      "N",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Stavba k bydlení; nebo obchodní ~"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Umělé vodní koryto; nebo stoka"
+      "clue": "Orgán myšlení"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vymezená část země, teritorium"
+      "clue": "Zpívané jevištní dílo"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Rozběh; nebo počáteční fáze"
+      "clue": "Nejzazší mez"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "clue": "Pletivo z nití; nebo internet"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Klást otázky, ptát se"
+      "clue": "Psaní v obálce"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Vymezená část země, teritorium"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+      "clue": "Zjišťovat rozměr"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Domácí kopytník tažný a jezdecký"
+      "clue": "Škůdce ve skříni"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
+      "clue": "Kdo vykonává popravu"
     }
   ]
 }

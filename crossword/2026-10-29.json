@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "P",
+      "R",
+      "O",
       "#",
-      "J",
-      "E",
-      "N",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "V",
+      "#",
       "#"
     ],
     [
       "S",
-      "A",
-      "M",
-      "A",
-      "N"
-    ],
-    [
-      "O",
       "K",
       "O",
       "L",
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "C",
-      "I",
-      "T"
+      "A"
     ],
     [
       "#",
-      "Z",
+      "#",
+      "C",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "#",
       "E",
-      "T",
-      "#"
+      "S",
+      "O"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "cells": 3,
+      "clue": "Knižně: hrob"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "clue": "Budova, kde se učí; podle staré komedie základ života"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Skutek, konání; také kov na pocínování"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Knižně: a rovněž, a též"
+      "col": 0,
+      "cells": 3,
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 1,
+      "cells": 3,
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Naplnit sklenici až po okraj"
+      "clue": "Sladké plody stromů"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Stroj, který tlakem drtí nebo tvaruje"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     }
   ]
 }

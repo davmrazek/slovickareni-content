@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "N",
+      "E",
+      "Z",
       "#",
-      "S",
-      "R",
-      "S",
-      "T"
+      "#"
     ],
     [
-      "#",
-      "K",
-      "O",
-      "T",
-      "E"
-    ],
-    [
-      "K",
       "A",
+      "H",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "S",
       "M",
-      "E",
-      "N"
-    ],
-    [
-      "E",
-      "L",
-      "A",
-      "N",
-      "#"
-    ],
-    [
       "R",
       "A",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "I",
       "N",
-      "A",
-      "#"
+      "U"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "I",
+      "P"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Chlupatý pokryv zvířete"
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojka ve srovnání (větší ~ ty)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Citoslovce náhlého pochopení"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Mládě, které si hraje s klubkem"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "clue": "Nepříjemný zápach"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
+    },
+    {
+      "num": 9,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Poranění; také úder"
+      "col": 2,
+      "cells": 3,
+      "clue": "Odhad, sázka na výsledek"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Holý kamenný útvar; pevný jako ~"
+      "col": 0,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (~ dům)"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rozsáhlé prozaické dílo"
+      "col": 1,
+      "cells": 3,
+      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
-    },
-    {
-      "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Vydávat jasné světlo"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 3,
       "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zvuk těžkého kroku"
     }
   ]
 }

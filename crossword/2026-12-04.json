@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "U",
-      "J",
-      "#"
+      "#",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "E",
+      "T"
     ],
     [
       "S",
-      "A",
-      "M",
-      "E",
-      "C"
-    ],
-    [
-      "U",
       "L",
       "E",
       "V",
       "A"
     ],
     [
-      "P",
-      "I",
-      "L",
-      "I",
-      "R"
+      "T",
+      "O",
+      "N",
+      "#",
+      "#"
     ],
     [
+      "O",
+      "D",
+      "A",
       "#",
-      "R",
-      "Y",
-      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Zvíře mužského pohlaví"
+      "col": 2,
+      "cells": 3,
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
+      "clue": "Snížení ceny"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Mohutná svislá podpěra mostu"
+      "cells": 3,
+      "clue": "Zvuk určité výšky"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vyrobený, ne přírodní"
+      "col": 3,
+      "cells": 3,
+      "clue": "Král zvířat"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Mrchožravý dravec"
+      "clue": "Sedmé písmeno řecké abecedy"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Plavidlo; také hlavní prostor kostela"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "D",
-      "E",
-      "N",
+      "J",
+      "A",
+      "K",
       "#"
     ],
     [
-      "V",
-      "O",
-      "L",
-      "A",
-      "T"
-    ],
-    [
-      "U",
-      "L",
+      "S",
       "I",
-      "C",
-      "E"
+      "R",
+      "A",
+      "N"
     ],
     [
-      "Z",
       "A",
-      "T",
+      "N",
       "E",
-      "Z"
+      "B",
+      "O"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "E",
+      "C"
     ],
     [
       "#",
-      "R",
+      "K",
       "A",
-      "Z",
+      "L",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Hlasitě zvát; telefonovat"
+      "clue": "Sůl kyseliny sírové"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Cesta mezi domy; slepá nikam nevede"
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Nesené břemeno; také zkouška pevnosti"
+      "clue": "Rytmický pohyb do hudby"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Svérázná povaha kraje nebo stavby"
+      "clue": "Usazenina, bahno na dně"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Americká měna"
+      "clue": "Jiným způsobem, odlišně"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "A potom, a nato"
+      "clue": "Silný izolovaný vodič"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Vozidlo, zejména osobní automobil"
+      "clue": "Knižně oděv, roucho"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Knižně: také"
+      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
     }
   ]
 }

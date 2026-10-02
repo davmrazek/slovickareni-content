@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "B",
+      "#",
+      "P",
       "A",
-      "R",
-      "A",
-      "Z"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "D",
-      "O",
-      "Z",
-      "I",
-      "T"
+      "K"
     ],
     [
       "#",
-      "Z",
-      "E",
+      "#",
+      "S",
+      "U",
+      "D"
+    ],
+    [
+      "S",
+      "V",
+      "A",
       "T",
+      "Y"
+    ],
+    [
+      "M",
+      "E",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "K",
+      "I",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Potom, následně"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Rozhodující zápas o postup"
+      "col": 2,
+      "cells": 3,
+      "clue": "Dřevěná nádoba na pivo"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
+      "clue": "Uctívaný církví"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Strávit zbytek života"
+      "cells": 3,
+      "clue": "Chladná zbraň rytířů"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Lyžařský, v názvech vleků a areálů"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Knižně: a rovněž, a též"
+      "clue": "Určený ke psaní"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "col": 3,
+      "cells": 3,
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Naplnit sklenici až po okraj"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Tečka; nebo jednotka skóre"
+      "clue": "Tázací příslovce času"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Být naživu"
+      "clue": "Krátká textová zpráva"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Počet prožitých let"
     }
   ]
 }

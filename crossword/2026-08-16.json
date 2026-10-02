@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "J",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "N",
-      "O"
-    ],
-    [
-      "O",
-      "B",
-      "D",
-      "I",
-      "V"
-    ],
-    [
-      "J",
-      "A",
       "R",
-      "#",
+      "O",
+      "K",
       "#"
     ],
     [
-      "E",
-      "S",
+      "N",
+      "A",
+      "P",
       "O",
+      "J"
+    ],
+    [
+      "U",
+      "D",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "Z",
+      "I",
+      "R",
+      "A",
+      "T"
+    ],
+    [
       "#",
+      "T",
+      "A",
+      "C",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "col": 0,
+      "cells": 5,
+      "clue": "Co se pije"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Uznalý úžas nad něčím"
+      "clue": "Níže položené místo mezi kopci"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Zkratka Jihoafrické republiky"
+      "cells": 5,
+      "clue": "Upřeně a udiveně hledět"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Podnos na roznášení"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Střed ořechu; také atomu"
+      "clue": "Dávat doporučení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Ten, o koho se lze opřít"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Kulaté pečivo s tvarohem a povidly"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Lesklý tavitelný materiál, např. železo"
+      "clue": "Nástroj ke krájení"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Tyč, za kterou táhne kůň vůz"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nejhlubší mužský hlas"
+      "clue": "Pohybovat se pěšky"
     }
   ]
 }

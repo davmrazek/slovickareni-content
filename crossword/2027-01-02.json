@@ -7,34 +7,34 @@
       "#",
       "#",
       "T",
-      "R",
-      "H"
+      "A",
+      "K"
     ],
     [
       "#",
       "#",
+      "A",
+      "N",
+      "O"
+    ],
+    [
       "M",
-      "U",
-      "L"
-    ],
-    [
-      "K",
-      "L",
       "A",
       "S",
-      "T"
+      "I",
+      "V"
     ],
     [
-      "R",
-      "E",
-      "V",
+      "S",
+      "U",
+      "K",
       "#",
       "#"
     ],
     [
-      "K",
-      "D",
-      "Y",
+      "E",
+      "T",
+      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Řídká bavlněná tkanina na obvazy"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pokládat na místo"
+      "clue": "Rozsáhlý horský celek"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Hlasitý zvuk zvířete"
+      "clue": "Tvrdé místo po větvi v prkně"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Málo světlý, blízký černé"
+      "clue": "Nosí se v ní nákup"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Obyvatel největší země světa"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Lesklý tavitelný materiál, např. železo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Katolická bohoslužba"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Míč za postranní čárou"
     }
   ]
 }

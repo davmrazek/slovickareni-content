@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "D",
+      "O",
+      "B",
+      "A"
+    ],
+    [
       "#",
       "C",
-      "A",
-      "S"
+      "L",
+      "U",
+      "N"
     ],
     [
-      "#",
-      "#",
-      "H",
       "L",
-      "T"
-    ],
-    [
-      "Z",
-      "L",
-      "A",
+      "E",
       "T",
-      "O"
+      "N",
+      "I"
     ],
     [
+      "U",
+      "R",
+      "A",
       "D",
-      "I",
-      "T",
-      "#",
       "#"
     ],
     [
+      "P",
       "A",
-      "H",
+      "R",
       "A",
-      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Plyne a měříme ho hodinami"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "col": 1,
+      "cells": 4,
+      "clue": "Časový úsek dějin"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Malé plavidlo s vesly"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Patřící do nejteplejšího období"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "cells": 4,
+      "clue": "Instituce vyřizující razítka"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "cells": 4,
+      "clue": "Vodní plyn nad hrncem"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Rekreační stavení"
+      "clue": "Ženský potomek"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "col": 2,
+      "cells": 5,
+      "clue": "Stůl v čele kostela"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "col": 3,
+      "cells": 5,
+      "clue": "Vrchní oděv do chladu"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
+      "clue": "Ukořistěná věc"
     }
   ]
 }

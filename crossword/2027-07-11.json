@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
       "T",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "S",
       "A",
       "M",
-      "A",
-      "N"
+      "#",
+      "#"
     ],
     [
+      "E",
+      "S",
       "O",
-      "B",
-      "O",
-      "J",
-      "I"
+      "#",
+      "#"
     ],
     [
-      "T",
-      "O",
-      "C",
+      "N",
       "I",
-      "T"
+      "Z",
+      "K",
+      "O"
     ],
     [
       "#",
-      "R",
+      "#",
       "E",
-      "T",
-      "#"
+      "R",
+      "B"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "A",
+      "R"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Na onom místě, opak sem"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Obou druhů zároveň"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "clue": "Blízko země, opak vysoko"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Šlechtický znak na štítu"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Ledovcový kotel v horách"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
+      "col": 0,
+      "cells": 3,
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 1,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Objevit, co se dlouho hledalo"
+      "clue": "Orgán myšlení"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Plovoucí ledová deska"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Pohádkový velikán"
     }
   ]
 }

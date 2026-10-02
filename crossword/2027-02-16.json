@@ -7,34 +7,34 @@
       "#",
       "#",
       "P",
-      "R",
-      "O"
+      "A",
+      "K"
     ],
     [
       "#",
       "#",
-      "L",
-      "E",
-      "N"
+      "O",
+      "B",
+      "R"
     ],
     [
-      "T",
-      "R",
-      "E",
-      "T",
-      "I"
+      "P",
+      "O",
+      "H",
+      "Y",
+      "B"
     ],
     [
-      "M",
-      "E",
-      "C",
+      "O",
+      "K",
+      "O",
       "#",
       "#"
     ],
     [
-      "A",
-      "C",
-      "H",
+      "T",
+      "R",
+      "N",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Potom, následně"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Řadová číslovka po druhém"
+      "clue": "Změna polohy"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Ostrý výrůstek na růži"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Co uvádí stroj do pohybu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Spojka účelu (~ ses učil)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Otevřené ohniště v obývacím pokoji"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Tekutina na kůži při horku"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Žlutohnědý přírodní pigment"
     }
   ]
 }

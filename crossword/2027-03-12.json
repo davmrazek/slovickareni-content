@@ -6,35 +6,35 @@
     [
       "#",
       "#",
+      "K",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "E",
+      "J"
+    ],
+    [
+      "P",
+      "R",
       "A",
-      "L",
+      "S",
       "E"
     ],
     [
-      "#",
-      "#",
-      "V",
-      "I",
-      "R"
-    ],
-    [
-      "C",
-      "E",
-      "S",
-      "T",
-      "A"
-    ],
-    [
+      "L",
       "O",
-      "S",
-      "A",
+      "V",
       "#",
       "#"
     ],
     [
       "Z",
-      "O",
-      "K",
+      "D",
+      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Původce chřipky; také rotující proud vody"
+      "clue": "Divoký vír tance"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Trasa z místa na místo"
+      "clue": "Domácí zvíře na zabijačku"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Pronásledování zvěře"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Velký pytel na vlnu nebo chmel"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Dojnice na pastvě"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Silná hrůza"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Tyč, za kterou táhne kůň vůz"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "S",
-      "A",
-      "M",
-      "A",
-      "N"
-    ],
-    [
-      "O",
-      "B",
-      "O",
-      "J",
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "C",
-      "I",
-      "T"
+      "#",
+      "K",
+      "D",
+      "E"
     ],
     [
       "#",
+      "#",
+      "N",
+      "O",
+      "S"
+    ],
+    [
+      "P",
       "R",
-      "E",
-      "T",
+      "I",
+      "M",
+      "O"
+    ],
+    [
+      "R",
+      "O",
+      "H",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Obou druhů zároveň"
+      "clue": "Bez oklik"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "cells": 3,
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
+      "clue": "Svázané listy ke čtení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 3,
+      "cells": 3,
+      "clue": "Velký chrám (kolínský, milánský)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Objevit, co se dlouho hledalo"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Předložka vyjadřující účel"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     }
   ]
 }

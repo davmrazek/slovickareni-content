@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
-      "P",
-      "O",
-      "J"
+      "#",
+      "H",
+      "R",
+      "A"
     ],
     [
       "#",
-      "K",
+      "#",
+      "R",
       "O",
-      "P",
-      "I"
+      "H"
     ],
     [
-      "D",
-      "O",
-      "J",
-      "E",
-      "T"
+      "S",
+      "T",
+      "A",
+      "V",
+      "A"
     ],
     [
-      "U",
-      "D",
       "E",
       "R",
+      "B",
+      "#",
       "#"
     ],
     [
-      "M",
-      "A",
-      "M",
-      "A",
+      "V",
+      "N",
+      "E",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
+      "col": 2,
+      "cells": 3,
+      "clue": "Zábava podle pravidel; také divadelní text"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Dlouhá bodná zbraň jezdce"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dorazit na místo vozem"
+      "clue": "Tekutina vylisovaná z ovoce"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Prudká rána; také ~ hodin o půlnoci"
+      "cells": 3,
+      "clue": "Šlechtický znak na štítu"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 4,
-      "clue": "Důvěrně matka"
+      "cells": 3,
+      "clue": "Venku, mimo; opak uvnitř"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Způsobená ztráta; také mladoboleslavská značka"
+      "clue": "Šlechtický titul, vyšší než baron"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Obecná představa označená slovem"
+      "col": 3,
+      "cells": 3,
+      "clue": "Knižně: hrob"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Zpívané jevištní dílo"
-    },
-    {
-      "num": 4,
-      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Citoslovce náhlého pochopení"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Řádka stehů spojující dva kusy látky"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "clue": "Ostrý výrůstek na růži"
     }
   ]
 }

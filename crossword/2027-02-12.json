@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "J",
+      "D",
+      "V",
       "A",
-      "K",
+      "#",
       "#"
     ],
     [
-      "S",
       "I",
-      "R",
-      "A",
-      "N"
-    ],
-    [
-      "A",
+      "O",
       "N",
-      "E",
-      "B",
-      "O"
+      "#",
+      "#"
     ],
     [
       "T",
-      "A",
-      "N",
+      "R",
       "E",
-      "C"
+      "B",
+      "A"
     ],
     [
       "#",
-      "K",
-      "A",
-      "L",
-      "#"
+      "#",
+      "B",
+      "O",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "R",
+      "T"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Číslo mezi jedničkou a trojkou"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Sůl kyseliny sírové"
+      "cells": 3,
+      "clue": "Elektricky nabitá částice"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Rytmický pohyb do hudby"
+      "clue": "Například; nebo je nutné"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Postranní část těla"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Vodorovná důlní chodba"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "col": 0,
+      "cells": 3,
+      "clue": "Odehrávat se, přihodit se"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "col": 1,
+      "cells": 3,
+      "clue": "Plavidlo svázané z klád"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Silný izolovaný vodič"
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Knižně oděv, roucho"
+      "clue": "Suchý les s jehličím a pískem"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ]
 }

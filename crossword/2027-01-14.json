@@ -15,26 +15,26 @@
       "#",
       "L",
       "E",
-      "N"
+      "K"
     ],
     [
+      "K",
+      "O",
+      "N",
       "T",
-      "R",
-      "E",
-      "T",
-      "I"
+      "O"
     ],
     [
-      "M",
-      "E",
-      "C",
+      "A",
+      "S",
+      "I",
       "#",
       "#"
     ],
     [
+      "M",
       "A",
-      "C",
-      "H",
+      "T",
       "#",
       "#"
     ]
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "clue": "Prostředek proti nemoci"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Řadová číslovka po druhém"
+      "clue": "Bankovní účet"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Rozhodující tah, jímž končí šachová partie"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Naplňovat; nebo splňovat úkol"
     },
     {
       "num": 2,
@@ -96,21 +96,21 @@
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Tázací příslovce směru"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     }
   ]
 }

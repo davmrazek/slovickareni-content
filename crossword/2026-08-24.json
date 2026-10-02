@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "N",
-      "E",
-      "Z",
-      "#"
-    ],
-    [
-      "S",
-      "A",
-      "M",
-      "E",
-      "T"
-    ],
-    [
-      "O",
+      "#",
       "P",
-      "I",
-      "L",
-      "Y"
-    ],
-    [
-      "K",
-      "A",
-      "S",
-      "E",
-      "L"
+      "R",
+      "O"
     ],
     [
       "#",
-      "D",
-      "E",
-      "N",
+      "#",
+      "R",
+      "A",
+      "K"
+    ],
+    [
+      "P",
+      "R",
+      "I",
+      "M",
+      "O"
+    ],
+    [
+      "S",
+      "U",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "B",
+      "Y",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
+      "col": 2,
+      "cells": 3,
+      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pod vlivem alkoholu"
+      "clue": "Bez oklik"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Štěkavý průvodce nachlazení"
+      "cells": 3,
+      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Spojka účelu (~ ses učil)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
+      "clue": "Bez zatáček; upřímný"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+      "col": 3,
+      "cells": 3,
+      "clue": "Obruba obrazu"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Soupeř, protivník"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Zadní část hlavy; také jemná průsvitná látka"
+      "clue": "Čtyřnohý společník na vodítku (4. pád)"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Opačná strana líce"
     }
   ]
 }

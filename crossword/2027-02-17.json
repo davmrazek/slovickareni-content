@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "S",
-      "T",
-      "O",
       "#",
+      "N",
+      "A",
+      "S",
       "#"
     ],
     [
-      "M",
-      "O",
-      "K",
-      "#",
-      "#"
-    ],
-    [
-      "S",
-      "K",
-      "O",
+      "B",
+      "A",
       "R",
-      "O"
+      "A",
+      "Z"
+    ],
+    [
+      "U",
+      "Z",
+      "E",
+      "M",
+      "I"
+    ],
+    [
+      "S",
+      "E",
+      "N",
+      "A",
+      "T"
     ],
     [
       "#",
-      "#",
-      "L",
-      "O",
-      "S"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "H",
-      "M"
+      "V",
+      "A",
+      "N",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Přivlastňovací zájmeno (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Knižně nápoj"
+      "cells": 5,
+      "clue": "Rozhodující zápas o postup"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Téměř"
+      "clue": "Vymezená část země, teritorium"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Horní komora parlamentu"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Jednotka elektrického odporu"
+      "clue": "Slabý pohyb vzduchu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Krátká textová zpráva"
+      "col": 1,
+      "cells": 5,
+      "clue": "Pojmenování věci"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Plynutí vody; nebo proud elektřiny"
+      "col": 2,
+      "cells": 5,
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Kolem dokola"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
+      "cells": 5,
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hovorově autobus"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Číslo mezi sedmi a devíti"
+      "clue": "Být naživu"
     }
   ]
 }
