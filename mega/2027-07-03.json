@@ -1,0 +1,459 @@
+{
+  "id": "2027-07-03",
+  "date": "2027-07-03",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "C",
+      "M",
+      "#",
+      "O",
+      "S",
+      "M",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "U",
+      "#",
+      "B",
+      "R",
+      "A",
+      "T",
+      "R",
+      "#"
+    ],
+    [
+      "S",
+      "S",
+      "S",
+      "R",
+      "#",
+      "V",
+      "E",
+      "C",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "#",
+      "Z",
+      "A",
+      "D",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "T",
+      "A",
+      "C",
+      "E",
+      "T",
+      "#",
+      "N",
+      "U"
+    ],
+    [
+      "#",
+      "#",
+      "H",
+      "D",
+      "P",
+      "#",
+      "C",
+      "I",
+      "N"
+    ],
+    [
+      "D",
+      "V",
+      "A",
+      "#",
+      "T",
+      "R",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "U",
+      "L",
+      "#",
+      "D",
+      "A",
+      "N",
+      "S",
+      "K",
+      "O"
+    ],
+    [
+      "L",
+      "E",
+      "Z",
+      "E",
+      "T",
+      "#",
+      "L",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "Z",
+      "A",
+      "S",
+      "#",
+      "K",
+      "O",
+      "U",
+      "T"
+    ],
+    [
+      "#",
+      "T",
+      "R",
+      "E",
+      "B",
+      "A",
+      "#",
+      "P",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "T",
+      "A",
+      "M",
+      "#",
+      "E",
+      "E"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Délková jednotka (zn.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Počet nohou pavouka"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Astronomická jednotka (zn.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 3,
+      "cells": 5,
+      "clue": "Řádový mnich"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Sovětský svaz (zkr.)"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Záležitost"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Onen"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Pozadí"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 6,
+      "clue": "Točit"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Citoslovce pobídky"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Ukazatel ekonomiky (zkr.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hrdinský ~"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dvojka"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 4,
+      "cells": 3,
+      "clue": "Trojka"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Včelí příbytek"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 3,
+      "cells": 6,
+      "clue": "Království s Jutskem"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Spočívat"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Úděl"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Znovu"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Roh místnosti"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 1,
+      "cells": 5,
+      "clue": "Kupříkladu"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Příklad (zkr.)"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 3,
+      "cells": 3,
+      "clue": "Onde"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Estonsko (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Hojně"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Mít povinnost"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Titán"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Slovenská republika (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Gestikulovat"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nyní"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 5,
+      "clue": "Úsloví"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 2,
+      "cells": 5,
+      "clue": "Píle"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Vyptat (~ se)"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 8,
+      "cells": 3,
+      "clue": "Oř"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. kadmia"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 5,
+      "clue": "Počet"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Uhelná jáma"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Vstoupit"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 5,
+      "cells": 2,
+      "clue": "Radon (zn.)"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Počet přikázání"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Obchod"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 8,
+      "cells": 5,
+      "clue": "Příkře"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 2,
+      "cells": 3,
+      "clue": "Horko"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Tázací příslovce směru"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. barya"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "id": "2026-12-16",
+  "date": "2026-12-16",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "R",
+      "O",
+      "Z",
+      "D",
+      "I",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "U",
+      "C",
+      "E",
+      "R",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "P",
+      "I",
+      "S",
+      "E",
+      "N",
+      "#",
+      "U",
+      "S",
+      "A"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "T",
+      "A",
+      "#",
+      "#",
+      "K",
+      "C"
+    ],
+    [
+      "C",
+      "I",
+      "T",
+      "#",
+      "#",
+      "S",
+      "V",
+      "A",
+      "H"
+    ],
+    [
+      "H",
+      "E",
+      "#",
+      "S",
+      "A",
+      "M",
+      "Y",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "U",
+      "R",
+      "S",
+      "#",
+      "S",
+      "V"
+    ],
+    [
+      "R",
+      "U",
+      "S",
+      "T",
+      "#",
+      "#",
+      "H",
+      "U",
+      "L"
+    ],
+    [
+      "A",
+      "C",
+      "#",
+      "#",
+      "S",
+      "U",
+      "N",
+      "K",
+      "A"
+    ],
+    [
+      "D",
+      "A",
+      "V",
+      "#",
+      "T",
+      "R",
+      "A",
+      "N",
+      "S"
+    ],
+    [
+      "#",
+      "S",
+      "I",
+      "T",
+      "U",
+      "A",
+      "C",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "R",
+      "I",
+      "D",
+      "N",
+      "I",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Diference"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Palác na Václaváku"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Zpěv"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Země strýčka Sama (zkr.)"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Ekbergová"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Koruna česká (zkr.)"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vnímavost"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 5,
+      "cells": 4,
+      "clue": "Úbočí"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Citoslovce údivu"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Pouhý"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Směr"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Severovýchod (zkr.)"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vzestup"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Berla"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Třebas (kniž.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Uzená kýta"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zástup"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Vytržení"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Stav"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 1,
+      "cells": 6,
+      "clue": "Vedoucí učitel ročníku"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Obtěžovat"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Kyselá tekutina"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Manželka"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Doktor (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Amor"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Čára"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Puch"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Vzdech"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Textovka"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 6,
+      "cells": 2,
+      "clue": "Zdvořilé oslovení"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Kamenná drť"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. argonu"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Počet kusů (zkr.)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Dámský oděv"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Chloupek na temeni"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Řeholní společenství"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Participace"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Motorický"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 4,
+      "cells": 4,
+      "clue": "Hanba"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Radioaktivní kov"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Vodní trychtýř"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Oni (muži)"
+    }
+  ]
+}

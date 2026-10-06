@@ -1,0 +1,459 @@
+{
+  "id": "2026-10-02",
+  "date": "2026-10-02",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "S",
+      "E",
+      "#",
+      "V",
+      "S",
+      "A",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "#",
+      "S",
+      "E",
+      "N",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "K",
+      "#",
+      "D",
+      "O",
+      "M",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "O",
+      "M",
+      "#",
+      "N",
+      "H",
+      "L"
+    ],
+    [
+      "P",
+      "L",
+      "Y",
+      "N",
+      "#",
+      "#",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "Z",
+      "I",
+      "M",
+      "#",
+      "#",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "T",
+      "#",
+      "#",
+      "L",
+      "A",
+      "B",
+      "U",
+      "T"
+    ],
+    [
+      "V",
+      "I",
+      "Z",
+      "#",
+      "#",
+      "B",
+      "Y",
+      "T",
+      "I"
+    ],
+    [
+      "O",
+      "S",
+      "N",
+      "#",
+      "B",
+      "Y",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "N",
+      "I",
+      "#",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "#",
+      "E",
+      "M",
+      "O",
+      "C",
+      "E",
+      "#",
+      "U",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "S",
+      "I",
+      "E",
+      "#",
+      "Z",
+      "E"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Švédska"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Ale"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. argonu"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 5,
+      "clue": "Valdštejnský palác (sídlo)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Semínka na koláče"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 4,
+      "clue": "U sebe"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Katedrála"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Liga o Stanley Cup (zkr.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pedál vpravo"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Spojka záporná"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Denní rozvrh"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Operační systém (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nechť"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 4,
+      "cells": 5,
+      "clue": "Vodní pták"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Srovnej"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 5,
+      "cells": 4,
+      "clue": "Existence"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojené národy (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 4,
+      "cells": 3,
+      "clue": "Obydlí"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 1,
+      "cells": 4,
+      "clue": "Obleva"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Adamova družka"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 1,
+      "cells": 5,
+      "clue": "Afekt"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Brť"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 2,
+      "cells": 4,
+      "clue": "Orient"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Spojka"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Strýček ~ (USA)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Versus (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Počet trpaslíků"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ba"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Topidlo"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 7,
+      "clue": "Vléct"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 2,
+      "cells": 4,
+      "clue": "Pokud"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Ti druzí"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 8,
+      "cells": 5,
+      "clue": "Lupení"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nárok"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 1,
+      "cells": 7,
+      "clue": "Místo vzletů"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Mililitr (zn.)"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kéž (zast.)"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 6,
+      "cells": 4,
+      "clue": "Bajt"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Kamarádka"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 4,
+      "cells": 4,
+      "clue": "Soubor bubnů"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Čenich"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Automobil"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Leč"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Estonska"
+    }
+  ]
+}

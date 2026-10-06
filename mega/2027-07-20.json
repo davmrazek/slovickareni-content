@@ -1,0 +1,466 @@
+{
+  "id": "2027-07-20",
+  "date": "2027-07-20",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "P",
+      "V",
+      "C",
+      "#",
+      "#",
+      "T",
+      "J",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "E",
+      "#",
+      "R",
+      "E",
+      "S",
+      "P"
+    ],
+    [
+      "S",
+      "N",
+      "#",
+      "V",
+      "R",
+      "A",
+      "T",
+      "K",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "Z",
+      "I",
+      "T",
+      "#",
+      "U",
+      "D"
+    ],
+    [
+      "K",
+      "O",
+      "L",
+      "E",
+      "M",
+      "#",
+      "C",
+      "P",
+      "#"
+    ],
+    [
+      "U",
+      "K",
+      "O",
+      "N",
+      "#",
+      "#",
+      "H",
+      "I",
+      "T"
+    ],
+    [
+      "S",
+      "E",
+      "N",
+      "#",
+      "#",
+      "R",
+      "A",
+      "N",
+      "Y"
+    ],
+    [
+      "#",
+      "N",
+      "I",
+      "#",
+      "D",
+      "O",
+      "T",
+      "A",
+      "Z"
+    ],
+    [
+      "S",
+      "I",
+      "#",
+      "B",
+      "I",
+      "D",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "K",
+      "O",
+      "L",
+      "I",
+      "#",
+      "H",
+      "R"
+    ],
+    [
+      "L",
+      "E",
+      "O",
+      "S",
+      "#",
+      "T",
+      "A",
+      "D",
+      "Y"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "S",
+      "#",
+      "#",
+      "G",
+      "P",
+      "S"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plast (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "To jest (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Descartes křestním jménem"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Lépe řečeno (zkr.)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. cínu"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Branka"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 2,
+      "cells": 4,
+      "clue": "Uchopit"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Člen těla"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Okolo"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 6,
+      "cells": 2,
+      "clue": "Číslo popisné (zkr.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Akt"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Trhák"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Snění"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Časný"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 1,
+      "cells": 2,
+      "clue": "Kód Nikaraguy"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Otázka"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. křemíku"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Chudoba"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Třebaže"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Personalistika (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Janáček křestním jménem"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zde"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 2,
+      "cells": 2,
+      "clue": "Proti (ve sportu)"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Navigační systém (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ňadro"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Pryč"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Čína (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Koleje"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ujíždět"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 3,
+      "cells": 5,
+      "clue": "Jméno Oněgina"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 7,
+      "clue": "Kapela"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Kolaps"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Metropole Italie"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Loni"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kousek"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 1,
+      "cells": 7,
+      "clue": "Žaluzie"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 6,
+      "cells": 5,
+      "clue": "Rekreační objekt"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Stejný (kniž.)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 5,
+      "clue": "Plodit"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pokračování"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Taneční místnost"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Kápo"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Železo i cín"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Hrubý domácí produkt (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Kočkovitá šelma"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Znak argenta"
+    }
+  ]
+}

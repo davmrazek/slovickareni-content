@@ -1,0 +1,473 @@
+{
+  "id": "2027-01-04",
+  "date": "2027-01-04",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "R",
+      "O",
+      "#",
+      "#",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "K",
+      "L",
+      "U",
+      "B",
+      "#",
+      "L",
+      "O",
+      "M"
+    ],
+    [
+      "P",
+      "O",
+      "#",
+      "K",
+      "R",
+      "V",
+      "A",
+      "V",
+      "Y"
+    ],
+    [
+      "U",
+      "C",
+      "T",
+      "A",
+      "#",
+      "Z",
+      "B",
+      "Y",
+      "T"
+    ],
+    [
+      "V",
+      "I",
+      "R",
+      "#",
+      "K",
+      "D",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "H",
+      "#",
+      "M",
+      "Y",
+      "#",
+      "D",
+      "K"
+    ],
+    [
+      "B",
+      "I",
+      "#",
+      "Z",
+      "E",
+      "#",
+      "K",
+      "A",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "J",
+      "E",
+      "N",
+      "#",
+      "D",
+      "N",
+      "O"
+    ],
+    [
+      "K",
+      "L",
+      "A",
+      "M",
+      "#",
+      "D",
+      "O",
+      "S",
+      "T"
+    ],
+    [
+      "R",
+      "A",
+      "K",
+      "E",
+      "T",
+      "A",
+      "#",
+      "K",
+      "R"
+    ],
+    [
+      "E",
+      "G",
+      "O",
+      "#",
+      "A",
+      "L",
+      "P",
+      "Y",
+      "#"
+    ],
+    [
+      "C",
+      "R",
+      "#",
+      "#",
+      "K",
+      "E",
+      "R",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Kroužek"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Refrakce světla"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Krvelačný"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pocta"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zůstat"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Původce nemoci"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Citoslovce žalu"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kolektivní já"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Dánska"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. bismutu"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 3,
+      "cells": 2,
+      "clue": "Spojka"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kterým směrem"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pouze"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Spodek nádoby"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Šalba"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Dosyta"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Pálka na tenis"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Koreje"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Já"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Pohoří s Mont Blancem"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. chromu"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Šípek"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Polska"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Paže"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Velikán"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Nynější"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Opláchnout"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 6,
+      "clue": "Mourkův"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 6,
+      "cells": 4,
+      "clue": "Řeka z Krkonoš"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Šarm"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Stále"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Jarmark"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Peň"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 7,
+      "cells": 6,
+      "clue": "Jutský"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 8,
+      "cells": 5,
+      "clue": "Křestní patron"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Planeta"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Která osoba?"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 2,
+      "cells": 4,
+      "clue": "Coby"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Stah svalu"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Tábor (hovor.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Dál"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nuže"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Styk s veřejností (zkr.)"
+    }
+  ]
+}

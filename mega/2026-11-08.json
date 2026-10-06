@@ -1,0 +1,466 @@
+{
+  "id": "2026-11-08",
+  "date": "2026-11-08",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "N",
+      "A",
+      "#",
+      "P",
+      "L",
+      "U",
+      "S"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "S",
+      "#",
+      "T",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "S",
+      "I",
+      "C",
+      "#",
+      "#",
+      "E",
+      "X"
+    ],
+    [
+      "R",
+      "N",
+      "#",
+      "E",
+      "T",
+      "I",
+      "C",
+      "K",
+      "Y"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "#",
+      "K",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "K",
+      "R",
+      "Z",
+      "#",
+      "A",
+      "P",
+      "O",
+      "D"
+    ],
+    [
+      "T",
+      "Y",
+      "G",
+      "R",
+      "#",
+      "N",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
+      "O",
+      "#",
+      "K",
+      "E",
+      "Z"
+    ],
+    [
+      "C",
+      "T",
+      "N",
+      "O",
+      "S",
+      "T",
+      "#",
+      "J",
+      "O"
+    ],
+    [
+      "A",
+      "U",
+      "#",
+      "#",
+      "M",
+      "A",
+      "L",
+      "I",
+      "R"
+    ],
+    [
+      "S",
+      "N",
+      "I",
+      "H",
+      "#",
+      "N",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "A",
+      "#",
+      "K",
+      "C",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Výhoda"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Mluvnická kategorie"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Potichu"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kilo- (předp.)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Naráz do dna"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. radonu"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 6,
+      "clue": "Mravný"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nejvyšší karta"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Plovoucí led"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Přes"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Etc. česky (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pruhovaná šelma"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Spojka volby"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ó by"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 6,
+      "clue": "Mravnost"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Jasně (hovor.)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Citoslovce bolesti"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tvůrce obrazů"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zimní srážky"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 5,
+      "cells": 3,
+      "clue": "Příze"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Otec (hovor.)"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 5,
+      "cells": 2,
+      "clue": "Koruna česká (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (my)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Největší světadíl"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. platiny"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. lithia"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Oddíl"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Přitažlivý"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 6,
+      "clue": "Mandarínský"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pokuta"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tisková agentura (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Persie"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 5,
+      "clue": "Karel, spisovatel"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 2,
+      "cells": 5,
+      "clue": "Část těla"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Semeno obilí"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 6,
+      "clue": "Obkroužit"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 8,
+      "cells": 5,
+      "clue": "Dohled"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Počet chapadel chobotnice"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Díl"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Megagram"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nádrž"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tvář (kniž.)"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Itálie"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Hektar (zn.)"
+    }
+  ]
+}

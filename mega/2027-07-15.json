@@ -1,0 +1,466 @@
+{
+  "id": "2027-07-15",
+  "date": "2027-07-15",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "K",
+      "O",
+      "S",
+      "#",
+      "#",
+      "K",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "O",
+      "B",
+      "R",
+      "#",
+      "P",
+      "L",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "M",
+      "L",
+      "#",
+      "K",
+      "R",
+      "I",
+      "C",
+      "E",
+      "T"
+    ],
+    [
+      "P",
+      "A",
+      "#",
+      "O",
+      "S",
+      "N",
+      "#",
+      "N",
+      "U"
+    ],
+    [
+      "A",
+      "S",
+      "T",
+      "M",
+      "A",
+      "#",
+      "B",
+      "Y",
+      "K"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "B",
+      "#",
+      "P",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "I",
+      "#",
+      "R",
+      "O",
+      "S",
+      "T"
+    ],
+    [
+      "V",
+      "E",
+      "K",
+      "#",
+      "N",
+      "A",
+      "D",
+      "R",
+      "O"
+    ],
+    [
+      "A",
+      "G",
+      "#",
+      "K",
+      "O",
+      "V",
+      "#",
+      "A",
+      "U"
+    ],
+    [
+      "S",
+      "Y",
+      "R",
+      "O",
+      "V",
+      "Y",
+      "#",
+      "N",
+      "L"
+    ],
+    [
+      "#",
+      "P",
+      "A",
+      "T",
+      "Y",
+      "#",
+      "Z",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "T",
+      "M",
+      "A",
+      "#",
+      "#",
+      "S",
+      "A",
+      "T"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Drozd černý"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Plovoucí led"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Velikán"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Pokožka obličeje"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tisícina litru (zn.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Hulákat"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Dětské sbohem"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Organizace v New Yorku (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Citoslovce pobídky"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Záducha"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Býček"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Generalita"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 2,
+      "clue": "Příklad (zkr.)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Nikaraguy"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Gril"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Stáří"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Poprsí (bás.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak argenta"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Železo i cín"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Astronomická jednotka (zn.)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Neopracovaný"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Nizozemska"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 1,
+      "cells": 4,
+      "clue": "Po čtvrtém"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jestli"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Temno"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Roucho"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 6,
+      "clue": "Magnetka"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Region"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Slovenská republika (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Podolek"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Proslov"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Město Pallas"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Plavecký styl"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 3,
+      "cells": 5,
+      "clue": "Karoserie s kufrem"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Lipid"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Obrněnec"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 4,
+      "clue": "Mělké místo řeky"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 5,
+      "clue": "Nefalšovaný"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Švanda"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 8,
+      "cells": 6,
+      "clue": "Bloumat (~ se)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (vy)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Země Nilu"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Čerstvý"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Výškový bod"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kostra"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Základní škola (zkr.)"
+    }
+  ]
+}

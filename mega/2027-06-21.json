@@ -1,0 +1,480 @@
+{
+  "id": "2027-06-21",
+  "date": "2027-06-21",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "P",
+      "E",
+      "S",
+      "#",
+      "#",
+      "S",
+      "M",
+      "S"
+    ],
+    [
+      "T",
+      "R",
+      "U",
+      "N",
+      "#",
+      "S",
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "J",
+      "O",
+      "#",
+      "I",
+      "T",
+      "A",
+      "L",
+      "I",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "H",
+      "U",
+      "T",
+      "#",
+      "Z",
+      "S"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "#",
+      "K",
+      "E",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "K",
+      "#",
+      "#",
+      "K",
+      "O",
+      "S",
+      "T"
+    ],
+    [
+      "S",
+      "V",
+      "A",
+      "L",
+      "#",
+      "#",
+      "K",
+      "U",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "Y",
+      "P",
+      "#",
+      "L",
+      "V",
+      "I"
+    ],
+    [
+      "H",
+      "M",
+      "#",
+      "Z",
+      "E",
+      "M",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "A",
+      "T",
+      "A",
+      "#",
+      "V",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      "#",
+      "L",
+      "A",
+      "I",
+      "K"
+    ],
+    [
+      "T",
+      "R",
+      "S",
+      "#",
+      "#",
+      "O",
+      "U",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Hafan"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Krátká zpráva (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Sídlo krále"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kouzlo"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Jasně (hovor.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Vlast Dantova"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 2,
+      "cells": 4,
+      "clue": "Apetit"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Škola pro děti (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Soudní spor (zast.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Šípek"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kalendářní období"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Díl skeletu"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Biceps"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pěvecký balkon v kostele"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Model"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Statečný"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nu"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Svět"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Znovuzrozená (ženské jméno)"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Versus (zkr.)"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Celebrita"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Amatér"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Chomáč"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Zámezí (angl.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Unie sedmadvaceti (zkr.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Firn"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Taneční místnost"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Pruty v okně vězení"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Mix"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Neboli (zkr.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 5,
+      "clue": "Šála"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Lipid"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vyčkávat"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ňadro"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Mohyla"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 5,
+      "clue": "Úžlabina"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 3,
+      "clue": "Sportovní užitkové vozidlo (zkr.)"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Počet mušketýrů"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 3,
+      "cells": 5,
+      "clue": "Sjezdař"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Číslovka po čtyřech"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Plná dlaň"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Délková jednotka"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nemnoho"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (my)"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Kroutit (věnec)"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kód Slovenska"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Citoslovce bolesti"
+    }
+  ]
+}

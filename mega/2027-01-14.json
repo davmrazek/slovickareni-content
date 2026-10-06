@@ -1,0 +1,431 @@
+{
+  "id": "2027-01-14",
+  "date": "2027-01-14",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "K",
+      "O",
+      "S",
+      "M",
+      "O",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "K",
+      "O",
+      "M",
+      "A",
+      "N",
+      "D",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "U",
+      "M",
+      "Y",
+      "T",
+      "#",
+      "P",
+      "U",
+      "L"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "L",
+      "#",
+      "F",
+      "O",
+      "T",
+      "O"
+    ],
+    [
+      "B",
+      "E",
+      "K",
+      "#",
+      "Z",
+      "A",
+      "R",
+      "E",
+      "Z"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "K",
+      "O",
+      "K",
+      "#",
+      "Z",
+      "E"
+    ],
+    [
+      "S",
+      "B",
+      "#",
+      "N",
+      "O",
+      "T",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "Z",
+      "E",
+      "M",
+      "#",
+      "K",
+      "R",
+      "B"
+    ],
+    [
+      "S",
+      "R",
+      "A",
+      "Z",
+      "#",
+      "N",
+      "O",
+      "V",
+      "E"
+    ],
+    [
+      "T",
+      "O",
+      "K",
+      "#",
+      "M",
+      "I",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "K",
+      "O",
+      "L",
+      "O",
+      "V",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "P",
+      "I",
+      "R",
+      "A",
+      "T",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Univerzum"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Speciální jednotka"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 1,
+      "cells": 4,
+      "clue": "Očistit"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jedna ze dvou stejných částí"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Opékač"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Momentka"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Krajní obránce"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Zásek"
+    },
+    {
+      "num": 15,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Salto"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Spojka"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. antimonu"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Diplomatická zpráva"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Naráz"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ohniště"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Setkání"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Čerstvě"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Namlouvání tetřevů"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 4,
+      "clue": "Měřítko"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Obíhat"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 1,
+      "cells": 6,
+      "clue": "Stavět na"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Obrázkový příběh"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Chyba"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Oděv"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. manganu"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Veličina v ohmech"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Klání"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Mládě slepice"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Kavalec"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Gigabajt (zn.)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Opravdu (hovor.)"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Přiblížení objektivem"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Duchovní"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kožich zvířete"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Sloh Dientzenhoferů"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Tak tak"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Okop"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Hulákat"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kód Belgie"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Plísňový sýr"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Černá smrt"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. lithia"
+    }
+  ]
+}

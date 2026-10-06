@@ -1,0 +1,445 @@
+{
+  "id": "2027-03-30",
+  "date": "2027-03-30",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "C",
+      "O",
+      "#",
+      "#",
+      "S",
+      "M",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "#",
+      "K",
+      "A",
+      "R",
+      "E",
+      "L"
+    ],
+    [
+      "S",
+      "Y",
+      "N",
+      "#",
+      "#",
+      "L",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "I",
+      "V",
+      "A",
+      "#",
+      "P",
+      "O",
+      "#",
+      "K",
+      "M"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "E",
+      "S",
+      "#",
+      "V",
+      "Y",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "Y",
+      "M",
+      "O",
+      "V",
+      "Y",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "A",
+      "V",
+      "I",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "J",
+      "A",
+      "#",
+      "O",
+      "P",
+      "A",
+      "R",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "#",
+      "O",
+      "D",
+      "#",
+      "D",
+      "V",
+      "D"
+    ],
+    [
+      "O",
+      "K",
+      "A",
+      "P",
+      "#",
+      "#",
+      "B",
+      "A",
+      "R"
+    ],
+    [
+      "V",
+      "U",
+      "B",
+      "E",
+      "C",
+      "#",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "B",
+      "Y",
+      "T",
+      "I",
+      "#",
+      "#",
+      "E",
+      "S"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tázací zájmeno (na věc)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Moci"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dva zároveň"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Jméno Otce vlasti"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Potomek"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Horolezecká jistota"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Bittová křestním jménem"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tisíc metrů (zn.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Mikoláš, malíř"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 6,
+      "cells": 2,
+      "clue": "Zdvořilé oslovení"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Kolektivní"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Žárlivost"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 2,
+      "clue": "Ego"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Mlha"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 3,
+      "cells": 2,
+      "clue": "Předložka původu"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nosič filmu (zkr.)"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Žlab"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jednotka tlaku"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Veskrze"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Leč"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 1,
+      "cells": 4,
+      "clue": "Existence"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Snížené E"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Něco"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Sídlit"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Slovenska"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nemnoho"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Hubený"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 2,
+      "cells": 7,
+      "clue": "Rozbor"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Těžebna kamene"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Cvičitel psů"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "Destinnová křestním jménem"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 6,
+      "cells": 7,
+      "clue": "Sázení"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Celebrita (zkr.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Natrvalo"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Deml křestním jménem"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hrob (bás.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Zase"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Trikot"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kéž (zast.)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    }
+  ]
+}

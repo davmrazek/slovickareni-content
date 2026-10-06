@@ -1,0 +1,431 @@
+{
+  "id": "2027-09-12",
+  "date": "2027-09-12",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "M",
+      "S",
+      "E",
+      "#",
+      "D",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "T",
+      "E",
+      "Z",
+      "E",
+      "C",
+      "#"
+    ],
+    [
+      "N",
+      "Y",
+      "N",
+      "I",
+      "#",
+      "A",
+      "L",
+      "E",
+      "J"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "T",
+      "#",
+      "#",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "C",
+      "I",
+      "#",
+      "#",
+      "B",
+      "A",
+      "V",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "H",
+      "R",
+      "A",
+      "B",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "R",
+      "I",
+      "B",
+      "Y",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "M",
+      "A",
+      "#",
+      "#",
+      "C",
+      "D"
+    ],
+    [
+      "V",
+      "E",
+      "N",
+      "#",
+      "#",
+      "C",
+      "L",
+      "E",
+      "N"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "Z",
+      "#",
+      "H",
+      "A",
+      "L",
+      "A"
+    ],
+    [
+      "#",
+      "O",
+      "C",
+      "E",
+      "L",
+      "O",
+      "V",
+      "Y",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "#",
+      "I",
+      "V",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Liturgie"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Předložka směru"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Sled znaků"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Momentálně"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Lipová cesta"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dar bohům"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Rozptylovat"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 2,
+      "cells": 6,
+      "clue": "Shrabovat"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Narůst"
+    },
+    {
+      "num": 19,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Činohra"
+    },
+    {
+      "num": 20,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. kadmia"
+    },
+    {
+      "num": 22,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pryč"
+    },
+    {
+      "num": 23,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Úd"
+    },
+    {
+      "num": 25,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Bez toho, aby"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Předsíň"
+    },
+    {
+      "num": 28,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Nerezový"
+    },
+    {
+      "num": 30,
+      "row": 11,
+      "col": 1,
+      "cells": 2,
+      "clue": "Zvratné zájmeno"
+    },
+    {
+      "num": 31,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Janžurová křestním jménem"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Míň"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Erb"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Estonsko (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 7,
+      "clue": "Činívat"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Vyzdvihnout"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Šupinatý"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 5,
+      "cells": 2,
+      "clue": "Předložka s 4. a 7. pádem"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Čas spánku"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Ubírat se"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Bábovka (nář.)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Spojka účelová"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Pomezí"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Metropole Italie"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Vysílání"
+    },
+    {
+      "num": 19,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pár"
+    },
+    {
+      "num": 20,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Úplný"
+    },
+    {
+      "num": 21,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Dvoušroubovice (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Farma"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Sopečná tavenina"
+    },
+    {
+      "num": 26,
+      "row": 9,
+      "col": 3,
+      "cells": 2,
+      "clue": "Předložka"
+    },
+    {
+      "num": 29,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Tázací částice (kniž.)"
+    }
+  ]
+}

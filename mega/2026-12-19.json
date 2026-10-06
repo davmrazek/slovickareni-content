@@ -1,0 +1,431 @@
+{
+  "id": "2026-12-19",
+  "date": "2026-12-19",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "K",
+      "N",
+      "I",
+      "H",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "Z",
+      "D",
+      "E",
+      "S",
+      "E",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "P",
+      "R",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "D",
+      "V",
+      "A"
+    ],
+    [
+      "R",
+      "A",
+      "Z",
+      "N",
+      "E",
+      "#",
+      "R",
+      "A",
+      "D"
+    ],
+    [
+      "O",
+      "N",
+      "#",
+      "O",
+      "D",
+      "M",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "C",
+      "I",
+      "#",
+      "S",
+      "I",
+      "L",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "I",
+      "S",
+      "E",
+      "#",
+      "S",
+      "V"
+    ],
+    [
+      "P",
+      "R",
+      "U",
+      "T",
+      "O",
+      "K",
+      "#",
+      "T",
+      "U"
+    ],
+    [
+      "R",
+      "E",
+      "C",
+      "#",
+      "N",
+      "O",
+      "S",
+      "I",
+      "C"
+    ],
+    [
+      "O",
+      "S",
+      "N",
+      "#",
+      "#",
+      "#",
+      "P",
+      "S",
+      "I"
+    ],
+    [
+      "#",
+      "P",
+      "A",
+      "P",
+      "R",
+      "S",
+      "E",
+      "K",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "O",
+      "S",
+      "I",
+      "K",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Foliant"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Hrůza"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Údajně"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pár"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Energicky"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Vyznamenání"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 3. osoby"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Prémie"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Energie"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Potichu"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Severovýchod (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 6,
+      "clue": "Proudění"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zde (hovor.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Proslov"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tragač"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Organizace v New Yorku (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Řecké písmeno"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Špice kola"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Proutěná nůše"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Jakmile"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. neonu"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Islámský stát (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Citoslovce údivu"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Jméno Hlaváčkové"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Dozrávání"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 4,
+      "clue": "Lendl křestním jménem"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zač"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Lovelaceová, průkopnice programování"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 5,
+      "clue": "Nést"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Thomas Alva ~"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 5,
+      "cells": 5,
+      "clue": "Nápoj od krávy"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Frakový pták"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Podání ruky"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Oproti"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Lépe řečeno (zkr.)"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Slanina"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Srbsko (kód)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Slovinska"
+    }
+  ]
+}

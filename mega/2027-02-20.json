@@ -1,0 +1,473 @@
+{
+  "id": "2027-02-20",
+  "date": "2027-02-20",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "E",
+      "U",
+      "#",
+      "#",
+      "P",
+      "R",
+      "U",
+      "H",
+      "#"
+    ],
+    [
+      "H",
+      "M",
+      "#",
+      "T",
+      "R",
+      "I",
+      "C",
+      "E",
+      "T"
+    ],
+    [
+      "M",
+      "I",
+      "L",
+      "Y",
+      "#",
+      "M",
+      "A",
+      "L",
+      "Y"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "C",
+      "#",
+      "#",
+      "S",
+      "E",
+      "M"
+    ],
+    [
+      "V",
+      "A",
+      "Z",
+      "#",
+      "V",
+      "R",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "E",
+      "N",
+      "A",
+      "#",
+      "S",
+      "B"
+    ],
+    [
+      "S",
+      "I",
+      "#",
+      "G",
+      "U",
+      "M",
+      "O",
+      "V",
+      "Y"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "O",
+      "K",
+      "#",
+      "P",
+      "E",
+      "T"
+    ],
+    [
+      "S",
+      "U",
+      "L",
+      "#",
+      "#",
+      "P",
+      "A",
+      "D",
+      "#"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "L",
+      "#",
+      "V",
+      "R",
+      "C",
+      "H"
+    ],
+    [
+      "K",
+      "O",
+      "T",
+      "O",
+      "U",
+      "C",
+      "#",
+      "I",
+      "E"
+    ],
+    [
+      "#",
+      "R",
+      "O",
+      "S",
+      "A",
+      "#",
+      "#",
+      "T",
+      "J"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Unie sedmadvaceti (zkr.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Pás"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nu"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 6,
+      "clue": "Jidášův počet stříbrných"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Drahý"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Drobný"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 3,
+      "clue": "Proslov"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Na toto místo"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kloubní pouto"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Sonda"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 6,
+      "clue": "Přijímač vln"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. antimonu"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Slovinska"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 3,
+      "cells": 6,
+      "clue": "Kaučukový"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Strana těla"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Číslovka po čtyřech"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Chlorid sodný"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kolaps"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kryt"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kopec"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 6,
+      "clue": "Kolo"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Irska"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 1,
+      "cells": 4,
+      "clue": "Orosení"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Neboli (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rozpačitý zvuk"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Agónie"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Styk s veřejností (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Metropole Italie"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Participace"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Poslyš (hovor.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 3,
+      "clue": "Hůl"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Družstvo"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 2,
+      "cells": 4,
+      "clue": "Plazit se"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (vy)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Potomek ve druhém kolenu"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kostra"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Já"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Vypovídat"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Existovat"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 6,
+      "cells": 4,
+      "clue": "Herpes"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Rozbahněná zem"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rival"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Oděv"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Plast (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Loterijní lístek"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Pokřik"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Ukrajiny"
+    }
+  ]
+}

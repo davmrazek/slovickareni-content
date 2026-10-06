@@ -1,0 +1,459 @@
+{
+  "id": "2027-02-17",
+  "date": "2027-02-17",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "N",
+      "I",
+      "C",
+      "#",
+      "D",
+      "O",
+      "M"
+    ],
+    [
+      "#",
+      "L",
+      "A",
+      "N",
+      "O",
+      "#",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "T",
+      "U",
+      "K",
+      "#",
+      "#",
+      "K",
+      "L",
+      "I",
+      "D"
+    ],
+    [
+      "O",
+      "B",
+      "R",
+      "#",
+      "K",
+      "D",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "O",
+      "M",
+      "E",
+      "R",
+      "Y",
+      "#",
+      "J",
+      "A"
+    ],
+    [
+      "E",
+      "M",
+      "I",
+      "S",
+      "E",
+      "#",
+      "C",
+      "I",
+      "N"
+    ],
+    [
+      "N",
+      "I",
+      "T",
+      "#",
+      "S",
+      "N",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "I",
+      "R",
+      "#",
+      "K",
+      "L",
+      "E",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "R",
+      "O",
+      "#",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "K",
+      "L",
+      "U",
+      "K",
+      "#",
+      "#",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "R",
+      "O",
+      "D",
+      "#",
+      "B",
+      "O",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "#",
+      "R",
+      "N",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Nula"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Chrám"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Horolezecká jistota"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Lipid"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pokoj"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Velikán"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 6,
+      "clue": "Situace"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vypouštění zplodin"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Skutek"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Příze"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 4,
+      "cells": 5,
+      "clue": "Zbaštit"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. iridia"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 3,
+      "cells": 6,
+      "clue": "Kombinačky"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 2,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zvuk určité výšky"
+    },
+    {
+      "num": 26,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Hoch"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Šik křestním jménem"
+    },
+    {
+      "num": 29,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mluvnický ~"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Obuv"
+    },
+    {
+      "num": 32,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Lovelaceová, průkopnice programování"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 7,
+      "clue": "Dát najíst"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Indie"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Vpřed"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Herní úprava"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Lipský křestním jménem"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Vytápění"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "V kterou dobu"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Fotel"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Španělska"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 7,
+      "cells": 7,
+      "clue": "Záruka"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 8,
+      "cells": 6,
+      "clue": "Přijímač vln"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 6,
+      "cells": 7,
+      "clue": "Hygiena"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 5,
+      "cells": 2,
+      "clue": "Zápor"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 3,
+      "cells": 3,
+      "clue": "Hrdlo"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Podkroví"
+    },
+    {
+      "num": 26,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plovoucí led"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Koráb"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Brazílie"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Muž"
+    }
+  ]
+}

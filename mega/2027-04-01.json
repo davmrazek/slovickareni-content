@@ -1,0 +1,438 @@
+{
+  "id": "2027-04-01",
+  "date": "2027-04-01",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "J",
+      "A",
+      "#",
+      "#",
+      "#",
+      "D",
+      "V",
+      "U",
+      "R"
+    ],
+    [
+      "A",
+      "R",
+      "#",
+      "N",
+      "A",
+      "R",
+      "U",
+      "C",
+      "I"
+    ],
+    [
+      "N",
+      "E",
+      "J",
+      "E",
+      "N",
+      "#",
+      "Z",
+      "I",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "B",
+      "O",
+      "#",
+      "#",
+      "T",
+      "I"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "E",
+      "#",
+      "#",
+      "J",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "S",
+      "#",
+      "D",
+      "U",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "D",
+      "N",
+      "A",
+      "#",
+      "A",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "#",
+      "#",
+      "T",
+      "I",
+      "P",
+      "#"
+    ],
+    [
+      "A",
+      "T",
+      "#",
+      "#",
+      "P",
+      "O",
+      "U",
+      "S",
+      "T"
+    ],
+    [
+      "B",
+      "I",
+      "C",
+      "#",
+      "A",
+      "V",
+      "S",
+      "A",
+      "K"
+    ],
+    [
+      "O",
+      "V",
+      "O",
+      "C",
+      "N",
+      "Y",
+      "#",
+      "N",
+      "A"
+    ],
+    [
+      "R",
+      "Y",
+      "Z",
+      "I",
+      "#",
+      "#",
+      "#",
+      "I",
+      "N"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Královský ~"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Plošná míra"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 6,
+      "clue": "Paže"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nikoli pouze"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Bydlet"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Či"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Pivo svrchně kvašené"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ujíždět"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Španělska"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Šachta"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 1,
+      "cells": 3,
+      "clue": "Dvoušroubovice (zkr.)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 5,
+      "cells": 2,
+      "clue": "Znak aluminia"
+    },
+    {
+      "num": 21,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet mušketýrů"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 5,
+      "cells": 3,
+      "clue": "Odhad"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Gobi"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Důtky"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Nicméně"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 0,
+      "cells": 6,
+      "clue": "Sadový"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. sodíku"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Čistý"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Indie"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Brejchová křestním jménem"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Kolbiště"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Titul před jménem (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Vagon"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Kantor"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 5,
+      "clue": "Letět (~ se)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 6,
+      "clue": "Baldachýn"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 2,
+      "cells": 6,
+      "clue": "Parohatý"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 6,
+      "clue": "Caesar křestním jménem"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 5,
+      "cells": 6,
+      "clue": "Informační"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Zdrcující"
+    },
+    {
+      "num": 21,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kemp"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Korespondence"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 4,
+      "cells": 3,
+      "clue": "Řecký bůh stád"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Pletivo"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kterážto věc"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    }
+  ]
+}

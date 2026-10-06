@@ -1,0 +1,466 @@
+{
+  "id": "2027-01-30",
+  "date": "2027-01-30",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "R",
+      "O",
+      "C",
+      "K",
+      "#",
+      "#",
+      "#",
+      "T",
+      "J"
+    ],
+    [
+      "U",
+      "S",
+      "T",
+      "U",
+      "P",
+      "#",
+      "P",
+      "R",
+      "E"
+    ],
+    [
+      "M",
+      "N",
+      "#",
+      "Z",
+      "L",
+      "O",
+      "C",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "E",
+      "O",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "Z",
+      "D",
+      "A",
+      "#",
+      "D",
+      "O",
+      "M",
+      "O",
+      "V"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "A",
+      "#",
+      "B",
+      "A",
+      "C",
+      "H"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "D",
+      "#",
+      "A",
+      "C",
+      "K",
+      "O"
+    ],
+    [
+      "D",
+      "A",
+      "R",
+      "E",
+      "K",
+      "#",
+      "H",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "R",
+      "S",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "G",
+      "U",
+      "S",
+      "T",
+      "A",
+      "V",
+      "#",
+      "C",
+      "M"
+    ],
+    [
+      "P",
+      "S",
+      "I",
+      "#",
+      "M",
+      "A",
+      "R",
+      "I",
+      "E"
+    ],
+    [
+      "S",
+      "B",
+      "#",
+      "#",
+      "#",
+      "H",
+      "O",
+      "L",
+      "D"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Big beat"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "To jest (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kompromis"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Soudní spor (zast.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Mangan (zn.)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Delikt"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 4,
+      "clue": "Janáček křestním jménem"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Jestli"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Rodný kraj"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ranní krůpěje"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Autor Braniborských koncertů"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Poledne u stolu"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hlavní tým (slang.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pozornost"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Svátek (Boží ~)"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Plavecký styl"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Jméno Klimta"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Délková jednotka (zn.)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Řecké písmeno"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Curieová křestním jménem"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak stibia"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pocta"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pirátský nápoj"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Organizace v New Yorku (zkr.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Česká televize (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Useň"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Počet mušketýrů"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Pouze"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Ovoce"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 2,
+      "clue": "Osobní počítač (zkr.)"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 5,
+      "clue": "Individuum"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Světelný paprsek"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vznik"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Éra"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 5,
+      "clue": "Karel Hynek"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 4,
+      "clue": "Oko (zdrob.)"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 8,
+      "cells": 4,
+      "clue": "Příhodně"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 3,
+      "cells": 5,
+      "clue": "Čekatel"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Obchůdek"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Úbočí"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Navigační systém (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Počítačový port (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 2,
+      "cells": 2,
+      "clue": "Chem. zn. křemíku"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Meta"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Včelí produkt"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Rumunsko (kód)"
+    }
+  ]
+}

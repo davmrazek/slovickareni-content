@@ -1,0 +1,459 @@
+{
+  "id": "2027-07-23",
+  "date": "2027-07-23",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "S",
+      "E",
+      "P",
+      "T",
+      "#",
+      "U",
+      "Z",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "V",
+      "A",
+      "R",
+      "#",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "R",
+      "#",
+      "H",
+      "R",
+      "I",
+      "C",
+      "H"
+    ],
+    [
+      "A",
+      "P",
+      "O",
+      "D",
+      "#",
+      "N",
+      "E",
+      "H",
+      "A"
+    ],
+    [
+      "K",
+      "A",
+      "P",
+      "E",
+      "L",
+      "A",
+      "#",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
+      "I",
+      "#",
+      "#",
+      "D",
+      "R"
+    ],
+    [
+      "Z",
+      "S",
+      "#",
+      "#",
+      "S",
+      "E",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "T",
+      "#",
+      "S",
+      "T",
+      "R",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "Y",
+      "#",
+      "A",
+      "L",
+      "A",
+      "N"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "N",
+      "D",
+      "#",
+      "I",
+      "V",
+      "O"
+    ],
+    [
+      "#",
+      "A",
+      "Z",
+      "#",
+      "P",
+      "A",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "I",
+      "#",
+      "H",
+      "R",
+      "A",
+      "C",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Šepot"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Nyní již"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Líce"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. sodíku"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Epidemie"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Poklesek"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "A podobně (zkr.)"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Něžnost"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 6,
+      "clue": "Orchestr"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Opak do (předložka)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Titul před jménem (zkr.)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Základní škola (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 4,
+      "cells": 3,
+      "clue": "Na toto místo"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 3,
+      "cells": 6,
+      "clue": "List knihy"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pouhý"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Rickman, herec"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Móda"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 1,
+      "cells": 2,
+      "clue": "Teprve"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Madam"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 4,
+      "cells": 4,
+      "clue": "Hazardér"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Otisk"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Starý kontinent"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Dětské sbohem"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Jarmark"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Svaz"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Toaleta"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vlčí ~"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Onuce"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Opak noci"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Arch"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nenávist"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Obstarávat (~ se)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Letopočet"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Lesní plod"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dědic"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Nadto"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Uprostřed dvou"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Daň ze zboží (zkr.)"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Plošná míra"
+    }
+  ]
+}

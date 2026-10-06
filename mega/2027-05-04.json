@@ -1,0 +1,452 @@
+{
+  "id": "2027-05-04",
+  "date": "2027-05-04",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "U",
+      "S",
+      "A",
+      "#",
+      "Z",
+      "E"
+    ],
+    [
+      "#",
+      "P",
+      "O",
+      "S",
+      "E",
+      "L",
+      "#",
+      "I",
+      "R"
+    ],
+    [
+      "P",
+      "O",
+      "R",
+      "A",
+      "D",
+      "#",
+      "T",
+      "M",
+      "A"
+    ],
+    [
+      "R",
+      "S",
+      "#",
+      "#",
+      "M",
+      "U",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "J",
+      "#",
+      "S",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "K",
+      "E",
+      "#",
+      "I",
+      "N",
+      "U",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "O",
+      "N",
+      "#",
+      "L",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "O",
+      "#",
+      "I",
+      "R",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "D",
+      "O",
+      "M",
+      "U",
+      "#",
+      "#",
+      "S",
+      "N"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "#",
+      "K",
+      "O",
+      "R",
+      "E",
+      "A"
+    ],
+    [
+      "I",
+      "N",
+      "#",
+      "P",
+      "O",
+      "B",
+      "Y",
+      "T",
+      "#"
+    ],
+    [
+      "M",
+      "Y",
+      "#",
+      "H",
+      "L",
+      "A",
+      "S",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Polibek"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Zvěstovatel"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. iridia"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Stále"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Temno"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Srbska"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 4,
+      "clue": "Tíživý sen"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Stromořadí"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 5,
+      "cells": 2,
+      "clue": "Zvratné zájmeno"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Též"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ostatně (kniž.)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zvuk určité výšky"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Řeka s deltou do moře Laptěvů"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Norska"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 5,
+      "cells": 4,
+      "clue": "Persie"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "K sobě do bytu"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. cínu"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Bez doprovodu"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Asijský poloostrov"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Indie"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 3,
+      "cells": 5,
+      "clue": "Návštěva"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby mn. č."
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 3,
+      "cells": 4,
+      "clue": "Votum"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kožní otvor"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojené státy (zkr.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Počet divů světa"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Znak aluminia"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Mráz"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Letopočet"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 6,
+      "clue": "Odeslat"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Gratulovat"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 6,
+      "cells": 6,
+      "clue": "Instruktor"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 5,
+      "clue": "Snaha"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 6,
+      "clue": "Hospodář"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Toliko"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 6,
+      "clue": "Strhávat"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Jméno Letenské"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Určitý"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 4,
+      "cells": 4,
+      "clue": "Povinnost"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Karta do mobilu"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Jeden i druhý"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kočkovitá šelma"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Míra kyselosti"
+    }
+  ]
+}

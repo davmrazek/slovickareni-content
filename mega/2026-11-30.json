@@ -1,0 +1,459 @@
+{
+  "id": "2026-11-30",
+  "date": "2026-11-30",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "J",
+      "A",
+      "#",
+      "#",
+      "Z",
+      "D",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "#",
+      "N",
+      "A",
+      "S",
+      "A",
+      "T"
+    ],
+    [
+      "N",
+      "I",
+      "C",
+      "#",
+      "#",
+      "L",
+      "I",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "M",
+      "I",
+      "S",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "H",
+      "N",
+      "U",
+      "T",
+      "I",
+      "#",
+      "Z",
+      "S"
+    ],
+    [
+      "B",
+      "R",
+      "I",
+      "Z",
+      "A",
+      "#",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "B",
+      "A",
+      "T",
+      "#",
+      "L",
+      "I",
+      "B",
+      "I",
+      "T"
+    ],
+    [
+      "C",
+      "T",
+      "#",
+      "D",
+      "I",
+      "V",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "R",
+      "E",
+      "A",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "R",
+      "D",
+      "E",
+      "#",
+      "#",
+      "I",
+      "V",
+      "O"
+    ],
+    [
+      "U",
+      "N",
+      "A",
+      "V",
+      "A",
+      "#",
+      "T",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "O",
+      "C",
+      "#",
+      "#",
+      "N",
+      "O"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tázací spojka"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mistr svého oboru"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Vsáknout"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vůbec žádná věc"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Škoda"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vydání cenných papírů"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 5,
+      "clue": "Pohyb"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Základní škola (zkr.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Strom s jehnědami"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ti druzí"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Strachovat (~ se)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 4,
+      "cells": 5,
+      "clue": "Zamlouvat se (~ se)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Česká televize (zkr.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Pozorovat"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 5,
+      "clue": "Pozemek s budovami"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pyšně"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jahelka křestním jménem"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vyčerpání"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 2,
+      "cells": 3,
+      "clue": "Síla"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Norska"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Japonská měna"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Přibližně"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Značka prvku s protonovým číslem 30"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Následující"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Největší světadíl"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 2,
+      "cells": 6,
+      "clue": "Ohodnotit"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 2,
+      "clue": "Tohle"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Choť"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Apeninský stát"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Předstírat"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 4,
+      "clue": "Zvučet"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Spojovat nití"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Britská rozhlasová stanice (zkr.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 6,
+      "clue": "Obtočit"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Bittová křestním jménem"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Kláda"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Prvočlověk"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Maďarska"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 1,
+      "cells": 2,
+      "clue": "Radon (zn.)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Dodávka"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Kukadlo"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Ačkoli (kniž.)"
+    }
+  ]
+}

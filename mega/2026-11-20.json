@@ -1,0 +1,473 @@
+{
+  "id": "2026-11-20",
+  "date": "2026-11-20",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "T",
+      "R",
+      "I",
+      "D",
+      "A",
+      "#",
+      "K",
+      "O",
+      "D"
+    ],
+    [
+      "R",
+      "I",
+      "V",
+      "A",
+      "L",
+      "#",
+      "O",
+      "B",
+      "A"
+    ],
+    [
+      "S",
+      "M",
+      "A",
+      "T",
+      "#",
+      "#",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "U",
+      "S",
+      "P",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "K",
+      "A",
+      "M",
+      "E",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "O",
+      "Z",
+      "#",
+      "C",
+      "O",
+      "#",
+      "R",
+      "N"
+    ],
+    [
+      "R",
+      "S",
+      "#",
+      "C",
+      "I",
+      "#",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "A",
+      "S",
+      "A",
+      "D",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "M",
+      "I",
+      "S",
+      "T",
+      "R",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "V",
+      "#",
+      "#",
+      "E",
+      "M",
+      "M",
+      "A"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "#",
+      "S",
+      "A",
+      "S",
+      "E",
+      "K"
+    ],
+    [
+      "J",
+      "E",
+      "T",
+      "#",
+      "V",
+      "L",
+      "E",
+      "Z",
+      "T"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kategorie"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Šifra"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Sok"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jeden i druhý"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Chechtat se"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Horní ~"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 5,
+      "clue": "Prorazit"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 6,
+      "clue": "Snímací přístroj"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kterážto věc"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Radon (zn.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Srbska"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 3,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 2,
+      "cells": 6,
+      "clue": "Pravidlo"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 1,
+      "cells": 5,
+      "clue": "Šampion"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Úžas"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Bovaryová křestním jménem"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nejvyšší karta"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Klaun"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ujíždět"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 4,
+      "cells": 5,
+      "clue": "Vstoupit"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Chomáč"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Metropole Italie"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Janžurová křestním jménem"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Letopočet"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Znak aluminia"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Země jitřní svěžesti"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Poškozený"
+    },
+    {
+      "num": 8,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Poskytnout"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Zsumarizovat"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Drozd černý"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 2,
+      "cells": 2,
+      "clue": "Teprve"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Naše republika (zkr.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kód Nikaraguy"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Mluvnická kategorie"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 6,
+      "cells": 2,
+      "clue": "Opak do (předložka)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Existence"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 5,
+      "cells": 5,
+      "clue": "Pozemek s budovami"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Vyslanectví"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Průběh příběhu"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Liturgie"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Limit"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Dějství"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Svatý (zkr.)"
+    }
+  ]
+}

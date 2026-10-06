@@ -1,0 +1,459 @@
+{
+  "id": "2026-11-28",
+  "date": "2026-11-28",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "V",
+      "A",
+      "N",
+      "A",
+      "#",
+      "#",
+      "Z",
+      "A",
+      "#"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "C",
+      "#",
+      "K",
+      "U",
+      "B",
+      "A"
+    ],
+    [
+      "S",
+      "E",
+      "K",
+      "#",
+      "#",
+      "A",
+      "Z",
+      "Y",
+      "L"
+    ],
+    [
+      "K",
+      "L",
+      "A",
+      "V",
+      "E",
+      "S",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "I",
+      "L",
+      "E",
+      "N",
+      "E",
+      "C"
+    ],
+    [
+      "P",
+      "R",
+      "#",
+      "C",
+      "I",
+      "#",
+      "A",
+      "H",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      "#",
+      "S",
+      "V",
+      "#",
+      "M",
+      "J"
+    ],
+    [
+      "S",
+      "T",
+      "Y",
+      "S",
+      "K",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "H",
+      "L",
+      "A",
+      "S",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "Z",
+      "A",
+      "R",
+      "I",
+      "#",
+      "#",
+      "S",
+      "A",
+      "L"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "B",
+      "#",
+      "R",
+      "E",
+      "K",
+      "A"
+    ],
+    [
+      "#",
+      "P",
+      "T",
+      "#",
+      "#",
+      "O",
+      "N",
+      "E",
+      "N"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Lázeň"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ves"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ostrov svobody"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Platební poukaz"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Útočiště"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 7,
+      "clue": "Tasta"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 7,
+      "clue": "Amant"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Styk s veřejností (zkr.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hle"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Burácení"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 4,
+      "cells": 2,
+      "clue": "Severovýchod (zkr.)"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Měrná jednotka (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 0,
+      "cells": 7,
+      "clue": "Teskně vzpomínat (~ se)"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 2,
+      "cells": 7,
+      "clue": "Zvučně"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Devátý měsíc"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Síň"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Generalita"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Veletok"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. platiny"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ten (kniž.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Parafín"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Oběť první vraždy"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Kamsi"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Třebas (kniž.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Navarová křestním jménem"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Kéž (zast.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hustý pokrm"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. hliníku"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Plus"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Přemyslovna, matka Karla IV. (jméno)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 3,
+      "clue": "Odkašlání"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Nálev z lístků"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hruď"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 3,
+      "clue": "Pysk"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Triumfovat"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "„Srdečně …“ (závěr dopisu)"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 3,
+      "cells": 4,
+      "clue": "Přísaha"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Stísněnost"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Rovněž"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Švih"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Škola pro děti (zkr.)"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "A tak podobně (zkr.)"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Rumunska"
+    }
+  ]
+}

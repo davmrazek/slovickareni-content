@@ -1,0 +1,445 @@
+{
+  "id": "2027-04-03",
+  "date": "2027-04-03",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "Z",
+      "E",
+      "#",
+      "P",
+      "R",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "J",
+      "I",
+      "T",
+      "#",
+      "R",
+      "Y",
+      "B",
+      "I"
+    ],
+    [
+      "P",
+      "A",
+      "T",
+      "A",
+      "#",
+      "U",
+      "Z",
+      "A",
+      "S"
+    ],
+    [
+      "O",
+      "D",
+      "#",
+      "P",
+      "O",
+      "T",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "R",
+      "A",
+      "S",
+      "A",
+      "#",
+      "N",
+      "O"
+    ],
+    [
+      "K",
+      "R",
+      "A",
+      "#",
+      "O",
+      "H",
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "D",
+      "E",
+      "L",
+      "#",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "T",
+      "Y",
+      "#",
+      "L",
+      "I",
+      "S",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "I",
+      "T",
+      "E",
+      "#",
+      "N",
+      "A"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "T",
+      "#",
+      "D",
+      "C",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "H",
+      "E",
+      "N",
+      "#",
+      "L",
+      "A",
+      "K",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "N",
+      "I",
+      "#",
+      "O",
+      "S",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Spojka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Ubírat se"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Šupinatý"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zadní část chodidla"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ohromení"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Předložka s 2. pádem"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Následně"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 6,
+      "clue": "Veranda"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plovoucí led"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 4,
+      "cells": 5,
+      "clue": "Zahřát"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pražská křižovatka"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pilarová, zpěvačka"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Oslovení bez vykání"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 6,
+      "clue": "Jízdenka"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Nemluvně"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Úloha"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mnoho potomkyň (2. p.)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Žár"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 3,
+      "clue": "Nátěr"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 5,
+      "cells": 2,
+      "clue": "Operační systém (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Bydlet"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Úsek"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 6,
+      "clue": "Obstrukce"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Asijská obilnina"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Jeden i druhý"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Atomový"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 8,
+      "cells": 2,
+      "clue": "Islámský stát (zkr.)"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Narazit na"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Předražit (hovor.)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Vyznamenání"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 7,
+      "clue": "Zdánlivě"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 8,
+      "cells": 6,
+      "clue": "Přemyslovské jméno"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Horní ~"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 6,
+      "clue": "Výběrový"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 5,
+      "cells": 5,
+      "clue": "Jezdecké sedátko"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Vnitřek zubu"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Heuréka (citosl.)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Mluvnická kategorie"
+    }
+  ]
+}

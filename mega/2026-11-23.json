@@ -1,0 +1,473 @@
+{
+  "id": "2026-11-23",
+  "date": "2026-11-23",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "P",
+      "V",
+      "C",
+      "#",
+      "M",
+      "O",
+      "R",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "H",
+      "#",
+      "U",
+      "D",
+      "E",
+      "R",
+      "#"
+    ],
+    [
+      "K",
+      "A",
+      "L",
+      "U",
+      "Z",
+      "#",
+      "S",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "D",
+      "#",
+      "#",
+      "O",
+      "K",
+      "O"
+    ],
+    [
+      "C",
+      "N",
+      "B",
+      "#",
+      "Z",
+      "B",
+      "R",
+      "A",
+      "N"
+    ],
+    [
+      "T",
+      "Y",
+      "#",
+      "#",
+      "D",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "D",
+      "A",
+      "#",
+      "#",
+      "P",
+      "C"
+    ],
+    [
+      "M",
+      "O",
+      "T",
+      "O",
+      "R",
+      "#",
+      "L",
+      "E",
+      "D"
+    ],
+    [
+      "O",
+      "B",
+      "R",
+      "#",
+      "#",
+      "P",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "C",
+      "C",
+      "A",
+      "#",
+      "T",
+      "O",
+      "T",
+      "I",
+      "Z"
+    ],
+    [
+      "#",
+      "A",
+      "T",
+      "O",
+      "M",
+      "#",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "S",
+      "A",
+      "#",
+      "S",
+      "A",
+      "T"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plast (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Oceán"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Citoslovce žalu"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Rána"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Loužička"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pavučina"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 1,
+      "cells": 3,
+      "clue": "Popelavá barva"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Centrální banka (zkr.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Puška i meč"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 4,
+      "cells": 3,
+      "clue": "Poskytnout"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 3,
+      "clue": "Jestli"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Osobní počítač (zkr.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Stroj pohonu"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kostky do drinku"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Velikán"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Hafan"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Circa"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Jmenovitě"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 1,
+      "cells": 4,
+      "clue": "Kdysi nedělitelná částice"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 1,
+      "cells": 4,
+      "clue": "Domácky Alexandr"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Roucho"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Následně"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Pohotový"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Pečivo"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pán"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Opak do (předložka)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Letovisko (angl.)"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Vřes"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 2,
+      "clue": "Člen těla"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Zvuk určité výšky"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Česká televize (zkr.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Město na Vysočině (~ nad Sázavou)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. barya"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Škoda"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 2,
+      "clue": "Předložka směru"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Stezka"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. kadmia"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vláda"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Tu a tam"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Tento rok"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. polonia"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Temno"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Bydlet"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. osmia"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "id": "2027-04-19",
+  "date": "2027-04-19",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "R",
+      "I",
+      "T",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "L",
+      "O",
+      "V",
+      "E",
+      "S",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "P",
+      "A",
+      "D",
+      "#",
+      "S",
+      "E"
+    ],
+    [
+      "D",
+      "A",
+      "N",
+      "A",
+      "#",
+      "#",
+      "K",
+      "O",
+      "V"
+    ],
+    [
+      "P",
+      "H",
+      "#",
+      "#",
+      "K",
+      "R",
+      "A",
+      "S",
+      "A"
+    ],
+    [
+      "H",
+      "A",
+      "#",
+      "Z",
+      "L",
+      "O",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "A",
+      "I",
+      "K",
+      "#",
+      "J",
+      "P"
+    ],
+    [
+      "A",
+      "K",
+      "O",
+      "R",
+      "D",
+      "#",
+      "#",
+      "A",
+      "R"
+    ],
+    [
+      "N",
+      "A",
+      "D",
+      "#",
+      "#",
+      "O",
+      "S",
+      "M",
+      "Y"
+    ],
+    [
+      "O",
+      "S",
+      "#",
+      "V",
+      "O",
+      "D",
+      "I",
+      "K",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "T",
+      "I",
+      "K",
+      "E",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "I",
+      "D",
+      "O",
+      "V",
+      "Y",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Kamarád"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Verbum"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 1,
+      "cells": 5,
+      "clue": "Myšlenka"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Švédska"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Jméno Drábové"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Železo i cín"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Vodíkový exponent"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Půvab"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Hektar (zn.)"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Obrat"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Amatér"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Japonska"
+    },
+    {
+      "num": 21,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Souzvuk"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. argonu"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Opak pod (předložka)"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pořadím za sedmým"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Operační systém (zkr.)"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 3,
+      "cells": 5,
+      "clue": "Hydrogenium"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Společenský řád"
+    },
+    {
+      "num": 32,
+      "row": 11,
+      "col": 1,
+      "cells": 6,
+      "clue": "Folklorní"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Záměr"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Černé zlato"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Janžurová křestním jménem"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Momentálně"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Snížené E"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Keta"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Úsilí"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Pilarová, zpěvačka"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Daň ze zboží (zkr.)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kterým směrem"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Pokoj"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kalendářní období"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Výheň"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 2,
+      "cells": 3,
+      "clue": "Koráb"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Důlek"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 8,
+      "cells": 3,
+      "clue": "Údajně"
+    },
+    {
+      "num": 21,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Pokašlávání"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Garderoba"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Zhotovený jehlou"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Slovesný ~"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Oni (muži)"
+    }
+  ]
+}

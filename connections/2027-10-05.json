@@ -1,0 +1,41 @@
+{
+  "id": "conn-657",
+  "groups": [
+    {
+      "name": "Podzimní tvoření",
+      "words": [
+        "KAŠTANY",
+        "ŽALUDY",
+        "ŠIŠKY",
+        "LISTY"
+      ]
+    },
+    {
+      "name": "Krajináři",
+      "words": [
+        "SLAVÍČEK",
+        "MAŘÁK",
+        "KAVÁN",
+        "LADA"
+      ]
+    },
+    {
+      "name": "Umělecké spolky",
+      "words": [
+        "MÁNES",
+        "HOLLAR",
+        "DEVĚTSIL",
+        "SURSUM"
+      ]
+    },
+    {
+      "name": "Číslovky",
+      "words": [
+        "OSMA",
+        "TROJKA",
+        "DEVÍTKA",
+        "DVOJKA"
+      ]
+    }
+  ]
+}

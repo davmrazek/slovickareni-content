@@ -1,0 +1,431 @@
+{
+  "id": "2026-12-10",
+  "date": "2026-12-10",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "Z",
+      "K",
+      "U",
+      "S",
+      "I",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "L",
+      "E",
+      "V",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "Z",
+      "A",
+      "S",
+      "#",
+      "#",
+      "O",
+      "B",
+      "R",
+      "#"
+    ],
+    [
+      "E",
+      "L",
+      "E",
+      "N",
+      "A",
+      "#",
+      "L",
+      "I",
+      "H"
+    ],
+    [
+      "N",
+      "E",
+      "#",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "#",
+      "V",
+      "D",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "E",
+      "R",
+      "S",
+      "#",
+      "P",
+      "H"
+    ],
+    [
+      "P",
+      "L",
+      "I",
+      "S",
+      "E",
+      "N",
+      "#",
+      "A",
+      "R"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "#",
+      "J",
+      "A",
+      "S",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "V",
+      "I",
+      "P",
+      "#",
+      "#",
+      "P",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "A",
+      "N",
+      "D",
+      "I",
+      "L",
+      "E",
+      "K",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "F",
+      "R",
+      "I",
+      "K",
+      "A",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Vyzkoušet"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Lít do sklenic"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Znovu"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Titán"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Ferrante křestním jménem"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Etanol"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. neonu"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Dotazník"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Třebas (kniž.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Uzavřít sňatek (o ženě, ~ se)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Alexandrin"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Vodíkový exponent"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 6,
+      "clue": "Plesnivina"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. argonu"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Řeholní společenství"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Průzračno"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Celebrita (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Požívat nápoj"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Cherubínek"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 2,
+      "cells": 6,
+      "clue": "Světadíl Kilimandžára"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Expert"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Nesnáz (přen.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Brť"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Švédska"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Jahelka křestním jménem"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Dotykový počítač"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 7,
+      "cells": 4,
+      "clue": "Drhnout"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dáma"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 5,
+      "clue": "Vesnické prostranství"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Tarkovskij křestním jménem"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 8,
+      "cells": 2,
+      "clue": "Hektar (zn.)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 5,
+      "clue": "Fontána"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Fata morgana"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Zděšení"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Ostří"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Styk s veřejností (zkr.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Magma na povrchu"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Slanina"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Přenosný dokument (zkr.)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Irán (kód)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. lithia"
+    }
+  ]
+}

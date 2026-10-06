@@ -1,0 +1,431 @@
+{
+  "id": "2027-01-28",
+  "date": "2027-01-28",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "S",
+      "C",
+      "H",
+      "O",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "V",
+      "O",
+      "D",
+      "O",
+      "P",
+      "A",
+      "D",
+      "#"
+    ],
+    [
+      "D",
+      "U",
+      "B",
+      "#",
+      "N",
+      "E",
+      "B",
+      "O",
+      "T"
+    ],
+    [
+      "U",
+      "N",
+      "O",
+      "S",
+      "#",
+      "T",
+      "E",
+      "M",
+      "A"
+    ],
+    [
+      "M",
+      "E",
+      "T",
+      "A",
+      "#",
+      "#",
+      "L",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "C",
+      "K",
+      "O",
+      "#",
+      "V",
+      "Y"
+    ],
+    [
+      "C",
+      "R",
+      "#",
+      "H",
+      "R",
+      "S",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "A",
+      "D",
+      "#",
+      "#",
+      "L",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "U",
+      "B",
+      "O",
+      "R",
+      "#",
+      "O",
+      "S",
+      "M",
+      "Y"
+    ],
+    [
+      "T",
+      "I",
+      "T",
+      "U",
+      "L",
+      "#",
+      "N",
+      "E",
+      "Z"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "D",
+      "E",
+      "J",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "A",
+      "V",
+      "E",
+      "T",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Deficit"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Kaskáda"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Strom žaludů"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Protože"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Uloupení osoby"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Námět"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Terč"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Koráb"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "První mužstvo (hovor.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zdvořilé oslovení"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. chromu"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Plná dlaň"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Užovka"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 5,
+      "cells": 4,
+      "clue": "Lupen"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Oděv"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Po sedmém"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Název"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Srovnávací spojka"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Nastat"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Poslední vůle"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Šabat"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kompaktní disk"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Lov"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Znovu"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Satan"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Buket"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 5,
+      "clue": "Vlast"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Stavení"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Tu"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Hrozba králi"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Koreje"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Norská metropole"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vkus"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Židovský duchovní"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Deptat"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Otázka"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Mít dovoleno"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Stejný (kniž.)"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Magnetit či hematit"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Král zvířat"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Tvar slovesa být"
+    }
+  ]
+}

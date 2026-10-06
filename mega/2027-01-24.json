@@ -1,0 +1,445 @@
+{
+  "id": "2027-01-24",
+  "date": "2027-01-24",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "J",
+      "O",
+      "#",
+      "#",
+      "P",
+      "I",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "N",
+      "#",
+      "N",
+      "A",
+      "S",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "B",
+      "E",
+      "R",
+      "#",
+      "K",
+      "E",
+      "C"
+    ],
+    [
+      "U",
+      "R",
+      "A",
+      "Z",
+      "#",
+      "#",
+      "#",
+      "M",
+      "L"
+    ],
+    [
+      "T",
+      "E",
+      "D",
+      "#",
+      "R",
+      "O",
+      "P",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "J",
+      "A",
+      "K",
+      "Y",
+      "S",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "A",
+      "Z",
+      "N",
+      "A",
+      "K",
+      "#"
+    ],
+    [
+      "#",
+      "M",
+      "I",
+      "L",
+      "E",
+      "#",
+      "G",
+      "O",
+      "L"
+    ],
+    [
+      "C",
+      "A",
+      "#",
+      "#",
+      "#",
+      "P",
+      "E",
+      "R",
+      "U"
+    ],
+    [
+      "T",
+      "M",
+      "A",
+      "#",
+      "L",
+      "E",
+      "T",
+      "E",
+      "C"
+    ],
+    [
+      "#",
+      "A",
+      "T",
+      "L",
+      "E",
+      "T",
+      "#",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "V",
+      "C",
+      "#",
+      "#",
+      "I",
+      "E"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Jasně (hovor.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Požívat nápoj"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. manganu"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 3,
+      "cells": 5,
+      "clue": "Vsáknout"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Spotřeba"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tlachání (hovor.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Poranění"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Mililitr (zn.)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nyní"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Černé zlato"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Kdovíjaký"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Narážka"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Anglická délková míra"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Trefa do sítě"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Kanady"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Stát s Limou"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Černota"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Aviatik"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 5,
+      "clue": "Vrhač"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. niklu"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 2,
+      "cells": 3,
+      "clue": "Polyvinylchlorid (zkr.)"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Irska"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Uchopit (kniž.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Sekora křestním jménem"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Několik"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Islámský stát (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dokud ne"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 7,
+      "cells": 4,
+      "clue": "Motiv"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 2,
+      "cells": 6,
+      "clue": "Výzkum"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. chloru"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Asijská obilnina"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Spojené národy (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 6,
+      "cells": 6,
+      "clue": "Jean ~"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Sediment"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Paprika i pepř"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Matka (důvěrně)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 8,
+      "cells": 5,
+      "clue": "Bílá křestním jménem"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Veřejnoprávní televize (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Počet prstů"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "A tak podobně (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nýbrž (kniž.)"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Lotyšsko (kód)"
+    }
+  ]
+}

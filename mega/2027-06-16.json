@@ -1,0 +1,473 @@
+{
+  "id": "2027-06-16",
+  "date": "2027-06-16",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "A",
+      "C",
+      "H",
+      "#",
+      "C",
+      "R"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "K",
+      "T",
+      "O",
+      "#",
+      "E",
+      "E"
+    ],
+    [
+      "P",
+      "R",
+      "S",
+      "T",
+      "#",
+      "R",
+      "A",
+      "N",
+      "C"
+    ],
+    [
+      "S",
+      "I",
+      "T",
+      "#",
+      "Z",
+      "A",
+      "T",
+      "O",
+      "#"
+    ],
+    [
+      "I",
+      "K",
+      "O",
+      "N",
+      "A",
+      "#",
+      "P",
+      "V",
+      "C"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "O",
+      "C",
+      "K",
+      "#",
+      "E",
+      "U"
+    ],
+    [
+      "S",
+      "R",
+      "#",
+      "C",
+      "H",
+      "U",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "V",
+      "E",
+      "C",
+      "#",
+      "O",
+      "S",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "O",
+      "U",
+      "D",
+      "#",
+      "B",
+      "E",
+      "H"
+    ],
+    [
+      "V",
+      "E",
+      "Z",
+      "T",
+      "#",
+      "T",
+      "U",
+      "N",
+      "A"
+    ],
+    [
+      "R",
+      "N",
+      "#",
+      "O",
+      "B",
+      "I",
+      "L",
+      "I",
+      "#"
+    ],
+    [
+      "T",
+      "I",
+      "#",
+      "K",
+      "A",
+      "S",
+      "E",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Smrad"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Naše republika (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 7,
+      "cells": 2,
+      "clue": "Estonsko (zkr.)"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ukazovák"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hacienda"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pavučina"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 4,
+      "clue": "Naproti tomu"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Symbol na ploše"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Plast (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Hudební styl"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. europia"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Slovenská republika (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Vkus"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Předmět"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Kolonie"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Úsudek"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Závod"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dopravovat"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Megagram"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Radon (zn.)"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 3,
+      "cells": 5,
+      "clue": "Pšenice i žito"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 3,
+      "cells": 4,
+      "clue": "Nesnáz (přen.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Kazatel"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dějství"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Česká televize (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Vrch"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Co do ceny"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Proslov"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Úskok"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Řecké písmeno"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tenisová asociace (zkr.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Klozet"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "Čas spánku"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 8,
+      "cells": 2,
+      "clue": "Znak kupra"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kousek"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Svatý (zkr.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Výsledek"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Školní deska"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kterážto věc"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Události"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Heuréka (citosl.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Ofenziva"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Sonda"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Jedovatý jehličnan"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. barya"
+    }
+  ]
+}

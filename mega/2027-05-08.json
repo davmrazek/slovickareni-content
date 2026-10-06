@@ -1,0 +1,466 @@
+{
+  "id": "2027-05-08",
+  "date": "2027-05-08",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "S",
+      "U",
+      "M",
+      "#",
+      "#",
+      "C",
+      "O",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "O",
+      "J",
+      "#",
+      "I",
+      "V",
+      "O"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "C",
+      "I",
+      "T",
+      "#",
+      "Z",
+      "S"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "#",
+      "N",
+      "I",
+      "K",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "T",
+      "Y",
+      "#",
+      "D",
+      "U",
+      "L"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "R",
+      "#",
+      "M",
+      "Y",
+      "S",
+      "I"
+    ],
+    [
+      "T",
+      "A",
+      "X",
+      "I",
+      "#",
+      "U",
+      "Z",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "N",
+      "I",
+      "#",
+      "T",
+      "J",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "J",
+      "E",
+      "D",
+      "L",
+      "E",
+      "#",
+      "S",
+      "U",
+      "T"
+    ],
+    [
+      "A",
+      "L",
+      "#",
+      "V",
+      "L",
+      "N",
+      "O",
+      "V",
+      "Y"
+    ],
+    [
+      "N",
+      "A",
+      "S",
+      "#",
+      "O",
+      "D",
+      "V",
+      "O",
+      "Z"
+    ],
+    [
+      "#",
+      "K",
+      "R",
+      "#",
+      "#",
+      "R",
+      "A",
+      "D",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Šelest"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Aparát"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jahelka křestním jménem"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Křepčit"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Základní škola (zkr.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dva zároveň"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Ani noha"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Uhelná jáma"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pře"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hlodavčí"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vůz s taxametrem"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Aplikovat"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ti druzí"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "To jest (zkr.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Jehličnan"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kamenná drť"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak aluminia"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 3,
+      "cells": 6,
+      "clue": "Oscilační"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "„Otče …“ (modlitba)"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Svoz"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. kryptonu"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Řeholní společenství"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Generalita"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Volební schránka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Síla"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Vzduch"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet haléřů v koruně"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Odlišný"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 6,
+      "clue": "Předražit (hovor.)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 4,
+      "clue": "Pokud"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "Trojka"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 6,
+      "clue": "Stativ"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Sídlištní dům"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Kysličník"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Náležející mně"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Trup"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Lotyšska"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Noční pták"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Začátek"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 8,
+      "cells": 3,
+      "clue": "Totožný (kniž.)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Východní Německo (zkr.)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Slovenská republika (zkr.)"
+    }
+  ]
+}

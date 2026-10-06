@@ -1,0 +1,459 @@
+{
+  "id": "2026-09-24",
+  "date": "2026-09-24",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "T",
+      "V",
+      "U",
+      "J",
+      "#",
+      "J",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "Y",
+      "Z",
+      "E",
+      "#",
+      "O",
+      "S",
+      "U",
+      "D"
+    ],
+    [
+      "V",
+      "Z",
+      "I",
+      "T",
+      "#",
+      "#",
+      "I",
+      "V",
+      "O"
+    ],
+    [
+      "A",
+      "K",
+      "T",
+      "#",
+      "V",
+      "S",
+      "#",
+      "E",
+      "S"
+    ],
+    [
+      "T",
+      "U",
+      "#",
+      "#",
+      "S",
+      "P",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "#",
+      "M",
+      "E",
+      "S",
+      "T",
+      "A",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "A",
+      "R",
+      "T",
+      "I",
+      "N",
+      "#"
+    ],
+    [
+      "M",
+      "L",
+      "A",
+      "D",
+      "I",
+      "#",
+      "#",
+      "A",
+      "U"
+    ],
+    [
+      "I",
+      "E",
+      "#",
+      "A",
+      "C",
+      "#",
+      "D",
+      "P",
+      "H"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "#",
+      "#",
+      "S",
+      "B",
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "O",
+      "U",
+      "D",
+      "#",
+      "M",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "O",
+      "#",
+      "S",
+      "T",
+      "I",
+      "T"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Přivlastňovací zájmeno (ty)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Rizoto (základ)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Úděl"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Sebrat"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dějství"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 2,
+      "clue": "Proti (ve sportu)"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Španělska"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tady"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tělovýchova"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Purkmistrův poddaný"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Luther křestním jménem"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Jaro života"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Astronomická jednotka (zn.)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Id est (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 3,
+      "cells": 2,
+      "clue": "Ačkoli (kniž.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Daň ze zboží (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Deset desítek"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Sbírání"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Úsudek"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Peprmint"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 2,
+      "cells": 2,
+      "clue": "Tohle"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pavéza"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vydržet"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Bádání"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Vychutnat"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Ujíždět"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Hovorové ano"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Snad"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 4,
+      "clue": "Půjčka"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 4,
+      "clue": "Dosyta"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Oproti"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hajat"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "„… mele maso“"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Komplet"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Tenze"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Královna krásy"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Doba žní"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 8,
+      "cells": 5,
+      "clue": "Vydřít"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Hledět si"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zámezí (angl.)"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Krátká zpráva (zkr.)"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Předložka směru"
+    }
+  ]
+}

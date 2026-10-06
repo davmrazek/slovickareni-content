@@ -1,0 +1,466 @@
+{
+  "id": "2027-02-07",
+  "date": "2027-02-07",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "H",
+      "M",
+      "M",
+      "#",
+      "#",
+      "C",
+      "R"
+    ],
+    [
+      "S",
+      "K",
+      "O",
+      "L",
+      "A",
+      "K",
+      "#",
+      "E",
+      "E"
+    ],
+    [
+      "M",
+      "E",
+      "D",
+      "#",
+      "M",
+      "U",
+      "D",
+      "R",
+      "C"
+    ],
+    [
+      "S",
+      "R",
+      "#",
+      "#",
+      "K",
+      "R",
+      "E",
+      "V",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "B",
+      "A",
+      "#",
+      "V",
+      "E",
+      "Z"
+    ],
+    [
+      "P",
+      "E",
+      "R",
+      "U",
+      "#",
+      "P",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "U",
+      "V",
+      "O",
+      "D",
+      "#",
+      "S",
+      "T",
+      "Y",
+      "L"
+    ],
+    [
+      "L",
+      "O",
+      "D",
+      "#",
+      "F",
+      "I",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "A",
+      "D",
+      "Y",
+      "#",
+      "#",
+      "T",
+      "J"
+    ],
+    [
+      "D",
+      "U",
+      "K",
+      "A",
+      "Z",
+      "#",
+      "L",
+      "Z",
+      "E"
+    ],
+    [
+      "P",
+      "C",
+      "#",
+      "V",
+      "I",
+      "K",
+      "E",
+      "N",
+      "D"
+    ],
+    [
+      "H",
+      "E",
+      "#",
+      "#",
+      "K",
+      "R",
+      "K",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zamyšlení (citosl.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Naše republika (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 6,
+      "clue": "Žák"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 2,
+      "clue": "Estonsko (zkr.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nektar"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Filozof"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Slovenská republika (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 4,
+      "clue": "Tělní tekutina"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. barya"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Minaret"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Stát s Limou"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Šlehačka na pivu"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Začátek"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Móda"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plavidlo"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "Suomi (kód)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Dáma (angl.)"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "To jest (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Svědectví"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Je možno"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Osobní počítač (zkr.)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 3,
+      "cells": 6,
+      "clue": "Konec týdne"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. helia"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Šíje"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Vrh"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Tisícina litru (zn.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 5,
+      "clue": "Máma"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Karmínový"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Jazyk"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Textovka"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Křovina"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 3,
+      "clue": "Slepice (zast.)"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 5,
+      "clue": "Počet múz"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojka vylučovací (…, nebo)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Smutek"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Jedna ze dvou stejných částí"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Vývoj"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 2,
+      "cells": 5,
+      "clue": "Domorodec"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kynologický"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Einstein profesí"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Zástup"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 7,
+      "cells": 3,
+      "clue": "To znamená (zkr.)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 8,
+      "cells": 3,
+      "clue": "Toxin"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nepřímá daň (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pilulka"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. kryptonu"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "2027-09-17",
+  "date": "2027-09-17",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "D",
+      "O",
+      "#",
+      "#",
+      "H",
+      "A",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "S",
+      "M",
+      "#",
+      "R",
+      "C",
+      "E",
+      "N",
+      "I"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "S",
+      "A",
+      "#",
+      "K",
+      "O",
+      "V"
+    ],
+    [
+      "T",
+      "A",
+      "K",
+      "E",
+      "#",
+      "#",
+      "A",
+      "H",
+      "A"
+    ],
+    [
+      "A",
+      "L",
+      "#",
+      "#",
+      "K",
+      "O",
+      "D",
+      "A",
+      "N"
+    ],
+    [
+      "T",
+      "Y",
+      "#",
+      "R",
+      "U",
+      "K",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "J",
+      "A",
+      "R",
+      "O",
+      "#",
+      "Z",
+      "S"
+    ],
+    [
+      "V",
+      "L",
+      "A",
+      "D",
+      "A",
+      "#",
+      "#",
+      "I",
+      "T"
+    ],
+    [
+      "T",
+      "A",
+      "H",
+      "#",
+      "#",
+      "C",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "I",
+      "V",
+      "O",
+      "#",
+      "T",
+      "I",
+      "S",
+      "I",
+      "C"
+    ],
+    [
+      "P",
+      "A",
+      "D",
+      "L",
+      "Y",
+      "#",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "T",
+      "P",
+      "#",
+      "#",
+      "A",
+      "T"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Předložka směru"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Užovka"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet chapadel chobotnice"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Úsloví"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vykoupení"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Železo i cín"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Též"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Heuréka (citosl.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak aluminia"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Dánská metropole"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Paže"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Vesna"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Základní škola (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kabinet"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Informační technologie (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šachový krok"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tepna"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Kilo- (předp.)"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Zemřelý v boji"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tenisová asociace (zkr.)"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 6,
+      "clue": "Obdržet"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Malátný"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zábava"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Ačkoli (kniž.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Desetiletí"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Vlčí ~"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 4,
+      "clue": "Končetina"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 4,
+      "clue": "Lendl křestním jménem"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 3,
+      "cells": 2,
+      "clue": "Zvratné zájmeno"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Lýko"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Vyznamenání"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Červené ovoce"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Výživná látka"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 8,
+      "cells": 6,
+      "clue": "Být dost"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Anekdota"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Magma na povrchu"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nejvyšší karta"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Model"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Litvy"
+    }
+  ]
+}

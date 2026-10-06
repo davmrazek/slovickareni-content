@@ -1,0 +1,424 @@
+{
+  "id": "2027-03-06",
+  "date": "2027-03-06",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "D",
+      "O",
+      "#",
+      "T",
+      "K",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "S",
+      "I",
+      "P",
+      "#",
+      "R",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "M",
+      "E",
+      "T",
+      "R",
+      "#",
+      "E",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "A",
+      "L",
+      "N",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "N",
+      "#",
+      "V",
+      "I",
+      "D",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "S",
+      "O",
+      "V",
+      "A",
+      "#",
+      "#",
+      "R",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "U",
+      "Z",
+      "#",
+      "#",
+      "P",
+      "A",
+      "R",
+      "K"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "L",
+      "I",
+      "R",
+      "#",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "A",
+      "R",
+      "A",
+      "D",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "V",
+      "E",
+      "K",
+      "#",
+      "P",
+      "E",
+      "T",
+      "R"
+    ],
+    [
+      "V",
+      "E",
+      "T",
+      "A",
+      "#",
+      "O",
+      "K",
+      "O",
+      "#"
+    ],
+    [
+      "S",
+      "N",
+      "I",
+      "T",
+      "#",
+      "R",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Tón C (solmizace)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Soubor buněk"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Střela luku"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pořadí"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Délková jednotka"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 7,
+      "clue": "Bezchybný"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak stanna"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Spatřit"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Noční pták"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 6,
+      "cells": 2,
+      "clue": "Kód Rumunska"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 1,
+      "cells": 2,
+      "clue": "Již"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Městské sady"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Mísa na polévku"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zájmeno 3. osoby"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 7,
+      "clue": "Slavnostní"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Éra"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Vok z Rožmberka (jméno)"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Syntaktická jednotka"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kukadlo"
+    },
+    {
+      "num": 32,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Mít sny"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 5,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Nemluvně"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Rekonstrukce"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Móda"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 7,
+      "clue": "Profesní dráha"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Programovací jazyk"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Usadit se"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Slečna (angl.)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. lithia"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 7,
+      "cells": 7,
+      "clue": "Kanadské velkoměsto"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Záhy"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Vlajka"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Dalího ozdoba"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Svádět"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "Irán (kód)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Přikrývka"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Z domu"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Versus (zkr.)"
+    }
+  ]
+}

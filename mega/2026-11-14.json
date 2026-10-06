@@ -1,0 +1,445 @@
+{
+  "id": "2026-11-14",
+  "date": "2026-11-14",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "S",
+      "E",
+      "#",
+      "O",
+      "K",
+      "O",
+      "#"
+    ],
+    [
+      "D",
+      "O",
+      "M",
+      "U",
+      "#",
+      "H",
+      "R",
+      "S",
+      "T"
+    ],
+    [
+      "O",
+      "B",
+      "R",
+      "#",
+      "#",
+      "L",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "P",
+      "A",
+      "T",
+      "R",
+      "N",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "V",
+      "#",
+      "N",
+      "A",
+      "D",
+      "E",
+      "C",
+      "H"
+    ],
+    [
+      "N",
+      "A",
+      "R",
+      "A",
+      "Z",
+      "#",
+      "S",
+      "I",
+      "R"
+    ],
+    [
+      "I",
+      "N",
+      "U",
+      "#",
+      "I",
+      "K",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "T",
+      "Y",
+      "M",
+      "O",
+      "V",
+      "Y",
+      "#",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "B",
+      "U",
+      "C",
+      "H",
+      "T",
+      "A"
+    ],
+    [
+      "T",
+      "V",
+      "A",
+      "R",
+      "#",
+      "#",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "V",
+      "I",
+      "N",
+      "A",
+      "#",
+      "M",
+      "A",
+      "L",
+      "Y"
+    ],
+    [
+      "#",
+      "C",
+      "O",
+      "Z",
+      "#",
+      "L",
+      "T",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Švédska"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Do rodiště"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Plná dlaň"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Velikán"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Horolezecká jistota"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 6,
+      "clue": "Zřejmě"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Lotyšsko (kód)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Inhalace"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Úder"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pane (angl. oslovení)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ostatně (kniž.)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 4,
+      "cells": 5,
+      "clue": "Pravoslavný obraz"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 6,
+      "clue": "Kolektivní"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. india"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 3,
+      "cells": 6,
+      "clue": "Dobrůtka"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Líce"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Horní ~"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Provinění"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nepatrný"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Kterážto věc"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 5,
+      "cells": 2,
+      "clue": "Litva (kód)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Zubatá"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Unie sedmadvaceti (zkr.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Respekt"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Plovoucí led"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Organizace v New Yorku (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 7,
+      "clue": "Zkompletovat"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Nebezpečný"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 2,
+      "clue": "Ono"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Přeživší"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nejvyšší karta"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 7,
+      "clue": "Aktér"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 8,
+      "cells": 7,
+      "clue": "Kostrbatý"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pirátský nápoj"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Brak"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Malba"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Muzicírovat"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Televize (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Hojněji"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Mililitr (zn.)"
+    }
+  ]
+}

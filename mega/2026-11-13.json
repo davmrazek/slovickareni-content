@@ -1,0 +1,445 @@
+{
+  "id": "2026-11-13",
+  "date": "2026-11-13",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "P",
+      "O",
+      "K",
+      "O",
+      "J",
+      "#",
+      "M",
+      "H",
+      "D"
+    ],
+    [
+      "O",
+      "S",
+      "O",
+      "B",
+      "A",
+      "#",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "A",
+      "#",
+      "S",
+      "T",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "M",
+      "Y",
+      "#",
+      "#",
+      "V",
+      "A",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "T",
+      "A",
+      "P",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "L",
+      "O",
+      "D",
+      "I",
+      "T",
+      "#",
+      "P",
+      "C"
+    ],
+    [
+      "T",
+      "Y",
+      "#",
+      "O",
+      "V",
+      "E",
+      "R",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "O",
+      "K",
+      "U",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "I",
+      "C",
+      "#",
+      "#",
+      "C",
+      "M",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "R",
+      "E",
+      "#",
+      "D",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "H",
+      "A",
+      "#",
+      "R",
+      "U",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "J",
+      "A",
+      "K",
+      "#",
+      "S",
+      "O",
+      "K",
+      "O",
+      "L"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Místnost"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tramvaje a autobusy (zkr.)"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Jedinec"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pivo svrchně kvašené"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Horká mlha"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Plachtový přístřešek"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby mn. č."
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (vy)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 5,
+      "clue": "Fáze"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 6,
+      "clue": "Rodit"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Osobní počítač (zkr.)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 6,
+      "clue": "Validovat"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Experiment"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nula"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 6,
+      "cells": 2,
+      "clue": "Délková jednotka (zn.)"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pontus (lat.)"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "V tento den"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Heuréka (citosl.)"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Troska"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tibetský tur"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tyršova jednota"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pravoslavný kněz"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Opuštěný"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Řečiště"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Jeden i druhý"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Mentolová bylina"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Vokál"
+    },
+    {
+      "num": 8,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Opak noci"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 6,
+      "clue": "Den volna"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Přijetí za vlastní"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Plzeňské zlato"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Portugalska"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Hláska"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 8,
+      "cells": 2,
+      "clue": "Česká televize (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Utěrka"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Pracka"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Stát s Bagdádem"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Máchova báseň"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Dvojice hudebníků"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Taneční místnost"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Srbska"
+    }
+  ]
+}

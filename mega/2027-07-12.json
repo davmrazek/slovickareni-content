@@ -1,0 +1,452 @@
+{
+  "id": "2027-07-12",
+  "date": "2027-07-12",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "K",
+      "O",
+      "P",
+      "#",
+      "#",
+      "H",
+      "A",
+      "K",
+      "#"
+    ],
+    [
+      "O",
+      "S",
+      "A",
+      "#",
+      "K",
+      "O",
+      "L",
+      "O",
+      "S"
+    ],
+    [
+      "N",
+      "O",
+      "#",
+      "E",
+      "R",
+      "N",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "T",
+      "A",
+      "#",
+      "#",
+      "T",
+      "O"
+    ],
+    [
+      "C",
+      "I",
+      "V",
+      "I",
+      "L",
+      "#",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "K",
+      "#",
+      "H",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "A",
+      "#",
+      "O",
+      "K",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "J",
+      "A",
+      "#",
+      "P",
+      "R",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "Z",
+      "A",
+      "#",
+      "#",
+      "T",
+      "E",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "U",
+      "Z",
+      "I",
+      "V",
+      "A",
+      "T",
+      "#",
+      "N",
+      "I"
+    ],
+    [
+      "B",
+      "Y",
+      "V",
+      "A",
+      "T",
+      "#",
+      "D",
+      "I",
+      "K"
+    ],
+    [
+      "#",
+      "K",
+      "O",
+      "S",
+      "#",
+      "#",
+      "O",
+      "T",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Úder do míče"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Zahnutý kolík"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Středová přímka"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Rhodský ~"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Hemingway křestním jménem"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Smetánka"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Ono"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nevojenský život"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. neonu"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nuže"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 5,
+      "cells": 2,
+      "clue": "Citoslovce údivu"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 1,
+      "cells": 2,
+      "clue": "Ego"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Zaměstnání"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Takřka"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Brát (lék)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. niklu"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Existovat opakovaně"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Poděkování"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Drozd černý"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Šik křestním jménem"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Finále"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Předražit (hovor.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Chem. zn. protaktinia"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Lov"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pivo svrchně kvašené"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Metla"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Panovník"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Počet haléřů v koruně"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 5,
+      "clue": "Morálka"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Chýlková křestním jménem"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 5,
+      "clue": "Do neznáma"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 5,
+      "cells": 5,
+      "clue": "Planout"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Vyzdvihnout"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Mluva"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Tázat se"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 8,
+      "cells": 5,
+      "clue": "Značka psacího stroje"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Řezák"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (vy)"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Tón C (solmizace)"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "id": "2027-08-13",
+  "date": "2027-08-13",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "S",
+      "E",
+      "#",
+      "V",
+      "H",
+      "O",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "U",
+      "C",
+      "E",
+      "R",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "K",
+      "O",
+      "R",
+      "U",
+      "N",
+      "A",
+      "#",
+      "L",
+      "T"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "#",
+      "#",
+      "#",
+      "V",
+      "E",
+      "K"
+    ],
+    [
+      "P",
+      "A",
+      "#",
+      "#",
+      "S",
+      "A",
+      "Z",
+      "K",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "T",
+      "A",
+      "D",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "I",
+      "D",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "R",
+      "A",
+      "S",
+      "A",
+      "#",
+      "#",
+      "U",
+      "Z"
+    ],
+    [
+      "R",
+      "E",
+      "Z",
+      "#",
+      "#",
+      "#",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "Z",
+      "N",
+      "#",
+      "T",
+      "R",
+      "E",
+      "B",
+      "I",
+      "C"
+    ],
+    [
+      "#",
+      "E",
+      "M",
+      "A",
+      "N",
+      "U",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "R",
+      "Y",
+      "H",
+      "A",
+      "#",
+      "C",
+      "I",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 2,
+      "clue": "Kód Švédska"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Příhodně"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Svítilna"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Temeno stromu"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Litva (kód)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Stáří"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. protaktinia"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tiket"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Aréna"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 0,
+      "cells": 7,
+      "clue": "Měnit"
+    },
+    {
+      "num": 21,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Půvab"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Již"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Škrt nožem"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Středová přímka"
+    },
+    {
+      "num": 26,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chemická značka zinku"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 3,
+      "cells": 6,
+      "clue": "Město na Jihlavě"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Jméno Swedenborga"
+    },
+    {
+      "num": 32,
+      "row": 11,
+      "col": 1,
+      "cells": 4,
+      "clue": "Zářez"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 6,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Strofa"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Evropská měna"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pryč"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Zábava"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Zájmeno 3. osoby"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Na hony"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. mědi"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Úder do míče"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Soubor buněk"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 6,
+      "cells": 4,
+      "clue": "Uchopit"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Souprava"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Lovelaceová, průkopnice programování"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Útes"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Jedovatý jehličnan"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Přes"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Kouč"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Snaha"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Za co"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Ves"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Šachový krok"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 2,
+      "clue": "Unie sedmadvaceti (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kolektivní já"
+    }
+  ]
+}

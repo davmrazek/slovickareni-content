@@ -1,0 +1,445 @@
+{
+  "id": "2027-08-14",
+  "date": "2027-08-14",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "C",
+      "H",
+      "L",
+      "U",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "J",
+      "E",
+      "L",
+      "I",
+      "K",
+      "O",
+      "Z",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "L",
+      "E",
+      "S",
+      "O",
+      "#",
+      "D",
+      "O"
+    ],
+    [
+      "I",
+      "V",
+      "O",
+      "#",
+      "#",
+      "L",
+      "O",
+      "R",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "D",
+      "R",
+      "#",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "K",
+      "S",
+      "#",
+      "V",
+      "Y",
+      "Z",
+      "I",
+      "V",
+      "A"
+    ],
+    [
+      "N",
+      "A",
+      "K",
+      "A",
+      "Z",
+      "A",
+      "#",
+      "I",
+      "T"
+    ],
+    [
+      "I",
+      "N",
+      "U",
+      "#",
+      "E",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "A",
+      "N",
+      "A",
+      "#",
+      "#",
+      "T",
+      "R",
+      "H"
+    ],
+    [
+      "A",
+      "C",
+      "#",
+      "S",
+      "T",
+      "R",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "E",
+      "P",
+      "I",
+      "Z",
+      "O",
+      "D",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "E",
+      "N",
+      "K",
+      "Y",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Srst"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Poněvadž"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Objekt"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka směru"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Britský šlechtic"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Titul před jménem (zkr.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Opak pod (předložka)"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kus (zkr.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 6,
+      "clue": "Nutrice"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 6,
+      "clue": "Infekce"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Informační technologie (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ostatně (kniž.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Španělska"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Úrodná moravská oblast"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jarmark"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Ačkoli (kniž.)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 3,
+      "cells": 6,
+      "clue": "List knihy"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Díl seriálu"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Útlý"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Přední strana"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Ukazovací citoslovce"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tlakový stroj"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zadání"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. polonia"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Fenomén"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 6,
+      "clue": "Tělesná pohoda"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 5,
+      "clue": "Sezdat"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "Pár"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Asijská obilnina"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Foliant"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Ozdravění"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Opět"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 2,
+      "cells": 3,
+      "clue": "Hřebec"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Orient"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Zde"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 8,
+      "cells": 2,
+      "clue": "Citoslovce překvapení"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Čili (zkr.)"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kalendářní období"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Portugalska"
+    }
+  ]
+}

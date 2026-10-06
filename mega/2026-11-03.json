@@ -1,0 +1,473 @@
+{
+  "id": "2026-11-03",
+  "date": "2026-11-03",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "S",
+      "O",
+      "T",
+      "V",
+      "A",
+      "#",
+      "N",
+      "O",
+      "C"
+    ],
+    [
+      "U",
+      "B",
+      "R",
+      "A",
+      "T",
+      "#",
+      "A",
+      "H",
+      "A"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "T",
+      "#",
+      "A",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "A",
+      "#",
+      "S",
+      "E",
+      "N",
+      "#"
+    ],
+    [
+      "S",
+      "M",
+      "S",
+      "#",
+      "V",
+      "I",
+      "Z",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "Y",
+      "#",
+      "#",
+      "R",
+      "E",
+      "T",
+      "E",
+      "Z"
+    ],
+    [
+      "O",
+      "S",
+      "O",
+      "B",
+      "A",
+      "#",
+      "#",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "R",
+      "H",
+      "#",
+      "T",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "V",
+      "A",
+      "Z",
+      "#",
+      "P",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "R",
+      "Z",
+      "Y",
+      "#",
+      "S",
+      "K",
+      "L",
+      "O"
+    ],
+    [
+      "V",
+      "E",
+      "K",
+      "#",
+      "K",
+      "A",
+      "Z",
+      "E",
+      "N"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "#",
+      "S",
+      "T",
+      "E",
+      "Z",
+      "I"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Stěží"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tma"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Snížit"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hle"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Koleje"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mikoláš, malíř"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 2,
+      "clue": "Chem. zn. sodíku"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Vidina"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Textovka"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Srovnej"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 4,
+      "cells": 5,
+      "clue": "Kotevní ~"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 5,
+      "clue": "Jedinec"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. radia"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tržiště"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Krk"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 2,
+      "clue": "Dětské sbohem"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Opovážlivý"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Průhledný materiál"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Éra"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Pořádek"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Programovací jazyk"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 4,
+      "cells": 5,
+      "clue": "Těžko"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kamenná drť"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Titán"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vytržení"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Chomáč bavlny"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Objevit"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Žár"
+    },
+    {
+      "num": 8,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Doba"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Orient"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet centů v euru"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Ukazovátko počítače"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Hrdlořez"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Učeň"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Dotaz"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Zanedlouho"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Tedy"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Hnisavá rána"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tvořit"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dvojka"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Výmysl"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Ti druzí"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kus (zkr.)"
+    }
+  ]
+}

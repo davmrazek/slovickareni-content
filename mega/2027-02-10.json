@@ -1,0 +1,459 @@
+{
+  "id": "2027-02-10",
+  "date": "2027-02-10",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "O",
+      "K",
+      "A",
+      "P",
+      "#",
+      "S",
+      "M",
+      "S",
+      "#"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "O",
+      "#",
+      "A",
+      "L",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "R",
+      "I",
+      "M",
+      "#",
+      "L",
+      "E",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "O",
+      "P",
+      "A",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "C",
+      "O",
+      "#",
+      "O",
+      "K",
+      "O"
+    ],
+    [
+      "T",
+      "Y",
+      "#",
+      "I",
+      "R",
+      "#",
+      "#",
+      "L",
+      "T"
+    ],
+    [
+      "O",
+      "N",
+      "#",
+      "#",
+      "T",
+      "U",
+      "#",
+      "U",
+      "A"
+    ],
+    [
+      "N",
+      "I",
+      "C",
+      "#",
+      "A",
+      "N",
+      "E",
+      "B",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "S",
+      "L",
+      "A",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "U",
+      "C",
+      "T",
+      "A",
+      "#",
+      "S",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "I",
+      "K",
+      "#",
+      "E",
+      "S",
+      "E",
+      "J"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "O",
+      "#",
+      "T",
+      "E",
+      "D",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Žlab"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Krátká zpráva (zkr.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kanón"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Rickman, herec"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Metropole Italie"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Jen (~ že)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Což"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Leccos"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Oslovení bez vykání"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 2,
+      "clue": "Irán (kód)"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Litva (kód)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 3. osoby"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 4,
+      "cells": 2,
+      "clue": "Zde (hovor.)"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Ukrajiny"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nula"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Nebo též"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 2,
+      "cells": 5,
+      "clue": "Víra muslimů"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Respekt"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Pavučina"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Amatér"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Literární rozprava"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Deset desítek"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tudíž (hovor.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Opak do (předložka)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Šípek"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Dívka za zrcadlem"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Podat ruku"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Šál"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Nápoj od krávy"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Ovocná zahrada"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Webová brána"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Momentálně"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 4,
+      "clue": "Spolek"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Šik křestním jménem"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zvuk určité výšky"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Strhávat"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vnímat"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Vypouštění zplodin"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Blejzr"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Brť"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Mluvnická kategorie"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Nyní"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Ego"
+    }
+  ]
+}

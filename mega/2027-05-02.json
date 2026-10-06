@@ -1,0 +1,459 @@
+{
+  "id": "2027-05-02",
+  "date": "2027-05-02",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "V",
+      "A",
+      "K",
+      "#",
+      "U",
+      "S",
+      "B"
+    ],
+    [
+      "U",
+      "B",
+      "O",
+      "H",
+      "Y",
+      "#",
+      "K",
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "A",
+      "C",
+      "K",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "Z",
+      "N",
+      "#",
+      "#",
+      "O",
+      "Z",
+      "I",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "#",
+      "U",
+      "P",
+      "A",
+      "T",
+      "I"
+    ],
+    [
+      "V",
+      "Y",
+      "#",
+      "B",
+      "R",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "R",
+      "A",
+      "T",
+      "#",
+      "C",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "R",
+      "A",
+      "Z",
+      "#",
+      "S",
+      "E",
+      "D"
+    ],
+    [
+      "U",
+      "C",
+      "I",
+      "T",
+      "#",
+      "#",
+      "P",
+      "R",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "R",
+      "E",
+      "M",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "#",
+      "M",
+      "O",
+      "C",
+      "A",
+      "L"
+    ],
+    [
+      "S",
+      "A",
+      "D",
+      "#",
+      "A",
+      "C",
+      "H",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pytel"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Počítačový port (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Bědný"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Šípek"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 7,
+      "clue": "Gauč"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Čili (zkr.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Oživnout"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Podhůří"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby mn. č."
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Uchopovat"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Gratulovat"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Srážka"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Popelavá barva"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Školit"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Soudní spor (zast.)"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 2,
+      "cells": 7,
+      "clue": "Metamorfóza"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Jeden i druhý"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Bažina"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ovocná zahrada"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Citoslovce žalu"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Akvatický"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Heuréka (citosl.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Brak"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Předvést"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zvratné zájmeno"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kód Brazílie"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Zařízení"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Obvyklý"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 5,
+      "clue": "Hloubit"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Informační technologie (zkr.)"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Poranění"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 5,
+      "clue": "Sourozenec"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Pád (mluvnice)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Barva smutku"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 8,
+      "cells": 5,
+      "clue": "Meta (přen.)"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Citoslovce pobídky"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 1,
+      "cells": 2,
+      "clue": "Ačkoli (kniž.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Chvat"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "„… mele maso“"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Vláda"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. osmia"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. barya"
+    }
+  ]
+}

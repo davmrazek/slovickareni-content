@@ -1,0 +1,431 @@
+{
+  "id": "2027-08-04",
+  "date": "2027-08-04",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "V",
+      "S",
+      "T",
+      "U",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "P",
+      "A",
+      "D",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "A",
+      "K",
+      "#",
+      "R",
+      "E",
+      "V"
+    ],
+    [
+      "O",
+      "P",
+      "I",
+      "T",
+      "#",
+      "#",
+      "T",
+      "R",
+      "N"
+    ],
+    [
+      "O",
+      "U",
+      "T",
+      "#",
+      "U",
+      "L",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "M",
+      "L",
+      "#",
+      "T",
+      "E",
+      "Z",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "A",
+      "F",
+      "E",
+      "#",
+      "S",
+      "B"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "M",
+      "A",
+      "#",
+      "D",
+      "L",
+      "E"
+    ],
+    [
+      "V",
+      "E",
+      "C",
+      "#",
+      "#",
+      "P",
+      "R",
+      "I",
+      "D"
+    ],
+    [
+      "D",
+      "P",
+      "H",
+      "#",
+      "V",
+      "R",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "A",
+      "N",
+      "A",
+      "L",
+      "Y",
+      "Z",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "U",
+      "K",
+      "C",
+      "E",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Přístup"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Útočit"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Dům (hovor.)"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Burácení"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zmámit alkoholem"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Osten"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tenisové „mimo“"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Lid (přen.)"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tisícina litru (zn.)"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Tvrzení"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Káva (hovor.)"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Znak stibia"
+    },
+    {
+      "num": 21,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Činohra"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Předložka shody"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Záležitost"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Předek lodi"
+    },
+    {
+      "num": 26,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nepřímá daň (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Krkavcovitý pták"
+    },
+    {
+      "num": 28,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Rozklad celku"
+    },
+    {
+      "num": 30,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Dražba"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Kuchařit"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Dřímat"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Člen těla"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Úsek"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Rovným dílem"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 4,
+      "clue": "Kolečka s desítkou"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Rozmach"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Mimo"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Pořadatel Ligy mistrů"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Je možno"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Onde"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Novinářská lež"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Plivanec"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Ouvej"
+    },
+    {
+      "num": 21,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nosič filmu (zkr.)"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Hlava (hovor.)"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Draho"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ven"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Šedá šelma"
+    },
+    {
+      "num": 29,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Astronomická jednotka (zn.)"
+    }
+  ]
+}

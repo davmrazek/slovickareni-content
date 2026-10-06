@@ -1,0 +1,459 @@
+{
+  "id": "2026-10-03",
+  "date": "2026-10-03",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "H",
+      "M",
+      "M",
+      "#",
+      "K",
+      "R",
+      "B"
+    ],
+    [
+      "S",
+      "K",
+      "R",
+      "I",
+      "N",
+      "#",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "K",
+      "L",
+      "A",
+      "N",
+      "#",
+      "T",
+      "E",
+      "D",
+      "Y"
+    ],
+    [
+      "R",
+      "O",
+      "D",
+      "#",
+      "M",
+      "Y",
+      "#",
+      "N",
+      "L"
+    ],
+    [
+      "Z",
+      "U",
+      "B",
+      "N",
+      "I",
+      "#",
+      "#",
+      "I",
+      "E"
+    ],
+    [
+      "#",
+      "B",
+      "A",
+      "H",
+      "N",
+      "O",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "L",
+      "U",
+      "K",
+      "A",
+      "S",
+      "#"
+    ],
+    [
+      "N",
+      "A",
+      "#",
+      "#",
+      "T",
+      "O",
+      "L",
+      "I",
+      "K"
+    ],
+    [
+      "I",
+      "R",
+      "#",
+      "J",
+      "A",
+      "#",
+      "P",
+      "R",
+      "O"
+    ],
+    [
+      "J",
+      "E",
+      "H",
+      "O",
+      "#",
+      "P",
+      "S",
+      "A",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "#",
+      "S",
+      "U",
+      "K",
+      "N",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "T",
+      "#",
+      "K",
+      "D",
+      "Y",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zamyšlení (citosl.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ohniště"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Almara"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Talent"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Klika"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Čili"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pokolení"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby mn. č."
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Nizozemska"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Stomatologický"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Id est (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 5,
+      "clue": "Bláto"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 3,
+      "cells": 5,
+      "clue": "Evangelista"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. sodíku"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tak mnoho"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. iridia"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 3,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Předložka se 4. pádem"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Přivlastňovací zájmeno (on)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zapisovat"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojka záporná"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Dámský oděv"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mistr Mydlář"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tázací příslovce času"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Val"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Šedesát sekund (zn.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Mangan (zn.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Na kterém místě"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Člen zastupitelstva"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 5,
+      "clue": "Skla na nos"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Přes"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Artikulace"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Chvilka"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "Liga o Stanley Cup (zkr.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kukadlo"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Tyrolský"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Sulfát"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Ani trochu"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Kolbiště"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 8,
+      "cells": 4,
+      "clue": "Kočičí mládě"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 3,
+      "cells": 2,
+      "clue": "Hovorové ano"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Šlágr"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Nutkání"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Slovensko (kód)"
+    }
+  ]
+}

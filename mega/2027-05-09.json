@@ -1,0 +1,466 @@
+{
+  "id": "2027-05-09",
+  "date": "2027-05-09",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "A",
+      "K",
+      "T",
+      "#",
+      "#",
+      "#",
+      "T",
+      "M",
+      "A"
+    ],
+    [
+      "J",
+      "A",
+      "R",
+      "O",
+      "#",
+      "Z",
+      "V",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "M",
+      "U",
+      "D",
+      "R",
+      "C",
+      "#",
+      "P",
+      "O"
+    ],
+    [
+      "J",
+      "A",
+      "N",
+      "#",
+      "N",
+      "E",
+      "K",
+      "A",
+      "M"
+    ],
+    [
+      "I",
+      "R",
+      "#",
+      "#",
+      "A",
+      "L",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "#",
+      "#",
+      "A",
+      "N",
+      "I",
+      "Z"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "A",
+      "#",
+      "#",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "L",
+      "O",
+      "#",
+      "#",
+      "E",
+      "S"
+    ],
+    [
+      "N",
+      "E",
+      "H",
+      "E",
+      "T",
+      "#",
+      "D",
+      "A",
+      "T"
+    ],
+    [
+      "U",
+      "L",
+      "#",
+      "N",
+      "A",
+      "P",
+      "U",
+      "L",
+      "#"
+    ],
+    [
+      "D",
+      "A",
+      "T",
+      "A",
+      "#",
+      "C",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "#",
+      "#",
+      "#",
+      "L",
+      "I",
+      "T"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nahé tělo v umění"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Černota"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vesna"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nazývat"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 1,
+      "cells": 5,
+      "clue": "Filozof"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Žižka křestním jménem"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Kamsi"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Irán (kód)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Leč"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Řeholní společenství"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Bez toho, že"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nápad"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Programovací jazyk"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Dovozní poplatek"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Snížené E"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pazour (hovor.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Věnovat"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Brť"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 3,
+      "cells": 5,
+      "clue": "Rovným dílem"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Informace"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Odměna"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojka záporná"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Silně pršet"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Hle (zast.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Kumpán"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Stolec"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Televize (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Kartografické dílo"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Kdysi nedělitelná částice"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 2,
+      "clue": "Opak do (předložka)"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 5,
+      "clue": "Úplně"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Ribonukleová kyselina (zkr.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Trnka křestním jménem"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 4,
+      "clue": "Africký stát"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Závan"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Dokonalý"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 8,
+      "cells": 4,
+      "clue": "Zlovůle"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 3,
+      "cells": 5,
+      "clue": "Jméno Munkové"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pavel křestním jménem"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Otrava"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Zápal"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Souboj"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 5,
+      "cells": 2,
+      "clue": "Politicky korektní (zkr.)"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Oni (muži)"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Nechť"
+    }
+  ]
+}

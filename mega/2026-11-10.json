@@ -1,0 +1,445 @@
+{
+  "id": "2026-11-10",
+  "date": "2026-11-10",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "R",
+      "S",
+      "#",
+      "#",
+      "C",
+      "I"
+    ],
+    [
+      "D",
+      "A",
+      "L",
+      "E",
+      "K",
+      "O",
+      "#",
+      "I",
+      "R"
+    ],
+    [
+      "U",
+      "D",
+      "A",
+      "T",
+      "#",
+      "T",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "S",
+      "E",
+      "N",
+      "#",
+      "T",
+      "O",
+      "L",
+      "I",
+      "K"
+    ],
+    [
+      "A",
+      "L",
+      "#",
+      "#",
+      "U",
+      "C",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "N",
+      "A",
+      "#",
+      "A",
+      "S",
+      "I",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "E",
+      "T",
+      "#",
+      "C",
+      "H"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "A",
+      "N",
+      "#",
+      "#",
+      "T",
+      "O"
+    ],
+    [
+      "C",
+      "T",
+      "Y",
+      "R",
+      "I",
+      "#",
+      "J",
+      "E",
+      "N"
+    ],
+    [
+      "V",
+      "A",
+      "Z",
+      "A",
+      "#",
+      "P",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "U",
+      "L",
+      "#",
+      "T",
+      "V",
+      "O",
+      "R",
+      "I",
+      "T"
+    ],
+    [
+      "T",
+      "Y",
+      "#",
+      "#",
+      "S",
+      "T",
+      "O",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Ňadro"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 6,
+      "clue": "Na míle"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. iridia"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Prozradit"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Fotr (slang.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Snění"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tak mnoho"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak aluminia"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Konto"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. sodíku"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Snad"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Číslovka po čtyřech"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Švýcarska"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Plachtový přístřešek"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tohle"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Počet ročních období"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pouze"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nádoba na květiny"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Madam"
+    },
+    {
+      "num": 29,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Včelí příbytek"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 3,
+      "cells": 6,
+      "clue": "Vytvářet"
+    },
+    {
+      "num": 32,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Deset desítek"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Záměr"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Horní ~"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Slovensko (kód)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Vnímat"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Stát s Bagdádem"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Klein křestním jménem"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "… ještě nevečeřela"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 6,
+      "clue": "Převrátit"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pivo svrchně kvašené"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Předtucha"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 3,
+      "cells": 6,
+      "clue": "Přístroj"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Lektura"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 8,
+      "cells": 5,
+      "clue": "Pronásledovat"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Neměnný"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Stejný (kniž.)"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pražská technika (zkr.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Vesna"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Dřina"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Proti (ve sportu)"
+    }
+  ]
+}

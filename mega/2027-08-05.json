@@ -1,0 +1,452 @@
+{
+  "id": "2027-08-05",
+  "date": "2027-08-05",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "P",
+      "A",
+      "N",
+      "#",
+      "T",
+      "R",
+      "H",
+      "#"
+    ],
+    [
+      "N",
+      "E",
+      "B",
+      "O",
+      "#",
+      "J",
+      "E",
+      "N",
+      "#"
+    ],
+    [
+      "U",
+      "N",
+      "E",
+      "S",
+      "T",
+      "#",
+      "Z",
+      "A",
+      "R"
+    ],
+    [
+      "D",
+      "I",
+      "L",
+      "#",
+      "A",
+      "L",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "A",
+      "Z",
+      "#",
+      "Z",
+      "K",
+      "U",
+      "S",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "E",
+      "V",
+      "A",
+      "#",
+      "Z",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "J",
+      "#",
+      "K",
+      "R",
+      "B",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "E",
+      "V",
+      "O",
+      "#",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "R",
+      "O",
+      "M",
+      "A",
+      "#",
+      "Z",
+      "A",
+      "L"
+    ],
+    [
+      "D",
+      "A",
+      "V",
+      "#",
+      "S",
+      "T",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "D",
+      "#",
+      "Z",
+      "L",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "O",
+      "#",
+      "N",
+      "I",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Muž (zdvořile)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Tržiště"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Spojka volby"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 3,
+      "clue": "Japonská měna"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Odvléci"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Horko"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Část"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Dívka za zrcadlem"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Časová spojka"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Vyzkoušet"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 3,
+      "clue": "Adamova družka"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 2,
+      "clue": "Spojka"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Hle (zast.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ohniště"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 6,
+      "clue": "Část trávení"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vůně"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Smutek"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zástup"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Přepážka"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 1,
+      "cells": 3,
+      "clue": "Výše než"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Gottwaldov (dříve)"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Počet haléřů v koruně"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Vlákno příběhu"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Prachy"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Kainův bratr"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Čenich"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Neboli (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 7,
+      "clue": "Inscenátor"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Pohonný"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Otrava"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Pysk"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 5,
+      "clue": "Postel"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Zaujetí"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Alarmovat"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Hájit"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Park"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Extáze"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "„Srdečně …“ (závěr dopisu)"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 8,
+      "cells": 4,
+      "clue": "Jméno Alda"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Kysané ~"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "To znamená (zkr.)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Tón C (solmizace)"
+    }
+  ]
+}

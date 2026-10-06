@@ -1,0 +1,452 @@
+{
+  "id": "2027-02-01",
+  "date": "2027-02-01",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "B",
+      "B",
+      "C",
+      "#",
+      "#",
+      "#",
+      "H",
+      "M",
+      "M"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "L",
+      "#",
+      "P",
+      "L",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "A",
+      "T",
+      "L",
+      "A",
+      "K",
+      "#"
+    ],
+    [
+      "C",
+      "R",
+      "#",
+      "L",
+      "E",
+      "O",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "U",
+      "#",
+      "O",
+      "P",
+      "T",
+      "I",
+      "K",
+      "A"
+    ],
+    [
+      "S",
+      "K",
+      "O",
+      "K",
+      "#",
+      "#",
+      "T",
+      "O",
+      "K"
+    ],
+    [
+      "T",
+      "A",
+      "H",
+      "#",
+      "#",
+      "V",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "O",
+      "V",
+      "O",
+      "C",
+      "N",
+      "Y",
+      "#",
+      "I",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "I",
+      "D",
+      "R",
+      "#",
+      "K",
+      "R"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "Z",
+      "R",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "E",
+      "N",
+      "I",
+      "#",
+      "Z",
+      "E",
+      "M",
+      "E"
+    ],
+    [
+      "K",
+      "D",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "D",
+      "L",
+      "E"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Britská rozhlasová stanice (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zamyšlení (citosl.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Opékač"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Projekt"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 2,
+      "cells": 6,
+      "clue": "Vydírání"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Naše republika (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Janáček křestním jménem"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Citoslovce bolesti"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Objektiv"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Salto"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Namlouvání tetřevů"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Průvan"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Vodit"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 6,
+      "clue": "Z plodů"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Id est (zkr.)"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Tahoun"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. kryptonu"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 1,
+      "cells": 6,
+      "clue": "Zhltnout"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Události"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Planeta"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce času"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Předložka shody"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Bulharska"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 2,
+      "clue": "Kód Brazílie"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Hrdinský ~"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 7,
+      "clue": "Nahlas"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Semínka na koláče"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Mangan (zn.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 5,
+      "clue": "Plicní ~"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Laťky kolem zahrady"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Srdeční rytmus"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Mnohokrát"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 5,
+      "clue": "Část kabátu"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 5,
+      "clue": "Proutěná nůše"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 8,
+      "cells": 5,
+      "clue": "Protagonista"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Bez vousů"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 5,
+      "clue": "Slovo"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 4,
+      "clue": "Neznámý"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Východní Německo (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Barva myší srsti"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nyní"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Jutská země (kód)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tisícina litru (zn.)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Estonsko (zkr.)"
+    }
+  ]
+}

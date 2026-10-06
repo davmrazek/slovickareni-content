@@ -1,0 +1,431 @@
+{
+  "id": "2027-01-03",
+  "date": "2027-01-03",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "Z",
+      "D",
+      "E",
+      "#",
+      "K",
+      "C",
+      "#"
+    ],
+    [
+      "#",
+      "G",
+      "E",
+      "N",
+      "E",
+      "R",
+      "A",
+      "L",
+      "#"
+    ],
+    [
+      "M",
+      "U",
+      "Z",
+      "A",
+      "#",
+      "U",
+      "Z",
+      "A",
+      "S"
+    ],
+    [
+      "E",
+      "M",
+      "A",
+      "#",
+      "#",
+      "C",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "Z",
+      "A",
+      "D",
+      "#",
+      "N",
+      "E",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "U",
+      "C",
+      "E",
+      "N",
+      "#",
+      "K",
+      "M"
+    ],
+    [
+      "P",
+      "B",
+      "#",
+      "T",
+      "R",
+      "I",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "K",
+      "E",
+      "V",
+      "#",
+      "O",
+      "B",
+      "R"
+    ],
+    [
+      "S",
+      "L",
+      "O",
+      "N",
+      "#",
+      "#",
+      "K",
+      "D",
+      "O"
+    ],
+    [
+      "T",
+      "E",
+      "M",
+      "A",
+      "#",
+      "L",
+      "A",
+      "I",
+      "K"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "R",
+      "A",
+      "Z",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "I",
+      "R",
+      "#",
+      "J",
+      "E",
+      "N",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Na tomto místě"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Česká měna (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Hodnost nad plukovníkem"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Erató či Kalliopé"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Údiv"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "„… mele maso“"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nebeská říše"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Opak přídě"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Sestřina dcera"
+    },
+    {
+      "num": 15,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Budoucí tovaryš"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kilometr (zn.)"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. olova"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Úskok"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Truhla"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Velikán"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tlustokožec"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Která osoba?"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Námět"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Neodborník"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Vrazit"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. iridia"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pouze"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Odzadu"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dvoušroubovice (zkr.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Estonsko (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Ničit"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Paragraf"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Kaučuk"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 5,
+      "cells": 6,
+      "clue": "Garance"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Limit"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Půvab"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Vodič vzruchů"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 3,
+      "cells": 6,
+      "clue": "Předplatitel"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ukazovák"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Obal"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Droga z koky"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Moskyt"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Hlídat"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Kalendářní období"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Dá se"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Slovenské „i“"
+    }
+  ]
+}

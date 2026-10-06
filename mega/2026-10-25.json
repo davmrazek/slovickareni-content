@@ -1,0 +1,473 @@
+{
+  "id": "2026-10-25",
+  "date": "2026-10-25",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "V",
+      "C",
+      "#",
+      "P",
+      "O",
+      "T"
+    ],
+    [
+      "K",
+      "A",
+      "R",
+      "E",
+      "L",
+      "#",
+      "O",
+      "S",
+      "M"
+    ],
+    [
+      "U",
+      "B",
+      "O",
+      "R",
+      "#",
+      "L",
+      "U",
+      "N",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      "A",
+      "#",
+      "U",
+      "Z",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "#",
+      "S",
+      "N",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "R",
+      "E",
+      "Z",
+      "#",
+      "J",
+      "O",
+      "#",
+      "P",
+      "A"
+    ],
+    [
+      "U",
+      "D",
+      "#",
+      "J",
+      "E",
+      "#",
+      "S",
+      "I",
+      "M"
+    ],
+    [
+      "M",
+      "A",
+      "Z",
+      "A",
+      "T",
+      "#",
+      "K",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "K",
+      "#",
+      "S",
+      "V",
+      "A",
+      "H"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "O",
+      "#",
+      "P",
+      "I",
+      "L",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      "#",
+      "P",
+      "O",
+      "R",
+      "A",
+      "D"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "#",
+      "H",
+      "R",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Plast (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Dřina"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Čapek křestním jménem"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Počet chapadel chobotnice"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Oděv"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Družice (bás.)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vinná liána"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 2,
+      "clue": "Nyní již"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. vápníku"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Strpět"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Škrt nožem"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Hovorové ano"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Dětské sbohem"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Člen těla"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 2,
+      "clue": "Citoslovce údivu"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Karta do mobilu"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Natírat"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. kryptonu"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 2,
+      "cells": 2,
+      "clue": "Jutská země (kód)"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Stráň"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Trojice"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nástroj na dřevo"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hukot"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Stále"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet haléřů v koruně"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zábava"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Šňůra"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Čáslavská křestním jménem"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Centilitr (zn.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Toliko"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Organizace v New Yorku (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Temno"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pěvecký balkon v kostele"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Soupis písmen"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Klín (bás.)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Spustit se ze svahu"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 7,
+      "clue": "Šroubovice"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Na onom místě"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pirátský nápoj"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Coby"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Spára"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Kamenná konstrukce"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Konflikt"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 8,
+      "cells": 3,
+      "clue": "Užovka"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Chomáč"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Horní ~"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Míra kyselosti"
+    }
+  ]
+}

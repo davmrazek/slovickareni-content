@@ -1,0 +1,473 @@
+{
+  "id": "2027-03-20",
+  "date": "2027-03-20",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "T",
+      "V",
+      "U",
+      "J",
+      "#",
+      "P",
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      "O",
+      "A",
+      "Z",
+      "A",
+      "#",
+      "V",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "K",
+      "R",
+      "I",
+      "Z",
+      "#",
+      "C",
+      "V",
+      "I",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "Y",
+      "#",
+      "#",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "P",
+      "T",
+      "#",
+      "K",
+      "O",
+      "L",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "#",
+      "#",
+      "K",
+      "V",
+      "U",
+      "L",
+      "I"
+    ],
+    [
+      "O",
+      "C",
+      "E",
+      "A",
+      "N",
+      "#",
+      "#",
+      "Z",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "R",
+      "O",
+      "C",
+      "#",
+      "E",
+      "U"
+    ],
+    [
+      "#",
+      "P",
+      "O",
+      "#",
+      "#",
+      "H",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "C",
+      "H",
+      "#",
+      "T",
+      "E",
+      "D",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "H",
+      "A",
+      "#",
+      "I",
+      "V",
+      "A",
+      "N"
+    ],
+    [
+      "P",
+      "T",
+      "A",
+      "K",
+      "#",
+      "T",
+      "A",
+      "N",
+      "I"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Náležející tobě"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Gratulovat"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Útočiště"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Žlutočerný hmyz"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Krucifix"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Trénink"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 2,
+      "clue": "Oslovení bez vykání"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. neonu"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. platiny"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 4,
+      "clue": "Bicykl"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 4,
+      "cells": 5,
+      "clue": "Pro"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 5,
+      "clue": "Tichý či Indický"
+    },
+    {
+      "num": 27,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chemická značka zinku"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 2,
+      "cells": 4,
+      "clue": "Nač"
+    },
+    {
+      "num": 30,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Unie sedmadvaceti (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 1,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Chorvatska"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tiskový list"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tudíž (hovor.)"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Váha"
+    },
+    {
+      "num": 40,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hrozný car (jméno)"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Okřídlenec"
+    },
+    {
+      "num": 42,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Obleva"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Proud"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Kypění"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Aplikovat"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Mluva"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Plast (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Přímo"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Orient"
+    },
+    {
+      "num": 8,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Nuže"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Podnos"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Pauza"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 5,
+      "cells": 2,
+      "clue": "Lotyšsko (kód)"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 3,
+      "clue": "Dá se"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Ostatně (kniž.)"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Éra"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. argonu"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 5,
+      "cells": 5,
+      "clue": "Přát si"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Hádat se"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Vinná liána"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tenisová asociace (zkr.)"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Zahnutý kolík"
+    },
+    {
+      "num": 37,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Poplatek"
+    },
+    {
+      "num": 38,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    }
+  ]
+}

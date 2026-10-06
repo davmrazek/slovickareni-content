@@ -1,0 +1,459 @@
+{
+  "id": "2027-03-26",
+  "date": "2027-03-26",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "S",
+      "E",
+      "#",
+      "J",
+      "E",
+      "T",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "U",
+      "#",
+      "E",
+      "V",
+      "R",
+      "O",
+      "P",
+      "A"
+    ],
+    [
+      "I",
+      "R",
+      "#",
+      "#",
+      "A",
+      "U",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "N",
+      "O",
+      "H",
+      "A",
+      "#",
+      "N",
+      "O",
+      "V",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "U",
+      "M",
+      "#",
+      "K",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "Z",
+      "A",
+      "T",
+      "I",
+      "M",
+      "#",
+      "C",
+      "L"
+    ],
+    [
+      "O",
+      "N",
+      "#",
+      "O",
+      "R",
+      "E",
+      "C",
+      "H",
+      "#"
+    ],
+    [
+      "L",
+      "I",
+      "D",
+      "#",
+      "A",
+      "N",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "C",
+      "A",
+      "S",
+      "#",
+      "E",
+      "L",
+      "A",
+      "N"
+    ],
+    [
+      "V",
+      "I",
+      "T",
+      "A",
+      "T",
+      "#",
+      "#",
+      "H",
+      "U"
+    ],
+    [
+      "O",
+      "T",
+      "A",
+      "K",
+      "A",
+      "R",
+      "#",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "O",
+      "K",
+      "O",
+      "#",
+      "J",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Švédska"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Ujíždět"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zde (hovor.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 3,
+      "cells": 6,
+      "clue": "Starý kontinent"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Irán (kód)"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tvůrce"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Končetina"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Čerstvě"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pirátský nápoj"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Plovoucí led"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 1,
+      "cells": 5,
+      "clue": "Zprvu"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. chloru"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 3. osoby"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 3,
+      "cells": 5,
+      "clue": "Plod lísky"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pospolitost"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Chvost"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zápal"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Uvádět hosty"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Maďarsko (kód)"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 0,
+      "cells": 6,
+      "clue": "Jméno krále železného a zlatého"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka původu"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 3,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Ego"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tma za předmětem"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Platidlo Slovenska"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Tvar slovesa být"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pilarová, zpěvačka"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Stolec"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 4,
+      "clue": "Edém"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 6,
+      "clue": "Svrchní vrstva"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 5,
+      "clue": "Pozemek s budovami"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zábava"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Vůz"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Měřítko"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Zdevastovat"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Míň"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 5,
+      "clue": "Plumbum"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Meta"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 2,
+      "cells": 4,
+      "clue": "Informace"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Pánský kabátek"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Nazdar"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Otrava"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nuže"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Rumunska"
+    }
+  ]
+}

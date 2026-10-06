@@ -1,0 +1,452 @@
+{
+  "id": "2026-11-24",
+  "date": "2026-11-24",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "Z",
+      "L",
+      "A",
+      "B",
+      "#",
+      "K",
+      "R",
+      "K"
+    ],
+    [
+      "#",
+      "V",
+      "I",
+      "N",
+      "O",
+      "#",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "V",
+      "Y",
+      "#",
+      "D",
+      "R",
+      "C",
+      "E",
+      "N",
+      "Y"
+    ],
+    [
+      "R",
+      "S",
+      "#",
+      "R",
+      "E",
+      "T",
+      "#",
+      "C",
+      "T"
+    ],
+    [
+      "C",
+      "E",
+      "D",
+      "E",
+      "C",
+      "K",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "N",
+      "U",
+      "J",
+      "#",
+      "#",
+      "P",
+      "H",
+      "#"
+    ],
+    [
+      "#",
+      "I",
+      "E",
+      "#",
+      "#",
+      "L",
+      "E",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "O",
+      "P",
+      "A",
+      "T",
+      "K",
+      "A"
+    ],
+    [
+      "U",
+      "D",
+      "#",
+      "K",
+      "O",
+      "V",
+      "#",
+      "E",
+      "S"
+    ],
+    [
+      "K",
+      "O",
+      "N",
+      "O",
+      "P",
+      "I",
+      "#",
+      "J",
+      "A"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "#",
+      "U",
+      "N",
+      "I",
+      "K",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "#",
+      "D",
+      "A",
+      "T",
+      "A",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Koryto"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hrdlo"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Ryzlink"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Věnování"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zdvořilé oslovení"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Rozmačkaný"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Srbsko (kód)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Horní ~"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Veřejnoprávní televize (zkr.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 7,
+      "clue": "Placka"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Mrva"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 2,
+      "clue": "Vodíkový exponent"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 1,
+      "cells": 2,
+      "clue": "Kód Irska"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Janáček křestním jménem"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 2,
+      "cells": 7,
+      "clue": "Obracečka"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Končetina"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Železo i cín"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Snížené E"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Cannabis"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Ego"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Jeden i druhý"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Útěk"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vyznamenání"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 4,
+      "cells": 4,
+      "clue": "Informace"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Vzestup"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Chem. zn. lithia"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Tarkovskij křestním jménem"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 5,
+      "clue": "Frajer"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Hacienda"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Obal"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kopec"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Tisková agentura (zkr.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Souboj"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 6,
+      "cells": 4,
+      "clue": "Znovu"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Hůl na led"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Záplava (přen.)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Domácky Alexandr"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 3,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Impulz"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Neprospěch"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Epocha"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Opak pod (předložka)"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Kód Itálie"
+    }
+  ]
+}

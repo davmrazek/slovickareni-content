@@ -1,0 +1,466 @@
+{
+  "id": "2027-05-26",
+  "date": "2027-05-26",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "V",
+      "O",
+      "S",
+      "K",
+      "#",
+      "#",
+      "Z",
+      "L",
+      "O"
+    ],
+    [
+      "S",
+      "B",
+      "E",
+      "R",
+      "#",
+      "S",
+      "N",
+      "E",
+      "M"
+    ],
+    [
+      "#",
+      "D",
+      "V",
+      "E",
+      "R",
+      "E",
+      "#",
+      "V",
+      "Y"
+    ],
+    [
+      "H",
+      "A",
+      "#",
+      "V",
+      "Y",
+      "S",
+      "K",
+      "Y",
+      "T"
+    ],
+    [
+      "D",
+      "R",
+      "#",
+      "#",
+      "S",
+      "I",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "I",
+      "T",
+      "#",
+      "#",
+      "T",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "K",
+      "#",
+      "#",
+      "Z",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "A",
+      "T",
+      "#",
+      "#",
+      "S",
+      "R"
+    ],
+    [
+      "S",
+      "O",
+      "U",
+      "P",
+      "I",
+      "S",
+      "#",
+      "K",
+      "S"
+    ],
+    [
+      "K",
+      "M",
+      "#",
+      "S",
+      "P",
+      "O",
+      "L",
+      "U",
+      "#"
+    ],
+    [
+      "R",
+      "Y",
+      "B",
+      "A",
+      "#",
+      "L",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "Z",
+      "L",
+      "E",
+      "#",
+      "#",
+      "O",
+      "D",
+      "E",
+      "V"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Včelí hmota"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Neřest"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Sbírání"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Parlament (zast.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 1,
+      "cells": 5,
+      "clue": "Veřeje"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zdvořilé oslovení"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Hektar (zn.)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 6,
+      "clue": "Přítomnost"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Doktor (zkr.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Hala"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Požívat nápoj"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Nyní"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 1,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Existovat"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Strachovat (~ se)"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. stroncia"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 6,
+      "clue": "Seznam"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Počet kusů (zkr.)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tisíc metrů (zn.)"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 3,
+      "cells": 5,
+      "clue": "Dohromady"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Znamení zvěrokruhu"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Lupen"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Bídně"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Šat"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Versus (zkr.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Obšťastnit"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Steh"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Rod (přen.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chemická značka zinku"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Levicový"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Opláchnout"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 5,
+      "clue": "Notýsek"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Črta"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ukazatel ekonomiky (zkr.)"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 4,
+      "clue": "Duchovní"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Zákaz"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Debata"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 3,
+      "cells": 5,
+      "clue": "Váček na oděvu"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 8,
+      "cells": 3,
+      "clue": "Svazek"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Rada"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Přes"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Chyba"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Jednohlasý part"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Národ"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Belgie"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Televize (zkr.)"
+    }
+  ]
+}

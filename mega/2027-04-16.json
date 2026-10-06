@@ -1,0 +1,445 @@
+{
+  "id": "2027-04-16",
+  "date": "2027-04-16",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "V",
+      "E",
+      "C",
+      "#",
+      "P",
+      "R",
+      "S"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "X",
+      "T",
+      "#",
+      "R",
+      "O",
+      "K"
+    ],
+    [
+      "D",
+      "E",
+      "N",
+      "I",
+      "#",
+      "D",
+      "I",
+      "L",
+      "O"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "L",
+      "#",
+      "O",
+      "P",
+      "E",
+      "T"
+    ],
+    [
+      "L",
+      "E",
+      "C",
+      "#",
+      "#",
+      "J",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "U",
+      "Z",
+      "#",
+      "T",
+      "R",
+      "I",
+      "D",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "G",
+      "E",
+      "N",
+      "T",
+      "#",
+      "C",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "S",
+      "#",
+      "#",
+      "O",
+      "K",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "N",
+      "#",
+      "S",
+      "T",
+      "O",
+      "P"
+    ],
+    [
+      "M",
+      "E",
+      "N",
+      "E",
+      "#",
+      "V",
+      "I",
+      "L",
+      "A"
+    ],
+    [
+      "E",
+      "M",
+      "A",
+      "#",
+      "P",
+      "E",
+      "S",
+      "I",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "T",
+      "#",
+      "C",
+      "T",
+      "K",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Záležitost"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hruď"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Libreto"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Léto (zast.)"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Události"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Výtvor"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Král ptáků"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Znovu"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nýbrž (kniž.)"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 5,
+      "cells": 2,
+      "clue": "Ego"
+    },
+    {
+      "num": 15,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Již"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 3,
+      "cells": 5,
+      "clue": "Kategorie"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Tajný zvěd"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. chromu"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 2,
+      "cells": 2,
+      "clue": "Srbsko (kód)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kukadlo"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Týpí"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zastav!"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Míň"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Rodinné sídlo"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Destinnová křestním jménem"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Chodec"
+    },
+    {
+      "num": 32,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Oděv"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tisková kancelář (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Kytice do kruhu"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Vyhnanství"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Veřejnoprávní televize (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Kauza"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Úloha"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Dobytek"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 6,
+      "clue": "Maxová křestním jménem"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ke dnu"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 5,
+      "clue": "Vyčerpat se"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 3,
+      "cells": 5,
+      "clue": "Natěsno"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. radonu"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 7,
+      "cells": 6,
+      "clue": "Byť"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Český pyrop"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Nafta"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Obtisk"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Mix"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Námět"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Glóbus"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Politicky korektní (zkr.)"
+    }
+  ]
+}

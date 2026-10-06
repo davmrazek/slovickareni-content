@@ -1,0 +1,431 @@
+{
+  "id": "2026-11-09",
+  "date": "2026-11-09",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "S",
+      "T",
+      "U",
+      "P",
+      "E",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "O",
+      "R",
+      "U",
+      "S",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "S",
+      "O",
+      "K",
+      "O",
+      "L",
+      "#",
+      "K",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "R",
+      "I",
+      "K",
+      "#",
+      "#",
+      "O",
+      "K",
+      "O"
+    ],
+    [
+      "D",
+      "N",
+      "O",
+      "#",
+      "V",
+      "Z",
+      "L",
+      "Y",
+      "K"
+    ],
+    [
+      "M",
+      "Y",
+      "#",
+      "#",
+      "O",
+      "N",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "O",
+      "D",
+      "#",
+      "#",
+      "K",
+      "S"
+    ],
+    [
+      "V",
+      "L",
+      "A",
+      "D",
+      "A",
+      "#",
+      "K",
+      "O",
+      "P"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "#",
+      "#",
+      "K",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "K",
+      "D",
+      "E",
+      "#",
+      "P",
+      "R",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "A",
+      "N",
+      "D",
+      "R",
+      "O",
+      "I",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "R",
+      "O",
+      "J",
+      "K",
+      "A",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Úroveň"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Poškodit"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Tyršova jednota"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Popravčí"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Satie křestním jménem"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spodek nádoby"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Štkaní"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby mn. č."
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 3,
+      "clue": "Níže než"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kus (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kabinet"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Úder do míče"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rok (2. p. mn. č.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Bicykl"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Lít z nebe"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Mobilní systém"
+    },
+    {
+      "num": 32,
+      "row": 11,
+      "col": 2,
+      "cells": 6,
+      "clue": "Bronz (hovor.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Diskutabilní"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Japonská metropole"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Kupón"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Polovina"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Španělska"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Rozhodně ne"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 7,
+      "cells": 4,
+      "clue": "Též (hovor.)"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Počet trpaslíků"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Proud"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Aqua (lat.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 5,
+      "cells": 2,
+      "clue": "Značka prvku s protonovým číslem 30"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Ochrana vynálezu"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 3,
+      "cells": 2,
+      "clue": "Opak do (předložka)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Vánoční píseň"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Reklamní klip"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Canis lupus"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Jen (~ že)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Nákupní ~"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Uniforma"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Titul před jménem (zkr.)"
+    }
+  ]
+}

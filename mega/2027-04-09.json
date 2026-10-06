@@ -1,0 +1,445 @@
+{
+  "id": "2027-04-09",
+  "date": "2027-04-09",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "T",
+      "Z",
+      "N",
+      "#",
+      "H",
+      "M",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "V",
+      "A",
+      "#",
+      "M",
+      "A",
+      "R",
+      "S",
+      "#"
+    ],
+    [
+      "Z",
+      "A",
+      "D",
+      "A",
+      "#",
+      "S",
+      "I",
+      "L",
+      "A"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "N",
+      "#",
+      "A",
+      "Z",
+      "Y",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "J",
+      "E",
+      "N",
+      "Z",
+      "#",
+      "S",
+      "E"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "B",
+      "E",
+      "#",
+      "#",
+      "E",
+      "S"
+    ],
+    [
+      "Z",
+      "A",
+      "#",
+      "#",
+      "B",
+      "R",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "P",
+      "O",
+      "#",
+      "K",
+      "O",
+      "U",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "P",
+      "A",
+      "R",
+      "#",
+      "S",
+      "M",
+      "S",
+      "#"
+    ],
+    [
+      "D",
+      "A",
+      "T",
+      "A",
+      "#",
+      "T",
+      "A",
+      "N",
+      "K"
+    ],
+    [
+      "#",
+      "K",
+      "O",
+      "S",
+      "T",
+      "#",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "A",
+      "J",
+      "#",
+      "A",
+      "D",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "To znamená (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zamyšlení (citosl.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Adamova družka"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Rudá planeta"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zadní strana těla"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Moc"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 1,
+      "cells": 3,
+      "clue": "Onen"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Útočiště"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Který (kniž.)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Švédska"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 4,
+      "clue": "Obloha"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Snížené E"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 4,
+      "cells": 4,
+      "clue": "Uchopovat"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 3,
+      "cells": 4,
+      "clue": "Čoud"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Mlha"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Textovka"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Údaje"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Obrněnec"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 1,
+      "cells": 4,
+      "clue": "Díl skeletu"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Talent"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 2,
+      "cells": 3,
+      "clue": "Měsíc lásky"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Programovací jazyk"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rovněž (kniž.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Pozývat"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Úfání"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Nu"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Hnětení těla"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Pruty v okně vězení"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 6,
+      "clue": "Vnímat uchem"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 4,
+      "clue": "Nebo též"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Mikoláš, malíř"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Či"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Vice versa"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Předložka (~ stolu)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Vzestup"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Španělské loďstvo"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Půvab"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Stavební kámen hmoty"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Možná"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Ledová deska"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Neboli (zkr.)"
+    }
+  ]
+}

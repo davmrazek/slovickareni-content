@@ -1,0 +1,459 @@
+{
+  "id": "2027-01-01",
+  "date": "2027-01-01",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "B",
+      "U",
+      "D",
+      "#",
+      "T",
+      "R",
+      "U",
+      "N",
+      "#"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "#",
+      "Z",
+      "A",
+      "D",
+      "A",
+      "T"
+    ],
+    [
+      "R",
+      "O",
+      "L",
+      "A",
+      "N",
+      "D",
+      "#",
+      "V",
+      "Y"
+    ],
+    [
+      "O",
+      "L",
+      "E",
+      "J",
+      "#",
+      "#",
+      "N",
+      "E",
+      "Z"
+    ],
+    [
+      "N",
+      "I",
+      "#",
+      "#",
+      "B",
+      "L",
+      "O",
+      "K",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "L",
+      "O",
+      "U",
+      "H",
+      "Y",
+      "#"
+    ],
+    [
+      "#",
+      "V",
+      "R",
+      "A",
+      "T",
+      "K",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "K",
+      "A",
+      "#",
+      "#",
+      "Z",
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "#",
+      "#",
+      "C",
+      "P",
+      "A",
+      "T"
+    ],
+    [
+      "I",
+      "S",
+      "#",
+      "V",
+      "L",
+      "T",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "A",
+      "K",
+      "C",
+      "N",
+      "I",
+      "#",
+      "S",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "E",
+      "S",
+      "#",
+      "T",
+      "R",
+      "I"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rozkaz slovesa být"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Sídlo krále"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Lovelaceová, průkopnice programování"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Vložit údaje"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Rytíř francouzského eposu"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zdvořilé oslovení"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tekutý tuk"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Srovnávací spojka"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. niklu"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Činžovní celek"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 6,
+      "clue": "Vytáhlý"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Dvířka"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Veletok"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Škola pro děti (zkr.)"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mluvnická kategorie"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Plnit"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Islámský stát (zkr.)"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 3,
+      "cells": 6,
+      "clue": "Smetanova řeka"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Plný honiček"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Snění"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 1,
+      "cells": 4,
+      "clue": "Mikoláš, malíř"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Počet mušketýrů"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Svobodný pán"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Úval"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Vpřed"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Čili (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Vyznamenání"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Končetina"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Napořád"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Stejný (kniž.)"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 3,
+      "cells": 2,
+      "clue": "Hle (zast.)"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 4,
+      "clue": "Pracka"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Obuv"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Oblouk"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Trikot"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Nátěr"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Rýha v pleti"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Konec"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 8,
+      "cells": 5,
+      "clue": "Parkování"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zpravodajci z Langley"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 5,
+      "cells": 2,
+      "clue": "Veřejnoprávní televize (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Léčka"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Venku"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tlakový stroj"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Chem. zn. chloru"
+    }
+  ]
+}

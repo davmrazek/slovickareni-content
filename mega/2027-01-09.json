@@ -1,0 +1,459 @@
+{
+  "id": "2027-01-09",
+  "date": "2027-01-09",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "S",
+      "V",
+      "U",
+      "J",
+      "#",
+      "K",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "K",
+      "E",
+      "M",
+      "P",
+      "#",
+      "O",
+      "B",
+      "E",
+      "H"
+    ],
+    [
+      "#",
+      "C",
+      "O",
+      "#",
+      "#",
+      "U",
+      "R",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "M",
+      "O",
+      "C",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "Z",
+      "N",
+      "I",
+      "T",
+      "#",
+      "#",
+      "D",
+      "R"
+    ],
+    [
+      "S",
+      "L",
+      "I",
+      "N",
+      "A",
+      "#",
+      "R",
+      "Y",
+      "N"
+    ],
+    [
+      "M",
+      "I",
+      "T",
+      "#",
+      "Z",
+      "M",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "S",
+      "N",
+      "#",
+      "#",
+      "K",
+      "U",
+      "Z",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "F",
+      "R",
+      "A",
+      "Z",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "R",
+      "A",
+      "V",
+      "#",
+      "#",
+      "R",
+      "N",
+      "#"
+    ],
+    [
+      "H",
+      "U",
+      "R",
+      "A",
+      "#",
+      "S",
+      "V",
+      "A",
+      "H"
+    ],
+    [
+      "D",
+      "B",
+      "A",
+      "T",
+      "#",
+      "V",
+      "A",
+      "D",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Náležející sobě"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Značka výšky"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tábořiště"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Oběžná dráha"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nádoba na popel"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Zvládnout"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Zvučet"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Titul před jménem (zkr.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Plivanec"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Řeka Lorelei"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Držet"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 4,
+      "cells": 5,
+      "clue": "Proměna"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. cínu"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Pokožka"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 5,
+      "clue": "Floskule"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Obyčej"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 6,
+      "cells": 2,
+      "clue": "Radon (zn.)"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Útočný pokřik"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Stráň"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Hledět si"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kaz"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Slovensko (kód)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Záležitost"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 7,
+      "clue": "Dovolit"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Nippon (kód)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Trenér"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Kolosální"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Onen"
+    },
+    {
+      "num": 8,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Hle"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Šedesát sekund (zn.)"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Problém"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Gottwaldov (dříve)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 4,
+      "clue": "Tykev"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Ribonukleová kyselina (zkr.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Textovka"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 7,
+      "clue": "Náhradník"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Choť"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Obydlí kněze"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Hulákat"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hromadná doprava (zkr.)"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zadní strana"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Výše než"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Svatý (zkr.)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Citoslovce překvapení"
+    }
+  ]
+}

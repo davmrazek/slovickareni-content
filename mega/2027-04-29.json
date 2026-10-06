@@ -1,0 +1,459 @@
+{
+  "id": "2027-04-29",
+  "date": "2027-04-29",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "S",
+      "E",
+      "#",
+      "P",
+      "R",
+      "S",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "M",
+      "#",
+      "R",
+      "O",
+      "U",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "L",
+      "I",
+      "T",
+      "O",
+      "#",
+      "V",
+      "E",
+      "D",
+      "A"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "#",
+      "#",
+      "#",
+      "B",
+      "E",
+      "Z"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "T",
+      "#",
+      "M",
+      "A",
+      "L",
+      "Y"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "M",
+      "M",
+      "A",
+      "#",
+      "A",
+      "L"
+    ],
+    [
+      "K",
+      "S",
+      "#",
+      "E",
+      "X",
+      "I",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "U",
+      "K",
+      "O",
+      "L",
+      "#",
+      "L",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "R",
+      "O",
+      "K",
+      "#",
+      "#",
+      "#",
+      "D",
+      "L",
+      "E"
+    ],
+    [
+      "S",
+      "L",
+      "O",
+      "J",
+      "#",
+      "S",
+      "R",
+      "A",
+      "Z"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "E",
+      "N",
+      "A",
+      "#",
+      "S",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "D",
+      "O",
+      "L",
+      "#",
+      "T",
+      "Y"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Švédska"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Ukazovák"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tisíc metrů (zn.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 5,
+      "clue": "Potrubí"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Škoda"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Bádání"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Snad"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Keř s bílými okolíky"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Liják"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 4,
+      "clue": "Drobný"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Bovaryová křestním jménem"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. hliníku"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Počet kusů (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Vyhnanství"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Povinnost"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 5,
+      "cells": 4,
+      "clue": "Lupen"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kalendářní období"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ve shodě s (kniž.)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vrstva uhlí"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Setkání"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 1,
+      "cells": 5,
+      "clue": "Vrbová, herečka"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Slovenska"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 2,
+      "cells": 4,
+      "clue": "Modla"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Oslovení bez vykání"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Depo"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Vydání cenných papírů"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Rumunska"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Sportovní užitkové vozidlo (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Kupříkladu"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 5,
+      "clue": "… ještě nevečeřela"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 2,
+      "cells": 4,
+      "clue": "Potichu"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Útulek"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 4,
+      "clue": "Kyt"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 4,
+      "clue": "Elektronická pošta (hovor.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Mexiko (kód)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Směnný poměr"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Učiliště"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 6,
+      "cells": 4,
+      "clue": "Tahoun"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Sousedství"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Požitek"
+    },
+    {
+      "num": 30,
+      "row": 7,
+      "col": 8,
+      "cells": 5,
+      "clue": "Obtížný"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Otrava"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Taneční místnost"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
+    }
+  ]
+}

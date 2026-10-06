@@ -1,0 +1,473 @@
+{
+  "id": "2027-05-29",
+  "date": "2027-05-29",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "T",
+      "U",
+      "K",
+      "#",
+      "H",
+      "N",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "O",
+      "S",
+      "M",
+      "#",
+      "R",
+      "A",
+      "K",
+      "E",
+      "V"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "N",
+      "#",
+      "P",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "R",
+      "N",
+      "A",
+      "#",
+      "U",
+      "N",
+      "O",
+      "S"
+    ],
+    [
+      "N",
+      "O",
+      "#",
+      "S",
+      "K",
+      "L",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "J",
+      "#",
+      "A",
+      "U",
+      "#",
+      "M",
+      "U",
+      "J"
+    ],
+    [
+      "S",
+      "I",
+      "T",
+      "#",
+      "Z",
+      "S",
+      "#",
+      "H",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "U",
+      "C",
+      "E",
+      "T",
+      "#",
+      "R",
+      "N"
+    ],
+    [
+      "C",
+      "O",
+      "S",
+      "I",
+      "#",
+      "A",
+      "H",
+      "A",
+      "#"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "T",
+      "#",
+      "R",
+      "A",
+      "D",
+      "#"
+    ],
+    [
+      "Z",
+      "A",
+      "N",
+      "I",
+      "K",
+      "#",
+      "N",
+      "I",
+      "C"
+    ],
+    [
+      "#",
+      "L",
+      "I",
+      "T",
+      "R",
+      "#",
+      "A",
+      "T",
+      "P"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Lipid"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Okamžitě"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet chapadel chobotnice"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Sarkofág"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Ukazovací zájmeno (m. r.)"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Role"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 1,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kidnapping"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 4,
+      "clue": "Průhledný materiál"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Hle (zast.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. zlata"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (já)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pavučina"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 4,
+      "cells": 2,
+      "clue": "Škola pro děti (zkr.)"
+    },
+    {
+      "num": 28,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Hektar (zn.)"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 2,
+      "cells": 4,
+      "clue": "Konto"
+    },
+    {
+      "num": 31,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. radonu"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Něco"
+    },
+    {
+      "num": 34,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Heuréka (citosl.)"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dar bohům"
+    },
+    {
+      "num": 37,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Vyznamenání"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Konec"
+    },
+    {
+      "num": 40,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nula"
+    },
+    {
+      "num": 42,
+      "row": 11,
+      "col": 1,
+      "cells": 4,
+      "clue": "Decimetr krychlový"
+    },
+    {
+      "num": 43,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tenisová asociace (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Ono"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Soustava orgánů"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Pokolení"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Chorvatska"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Polovičně"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Národohospodář"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Kanón"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Dědina"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 3,
+      "cells": 4,
+      "clue": "Kosmická agentura USA (zkr.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (my)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Useň"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Zaplatit"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Jméno Nerudy"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Intuice"
+    },
+    {
+      "num": 27,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Celebrita"
+    },
+    {
+      "num": 30,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Čichat"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kterážto věc"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Pouzdro"
+    },
+    {
+      "num": 35,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Úrodná moravská oblast"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Koreje"
+    },
+    {
+      "num": 41,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Údaj na domě (zkr.)"
+    }
+  ]
+}

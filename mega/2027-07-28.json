@@ -1,0 +1,459 @@
+{
+  "id": "2027-07-28",
+  "date": "2027-07-28",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "D",
+      "V",
+      "D",
+      "#",
+      "#",
+      "S",
+      "V",
+      "A",
+      "H"
+    ],
+    [
+      "P",
+      "I",
+      "V",
+      "O",
+      "#",
+      "T",
+      "E",
+      "D",
+      "A"
+    ],
+    [
+      "H",
+      "R",
+      "O",
+      "B",
+      "#",
+      "R",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "J",
+      "A",
+      "#",
+      "I",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "I",
+      "#",
+      "U",
+      "L",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "S",
+      "E",
+      "#",
+      "U",
+      "M",
+      "E",
+      "L",
+      "E",
+      "C"
+    ],
+    [
+      "U",
+      "N",
+      "A",
+      "S",
+      "E",
+      "T",
+      "#",
+      "C",
+      "H"
+    ],
+    [
+      "L",
+      "A",
+      "P",
+      "A",
+      "T",
+      "#",
+      "S",
+      "I",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "Z",
+      "#",
+      "M",
+      "Y",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "R",
+      "E",
+      "#",
+      "U",
+      "N",
+      "I",
+      "K"
+    ],
+    [
+      "I",
+      "R",
+      "A",
+      "N",
+      "#",
+      "Z",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "S",
+      "Y",
+      "T",
+      "Y",
+      "#",
+      "#",
+      "K",
+      "U",
+      "L"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nosič filmu (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Stráň"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ležák"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Takže"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Rov"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ribonukleová kyselina (zkr.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 2,
+      "clue": "Ego"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Itálie"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Domek hlemýždě"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Švédska"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 6,
+      "clue": "Artista"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 6,
+      "clue": "Strhávat"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Helvetská konfederace (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Chytat"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 2,
+      "clue": "Kód Slovinska"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 2,
+      "clue": "Časová spojka"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kolektivní já"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Spor (kniž.)"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Útěk"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Persie"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Dáma"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nasycený"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zatlučená tyč"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nepřímá daň (zkr.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Vodní trychtýř"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Dvou druhů"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 7,
+      "clue": "Kopat na bránu"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Záklopka"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Programovací jazyk"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Hektar (zn.)"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dva zároveň"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Odměna"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Znát"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 4,
+      "clue": "Plynout"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Vzdech"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kuchyňské koření"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 7,
+      "clue": "Usedlý"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Přístroj"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Chlapeček"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Choť"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Jak se povídá"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Sediment"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Islámský stát (zkr.)"
+    }
+  ]
+}

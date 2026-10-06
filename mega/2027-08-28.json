@@ -1,0 +1,445 @@
+{
+  "id": "2027-08-28",
+  "date": "2027-08-28",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "S",
+      "E",
+      "N",
+      "A",
+      "T",
+      "#",
+      "R",
+      "U",
+      "M"
+    ],
+    [
+      "K",
+      "T",
+      "E",
+      "R",
+      "Y",
+      "#",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "L",
+      "I",
+      "C",
+      "#",
+      "P",
+      "O",
+      "Z",
+      "A",
+      "R"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "#",
+      "#",
+      "Z",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "A",
+      "#",
+      "#",
+      "T",
+      "V",
+      "R",
+      "Z",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "U",
+      "M",
+      "A",
+      "V",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "P",
+      "E",
+      "T",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "B",
+      "A",
+      "L",
+      "#",
+      "#",
+      "Z",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "T",
+      "#",
+      "#",
+      "B",
+      "A",
+      "T"
+    ],
+    [
+      "A",
+      "L",
+      "O",
+      "I",
+      "S",
+      "#",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "S",
+      "E",
+      "N",
+      "#",
+      "A",
+      "U",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "I",
+      "V",
+      "A",
+      "#",
+      "M",
+      "L",
+      "A",
+      "D",
+      "Y"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Valdštejnský palác (sídlo)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tuzemák"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Jaký"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Mistr svého oboru"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Svrchní strana"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Oheň"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kukadlo"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 2,
+      "clue": "Předložka"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. sodíku"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Pevnost"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 6,
+      "clue": "Zelená střecha Evropy"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Pozadí plochy"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Pouzdro"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Základní škola (zkr.)"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Litvy"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Strachovat (~ se)"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Jméno Rašína"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Adamova družka"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vidina"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tvůrce"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Bittová křestním jménem"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 4,
+      "cells": 5,
+      "clue": "Nezkušený"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Svah"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Morálka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Leccos"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Plošná míra"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Druh"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 7,
+      "clue": "Záloha"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Země strýčka Sama (zkr.)"
+    },
+    {
+      "num": 8,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Černá smrt"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 5,
+      "cells": 5,
+      "clue": "Protestovat (~ se)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Vazivo na okna"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka s 4. a 7. pádem"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Stereotyp"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 5,
+      "clue": "Spodek hory"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 2,
+      "clue": "Tohle"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Podnik"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 8,
+      "cells": 5,
+      "clue": "Vetchý"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Řecké písmeno"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přibližně"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Bulharská měna"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Strýček ~ (USA)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Včelí příbytek"
+    }
+  ]
+}

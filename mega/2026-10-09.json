@@ -1,0 +1,466 @@
+{
+  "id": "2026-10-09",
+  "date": "2026-10-09",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "P",
+      "A",
+      "R",
+      "#",
+      "#",
+      "S",
+      "A",
+      "L",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "#",
+      "P",
+      "O",
+      "K",
+      "U",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "T",
+      "A",
+      "S",
+      "T",
+      "N",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "P",
+      "E",
+      "R",
+      "K",
+      "#",
+      "O",
+      "N"
+    ],
+    [
+      "K",
+      "R",
+      "#",
+      "T",
+      "K",
+      "A",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "U",
+      "H",
+      "A",
+      "#",
+      "#",
+      "I",
+      "V",
+      "O"
+    ],
+    [
+      "O",
+      "B",
+      "R",
+      "#",
+      "#",
+      "U",
+      "C",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "T",
+      "O",
+      "M",
+      "#",
+      "S",
+      "I"
+    ],
+    [
+      "O",
+      "S",
+      "#",
+      "A",
+      "D",
+      "E",
+      "P",
+      "T",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "L",
+      "E",
+      "T",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "S",
+      "I",
+      "V",
+      "#",
+      "V",
+      "E",
+      "C"
+    ],
+    [
+      "#",
+      "B",
+      "A",
+      "R",
+      "#",
+      "#",
+      "O",
+      "S",
+      "N"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dvojice"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Taneční místnost"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pivo svrchně kvašené"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Dokud"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 2,
+      "cells": 7,
+      "clue": "Blaze"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 1,
+      "cells": 5,
+      "clue": "Klenot"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Muž"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. kryptonu"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 4,
+      "clue": "Pletivo"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Iris (bás.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Velikán"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Budoucí tovaryš"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 4,
+      "clue": "Kdysi nedělitelná částice"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. křemíku"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. osmia"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 3,
+      "cells": 5,
+      "clue": "Zasvěcenec"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 7,
+      "clue": "Saeculum"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pohoří"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Předmět"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Výčep"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Organizace v New Yorku (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Dětské sbohem"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 2,
+      "clue": "Znak aluminia"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Lépe řečeno (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Statuetka"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Dějství"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Klín (bás.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Obora"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Čtyřiadvacet hodin"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 4,
+      "clue": "Otcova sestra"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Roubenka"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Která osoba?"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nula"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zábava"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 4,
+      "clue": "Vodit"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Znát"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Satelitní anténa (hovor.)"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Šat"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet chapadel chobotnice"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Velitelství"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Ležák"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Středová přímka"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Španělska"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Čína (zkr.)"
+    }
+  ]
+}

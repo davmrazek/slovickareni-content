@@ -1,0 +1,480 @@
+{
+  "id": "2027-06-13",
+  "date": "2027-06-13",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "K",
+      "C",
+      "#",
+      "#",
+      "S",
+      "J",
+      "E",
+      "T"
+    ],
+    [
+      "Z",
+      "D",
+      "A",
+      "T",
+      "#",
+      "N",
+      "I",
+      "S",
+      "A"
+    ],
+    [
+      "N",
+      "O",
+      "S",
+      "I",
+      "T",
+      "#",
+      "N",
+      "O",
+      "C"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "S",
+      "A",
+      "M",
+      "Y",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "A",
+      "L",
+      "E",
+      "K",
+      "O",
+      "#",
+      "H",
+      "R"
+    ],
+    [
+      "V",
+      "I",
+      "Z",
+      "#",
+      "#",
+      "C",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "U",
+      "D",
+      "E",
+      "R",
+      "#",
+      "#",
+      "H",
+      "U",
+      "S"
+    ],
+    [
+      "R",
+      "S",
+      "#",
+      "A",
+      "R",
+      "M",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "D",
+      "Y",
+      "Z",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "H",
+      "L",
+      "#",
+      "S",
+      "I",
+      "P",
+      "K",
+      "A"
+    ],
+    [
+      "D",
+      "L",
+      "U",
+      "H",
+      "#",
+      "K",
+      "R",
+      "O",
+      "J"
+    ],
+    [
+      "R",
+      "E",
+      "K",
+      "A",
+      "#",
+      "#",
+      "S",
+      "V",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 2,
+      "clue": "Česká měna (zkr.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Sklouznout dolů"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Jevit se (~ se)"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Lužická řeka"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Mít na sobě"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Čas spánku"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Pouhý"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 6,
+      "clue": "Na hony"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Personalistika (zkr.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Odkaz v textu"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Rýha"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Náraz"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Mistr Jan"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Srbska"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 3,
+      "cells": 6,
+      "clue": "Španělské loďstvo"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Pokud"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zámořská hokejová liga (zkr.)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Střelka"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Závazek"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Uniforma"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Veletok"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 6,
+      "cells": 2,
+      "clue": "Svatý (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Která osoba?"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Mluvnická kategorie"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. cínu"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Odlišný"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Nejvyšší karta"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Podnos"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Značka prvku s protonovým číslem 30"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 4,
+      "clue": "Šeptem"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nuže"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Vláda"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nádvoří"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Syndrom imunodeficience"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Dá se"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 4,
+      "clue": "Prsa"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 8,
+      "cells": 4,
+      "clue": "Brva"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Heuréka (citosl.)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Vyznamenání"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Kočkovitá šelma"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 5,
+      "cells": 4,
+      "clue": "Chvilka"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Hoch"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Honeckerův stát (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Ukazovací citoslovce"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ňadro"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Železo i cín"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 8,
+      "cells": 2,
+      "clue": "Slovenské „i“"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Citoslovce překvapení"
+    }
+  ]
+}

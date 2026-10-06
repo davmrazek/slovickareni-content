@@ -1,0 +1,445 @@
+{
+  "id": "2026-11-12",
+  "date": "2026-11-12",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "V",
+      "P",
+      "R",
+      "E",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "S",
+      "L",
+      "A",
+      "V",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "#",
+      "U",
+      "D",
+      "A",
+      "V",
+      "A",
+      "T"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "S",
+      "A",
+      "#",
+      "I",
+      "N",
+      "U"
+    ],
+    [
+      "M",
+      "O",
+      "C",
+      "#",
+      "#",
+      "M",
+      "Z",
+      "I",
+      "K"
+    ],
+    [
+      "A",
+      "R",
+      "#",
+      "U",
+      "N",
+      "I",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "S",
+      "A",
+      "T",
+      "#",
+      "Z",
+      "S"
+    ],
+    [
+      "V",
+      "I",
+      "R",
+      "A",
+      "#",
+      "#",
+      "T",
+      "A",
+      "M"
+    ],
+    [
+      "L",
+      "V",
+      "I",
+      "#",
+      "V",
+      "S",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "P",
+      "E",
+      "L",
+      "A",
+      "#",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "R",
+      "A",
+      "Z",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "A",
+      "S",
+      "E",
+      "N",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Kupředu"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Uctít večírkem"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Opak do (předložka)"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Uvádět"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vykoupení"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ostatně (kniž.)"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vláda"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 5,
+      "cells": 4,
+      "clue": "Chvilka"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. argonu"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Spolek"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Zapisovat"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Škola pro děti (zkr.)"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Konfese"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Na onom místě"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Statečný"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Na každém místě"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Soubor"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nechť"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Vrazit"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Gingiva"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Versus (zkr.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Výhoda"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Doporučení"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Pilarová, zpěvačka"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Úsek koncernu"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Vzdor"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 4,
+      "clue": "Rozmrzání"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Číslice"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Lipid"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 2,
+      "cells": 2,
+      "clue": "Třebas (kniž.)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Vlastnit"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojené státy (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Pád (mluvnice)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Vložit údaje"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Mít dovoleno"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Canis lupus"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Lendl křestním jménem"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 2,
+      "clue": "Zde (hovor.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 4,
+      "cells": 4,
+      "clue": "Chlup na hlavě"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Černý povlak z komína"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Letopočet"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. india"
+    }
+  ]
+}

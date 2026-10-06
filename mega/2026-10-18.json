@@ -1,0 +1,466 @@
+{
+  "id": "2026-10-18",
+  "date": "2026-10-18",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "A",
+      "S",
+      "P",
+      "O",
+      "N",
+      "#",
+      "M",
+      "H",
+      "D"
+    ],
+    [
+      "G",
+      "A",
+      "R",
+      "D",
+      "A",
+      "#",
+      "L",
+      "O",
+      "V"
+    ],
+    [
+      "#",
+      "L",
+      "E",
+      "V",
+      "#",
+      "Z",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "E",
+      "J",
+      "A",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "M",
+      "O",
+      "T",
+      "A",
+      "#",
+      "O",
+      "S",
+      "M"
+    ],
+    [
+      "N",
+      "I",
+      "S",
+      "A",
+      "#",
+      "#",
+      "#",
+      "M",
+      "Y"
+    ],
+    [
+      "E",
+      "S",
+      "#",
+      "#",
+      "#",
+      "U",
+      "M",
+      "E",
+      "T"
+    ],
+    [
+      "D",
+      "A",
+      "V",
+      "#",
+      "C",
+      "T",
+      "Y",
+      "R",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "P",
+      "O",
+      "R",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "Z",
+      "A",
+      "T",
+      "O",
+      "#",
+      "P",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "U",
+      "#",
+      "V",
+      "E",
+      "N",
+      "E",
+      "C"
+    ],
+    [
+      "T",
+      "I",
+      "P",
+      "#",
+      "S",
+      "T",
+      "A",
+      "N",
+      "I"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Přinejmenším"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hromadná doprava (zkr.)"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Stráž"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Honba"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Bulharská měna"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Manželka"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Kdovíjak"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Látka"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Počet nohou pavouka"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Lužická řeka"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kolektivní já"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Snížené E"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ovládat"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zástup"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Počet evangelií"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 5,
+      "clue": "Tělesná kultura"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Avšak"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Požívat nápoj"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Kytice do kruhu"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rada"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 4,
+      "cells": 5,
+      "clue": "Parkování"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. stříbra"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Síň"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Vysílání"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Pomsta"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Bílý nápoj"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Štvanice"
+    },
+    {
+      "num": 8,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Dvojka"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 2,
+      "clue": "Ego"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Okamžitě"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Terina"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 4,
+      "clue": "Kurz"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 8,
+      "cells": 4,
+      "clue": "Umývání"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Zakusit"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Paseka"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vchod"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "Tázací zájmeno (na věc)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 3,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Existovat"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Spojka záporná"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Onen"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Versus (zkr.)"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    }
+  ]
+}

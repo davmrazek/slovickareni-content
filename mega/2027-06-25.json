@@ -1,0 +1,459 @@
+{
+  "id": "2027-06-25",
+  "date": "2027-06-25",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "D",
+      "P",
+      "H",
+      "#",
+      "#",
+      "G",
+      "P",
+      "S",
+      "#"
+    ],
+    [
+      "U",
+      "R",
+      "A",
+      "Z",
+      "#",
+      "R",
+      "O",
+      "K",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "C",
+      "I",
+      "#",
+      "#",
+      "K",
+      "R",
+      "K"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "P",
+      "T",
+      "#",
+      "L",
+      "I",
+      "D"
+    ],
+    [
+      "C",
+      "T",
+      "K",
+      "#",
+      "U",
+      "Z",
+      "E",
+      "N",
+      "Y"
+    ],
+    [
+      "M",
+      "Y",
+      "#",
+      "V",
+      "C",
+      "A",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "A",
+      "N",
+      "R",
+      "#",
+      "T",
+      "J"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "S",
+      "A",
+      "#",
+      "P",
+      "R",
+      "O"
+    ],
+    [
+      "Z",
+      "A",
+      "K",
+      "#",
+      "K",
+      "R",
+      "E",
+      "V",
+      "#"
+    ],
+    [
+      "N",
+      "D",
+      "R",
+      "#",
+      "#",
+      "O",
+      "C",
+      "A",
+      "S"
+    ],
+    [
+      "#",
+      "K",
+      "Y",
+      "C",
+      "#",
+      "H",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "A",
+      "T",
+      "P",
+      "#",
+      "#",
+      "T",
+      "Y",
+      "M"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Daň ze zboží (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Navigační systém (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Poranění"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kalendářní období"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Být schopen"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hrdlo"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Šepot"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pospolitost"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tisková agentura (zkr.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Udírnou upravený"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby mn. č."
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Nepozdě"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Kategorie"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "To jest (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Itinerář"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Školák"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 4,
+      "cells": 4,
+      "clue": "Tělní tekutina"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Honeckerův stát (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ohon"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 1,
+      "cells": 3,
+      "clue": "Brak"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hleď (hovor.)"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Tenisová asociace (zkr.)"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Družstvo"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Stavení"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Obyčejný"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Diakritické znaménko"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Řecka"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Snížení"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Kredenc"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 3,
+      "clue": "Zdrhovadlo"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "V kterou dobu"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Antarktický pták"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Délková jednotka (zn.)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Výheň"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (vy)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Zastřít"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Permanentní"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 8,
+      "cells": 2,
+      "clue": "Hovorové ano"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Čili (zkr.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Fišarová křestním jménem"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Plomba"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kout"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Na toto místo"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Číslo popisné (zkr.)"
+    }
+  ]
+}

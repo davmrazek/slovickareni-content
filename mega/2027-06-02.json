@@ -1,0 +1,438 @@
+{
+  "id": "2027-06-02",
+  "date": "2027-06-02",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "O",
+      "K",
+      "U",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "A",
+      "P",
+      "R",
+      "S",
+      "E",
+      "K",
+      "#"
+    ],
+    [
+      "D",
+      "O",
+      "S",
+      "T",
+      "#",
+      "B",
+      "L",
+      "O",
+      "G"
+    ],
+    [
+      "O",
+      "B",
+      "T",
+      "I",
+      "Z",
+      "#",
+      "A",
+      "T",
+      "P"
+    ],
+    [
+      "M",
+      "Y",
+      "#",
+      "C",
+      "N",
+      "#",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "U",
+      "T",
+      "O",
+      "K",
+      "#",
+      "B",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "Y",
+      "#",
+      "O",
+      "T",
+      "O",
+      "K"
+    ],
+    [
+      "P",
+      "U",
+      "L",
+      "#",
+      "C",
+      "D",
+      "#",
+      "P",
+      "A"
+    ],
+    [
+      "A",
+      "H",
+      "A",
+      "#",
+      "P",
+      "O",
+      "P",
+      "I",
+      "S"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "M",
+      "#",
+      "V",
+      "I",
+      "L",
+      "A"
+    ],
+    [
+      "#",
+      "L",
+      "A",
+      "S",
+      "K",
+      "A",
+      "V",
+      "Y",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "E",
+      "S",
+      "T",
+      "O",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Dokud"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Svazek světla"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dosyta"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Webový zápisník"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Potíž"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "A tak podobně (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kolektivní já"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Číny"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "„Srdečně …“ (závěr dopisu)"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ofenziva"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 2,
+      "clue": "Dokonce (kniž.)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Zdvořilé oslovení"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Edém"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Jedna ze dvou stejných částí"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kompaktní disk"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. protaktinia"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hle"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Líčení"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Počet divů světa"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Rodinné sídlo"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Vlídný"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Základ pečiva"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Léč"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 7,
+      "clue": "Vizuální"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Koreje"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Flash disk (hovor. zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 7,
+      "clue": "Konávat"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Zdržení"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 4,
+      "clue": "Značka výšky"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "K sobě do bytu"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Satelitní navigace (zkr.)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chemická značka zinku"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Řídit"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 7,
+      "clue": "Uspět"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Namazaný"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Pokladna"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pruh (země, látky)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Roh"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "Údaj na domě (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Ležák"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Bohoslužba"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Počet kusů (zkr.)"
+    }
+  ]
+}

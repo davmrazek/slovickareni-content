@@ -1,0 +1,431 @@
+{
+  "id": "2027-08-03",
+  "date": "2027-08-03",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "B",
+      "R",
+      "A",
+      "T",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "R",
+      "O",
+      "G",
+      "R",
+      "A",
+      "M",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "U",
+      "D",
+      "#",
+      "U",
+      "Z",
+      "E",
+      "L"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "#",
+      "#",
+      "S",
+      "E",
+      "N",
+      "O"
+    ],
+    [
+      "C",
+      "T",
+      "E",
+      "N",
+      "I",
+      "#",
+      "M",
+      "I",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "E",
+      "O",
+      "S",
+      "#",
+      "C",
+      "D"
+    ],
+    [
+      "H",
+      "R",
+      "#",
+      "Z",
+      "N",
+      "I",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      "#",
+      "T",
+      "R",
+      "A",
+      "N",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "P",
+      "#",
+      "#",
+      "P",
+      "A",
+      "N"
+    ],
+    [
+      "T",
+      "E",
+      "L",
+      "E",
+      "#",
+      "B",
+      "E",
+      "H",
+      "#"
+    ],
+    [
+      "#",
+      "Z",
+      "A",
+      "P",
+      "N",
+      "U",
+      "T",
+      "Y",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "R",
+      "I",
+      "D",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Sourozenec"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Plán"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Dřevěná nádoba na pivo"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pruh (země, látky)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Sušená tráva"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Lektura"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pokoj"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Janáček křestním jménem"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kompaktní disk"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Chorvatska"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Rozléhat se"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Burácení"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Extáze"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Stůj"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Muž (zdvořile)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Hlupák (hovor.)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kurz"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Spuštěný"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Avenue"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Belgická metropole"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Pokolení"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. stříbra"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hnojivo ptáků"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Naráz"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Tvořit"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 5,
+      "clue": "Převodník"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Britský šlechtic"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Politicky korektní (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dokud ne"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Kation či anion"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Anglický šlechtický titul"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Plná dlaň"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Článková vazba"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Pozadí plochy"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Telefonovat"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Obnažený"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 8,
+      "cells": 2,
+      "clue": "Znak stanna"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Koření"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Spojka vylučovací (…, nebo)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. niklu"
+    }
+  ]
+}

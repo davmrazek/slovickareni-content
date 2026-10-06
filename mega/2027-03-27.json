@@ -1,0 +1,445 @@
+{
+  "id": "2027-03-27",
+  "date": "2027-03-27",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "S",
+      "A",
+      "N",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "R",
+      "I",
+      "R",
+      "O",
+      "D",
+      "A",
+      "#"
+    ],
+    [
+      "O",
+      "L",
+      "E",
+      "J",
+      "#",
+      "S",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "E",
+      "L",
+      "#",
+      "L",
+      "I",
+      "H"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "#",
+      "Z",
+      "E",
+      "#",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "L",
+      "I",
+      "V",
+      "#",
+      "A",
+      "J"
+    ],
+    [
+      "S",
+      "R",
+      "#",
+      "O",
+      "C",
+      "A",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "E",
+      "#",
+      "D",
+      "K",
+      "#",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "E",
+      "G",
+      "O",
+      "#",
+      "A",
+      "N",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "M",
+      "A",
+      "P",
+      "A",
+      "#",
+      "O",
+      "T",
+      "E",
+      "C"
+    ],
+    [
+      "#",
+      "L",
+      "E",
+      "D",
+      "O",
+      "V",
+      "E",
+      "C",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "A",
+      "N",
+      "E",
+      "C",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Korespondence"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Natura"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tekutý tuk"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Červená křestním jménem"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Sud"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Alkohol"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 2,
+      "clue": "Předložka"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tohle"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Působení"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Slovenské „i“"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Slovenská republika (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Ohon"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zápor"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 3,
+      "cells": 2,
+      "clue": "Jutská země (kód)"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zvuk určité výšky"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Já"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Či"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Plán krajiny"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Rodič"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Osud Titaniku"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Rej"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Hanácké město"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Týl"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Plošná míra"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Frňák"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Miláček davů"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Záměr"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 5,
+      "clue": "Ekbergová"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Jeden i druhý"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Lodnický pozdrav"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Míra sirupu"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Pilarová, zpěvačka"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Koráb"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Shromáždění stavů"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Police"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Pinzl"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Ves"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Čas spánku"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Zase"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nedávno"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Lovelaceová, průkopnice programování"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Muž"
+    }
+  ]
+}

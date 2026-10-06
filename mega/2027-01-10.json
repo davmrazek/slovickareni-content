@@ -1,0 +1,459 @@
+{
+  "id": "2027-01-10",
+  "date": "2027-01-10",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "J",
+      "O",
+      "#",
+      "C",
+      "T",
+      "K"
+    ],
+    [
+      "#",
+      "K",
+      "R",
+      "A",
+      "S",
+      "#",
+      "P",
+      "A",
+      "R"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "Z",
+      "M",
+      "A",
+      "#",
+      "N",
+      "U"
+    ],
+    [
+      "R",
+      "A",
+      "N",
+      "Y",
+      "#",
+      "L",
+      "P",
+      "E",
+      "T"
+    ],
+    [
+      "U",
+      "R",
+      "O",
+      "K",
+      "#",
+      "P",
+      "E",
+      "C",
+      "E"
+    ],
+    [
+      "H",
+      "A",
+      "#",
+      "#",
+      "B",
+      "Y",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "V",
+      "A",
+      "#",
+      "#",
+      "C",
+      "O"
+    ],
+    [
+      "S",
+      "V",
+      "A",
+      "L",
+      "#",
+      "S",
+      "L",
+      "I",
+      "B"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "A",
+      "#",
+      "L",
+      "I",
+      "T",
+      "O"
+    ],
+    [
+      "A",
+      "G",
+      "#",
+      "K",
+      "L",
+      "A",
+      "V",
+      "I",
+      "R"
+    ],
+    [
+      "R",
+      "O",
+      "H",
+      "#",
+      "O",
+      "B",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "U",
+      "#",
+      "V",
+      "Y",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Hovorové ano"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tisková kancelář (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Vápencová krajina"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Několik"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Krevní složka"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Citoslovce pobídky"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Časný"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ulpívat"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Bankovní výnos"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 5,
+      "cells": 4,
+      "clue": "Starost"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Citoslovce překvapení"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 4,
+      "cells": 3,
+      "clue": "Obydlí"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 3,
+      "clue": "Dvojka"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Triceps"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 5,
+      "cells": 4,
+      "clue": "Závazek"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Otec (hovor.)"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Škoda"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak argenta"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 3,
+      "cells": 6,
+      "clue": "Piano"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Parůžek"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Poškozený"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 4,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby mn. č."
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Mluva"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Počet nohou pavouka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Číslo popisné (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Rej"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 8,
+      "cells": 5,
+      "clue": "Surově"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Issová křestním jménem"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 2,
+      "cells": 4,
+      "clue": "Úsvit"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pás"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pohoří s Mont Blancem"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Počet prstů"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. barya"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 3,
+      "clue": "Věnovat"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Souprava vagonů"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Čichat"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Branže"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kmetství"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Lůžkový ~"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 5,
+      "cells": 5,
+      "clue": "Chabý"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 4,
+      "clue": "Naživo (angl.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Honba"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Maďarska"
+    }
+  ]
+}

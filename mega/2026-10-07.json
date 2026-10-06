@@ -1,0 +1,459 @@
+{
+  "id": "2026-10-07",
+  "date": "2026-10-07",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "M",
+      "E",
+      "Z",
+      "#",
+      "#",
+      "S",
+      "P",
+      "I",
+      "S"
+    ],
+    [
+      "N",
+      "E",
+      "B",
+      "O",
+      "#",
+      "K",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "N",
+      "#",
+      "#",
+      "R",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "U",
+      "Z",
+      "I",
+      "V",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "#",
+      "S",
+      "N",
+      "A",
+      "D",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "#",
+      "V",
+      "E",
+      "N",
+      "K",
+      "O",
+      "V"
+    ],
+    [
+      "M",
+      "I",
+      "N",
+      "U",
+      "T",
+      "A",
+      "#",
+      "B",
+      "I"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "C",
+      "I",
+      "#",
+      "V",
+      "R",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "I",
+      "N",
+      "S",
+      "K",
+      "Y",
+      "#"
+    ],
+    [
+      "T",
+      "R",
+      "H",
+      "#",
+      "#",
+      "M",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "Z",
+      "N",
+      "A",
+      "T",
+      "#",
+      "S",
+      "A",
+      "C",
+      "H"
+    ],
+    [
+      "N",
+      "A",
+      "T",
+      "O",
+      "#",
+      "#",
+      "D",
+      "N",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hranice"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Raději"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Spojka volby"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mocca"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 2,
+      "cells": 2,
+      "clue": "Zájmeno 3. osoby"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pokolení"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 6,
+      "clue": "Konzumovat"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Trojka"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Asi"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Třebas (kniž.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 6,
+      "clue": "Provincie"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 6,
+      "clue": "Chvilka"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. bismutu"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Plynout"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hlubinný otvor"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 2,
+      "cells": 6,
+      "clue": "Mandarínský"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tržiště"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 2,
+      "clue": "Mililitr (zn.)"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ovládat"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hrozba králi"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Potom"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nosič dědičnosti (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. manganu"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 2,
+      "clue": "Kód Estonska"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Artikl"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Slovenska"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Kumpán"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Jahelka křestním jménem"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Park"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 3,
+      "cells": 3,
+      "clue": "Ti druzí"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 5,
+      "clue": "Vymezit"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Město na Bečvě"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Jméno Letenské"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Onde"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 5,
+      "clue": "Chvalitebný"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Oproti"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Splétat"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Opustit"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Depozit"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Textovka"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "To znamená (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Ribonukleová kyselina (zkr.)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Ono"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Číny"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Hektar (zn.)"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "2027-05-20",
+  "date": "2027-05-20",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "N",
+      "O",
+      "#",
+      "O",
+      "S",
+      "M",
+      "#",
+      "U",
+      "L"
+    ],
+    [
+      "I",
+      "S",
+      "#",
+      "R",
+      "E",
+      "L",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "J",
+      "O",
+      "S",
+      "E",
+      "F",
+      "#",
+      "N",
+      "I",
+      "T"
+    ],
+    [
+      "A",
+      "B",
+      "E",
+      "L",
+      "#",
+      "#",
+      "D",
+      "N",
+      "O"
+    ],
+    [
+      "K",
+      "A",
+      "M",
+      "#",
+      "O",
+      "H",
+      "E",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "A",
+      "L",
+      "Y",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "I",
+      "R",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "K",
+      "R",
+      "A",
+      "L",
+      "#",
+      "H",
+      "D",
+      "P"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "#",
+      "#",
+      "P",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "V",
+      "L",
+      "K",
+      "#",
+      "A",
+      "R",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "U",
+      "N",
+      "O",
+      "S",
+      "N",
+      "Y",
+      "#",
+      "I",
+      "N"
+    ],
+    [
+      "T",
+      "I",
+      "#",
+      "V",
+      "I",
+      "C",
+      "#",
+      "S",
+      "I"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Počet nohou pavouka"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Brť"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Islámský stát (zkr.)"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 3,
+      "cells": 6,
+      "clue": "Pořad"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Lada křestním jménem"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Vlákno příběhu"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Oběť první vraždy"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Úpadek (přen.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce směru"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Žár"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 4,
+      "cells": 4,
+      "clue": "Nepatrný"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 1,
+      "cells": 4,
+      "clue": "Rozlehlý"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Panovník"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ukazatel ekonomiky (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Doba"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Reprezentační večer"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šedá šelma"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Zápasiště"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 0,
+      "cells": 6,
+      "clue": "Přijatelný"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. india"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Oni (muži)"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 3,
+      "cells": 3,
+      "clue": "Plus"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Slovinska"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vůbec ne"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Individuum"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Katolická tělocvičná jednota"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Boss"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Mililitr (zn.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Působivý"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Doba žní"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 6,
+      "cells": 5,
+      "clue": "Pražská křižovatka"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 2,
+      "cells": 3,
+      "clue": "K nám"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Mýlka"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 2,
+      "clue": "Hektar (zn.)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Kamenný"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 5,
+      "clue": "Zelený ostrov"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hele (kniž.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Mužské jméno (Diviš)"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 8,
+      "cells": 5,
+      "clue": "Dopis"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pražská technika (zkr.)"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ven"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Spojka záporná"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Severovýchod (zkr.)"
+    }
+  ]
+}

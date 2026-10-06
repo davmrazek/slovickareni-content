@@ -1,0 +1,459 @@
+{
+  "id": "2027-08-15",
+  "date": "2027-08-15",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "D",
+      "P",
+      "H",
+      "#",
+      "K",
+      "G",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "R",
+      "M",
+      "#",
+      "L",
+      "I",
+      "D"
+    ],
+    [
+      "J",
+      "A",
+      "R",
+      "O",
+      "#",
+      "H",
+      "U",
+      "G",
+      "O"
+    ],
+    [
+      "A",
+      "G",
+      "#",
+      "H",
+      "R",
+      "A",
+      "B",
+      "A",
+      "L"
+    ],
+    [
+      "N",
+      "A",
+      "P",
+      "R",
+      "E",
+      "D",
+      "#",
+      "N",
+      "U"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "A",
+      "K",
+      "#",
+      "P",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "C",
+      "#",
+      "T",
+      "M",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "R",
+      "#",
+      "R",
+      "O",
+      "Z",
+      "K",
+      "O",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "K",
+      "O",
+      "R",
+      "D",
+      "#",
+      "C",
+      "A"
+    ],
+    [
+      "S",
+      "V",
+      "A",
+      "H",
+      "#",
+      "O",
+      "B",
+      "E",
+      "T"
+    ],
+    [
+      "T",
+      "I",
+      "P",
+      "#",
+      "S",
+      "V",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "R",
+      "#",
+      "B",
+      "Y",
+      "T",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Daň ze zboží (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Tisíc gramů (zn.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Půvab"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pospolitost"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vesna"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Autor Bídníků"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. stříbra"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 6,
+      "clue": "Bohumil, spisovatel"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 6,
+      "clue": "Nejdřív"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tak tedy (citosl.)"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pytel"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. platiny"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 1,
+      "cells": 2,
+      "clue": "Politicky korektní (zkr.)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 4,
+      "cells": 3,
+      "clue": "Temno"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Chorvatska"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 3,
+      "cells": 6,
+      "clue": "Blaho"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 6,
+      "clue": "Maximum"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Kanady"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Stráň"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Poškozený"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Odhad"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Jas"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. stroncia"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Existovat"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Věnování"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Nezdar"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Nu"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Kroužek"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Titán"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Islandský epos"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 8,
+      "cells": 4,
+      "clue": "Ke dnu"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Jméno Nerudy"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Užovka"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Magnificence"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Plast (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Následně"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Výčnělek skály"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Výplatní"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Plná dlaň"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 3,
+      "cells": 3,
+      "clue": "Kout"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Kyselina octová"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Roucho"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Šupináč"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jednotka informace"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. antimonu"
+    }
+  ]
+}

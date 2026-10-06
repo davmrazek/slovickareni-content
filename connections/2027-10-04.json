@@ -1,0 +1,41 @@
+{
+  "id": "conn-656",
+  "groups": [
+    {
+      "name": "Podzimní plody keřů",
+      "words": [
+        "ŠÍPKY",
+        "TRNKY",
+        "JEŘABINY",
+        "BEZINKY"
+      ]
+    },
+    {
+      "name": "Písně Beatles",
+      "words": [
+        "YESTERDAY",
+        "HELP",
+        "MICHELLE",
+        "GIRL"
+      ]
+    },
+    {
+      "name": "Kniha džunglí",
+      "words": [
+        "MAUGLÍ",
+        "BALÚ",
+        "BAGÍRA",
+        "KÁ"
+      ]
+    },
+    {
+      "name": "___ pomoc",
+      "words": [
+        "PRVNÍ",
+        "HUMANITÁRNÍ",
+        "SOUSEDSKÁ",
+        "PRÁVNÍ"
+      ]
+    }
+  ]
+}

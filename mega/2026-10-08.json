@@ -1,0 +1,466 @@
+{
+  "id": "2026-10-08",
+  "date": "2026-10-08",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "C",
+      "U",
+      "K",
+      "R",
+      "#",
+      "H",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "I",
+      "V",
+      "A",
+      "N",
+      "#",
+      "L",
+      "E",
+      "Z",
+      "#"
+    ],
+    [
+      "S",
+      "E",
+      "M",
+      "#",
+      "P",
+      "E",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "V",
+      "A",
+      "#",
+      "P",
+      "V",
+      "C"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "O",
+      "S",
+      "T",
+      "#",
+      "Z",
+      "A"
+    ],
+    [
+      "S",
+      "V",
+      "A",
+      "L",
+      "#",
+      "A",
+      "I",
+      "D",
+      "S"
+    ],
+    [
+      "T",
+      "E",
+      "D",
+      "A",
+      "#",
+      "K",
+      "R",
+      "Y",
+      "T"
+    ],
+    [
+      "A",
+      "T",
+      "#",
+      "T",
+      "A",
+      "T",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "V",
+      "A",
+      "S",
+      "#",
+      "B",
+      "O",
+      "N",
+      "U",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "R",
+      "Y",
+      "#",
+      "S",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "C",
+      "I",
+      "A",
+      "#",
+      "U",
+      "K",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "O",
+      "S",
+      "M",
+      "#",
+      "D",
+      "Y",
+      "K",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Sacharóza"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Zábava"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Hrozný car (jméno)"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 3,
+      "clue": "Nepravda"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Na toto místo"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Hafan"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pícnina"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Plast (zkr.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Gril"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Biceps"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Syndrom imunodeficience"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tudíž (hovor.)"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Bunkr"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nechť"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 3,
+      "cells": 4,
+      "clue": "Fotr (slang.)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (vy)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Přídavek"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Údajně"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Deset desítek"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zpravodajci z Langley"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Akt"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Počet chapadel chobotnice"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Krátká bodná zbraň"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Studovat"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Hypotéka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 7,
+      "clue": "Kumpán"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. radonu"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ukazovací citoslovce"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Lépe řečeno (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Časová spojka"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Cestovní doklad"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 5,
+      "clue": "Křičet"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 7,
+      "cells": 4,
+      "clue": "Pokaždé"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 8,
+      "cells": 4,
+      "clue": "Úsek"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 5,
+      "clue": "Tak"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Situace"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 1,
+      "cells": 4,
+      "clue": "Syntaktická jednotka"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 6,
+      "cells": 7,
+      "clue": "Perský"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Spojka účelová"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Dokument"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Atak"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Červená křestním jménem"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Kostra"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 1,
+      "cells": 2,
+      "clue": "Tázací zájmeno (na věc)"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Končetina"
+    }
+  ]
+}

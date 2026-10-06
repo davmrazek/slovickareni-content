@@ -1,0 +1,473 @@
+{
+  "id": "2026-09-30",
+  "date": "2026-09-30",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "S",
+      "M",
+      "E",
+      "T",
+      "#",
+      "S",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "M",
+      "I",
+      "M",
+      "O",
+      "#",
+      "T",
+      "R",
+      "S"
+    ],
+    [
+      "P",
+      "R",
+      "S",
+      "A",
+      "#",
+      "D",
+      "R",
+      "E",
+      "N"
+    ],
+    [
+      "A",
+      "K",
+      "T",
+      "#",
+      "#",
+      "V",
+      "E",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "S",
+      "A",
+      "D",
+      "I",
+      "T"
+    ],
+    [
+      "N",
+      "A",
+      "#",
+      "A",
+      "T",
+      "#",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "A",
+      "T",
+      "P",
+      "#",
+      "A",
+      "Z",
+      "#",
+      "K",
+      "S"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "A",
+      "V",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "O",
+      "S",
+      "#",
+      "#",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "Z",
+      "I",
+      "T",
+      "I",
+      "#",
+      "S",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "D",
+      "E",
+      "N",
+      "#",
+      "L",
+      "I",
+      "T",
+      "R",
+      "#"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "#",
+      "V",
+      "T",
+      "O",
+      "M",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Mít dovoleno"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Deset desítek"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Kromě"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Svazek"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Hrudník"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pulpa"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nahé tělo v umění"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Z domu"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 2,
+      "cells": 7,
+      "clue": "Zabrat"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 2,
+      "clue": "Nechť"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Spojka záporná"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "A tak podobně (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 4,
+      "cells": 2,
+      "clue": "Časová spojka"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Počet kusů (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 0,
+      "cells": 7,
+      "clue": "Konávat"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Úděl"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Mistr svého oboru"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Bytí"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Asi"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Opak noci"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Objemová míra"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 4,
+      "cells": 4,
+      "clue": "Znenadání"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Vánoční strom"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Lokalita"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Destinnová křestním jménem"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Ono"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Popeleční den"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Cvičení"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Spojené národy (zkr.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. protaktinia"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Dvojka"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Dokonce (kniž.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Kondice"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Strom s červenými míšky"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Výše než"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Dílna umělce"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Sporák"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 3,
+      "cells": 3,
+      "clue": "Přibližně"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Tenhle"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Půvab"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 8,
+      "cells": 2,
+      "clue": "Předložka původu"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Na tomto místě"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Spojovat nití"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Lotyšsko (kód)"
+    }
+  ]
+}

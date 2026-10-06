@@ -1,0 +1,466 @@
+{
+  "id": "2026-09-29",
+  "date": "2026-09-29",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "T",
+      "I",
+      "H",
+      "A",
+      "#",
+      "#",
+      "K",
+      "U",
+      "N"
+    ],
+    [
+      "I",
+      "V",
+      "A",
+      "N",
+      "#",
+      "D",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "P",
+      "O",
+      "#",
+      "G",
+      "R",
+      "A",
+      "F",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "L",
+      "O",
+      "V",
+      "E",
+      "K",
+      "#"
+    ],
+    [
+      "B",
+      "U",
+      "T",
+      "I",
+      "K",
+      "#",
+      "#",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "E",
+      "#",
+      "#",
+      "K",
+      "D",
+      "E"
+    ],
+    [
+      "B",
+      "I",
+      "T",
+      "#",
+      "#",
+      "P",
+      "R",
+      "A",
+      "H"
+    ],
+    [
+      "A",
+      "L",
+      "#",
+      "#",
+      "B",
+      "R",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "I",
+      "Z",
+      "R",
+      "A",
+      "E",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "A",
+      "R",
+      "S",
+      "#",
+      "M",
+      "L"
+    ],
+    [
+      "H",
+      "N",
+      "E",
+      "D",
+      "#",
+      "T",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "M",
+      "I",
+      "T",
+      "#",
+      "#",
+      "O",
+      "T",
+      "E",
+      "C"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Břemeno"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Oř"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Lendl křestním jménem"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Dál"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 4,
+      "clue": "Hrabě (něm.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 6,
+      "clue": "Tvor"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Módní obchůdek"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zájmeno 3. osoby"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Největší světadíl"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Na kterém místě"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tlouct"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Vchod"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. hliníku"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Portál"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 1,
+      "cells": 6,
+      "clue": "Jákobovo jméno"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 2,
+      "cells": 4,
+      "clue": "Bůh války"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Mililitr (zn.)"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vzápětí"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Potichu"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Držet"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Páter"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rada"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Jahelka křestním jménem"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Hektar (zn.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Albion"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Turek"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Brť"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. neonu"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 3,
+      "clue": "Zástup"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Léto (zast.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 4,
+      "clue": "Vážit si"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 5,
+      "clue": "Město Malé mořské víly"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Stařena"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 5,
+      "clue": "Snaha"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 8,
+      "cells": 4,
+      "clue": "Láska"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 4,
+      "clue": "Monarcha"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Leč"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Jednotka tlaku"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Spleť"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Řeholní společenství"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Bohoslužba"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Nýbrž (kniž.)"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nu"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. niklu"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Kód Itálie"
+    }
+  ]
+}

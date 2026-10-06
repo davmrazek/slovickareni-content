@@ -1,0 +1,445 @@
+{
+  "id": "2027-03-04",
+  "date": "2027-03-04",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "D",
+      "V",
+      "D",
+      "#",
+      "#",
+      "A",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "U",
+      "C",
+      "E",
+      "T",
+      "#",
+      "L",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "C",
+      "H",
+      "L",
+      "A",
+      "P",
+      "E",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "O",
+      "N",
+      "B",
+      "A",
+      "#",
+      "H",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "D",
+      "I",
+      "L",
+      "#",
+      "#",
+      "T",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "E",
+      "M",
+      "P",
+      "#",
+      "C",
+      "O"
+    ],
+    [
+      "A",
+      "J",
+      "#",
+      "T",
+      "L",
+      "A",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "#",
+      "#",
+      "T",
+      "R",
+      "I",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "U",
+      "#",
+      "P",
+      "R",
+      "A",
+      "V",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "E",
+      "L",
+      "I",
+      "M",
+      "E",
+      "K"
+    ],
+    [
+      "#",
+      "P",
+      "A",
+      "R",
+      "#",
+      "T",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "O",
+      "S",
+      "A",
+      "#",
+      "#",
+      "K",
+      "A",
+      "P"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nosič filmu (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Spojka záporná"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Faktura"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 3,
+      "clue": "Bor"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 7,
+      "clue": "Hoch"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Štvanice"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Drama"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Část"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Onen"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Tábořiště"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Slovenské „i“"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Pascaly"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Síň"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 5,
+      "cells": 3,
+      "clue": "Trojka"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Nárok"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 2,
+      "cells": 7,
+      "clue": "Obal jogurtu"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 1,
+      "cells": 3,
+      "clue": "Několik"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Otcova sestra"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Hřídel kola"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zvuk krůpěje"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Mysl"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Vstup"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Manuální pracovník"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Leč"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Ať"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Islandu"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 6,
+      "clue": "Dotykový počítač"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 2,
+      "clue": "Dětské sbohem"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 3,
+      "clue": "Jazyk"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 8,
+      "cells": 3,
+      "clue": "Ba"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Tisícina litru (zn.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 6,
+      "clue": "Přináležet"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přibližně"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 1,
+      "cells": 3,
+      "clue": "Žižka křestním jménem"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Obchůdek"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Evangelista"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Bartošová křestním jménem"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 4,
+      "cells": 2,
+      "clue": "Polsko (kód)"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Střešní žlab"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. polonia"
+    }
+  ]
+}

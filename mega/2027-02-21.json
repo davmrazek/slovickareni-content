@@ -1,0 +1,459 @@
+{
+  "id": "2027-02-21",
+  "date": "2027-02-21",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "S",
+      "T",
+      "O",
+      "#",
+      "S",
+      "A",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "E",
+      "S",
+      "#",
+      "R",
+      "U",
+      "S",
+      "K",
+      "O"
+    ],
+    [
+      "Z",
+      "N",
+      "A",
+      "T",
+      "#",
+      "T",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "A",
+      "T",
+      "#",
+      "E",
+      "S",
+      "O",
+      "#",
+      "E",
+      "E"
+    ],
+    [
+      "#",
+      "O",
+      "K",
+      "N",
+      "O",
+      "#",
+      "#",
+      "F",
+      "C"
+    ],
+    [
+      "#",
+      "#",
+      "U",
+      "K",
+      "R",
+      "A",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "K",
+      "R",
+      "Y",
+      "T",
+      "K",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "O",
+      "#",
+      "#",
+      "K",
+      "O",
+      "L",
+      "O",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "#",
+      "S",
+      "Y",
+      "R",
+      "#",
+      "D",
+      "R"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "M",
+      "#",
+      "D",
+      "I",
+      "L",
+      "O"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "E",
+      "C",
+      "#",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "T",
+      "P",
+      "#",
+      "O",
+      "T",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet haléřů v koruně"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Bez doprovodu"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hvozd"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Země carů"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vědět"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Prověrka"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Nejvyšší karta"
+    },
+    {
+      "num": 17,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Estonsko (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Pauza"
+    },
+    {
+      "num": 20,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zkratka před Barcelonou"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 2,
+      "cells": 6,
+      "clue": "Šlohnout"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Uzávěr"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. polonia"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Bicykl"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Plošná míra"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Mléčný výrobek"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Titul před jménem (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Počet trpaslíků"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Opus"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rej"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Dědina"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tenisová asociace (zkr.)"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Šik křestním jménem"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Krůpěj"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Tenhle"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Středová přímka"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Slovenská republika (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Fáro (hovor.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Liturgie"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 5,
+      "clue": "Šmelina"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 4,
+      "clue": "Rodič"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 3,
+      "cells": 5,
+      "clue": "Hubený"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Kraťasy"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pěvecký balkon v kostele"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 5,
+      "cells": 5,
+      "clue": "Úkolová mzda"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Taneční místnost"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Země jitřní svěžesti"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Léčka"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Vzlet"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Moci"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Ranní krůpěje"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Dvoušroubovice (zkr.)"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Číslo popisné (zkr.)"
+    }
+  ]
+}

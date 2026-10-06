@@ -1,0 +1,466 @@
+{
+  "id": "2027-02-27",
+  "date": "2027-02-27",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "N",
+      "O",
+      "C",
+      "#",
+      "#",
+      "R",
+      "U",
+      "B"
+    ],
+    [
+      "#",
+      "A",
+      "P",
+      "O",
+      "D",
+      "#",
+      "A",
+      "S",
+      "I"
+    ],
+    [
+      "#",
+      "Z",
+      "E",
+      "#",
+      "R",
+      "O",
+      "D",
+      "I",
+      "C"
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      "K",
+      "A",
+      "T",
+      "#",
+      "T",
+      "I"
+    ],
+    [
+      "A",
+      "R",
+      "#",
+      "O",
+      "K",
+      "A",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "N",
+      "A",
+      "D",
+      "#",
+      "#",
+      "R",
+      "O",
+      "K"
+    ],
+    [
+      "T",
+      "Y",
+      "C",
+      "#",
+      "#",
+      "N",
+      "I",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "H",
+      "R",
+      "A",
+      "D",
+      "#",
+      "T",
+      "V"
+    ],
+    [
+      "T",
+      "O",
+      "#",
+      "O",
+      "B",
+      "R",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "V",
+      "S",
+      "U",
+      "D",
+      "E",
+      "#",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "R",
+      "U",
+      "S",
+      "#",
+      "L",
+      "P",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "Z",
+      "D",
+      "A",
+      "#",
+      "#",
+      "A",
+      "B",
+      "Y",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Čas spánku"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zadní strana"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Etc. česky (zkr.)"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Snad"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 1,
+      "cells": 2,
+      "clue": "Předložka"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Otec či matka"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 6,
+      "clue": "Setkat se"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Plošná míra"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 4,
+      "clue": "Střešní žlab"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Asi"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kalendářní období"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hůl"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Řeka Liberce"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 2,
+      "cells": 4,
+      "clue": "Kastel"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Obrazovka (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tohle"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 3,
+      "cells": 6,
+      "clue": "Ochrana"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Na každém místě"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. sodíku"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Slovan z východu"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Ulpívat"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Jestli"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Spojka účelová"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Ilustrativní"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Znovu"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Vyznamenání"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Zhotovit jehlou"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Úderné nástroje"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Saň"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Šik křestním jménem"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Léč"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Šifra"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Předložka se 6. pádem"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce žalu"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Bodlinatý"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 8,
+      "cells": 4,
+      "clue": "Mocca"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Honeckerův stát (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 3,
+      "cells": 3,
+      "clue": "Mluvnický ~"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Kainův bratr"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pevnost"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Úděl"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Čili"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Spojené státy (zkr.)"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Dětské sbohem"
+    }
+  ]
+}

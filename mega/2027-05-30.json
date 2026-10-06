@@ -1,0 +1,452 @@
+{
+  "id": "2027-05-30",
+  "date": "2027-05-30",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "S",
+      "K",
+      "A",
+      "L",
+      "A",
+      "#",
+      "K",
+      "D",
+      "O"
+    ],
+    [
+      "E",
+      "D",
+      "G",
+      "A",
+      "R",
+      "#",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "V",
+      "Y",
+      "#",
+      "H",
+      "E",
+      "L",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "E",
+      "N",
+      "I",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "V",
+      "Y",
+      "V",
+      "A",
+      "D",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "M",
+      "L",
+      "#",
+      "#",
+      "#",
+      "R",
+      "T",
+      "U",
+      "T"
+    ],
+    [
+      "J",
+      "A",
+      "Z",
+      "Z",
+      "#",
+      "#",
+      "#",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "R",
+      "E",
+      "C",
+      "H",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "A",
+      "D",
+      "I",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "T",
+      "I",
+      "T",
+      "#",
+      "J",
+      "O"
+    ],
+    [
+      "V",
+      "I",
+      "T",
+      "#",
+      "C",
+      "I",
+      "T",
+      "A",
+      "T"
+    ],
+    [
+      "C",
+      "C",
+      "A",
+      "#",
+      "E",
+      "T",
+      "I",
+      "K",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Horolezecký terén"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Která osoba?"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Degas křestním jménem"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hvozd"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zdvořilé oslovení"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Trojská krasavice"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Převodník"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 7,
+      "clue": "Tropit hlouposti"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Mililitr (zn.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tekutý kov"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Swing"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 1,
+      "cells": 7,
+      "clue": "Nad hlavou (přen.)"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 5,
+      "clue": "Uzel křestním jménem"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Splácet"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Jasně (hovor.)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kroutit (věnec)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Výrok"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Circa"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 4,
+      "cells": 5,
+      "clue": "Mravouka"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spoj látek"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "V kterou dobu"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Chem. zn. stříbra"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Flaška"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 4,
+      "cells": 5,
+      "clue": "Zápasiště"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Pokleknout"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Čtyřiadvacet hodin"
+    },
+    {
+      "num": 8,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Středová přímka"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Vůdce (hovor.)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kolektivní já"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Chloupek na temeni"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 4,
+      "clue": "Tisíc kilogramů"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Měrná jednotka (zkr.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 8,
+      "cells": 2,
+      "clue": "Ono"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Prohra"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Hltat"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Knižní řada"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 5,
+      "cells": 5,
+      "clue": "Vnímat"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 6,
+      "cells": 2,
+      "clue": "Nu"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plast (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Tvář (kniž.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Tibetský tur"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Šik křestním jménem"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Oni (muži)"
+    }
+  ]
+}

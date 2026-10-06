@@ -1,0 +1,452 @@
+{
+  "id": "2026-10-22",
+  "date": "2026-10-22",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "Z",
+      "A",
+      "#",
+      "D",
+      "O",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "V",
+      "E",
+      "C",
+      "#",
+      "I",
+      "D",
+      "E",
+      "A"
+    ],
+    [
+      "C",
+      "I",
+      "R",
+      "K",
+      "E",
+      "V",
+      "#",
+      "K",
+      "M"
+    ],
+    [
+      "U",
+      "C",
+      "T",
+      "O",
+      "V",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "L",
+      "A",
+      "T",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "J",
+      "E",
+      "J",
+      "I",
+      "#",
+      "#",
+      "S",
+      "A",
+      "D"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "#",
+      "#",
+      "T",
+      "E",
+      "D",
+      "A"
+    ],
+    [
+      "K",
+      "O",
+      "S",
+      "T",
+      "R",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "R",
+      "A",
+      "K",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "O",
+      "S",
+      "#",
+      "A",
+      "D",
+      "R",
+      "E",
+      "S",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "V",
+      "#",
+      "K",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "N",
+      "O",
+      "T",
+      "A",
+      "#",
+      "A",
+      "C",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Dosyta"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Předmět"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nápad"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Klérus"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tisíc metrů (zn.)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 7,
+      "clue": "Fakturovat"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Mrtvý jazyk"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Náležející jí"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ovocná zahrada"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Snad"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Takže"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 6,
+      "clue": "Rám"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 7,
+      "clue": "Zemědělský stroj"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Operační systém (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 3,
+      "cells": 6,
+      "clue": "Projev k osobě (kniž.)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kondice"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 3,
+      "clue": "Plovoucí led"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Diplomatická zpráva"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 5,
+      "cells": 2,
+      "clue": "Třebas (kniž.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Legrace"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Byť"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Hledět"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Předložka původu"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Platební poukaz"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Na onom místě"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Hojněji"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. mědi"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pilarová, zpěvačka"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 6,
+      "cells": 4,
+      "clue": "Potichu"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 7,
+      "cells": 3,
+      "clue": "Opak pod (předložka)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Lovelaceová, průkopnice programování"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tibetský tur"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nejvyšší karta"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Stolovat"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Skoro"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Porost louky"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Vyznamenání"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Cíl střelce"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 7,
+      "cells": 3,
+      "clue": "Středová přímka"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 8,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Organizace v New Yorku (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Počet centů v euru"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Nechť"
+    }
+  ]
+}

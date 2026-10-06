@@ -1,0 +1,438 @@
+{
+  "id": "2027-04-27",
+  "date": "2027-04-27",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "C",
+      "O",
+      "#",
+      "#",
+      "M",
+      "U",
+      "J",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "H",
+      "#",
+      "A",
+      "D",
+      "E",
+      "L",
+      "A"
+    ],
+    [
+      "J",
+      "E",
+      "N",
+      "#",
+      "R",
+      "A",
+      "D",
+      "E",
+      "K"
+    ],
+    [
+      "#",
+      "L",
+      "I",
+      "B",
+      "I",
+      "T",
+      "#",
+      "C",
+      "U"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "D",
+      "E",
+      "#",
+      "#",
+      "C",
+      "T"
+    ],
+    [
+      "S",
+      "U",
+      "D",
+      "I",
+      "#",
+      "S",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "P",
+      "L",
+      "O",
+      "T",
+      "#",
+      "P",
+      "E",
+      "S",
+      "I"
+    ],
+    [
+      "E",
+      "E",
+      "#",
+      "#",
+      "L",
+      "I",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "V",
+      "#",
+      "M",
+      "U",
+      "S",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "N",
+      "I",
+      "J",
+      "A",
+      "K",
+      "#",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "E",
+      "T",
+      "A",
+      "P",
+      "A",
+      "#",
+      "I",
+      "N",
+      "U"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "A",
+      "S",
+      "#",
+      "#",
+      "K",
+      "M"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Náležející mně"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vzdech"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "… ještě nevečeřela"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Japonská měna"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Jaroš křestním jménem"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 5,
+      "clue": "Být po chuti (~ se)"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Znak kupra"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Na tomto místě"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Česká televize (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Rozhodčí"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tlustokožec"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Laťky kolem zahrady"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Chodec"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Estonsko (zkr.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Svrchní strana"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Svatý (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 5,
+      "clue": "Být nucen"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vůbec ne"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Výše než"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Úsek"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 2,
+      "cells": 3,
+      "clue": "„Otče …“ (modlitba)"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kilometr (zn.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nálev z lístků"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Slitina železa"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 5,
+      "clue": "Curieová křestním jménem"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Denuncovat"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Toxin"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 2,
+      "cells": 6,
+      "clue": "Doupě"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 6,
+      "clue": "Ledacos"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 6,
+      "clue": "Náhle propuklý"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Hlídat"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 6,
+      "clue": "Kvapně"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Odlehčit"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Raději"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 6,
+      "clue": "Terapie"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Evangelista"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Kartografické dílo"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Nádrž"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Žižka křestním jménem"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Stavba"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "2026-12-27",
+  "date": "2026-12-27",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "V",
+      "E",
+      "C",
+      "#",
+      "P",
+      "R",
+      "S"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "X",
+      "I",
+      "#",
+      "R",
+      "O",
+      "K"
+    ],
+    [
+      "V",
+      "A",
+      "N",
+      "#",
+      "L",
+      "H",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "S",
+      "L",
+      "O",
+      "T",
+      "#",
+      "D",
+      "V",
+      "A",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "C",
+      "I",
+      "#",
+      "P",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "U",
+      "N",
+      "E",
+      "S",
+      "T",
+      "#",
+      "#",
+      "V",
+      "S"
+    ],
+    [
+      "P",
+      "T",
+      "#",
+      "#",
+      "U",
+      "V",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "K",
+      "#",
+      "U",
+      "D",
+      "I",
+      "V"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "D",
+      "#",
+      "Z",
+      "I",
+      "M",
+      "A"
+    ],
+    [
+      "#",
+      "B",
+      "L",
+      "O",
+      "G",
+      "#",
+      "S",
+      "A",
+      "T"
+    ],
+    [
+      "L",
+      "E",
+      "S",
+      "#",
+      "P",
+      "L",
+      "O",
+      "T",
+      "#"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "#",
+      "S",
+      "I",
+      "N",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Záležitost"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hruď"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Vůz s taxametrem"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Léto (zast.)"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dodávka"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 4,
+      "clue": "Klamat"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Otvor pro kartu"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Dvojka"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Prosakovat"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. polonia"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Odvléci"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Proti (ve sportu)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Portugalska"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 4,
+      "cells": 5,
+      "clue": "Představit"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 2,
+      "cells": 2,
+      "clue": "Jutská země (kód)"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 5,
+      "cells": 4,
+      "clue": "Úžas"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Park"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Chlad"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 1,
+      "cells": 4,
+      "clue": "Internetový deník"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Oděv"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Bor"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Ohrada"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Trojka"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Hala"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Svátky narození Krista"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Bývalý partner (hovor.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Záměr"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Justice"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Kompanie"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Slovensko (kód)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 6,
+      "clue": "Vloha"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Přístup"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ukazatel ekonomiky (zkr.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Strom s červenými míšky"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Tady"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 6,
+      "clue": "Postřehnout (~ si)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 8,
+      "cells": 5,
+      "clue": "Pronásledovat"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Automobil"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Vynálezce žárovky"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Příští"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 3,
+      "cells": 3,
+      "clue": "Tázací zájmeno (na osobu)"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Sbírání"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Satelitní navigace (zkr.)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Litvy"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Tázací částice (kniž.)"
+    }
+  ]
+}

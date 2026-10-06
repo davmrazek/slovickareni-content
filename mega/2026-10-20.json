@@ -1,0 +1,452 @@
+{
+  "id": "2026-10-20",
+  "date": "2026-10-20",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "A",
+      "D",
+      "A",
+      "#",
+      "I",
+      "V",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "D",
+      "#",
+      "S",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "V",
+      "K",
+      "L",
+      "A",
+      "D",
+      "#",
+      "D",
+      "O",
+      "M"
+    ],
+    [
+      "S",
+      "E",
+      "#",
+      "M",
+      "I",
+      "R",
+      "O",
+      "V",
+      "Y"
+    ],
+    [
+      "A",
+      "T",
+      "#",
+      "#",
+      "T",
+      "O",
+      "P",
+      "O",
+      "L"
+    ],
+    [
+      "K",
+      "A",
+      "M",
+      "#",
+      "#",
+      "H",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "Z",
+      "#",
+      "#",
+      "D",
+      "A",
+      "T"
+    ],
+    [
+      "R",
+      "O",
+      "M",
+      "A",
+      "N",
+      "#",
+      "#",
+      "F",
+      "E"
+    ],
+    [
+      "O",
+      "R",
+      "I",
+      "S",
+      "E",
+      "K",
+      "#",
+      "R",
+      "S"
+    ],
+    [
+      "S",
+      "E",
+      "N",
+      "#",
+      "Z",
+      "A",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "A",
+      "C",
+      "K",
+      "O",
+      "#",
+      "D",
+      "I",
+      "K",
+      "#"
+    ],
+    [
+      "#",
+      "H",
+      "A",
+      "D",
+      "#",
+      "R",
+      "N",
+      "A",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Lovelaceová, průkopnice programování"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Opak pod (předložka)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Výstup jednotlivce"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Investice"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Chrám"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zvratné zájmeno"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 6,
+      "clue": "Nevojenský"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Osika"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kterým směrem"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 2,
+      "clue": "Citoslovce překvapení"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Teprve"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Poskytnout"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Velké prozaické dílo"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. železa"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 6,
+      "clue": "Plod lísky"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Srbska"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Snění"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Spustit"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Hlavní tým (slang.)"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 5,
+      "cells": 3,
+      "clue": "Poděkování"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Užovka"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Dotazník"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kupředu"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Evin druh"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Islandu"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 7,
+      "clue": "Kaskáda"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Plumbum"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 4,
+      "clue": "Mýlka"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ale"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Konat se"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kout"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Máti"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Opět"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Světadíl Kilimandžára"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Prověrka"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ranní krůpěje"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Oříšek"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Srovnávací spojka"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Širší výběr"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Skutek"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Předložka s 2. pádem"
+    }
+  ]
+}

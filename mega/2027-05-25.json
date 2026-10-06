@@ -1,0 +1,466 @@
+{
+  "id": "2027-05-25",
+  "date": "2027-05-25",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "C",
+      "I",
+      "#",
+      "#",
+      "D",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "J",
+      "A",
+      "R",
+      "O",
+      "#",
+      "R",
+      "O",
+      "K"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "#",
+      "S",
+      "V",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "K",
+      "D",
+      "O",
+      "#",
+      "M",
+      "I",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "L",
+      "A",
+      "Z",
+      "#",
+      "T",
+      "V"
+    ],
+    [
+      "C",
+      "T",
+      "I",
+      "T",
+      "#",
+      "#",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "#",
+      "#",
+      "B",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "A",
+      "J",
+      "#",
+      "Z",
+      "P",
+      "E",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "U",
+      "L",
+      "A",
+      "#",
+      "A",
+      "C",
+      "H"
+    ],
+    [
+      "M",
+      "O",
+      "T",
+      "O",
+      "R",
+      "#",
+      "M",
+      "O",
+      "R"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "#",
+      "K",
+      "R",
+      "I",
+      "Z",
+      "#"
+    ],
+    [
+      "C",
+      "T",
+      "K",
+      "#",
+      "#",
+      "S",
+      "N",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nosič dědičnosti (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Vesna"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Léto (zast.)"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Strach"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Zlákat"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací zájmeno (na osobu)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 4,
+      "clue": "Velmi krátká sukně"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Písečný břeh"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Televize (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vážit si"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Z domu"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Doba"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Sněhově"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Hle (zast.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 3,
+      "cells": 4,
+      "clue": "Vzad"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Nic"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Vzdech"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Hnací ústrojí"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Černá smrt"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mistr svého oboru"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Symbol křesťanství"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tisková kancelář (zkr.)"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 5,
+      "cells": 2,
+      "clue": "Znak stanna"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 7,
+      "clue": "Periodikum"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Irán (kód)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Pulpa"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Laureát"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Nahé tělo v umění"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Toxin"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Číslice"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Dánska"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Srovnej"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Litva (kód)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Mimo"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přibližně (zkr.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Utajení"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 7,
+      "clue": "Nutrient"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Belgie"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 3,
+      "cells": 3,
+      "clue": "Neřest"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Obora"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Ofenziva"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 3,
+      "clue": "Vztažné zájmeno"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kód Chorvatska"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rytířská zbraň"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Srbsko (kód)"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "id": "2027-08-24",
+  "date": "2027-08-24",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "T",
+      "A",
+      "T",
+      "U",
+      "V",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "O",
+      "T",
+      "I",
+      "C",
+      "H",
+      "U",
+      "#"
+    ],
+    [
+      "T",
+      "R",
+      "U",
+      "P",
+      "#",
+      "H",
+      "O",
+      "C",
+      "H"
+    ],
+    [
+      "J",
+      "I",
+      "Z",
+      "#",
+      "P",
+      "O",
+      "D",
+      "I",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "V",
+      "A",
+      "#",
+      "#",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "#",
+      "E",
+      "S"
+    ],
+    [
+      "C",
+      "O",
+      "#",
+      "S",
+      "T",
+      "E",
+      "R",
+      "K",
+      "#"
+    ],
+    [
+      "T",
+      "U",
+      "#",
+      "#",
+      "I",
+      "N",
+      "U",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "L",
+      "U",
+      "Z",
+      "E",
+      "#",
+      "Z",
+      "U",
+      "B"
+    ],
+    [
+      "T",
+      "A",
+      "K",
+      "E",
+      "#",
+      "R",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "D",
+      "O",
+      "M",
+      "L",
+      "U",
+      "V",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "E",
+      "T",
+      "M",
+      "Y",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Otcův"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Mlčky"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Torzo"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Jinoch"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Už (kniž.)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Akcie"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Janžurová křestním jménem"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. sodíku"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 1,
+      "cells": 5,
+      "clue": "Začátek"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Španělska"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 3,
+      "cells": 5,
+      "clue": "Kačírek"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tady"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Ostatně (kniž.)"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Mámení"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Řezák"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Též"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Orosení"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Napomenutí"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Prchavý"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Prahnout"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Tenisová asociace (zkr.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ouško"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "V pravou chvíli"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Předložka se 6. pádem"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 6,
+      "clue": "Působení"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "To jest (zkr.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Votum"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Úsek"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (vy)"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Shoda"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ukazovací zájmeno (m. r.)"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vážit si"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Optimistický"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Povinnost"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Planeta"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 7,
+      "cells": 3,
+      "clue": "Spojené státy (zkr.)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. barya"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Pirátský nápoj"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Litvy"
+    }
+  ]
+}

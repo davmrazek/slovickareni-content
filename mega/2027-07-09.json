@@ -1,0 +1,452 @@
+{
+  "id": "2027-07-09",
+  "date": "2027-07-09",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "K",
+      "G",
+      "#",
+      "S",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "R",
+      "D",
+      "E",
+      "#",
+      "P",
+      "O",
+      "T",
+      "#"
+    ],
+    [
+      "D",
+      "N",
+      "O",
+      "#",
+      "P",
+      "O",
+      "P",
+      "U",
+      "D"
+    ],
+    [
+      "P",
+      "A",
+      "K",
+      "#",
+      "A",
+      "L",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "R",
+      "#",
+      "#",
+      "N",
+      "L"
+    ],
+    [
+      "M",
+      "A",
+      "L",
+      "Y",
+      "#",
+      "Z",
+      "V",
+      "A",
+      "T"
+    ],
+    [
+      "O",
+      "P",
+      "I",
+      "T",
+      "#",
+      "D",
+      "E",
+      "K",
+      "A"
+    ],
+    [
+      "C",
+      "A",
+      "#",
+      "#",
+      "D",
+      "E",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "O",
+      "M",
+      "A",
+      "#",
+      "O",
+      "S",
+      "M"
+    ],
+    [
+      "L",
+      "A",
+      "H",
+      "E",
+      "V",
+      "#",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "T",
+      "Y",
+      "Z",
+      "#",
+      "C",
+      "A",
+      "F",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "I",
+      "#",
+      "P",
+      "T",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kilogram (zn.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Slovensko (kód)"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pyšně"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 5,
+      "cells": 3,
+      "clue": "Dřina"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spodek nádoby"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Podnět"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Následně"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Carrollova hrdinka"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Velikán"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Nizozemska"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Drobný"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nazývat"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zpít"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pokrývka"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. vápníku"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Doba světla"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Buket"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Počet chapadel chobotnice"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Butylka"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Dědina"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 1,
+      "cells": 3,
+      "clue": "Stejný (kniž.)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kavárna (fr.)"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 2,
+      "cells": 2,
+      "clue": "Dvoj- (předp.)"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Portugalska"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 7,
+      "clue": "Každý bez výjimky"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Gruzie"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Firma (zkr. v názvu)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Oštěp"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hrubý domácí produkt (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 7,
+      "cells": 6,
+      "clue": "Frakový pták"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Dvojice"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 8,
+      "cells": 5,
+      "clue": "Ústí řeky"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "Existovat"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Slatina"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Přístroj"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Tu"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 7,
+      "clue": "Dedikovat"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Masa lidí"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Zákrut"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Uprostřed"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 3,
+      "clue": "Vedoucí"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 8,
+      "cells": 3,
+      "clue": "Liturgie"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Číslo popisné (zkr.)"
+    }
+  ]
+}

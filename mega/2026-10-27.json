@@ -1,0 +1,445 @@
+{
+  "id": "2026-10-27",
+  "date": "2026-10-27",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "A",
+      "Z",
+      "#",
+      "D",
+      "Z",
+      "U",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "U",
+      "D",
+      "I",
+      "V",
+      "E",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "V",
+      "A",
+      "#",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "R",
+      "O",
+      "T",
+      "A",
+      "#",
+      "Z",
+      "V",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "B",
+      "#",
+      "#",
+      "K",
+      "D",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "U",
+      "K",
+      "#",
+      "R",
+      "A",
+      "N",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "M",
+      "Y",
+      "#",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "I",
+      "T",
+      "#",
+      "#",
+      "E",
+      "U"
+    ],
+    [
+      "U",
+      "J",
+      "I",
+      "T",
+      "#",
+      "K",
+      "U",
+      "R",
+      "T"
+    ],
+    [
+      "D",
+      "A",
+      "T",
+      "#",
+      "R",
+      "O",
+      "M",
+      "E",
+      "O"
+    ],
+    [
+      "#",
+      "Z",
+      "A",
+      "R",
+      "O",
+      "V",
+      "E",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "Z",
+      "N",
+      "A",
+      "K",
+      "#",
+      "T",
+      "Y",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 2,
+      "clue": "Časová spojka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Ovocná šťáva"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Překvapeně"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Džus"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kompanie"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zikmund na Svatovítské věži"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. antimonu"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Lipid"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 4,
+      "cells": 4,
+      "clue": "Jitro"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 1,
+      "cells": 4,
+      "clue": "Pouhý"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pilarová, zpěvačka"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Chlastat"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Unie sedmadvaceti (zkr.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Urazit pěšky"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hřiště"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Poskytnout"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Juliin milý"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Souběžně"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 1,
+      "cells": 4,
+      "clue": "Erb"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 6,
+      "cells": 2,
+      "clue": "Oslovení bez vykání"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Omnibus"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Jevit se (~ se)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pár"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Spojka"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 7,
+      "clue": "Ospale"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Sušená tráva"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 3,
+      "clue": "Janžurová křestním jménem"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kožešina"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. india"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Jestli"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Bunkr"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Vůdce mužstva"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Spolehlivý"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Vlastnit"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Fáro (hovor.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Končetina"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Swing"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Železo i cín"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Ovládat"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Kalendářní období"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    }
+  ]
+}

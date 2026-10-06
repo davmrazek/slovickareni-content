@@ -1,0 +1,459 @@
+{
+  "id": "2027-08-02",
+  "date": "2027-08-02",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "A",
+      "R",
+      "#",
+      "C",
+      "I",
+      "#"
+    ],
+    [
+      "#",
+      "D",
+      "I",
+      "L",
+      "O",
+      "#",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "D",
+      "O",
+      "L",
+      "E",
+      "#",
+      "P",
+      "L",
+      "O",
+      "T"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "#",
+      "R",
+      "O",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "T",
+      "T",
+      "O",
+      "#",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "R",
+      "#",
+      "Z",
+      "L",
+      "O",
+      "M",
+      "E",
+      "K"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "N",
+      "E",
+      "S",
+      "#",
+      "D",
+      "O"
+    ],
+    [
+      "I",
+      "N",
+      "U",
+      "#",
+      "T",
+      "A",
+      "L",
+      "I",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "C",
+      "A",
+      "#",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "S",
+      "J",
+      "E",
+      "T",
+      "#",
+      "K",
+      "V",
+      "E",
+      "T"
+    ],
+    [
+      "V",
+      "E",
+      "N",
+      "#",
+      "U",
+      "D",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "V",
+      "Y",
+      "#",
+      "L",
+      "E",
+      "C",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Několik"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Výtvor"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Adamova družka"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pod námi"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Laťky kolem zahrady"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kukadlo"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 3,
+      "clue": "Léto (zast.)"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Úvodní citát"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Plošná míra"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 6,
+      "clue": "Frakce"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 6,
+      "clue": "Riviérské město"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka směru"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Mísa na polévku"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 2,
+      "cells": 3,
+      "clue": "Přibližně (zkr.)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pavel křestním jménem"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Spustit se ze svahu"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Elita"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Z domu"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Los"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 1,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby mn. č."
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nýbrž (kniž.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Letec"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Leč"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Rumunsko (kód)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Dohromady"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Jahelka křestním jménem"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Zcela otevřeno"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Hostitelský"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. polonia"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Stínítko okna"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "To znamená (zkr.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 7,
+      "clue": "Vedoucí"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 8,
+      "cells": 6,
+      "clue": "Zrovna (hovor.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Hřídel kola"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Násilný"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Myslivec"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 3,
+      "cells": 2,
+      "clue": "Česká televize (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Svatý (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Úkaz"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Na kterém místě"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Včelí příbytek"
+    }
+  ]
+}

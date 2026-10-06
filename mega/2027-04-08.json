@@ -1,0 +1,459 @@
+{
+  "id": "2027-04-08",
+  "date": "2027-04-08",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "U",
+      "S",
+      "A",
+      "#",
+      "T",
+      "Z",
+      "N"
+    ],
+    [
+      "V",
+      "Z",
+      "D",
+      "A",
+      "T",
+      "#",
+      "O",
+      "B",
+      "A"
+    ],
+    [
+      "I",
+      "R",
+      "A",
+      "N",
+      "#",
+      "U",
+      "N",
+      "O",
+      "S"
+    ],
+    [
+      "N",
+      "A",
+      "J",
+      "E",
+      "Z",
+      "D",
+      "#",
+      "Z",
+      "A"
+    ],
+    [
+      "I",
+      "N",
+      "#",
+      "#",
+      "M",
+      "O",
+      "C",
+      "I",
+      "#"
+    ],
+    [
+      "T",
+      "I",
+      "#",
+      "D",
+      "I",
+      "L",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "A",
+      "N",
+      "I",
+      "#",
+      "J",
+      "E"
+    ],
+    [
+      "#",
+      "C",
+      "O",
+      "S",
+      "I",
+      "#",
+      "#",
+      "A",
+      "G"
+    ],
+    [
+      "F",
+      "I",
+      "#",
+      "E",
+      "T",
+      "I",
+      "C",
+      "K",
+      "Y"
+    ],
+    [
+      "O",
+      "H",
+      "E",
+      "N",
+      "#",
+      "R",
+      "E",
+      "S",
+      "P"
+    ],
+    [
+      "T",
+      "A",
+      "M",
+      "#",
+      "N",
+      "A",
+      "L",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "T",
+      "A",
+      "#",
+      "O",
+      "K",
+      "O",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Země strýčka Sama (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "To znamená (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rezignovat (~ se)"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Dva zároveň"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Persie"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Uloupení osoby"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 6,
+      "clue": "Invaze"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka s 4. a 7. pádem"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Indie"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Smět"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Výtvor"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Dáma"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Citoslovce údivu"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Leccos"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Znak argenta"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Suomi (kód)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 3,
+      "cells": 6,
+      "clue": "Morální"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Plamen"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Lépe řečeno (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Onde"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Naplnit tekutinou"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pavel křestním jménem"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Kukadlo"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Informace"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Sáňky"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Barevný odstín"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Artikl"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Americký vesmírný úřad"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Obviňovat"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Dozrávání"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 5,
+      "clue": "Dolina"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Uvést"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 5,
+      "clue": "Tkáň kolem zubů"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Chem. zn. polonia"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Tak nějak"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 8,
+      "cells": 5,
+      "clue": "Země faraonů"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Slídit"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Momentka"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mezopotámie dnes"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Horní část obličeje"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Destinnová křestním jménem"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Norska"
+    }
+  ]
+}

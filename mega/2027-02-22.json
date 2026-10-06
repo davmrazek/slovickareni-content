@@ -1,0 +1,452 @@
+{
+  "id": "2027-02-22",
+  "date": "2027-02-22",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "K",
+      "R",
+      "A",
+      "S",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "K",
+      "R",
+      "O",
+      "U",
+      "T",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "K",
+      "#",
+      "T",
+      "U",
+      "S",
+      "I",
+      "T"
+    ],
+    [
+      "C",
+      "M",
+      "#",
+      "G",
+      "O",
+      "L",
+      "#",
+      "S",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "U",
+      "R",
+      "#",
+      "#",
+      "N",
+      "I"
+    ],
+    [
+      "S",
+      "N",
+      "E",
+      "M",
+      "#",
+      "P",
+      "R",
+      "I",
+      "D"
+    ],
+    [
+      "V",
+      "E",
+      "R",
+      "A",
+      "#",
+      "T",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "U",
+      "#",
+      "#",
+      "Z",
+      "A",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "G",
+      "R",
+      "#",
+      "S",
+      "A",
+      "T",
+      "#",
+      "H",
+      "M"
+    ],
+    [
+      "R",
+      "O",
+      "D",
+      "I",
+      "C",
+      "#",
+      "C",
+      "I",
+      "L"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "R",
+      "I",
+      "D",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "Y",
+      "T",
+      "K",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Odcizovat"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Vrtět"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Následně"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Předvídat"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Délková jednotka (zn.)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Branka"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Slovenská republika (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pěvecký balkon v kostele"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Nikaraguy"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Shromáždění stavů"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Předek lodi"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Čáslavská křestním jménem"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tetička"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Citoslovce bolesti"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Za co"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Řecka"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Roucho"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Citoslovce váhání"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Předek"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Meta"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Nakázat"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Pokárání"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Hrdlo"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Rumunsko (kód)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 5,
+      "clue": "Původce"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tabule"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jedovatý jehličnan"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Kterým směrem"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 6,
+      "clue": "Svírat"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Osobní počítač (zkr.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 5,
+      "clue": "Avenue"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Pryž"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Šípek"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Sestřin muž"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Nervová buňka"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tázat se"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Proslov"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Zahájit"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Rozlehlý"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 7,
+      "cells": 3,
+      "clue": "Trhák"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 8,
+      "cells": 2,
+      "clue": "Tisícina litru (zn.)"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Masa lidí"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zpravodajci z Langley"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Jutská země (kód)"
+    }
+  ]
+}

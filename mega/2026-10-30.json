@@ -1,0 +1,452 @@
+{
+  "id": "2026-10-30",
+  "date": "2026-10-30",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "O",
+      "K",
+      "O",
+      "#",
+      "#",
+      "N",
+      "U",
+      "L",
+      "A"
+    ],
+    [
+      "B",
+      "U",
+      "H",
+      "#",
+      "R",
+      "I",
+      "D",
+      "I",
+      "T"
+    ],
+    [
+      "D",
+      "C",
+      "E",
+      "R",
+      "A",
+      "#",
+      "E",
+      "G",
+      "O"
+    ],
+    [
+      "I",
+      "H",
+      "N",
+      "E",
+      "D",
+      "#",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "V",
+      "Y",
+      "#",
+      "K",
+      "A",
+      "M",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "I",
+      "T",
+      "#",
+      "L",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "S",
+      "O",
+      "#",
+      "A",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "R",
+      "A",
+      "D",
+      "#",
+      "S",
+      "N"
+    ],
+    [
+      "B",
+      "O",
+      "K",
+      "#",
+      "L",
+      "I",
+      "S",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "#",
+      "A",
+      "K",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "R",
+      "P",
+      "E",
+      "N",
+      "#",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "S",
+      "I",
+      "R",
+      "E",
+      "#",
+      "#",
+      "B",
+      "Y",
+      "K"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kukadlo"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Bezvýznamný člověk"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Stvořitel"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Kormidlovat"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Ratolest"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Sebevědomí"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Neprodleně"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zárubeň"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby mn. č."
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "Tázací příslovce směru"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 3,
+      "clue": "Vlákno příběhu"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Silně pršet"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 1,
+      "cells": 3,
+      "clue": "Mistr svého oboru"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Spojka záporná"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 3,
+      "clue": "Řeholní společenství"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. cínu"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Úbočí"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Lať"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dva zároveň"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Účastník"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Měsíc žní"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ba"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Rozloha"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Plemeník"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Úcta"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Místnost na vaření"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Žár"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Nikaraguy"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Náraz"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Svaz"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Stavební kámen hmoty"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Pořadí"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Magnificence"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 5,
+      "cells": 6,
+      "clue": "Jinoch"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Islandu"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 2,
+      "clue": "Kód Indie"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Nepsaný rukou"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Rickman, herec"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 8,
+      "cells": 5,
+      "clue": "Právo"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kápo"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Gigantický"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Vánoční ryba"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Generalita"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Estonsko (zkr.)"
+    }
+  ]
+}

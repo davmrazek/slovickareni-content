@@ -1,0 +1,445 @@
+{
+  "id": "2027-09-07",
+  "date": "2027-09-07",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "R",
+      "A",
+      "Z",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "R",
+      "I",
+      "N",
+      "C",
+      "I",
+      "P",
+      "#"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "D",
+      "A",
+      "#",
+      "T",
+      "R",
+      "S"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "A",
+      "#",
+      "K",
+      "R",
+      "E",
+      "V"
+    ],
+    [
+      "Z",
+      "D",
+      "E",
+      "#",
+      "A",
+      "D",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "B",
+      "E",
+      "K",
+      "#",
+      "S",
+      "E",
+      "#",
+      "S",
+      "K"
+    ],
+    [
+      "A",
+      "J",
+      "#",
+      "C",
+      "I",
+      "#",
+      "Z",
+      "L",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "L",
+      "E",
+      "#",
+      "B",
+      "Y",
+      "T"
+    ],
+    [
+      "L",
+      "A",
+      "N",
+      "O",
+      "#",
+      "K",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "V",
+      "N",
+      "E",
+      "#",
+      "P",
+      "A",
+      "V",
+      "E",
+      "L"
+    ],
+    [
+      "#",
+      "O",
+      "B",
+      "J",
+      "E",
+      "V",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "P",
+      "S",
+      "A",
+      "T",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Malba"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Axiom"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kategorie"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Svazek"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Orosení"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Rod (přen.)"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tady"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Programovací jazyk"
+    },
+    {
+      "num": 15,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Krajní obránce"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Zvratné zájmeno"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Slovensko (kód)"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Slovenské „i“"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 3,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Neřest"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Leč"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Obydlí"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Silný provaz"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nesnáz (přen.)"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mimo"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Apoštol z Tarsu"
+    },
+    {
+      "num": 29,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Najít"
+    },
+    {
+      "num": 31,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Plagiovat"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Tvrdý problém (hovor.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Nouze"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Ribonukleová kyselina (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Ačkoli (kniž.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Nazítří"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 6,
+      "clue": "Odbyt"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 3,
+      "clue": "Spor (kniž.)"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Obrat"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 2,
+      "clue": "Svatý (zkr.)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Na kterém místě"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Největší světadíl"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 7,
+      "cells": 6,
+      "clue": "Zaslechnout"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 8,
+      "cells": 5,
+      "clue": "Nádoba na var"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dovozní poplatek"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Vysvobodit"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Či"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Lotyšska"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Ba"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mocca"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Čokl"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Nippon (kód)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "conn-655",
+  "groups": [
+    {
+      "name": "Do čaje",
+      "words": [
+        "MED",
+        "CITRON",
+        "MLÉKO",
+        "RUM"
+      ]
+    },
+    {
+      "name": "Londýnské čtvrti",
+      "words": [
+        "SOHO",
+        "MAYFAIR",
+        "CAMDEN",
+        "SHOREDITCH"
+      ]
+    },
+    {
+      "name": "Britští králové",
+      "words": [
+        "JIŘÍ",
+        "KAREL",
+        "EDVARD",
+        "VILÉM"
+      ]
+    },
+    {
+      "name": "Mají mléko",
+      "words": [
+        "KOKOS",
+        "KRÁVA",
+        "MANDLE",
+        "PAMPELIŠKA"
+      ]
+    }
+  ]
+}

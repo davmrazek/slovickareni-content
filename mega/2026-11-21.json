@@ -1,0 +1,452 @@
+{
+  "id": "2026-11-21",
+  "date": "2026-11-21",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "S",
+      "K",
+      "R",
+      "Z",
+      "#",
+      "P",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "R",
+      "A",
+      "S",
+      "#",
+      "O",
+      "S",
+      "U",
+      "D"
+    ],
+    [
+      "#",
+      "I",
+      "N",
+      "#",
+      "P",
+      "U",
+      "M",
+      "P",
+      "A"
+    ],
+    [
+      "#",
+      "Z",
+      "A",
+      "K",
+      "A",
+      "Z",
+      "#",
+      "L",
+      "V"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "D",
+      "N",
+      "E",
+      "S",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "A",
+      "B",
+      "Y",
+      "#",
+      "#",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "D",
+      "N",
+      "O",
+      "#",
+      "#",
+      "R",
+      "O",
+      "K",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "D",
+      "A",
+      "N",
+      "Y",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "B",
+      "R",
+      "#",
+      "R",
+      "E",
+      "S",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "E",
+      "Z",
+      "#",
+      "G",
+      "R",
+      "#"
+    ],
+    [
+      "O",
+      "A",
+      "Z",
+      "A",
+      "#",
+      "S",
+      "O",
+      "U",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "L",
+      "#",
+      "B",
+      "R",
+      "N",
+      "O"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Přes"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Moravský ~"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Sudba"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. india"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Čerpadlo"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 5,
+      "clue": "Embargo"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Lotyšsko (kód)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Současný"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 3,
+      "clue": "Spojka účelová"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Momentálně"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spodek nádoby"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kalendářní období"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 6,
+      "clue": "Loajální"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. bromu"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 5,
+      "clue": "Luštit"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kotevní ~"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 6,
+      "cells": 2,
+      "clue": "Helénský kód"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Útočiště"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tribunál"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 2,
+      "cells": 2,
+      "clue": "Holandsko (kód)"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Moravská metropole"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Slovenska"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Krucifix"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Úder"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Škola pro děti (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Jen"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Počet chapadel chobotnice"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 6,
+      "clue": "Plný měsíc"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 5,
+      "clue": "Přemožitel Goliáše"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Řecký bůh stád"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "V kterou dobu"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Deset desítek"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Kerestešová, herečka"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Položka programu"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rezonátorová kytara"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kočkovitá šelma"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Pozemek s budovami"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Srovnávací spojka"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Stravinskij křestním jménem"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Sídlo krále"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Čili (zkr.)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. antimonu"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Tón C (solmizace)"
+    }
+  ]
+}

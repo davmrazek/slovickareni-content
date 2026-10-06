@@ -1,0 +1,480 @@
+{
+  "id": "2027-05-10",
+  "date": "2027-05-10",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "T",
+      "A",
+      "B",
+      "U",
+      "#",
+      "#",
+      "C",
+      "T",
+      "K"
+    ],
+    [
+      "V",
+      "L",
+      "I",
+      "V",
+      "#",
+      "P",
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "E",
+      "M",
+      "A",
+      "#",
+      "N",
+      "E"
+    ],
+    [
+      "S",
+      "N",
+      "#",
+      "R",
+      "U",
+      "K",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "I",
+      "Z",
+      "#",
+      "S",
+      "M",
+      "S"
+    ],
+    [
+      "O",
+      "Z",
+      "I",
+      "T",
+      "#",
+      "#",
+      "P",
+      "E",
+      "T"
+    ],
+    [
+      "R",
+      "O",
+      "D",
+      "#",
+      "#",
+      "R",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "#",
+      "L",
+      "E",
+      "N",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "L",
+      "E",
+      "N",
+      "#",
+      "C",
+      "I"
+    ],
+    [
+      "I",
+      "N",
+      "#",
+      "Z",
+      "D",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "V",
+      "I",
+      "C",
+      "E",
+      "#",
+      "T",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "H",
+      "#",
+      "#",
+      "A",
+      "H",
+      "O",
+      "J"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zákaz"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tisková kancelář (zkr.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Moc"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ante (lat.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 2,
+      "cells": 4,
+      "clue": "Námět"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. neonu"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak stanna"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Paže"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Město nad Seinou"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Textovka"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Obživnout"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Počet prstů"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pokolení"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Orosení"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Trojka"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Vůdce bolševiků"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Příslušník spolku"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. india"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 3,
+      "cells": 4,
+      "clue": "Snít (~ se)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Hojněji"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Otec (hovor.)"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vzdech"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nazdar"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Televize (zkr.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. hliníku"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tlouct"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Přijmout za pravdu"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. chromu"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Onen"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Na kterém místě"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 3,
+      "clue": "Potom"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Choť"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Tělesná kultura"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 1,
+      "cells": 5,
+      "clue": "Mínění"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 6,
+      "cells": 5,
+      "clue": "Přinejmenším"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 2,
+      "cells": 5,
+      "clue": "Šofér"
+    },
+    {
+      "num": 20,
+      "row": 4,
+      "col": 7,
+      "cells": 5,
+      "clue": "Luna"
+    },
+    {
+      "num": 21,
+      "row": 4,
+      "col": 8,
+      "cells": 5,
+      "clue": "Parkování"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Znovuzrozená (ženské jméno)"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tuhá voda"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Je možno"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Bittová křestním jménem"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Vůbec žádná věc"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Průvan"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Helvetská konfederace (zkr.)"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Ono"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Hle (zast.)"
+    }
+  ]
+}

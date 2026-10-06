@@ -1,0 +1,459 @@
+{
+  "id": "2027-01-11",
+  "date": "2027-01-11",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "Z",
+      "E",
+      "#",
+      "#",
+      "E",
+      "M",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "V",
+      "U",
+      "Z",
+      "#",
+      "S",
+      "H",
+      "L",
+      "U",
+      "K"
+    ],
+    [
+      "U",
+      "R",
+      "A",
+      "D",
+      "#",
+      "D",
+      "A",
+      "M",
+      "A"
+    ],
+    [
+      "K",
+      "O",
+      "L",
+      "O",
+      "#",
+      "#",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "L",
+      "E",
+      "#",
+      "M",
+      "L",
+      "#"
+    ],
+    [
+      "U",
+      "K",
+      "R",
+      "A",
+      "S",
+      "T",
+      "#",
+      "E",
+      "X"
+    ],
+    [
+      "Z",
+      "A",
+      "#",
+      "R",
+      "E",
+      "L",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "#",
+      "M",
+      "J",
+      "#",
+      "J",
+      "A",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "E",
+      "M",
+      "#",
+      "#",
+      "M",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "L",
+      "#",
+      "A",
+      "B",
+      "E",
+      "L"
+    ],
+    [
+      "K",
+      "A",
+      "N",
+      "O",
+      "N",
+      "#",
+      "O",
+      "B",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "S",
+      "A",
+      "#",
+      "#",
+      "O",
+      "N"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Spojka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Destinnová křestním jménem"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Automobil"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Seskupení"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Instituce"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Šachová královna"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Bicykl"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pysk"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Leč"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 6,
+      "cells": 2,
+      "clue": "Mililitr (zn.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 6,
+      "clue": "Šlohnout"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Naráz do dna"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 3,
+      "cells": 6,
+      "clue": "Spojení"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 1,
+      "cells": 2,
+      "clue": "Měrná jednotka (zkr.)"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Žižka křestním jménem"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "K nám"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Platidlo"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Katolická tělocvičná jednota"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Oběť první vraždy"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Závazný soubor"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Dva zároveň"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 2,
+      "cells": 3,
+      "clue": "Hřídel kola"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zájmeno 3. osoby"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tón"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Evropská měna"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Snížené E"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Hromadná doprava (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Poplach"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 2,
+      "cells": 5,
+      "clue": "Kriminál"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 6,
+      "clue": "Tvůrce"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Mistr Mydlář"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 3,
+      "cells": 5,
+      "clue": "Měna USA"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Literární rozprava"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Již"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Snímací přístroj"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 5,
+      "clue": "Huba"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. xenonu"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 6,
+      "cells": 5,
+      "clue": "Či"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Pověst"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Soupeř"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Spojka volby"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Rickman, herec"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Úděl"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "2026-10-28",
+  "date": "2026-10-28",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "Z",
+      "A",
+      "D",
+      "#",
+      "#",
+      "C",
+      "O"
+    ],
+    [
+      "U",
+      "D",
+      "A",
+      "N",
+      "I",
+      "#",
+      "C",
+      "T",
+      "K"
+    ],
+    [
+      "T",
+      "O",
+      "L",
+      "I",
+      "K",
+      "#",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "E",
+      "M",
+      "A",
+      "#",
+      "#",
+      "P",
+      "R",
+      "O",
+      "#"
+    ],
+    [
+      "K",
+      "U",
+      "R",
+      "S",
+      "#",
+      "R",
+      "A",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "K",
+      "D",
+      "O",
+      "#",
+      "T",
+      "U"
+    ],
+    [
+      "K",
+      "S",
+      "#",
+      "A",
+      "K",
+      "T",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "Y",
+      "S",
+      "L",
+      "#",
+      "I",
+      "V",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "D",
+      "V",
+      "A",
+      "#",
+      "#",
+      "R",
+      "N",
+      "A"
+    ],
+    [
+      "V",
+      "N",
+      "E",
+      "#",
+      "V",
+      "I",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "#",
+      "A",
+      "N",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "T",
+      "Y",
+      "#",
+      "#",
+      "L",
+      "U",
+      "K",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kormidelní konec lodi"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tázací zájmeno (na věc)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Donášení"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tisková kancelář (zkr.)"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Tak mnoho"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ba"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Destinnová křestním jménem"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Předložka se 4. pádem"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Směnný poměr"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 5,
+      "cells": 4,
+      "clue": "Plemeno"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Tázací zájmeno (na osobu)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zde (hovor.)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Počet kusů (zkr.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Nahé tělo v umění"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Rozum"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 5,
+      "cells": 4,
+      "clue": "Lendl křestním jménem"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Dvojka"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ribonukleová kyselina (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mimo"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Hrozit (přen.)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pysk"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Popřípadě"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Oslovení bez vykání"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zbraň Robina Hooda"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vězení"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojka záporná"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Vděk"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Mravnost"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Kukadlo"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Únik"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "K sobě do bytu"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 4,
+      "clue": "Linka"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 5,
+      "cells": 5,
+      "clue": "Kontra"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Horolezecký terén"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 8,
+      "cells": 2,
+      "clue": "Citoslovce bolesti"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Dánska"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tisíc metrů (zn.)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Přístav Nového Jižního Walesu"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 4,
+      "clue": "Glóbus"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Vrcholek"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Čili"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 8,
+      "cells": 4,
+      "clue": "Potom"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hlubinný otvor"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Násep"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    }
+  ]
+}

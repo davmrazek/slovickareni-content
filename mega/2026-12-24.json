@@ -1,0 +1,459 @@
+{
+  "id": "2026-12-24",
+  "date": "2026-12-24",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "Z",
+      "A",
+      "C",
+      "#",
+      "#",
+      "K",
+      "U",
+      "N"
+    ],
+    [
+      "#",
+      "P",
+      "R",
+      "O",
+      "#",
+      "C",
+      "O",
+      "S",
+      "I"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "#",
+      "Z",
+      "I",
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      "U",
+      "V",
+      "A",
+      "R",
+      "E",
+      "N",
+      "Y",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "U",
+      "L",
+      "T",
+      "#",
+      "#",
+      "T",
+      "A",
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "U",
+      "S",
+      "P",
+      "O",
+      "R",
+      "A"
+    ],
+    [
+      "V",
+      "R",
+      "S",
+      "T",
+      "V",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "#",
+      "#",
+      "Z",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "U",
+      "S",
+      "P",
+      "E",
+      "S",
+      "N",
+      "E"
+    ],
+    [
+      "D",
+      "R",
+      "T",
+      "I",
+      "T",
+      "#",
+      "T",
+      "I",
+      "P"
+    ],
+    [
+      "I",
+      "O",
+      "N",
+      "T",
+      "#",
+      "S",
+      "M",
+      "S",
+      "#"
+    ],
+    [
+      "K",
+      "D",
+      "Y",
+      "#",
+      "#",
+      "B",
+      "A",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nač"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Oř"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Předložka se 4. pádem"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Něco"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spor (kniž.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Čumět"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 7,
+      "clue": "Hotový (o jídle)"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Uctívání"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Průvan"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 6,
+      "clue": "Šetření"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 6,
+      "clue": "Sloj"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Strýček ~ (USA)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nenávist"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 7,
+      "clue": "Se zdarem"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Tížit"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Rada"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kation či anion"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 3,
+      "clue": "Textovka"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce času"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Strachovat (~ se)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Zpočátku"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Pozemek s budovami"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Žlab"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Země strýčka Sama (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Vlákno příběhu"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 3,
+      "clue": "Hrdinský ~"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hokejový kotouč"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 2,
+      "clue": "Předložka"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Tekutý kov"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Plošná míra"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 8,
+      "cells": 2,
+      "clue": "Citoslovce překvapení"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Svatý (zkr.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ruka"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Proti (ve sportu)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. radia"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Zkroušený"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Záducha"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Spořádat jídlo"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Srdeční rytmus"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojovat nití"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Portugalska"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vděk"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Pokolení"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Znak stibia"
+    }
+  ]
+}

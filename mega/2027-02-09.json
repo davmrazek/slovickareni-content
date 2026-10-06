@@ -1,0 +1,459 @@
+{
+  "id": "2027-02-09",
+  "date": "2027-02-09",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "O",
+      "P",
+      "A",
+      "K",
+      "#",
+      "S",
+      "U",
+      "V"
+    ],
+    [
+      "#",
+      "D",
+      "R",
+      "Z",
+      "Y",
+      "#",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "#",
+      "C",
+      "H",
+      "T",
+      "I",
+      "T"
+    ],
+    [
+      "T",
+      "A",
+      "C",
+      "#",
+      "#",
+      "U",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "M",
+      "S",
+      "E",
+      "#",
+      "Z",
+      "D",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "E",
+      "#",
+      "K",
+      "R",
+      "B",
+      "#",
+      "K",
+      "S"
+    ],
+    [
+      "L",
+      "T",
+      "#",
+      "R",
+      "N",
+      "A",
+      "#",
+      "V",
+      "Y"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
+      "O",
+      "#",
+      "D",
+      "A",
+      "T"
+    ],
+    [
+      "K",
+      "O",
+      "L",
+      "O",
+      "#",
+      "#",
+      "Z",
+      "L",
+      "Y"
+    ],
+    [
+      "U",
+      "C",
+      "I",
+      "V",
+      "O",
+      "#",
+      "B",
+      "I",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "C",
+      "#",
+      "B",
+      "R",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "#",
+      "A",
+      "N",
+      "N",
+      "A",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Protiklad"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Sportovní užitkové vozidlo (zkr.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Opovážlivý"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 1,
+      "cells": 2,
+      "clue": "Chem. zn. neonu"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Přát si"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Podnos"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hypotéka"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Liturgie"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Jestli"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Estonska"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Topeniště"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Počet kusů (zkr.)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Litva (kód)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zdvořilé oslovení"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Poskytnout"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Bicykl"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zlomyslný"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Látka ke studiu"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. bismutu"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Proslov"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Uchopovat"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pivo svrchně kvašené"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 4,
+      "cells": 4,
+      "clue": "Karenina"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Unášet"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vždyť"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Časová spojka"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Brak"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Stěží"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Svaz"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Vichr"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 5,
+      "clue": "Melodie"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vazivo na okna"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Obilka"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 3,
+      "cells": 5,
+      "clue": "Slezské město"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Hodnota"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 8,
+      "cells": 4,
+      "clue": "Najedený"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Carrollova hrdinka"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Konvice"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Borka stromu"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Kalené železo"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Jeden i druhý"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. radonu"
+    }
+  ]
+}

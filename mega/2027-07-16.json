@@ -1,0 +1,466 @@
+{
+  "id": "2027-07-16",
+  "date": "2027-07-16",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "S",
+      "N",
+      "I",
+      "T",
+      "#",
+      "#",
+      "P",
+      "R",
+      "S"
+    ],
+    [
+      "U",
+      "H",
+      "E",
+      "L",
+      "#",
+      "S",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "M",
+      "L",
+      "#",
+      "A",
+      "P",
+      "A",
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "C",
+      "E",
+      "L",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "B",
+      "D",
+      "I",
+      "T",
+      "#",
+      "D",
+      "V",
+      "A"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "T",
+      "#",
+      "#",
+      "#",
+      "H",
+      "G"
+    ],
+    [
+      "Z",
+      "N",
+      "#",
+      "#",
+      "#",
+      "K",
+      "D",
+      "O",
+      "#"
+    ],
+    [
+      "S",
+      "O",
+      "K",
+      "#",
+      "P",
+      "R",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "T",
+      "R",
+      "A",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "H",
+      "E",
+      "M",
+      "I",
+      "K",
+      "#",
+      "V",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "F",
+      "A",
+      "#",
+      "O",
+      "B",
+      "R",
+      "I"
+    ],
+    [
+      "J",
+      "E",
+      "T",
+      "#",
+      "#",
+      "V",
+      "I",
+      "T",
+      "R"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Mít sny"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ňadro"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Roh"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Červená křestním jménem"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tisícina litru (zn.)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Ústrojí"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Úplně"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Nespat"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pár"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 3,
+      "clue": "Horní ~"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. rtuti"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Značka prvku s protonovým číslem 30"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Která osoba?"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rival"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Ante (lat.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 5,
+      "clue": "Svah"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Pracovník laboratoře"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Proti (ve sportu)"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Řecké A"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Gigantický"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ujíždět"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Vichr"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hukot"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zámořská hokejová liga (zkr.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Id est (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Strkat"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Stále"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Roucho"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 3,
+      "clue": "Taneční místnost"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Číslovka po čtyřech"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Na tomto místě"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Moravská metropole"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 4,
+      "clue": "Příhodně"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 8,
+      "cells": 2,
+      "clue": "Znak argenta"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Základní škola (zkr.)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Město Wawelu"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Čtyřiadvacet hodin"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Obchod (hovor.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Předložka se 6. pádem"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Temno"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Odvar"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Ukazovací citoslovce"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Sonda"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Pane (angl. oslovení)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Dvoj- (předp.)"
+    }
+  ]
+}

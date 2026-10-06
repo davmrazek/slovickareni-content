@@ -1,0 +1,466 @@
+{
+  "id": "2026-12-22",
+  "date": "2026-12-22",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "P",
+      "O",
+      "P",
+      "#",
+      "S",
+      "M",
+      "S",
+      "#"
+    ],
+    [
+      "K",
+      "O",
+      "U",
+      "R",
+      "#",
+      "K",
+      "L",
+      "I",
+      "D"
+    ],
+    [
+      "O",
+      "S",
+      "T",
+      "E",
+      "P",
+      "#",
+      "#",
+      "T",
+      "U"
+    ],
+    [
+      "N",
+      "L",
+      "#",
+      "#",
+      "E",
+      "N",
+      "Z",
+      "Y",
+      "M"
+    ],
+    [
+      "T",
+      "E",
+      "P",
+      "#",
+      "T",
+      "E",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "C",
+      "A",
+      "S",
+      "#",
+      "S",
+      "A",
+      "M",
+      "#"
+    ],
+    [
+      "#",
+      "H",
+      "U",
+      "T",
+      "#",
+      "T",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "U",
+      "B",
+      "#",
+      "I",
+      "N",
+      "U"
+    ],
+    [
+      "V",
+      "Z",
+      "A",
+      "D",
+      "U",
+      "#",
+      "#",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "L",
+      "#",
+      "#",
+      "H",
+      "R",
+      "U",
+      "Z",
+      "A"
+    ],
+    [
+      "S",
+      "O",
+      "N",
+      "A",
+      "#",
+      "U",
+      "S",
+      "E",
+      "K"
+    ],
+    [
+      "#",
+      "M",
+      "U",
+      "J",
+      "#",
+      "B",
+      "A",
+      "R",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Hudební žánr (angl. zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Textovka"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dým"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mír"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vrhačské náčiní"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tady"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Nizozemska"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Ferment"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Srdeční rytmus"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nyní"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Chvost"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Strýček ~ (USA)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 1,
+      "cells": 3,
+      "clue": "Sklárna"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pascaly"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Stolička"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Na konci"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Plošná míra"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak aluminia"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Děs"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Červená křestním jménem"
+    },
+    {
+      "num": 40,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Oddíl"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Náležející mně"
+    },
+    {
+      "num": 42,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Jednotka tlaku"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Naslouchání"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tenisové „mimo“"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Spor (kniž.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Slovensko (kód)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Tisícina litru (zn.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Na míru"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Účet"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Stavba"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Počet prstů"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Unášet"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 6,
+      "cells": 5,
+      "clue": "Jestli"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 2,
+      "cells": 5,
+      "clue": "Přestávka"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Ostych"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Řídící pracovník"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 8,
+      "cells": 5,
+      "clue": "Nikotinista"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Stvořitel"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "„Srdečně …“ (závěr dopisu)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Fraktura"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Zadní strana"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Země strýčka Sama (zkr.)"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Citoslovce pobídky"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Slovenské „i“"
+    }
+  ]
+}

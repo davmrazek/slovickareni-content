@@ -1,0 +1,466 @@
+{
+  "id": "2027-09-05",
+  "date": "2027-09-05",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "B",
+      "A",
+      "T",
+      "#",
+      "S",
+      "P",
+      "A",
+      "D"
+    ],
+    [
+      "K",
+      "O",
+      "L",
+      "O",
+      "#",
+      "U",
+      "R",
+      "N",
+      "A"
+    ],
+    [
+      "L",
+      "U",
+      "K",
+      "#",
+      "S",
+      "V",
+      "E",
+      "T",
+      "R"
+    ],
+    [
+      "U",
+      "R",
+      "O",
+      "D",
+      "A",
+      "#",
+      "S",
+      "E",
+      "#"
+    ],
+    [
+      "B",
+      "E",
+      "H",
+      "E",
+      "M",
+      "#",
+      "#",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "N",
+      "#",
+      "#",
+      "R",
+      "A",
+      "D"
+    ],
+    [
+      "P",
+      "U",
+      "L",
+      "#",
+      "#",
+      "N",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "S",
+      "#",
+      "#",
+      "O",
+      "D",
+      "K",
+      "A",
+      "Z"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "#",
+      "B",
+      "R",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "K",
+      "O",
+      "C",
+      "K",
+      "A",
+      "#",
+      "V",
+      "I",
+      "D"
+    ],
+    [
+      "R",
+      "U",
+      "K",
+      "A",
+      "#",
+      "D",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "M",
+      "#",
+      "O",
+      "T",
+      "A",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Strachovat (~ se)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Sklon"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Bicykl"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Volební schránka"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zbraň Robina Hooda"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Rolák"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Žeň"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 2,
+      "clue": "Kód Švédska"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "V průběhu"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 2,
+      "clue": "Zájmeno 3. osoby"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Řeholní společenství"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Jedna ze dvou stejných částí"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. niklu"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Operační systém (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Dědictví"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 1,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Portál"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Mňoukající"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Že ano?"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pravice"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Údaje"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Stavební kámen hmoty"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Pavel křestním jménem"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Vichřice"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 7,
+      "clue": "Líh"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Ono"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Terénní osobák (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Via"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Přijímač vln"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Talent"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Spolek"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Strýček ~ (USA)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Doba světla"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 8,
+      "cells": 2,
+      "clue": "Předložka s 2. pádem"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 6,
+      "cells": 7,
+      "clue": "Mívat ve zvyku pravit"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Odebrat se do říše snů"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Východní Německo (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Dva zároveň"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Jméno Krausové"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 8,
+      "cells": 4,
+      "clue": "Zadní strana těla"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Hlavní tým (slang.)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ledová deska"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Tázací příslovce směru"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Tón C (solmizace)"
+    }
+  ]
+}

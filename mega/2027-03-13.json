@@ -1,0 +1,480 @@
+{
+  "id": "2027-03-13",
+  "date": "2027-03-13",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "P",
+      "S",
+      "I",
+      "#",
+      "T",
+      "A",
+      "N",
+      "K"
+    ],
+    [
+      "N",
+      "O",
+      "V",
+      "E",
+      "#",
+      "O",
+      "B",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "#",
+      "A",
+      "N",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "U",
+      "B",
+      "#",
+      "C",
+      "O",
+      "#"
+    ],
+    [
+      "D",
+      "K",
+      "#",
+      "V",
+      "Y",
+      "S",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "V",
+      "U",
+      "N",
+      "E",
+      "#",
+      "U",
+      "D",
+      "A",
+      "J"
+    ],
+    [
+      "D",
+      "N",
+      "E",
+      "S",
+      "#",
+      "K",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "T",
+      "I",
+      "N",
+      "#",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "P",
+      "H",
+      "#",
+      "V",
+      "E",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "L",
+      "O",
+      "V",
+      "O",
+      "#",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "D",
+      "A",
+      "#",
+      "P",
+      "L",
+      "A",
+      "Z"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "N",
+      "#",
+      "R",
+      "Y",
+      "S",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Řecké písmeno"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nádrž"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Čerstvě"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Polední jídlo"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Lovelaceová, průkopnice programování"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Či"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Řezák"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 2,
+      "clue": "Tázací zájmeno (na věc)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Dánska"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 4,
+      "clue": "Nahoře"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Buket"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Informace"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nyní"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nesnáz (přen.)"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 2,
+      "cells": 4,
+      "clue": "Tma za předmětem"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Itálie"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 1,
+      "cells": 2,
+      "clue": "Vodíkový exponent"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 4,
+      "cells": 3,
+      "clue": "Předmět"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Výraz"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pilarová, zpěvačka"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Trend"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Písečný břeh"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Týpí"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Kočkovitá šelma"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Níže než"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Unie"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Irska"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Zvuk určité výšky"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 7,
+      "clue": "Soupis písmen"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Spojka volby"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Která osoba?"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Spojka účelová"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 5,
+      "clue": "Zmínit"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Optický disk (zkr.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Hřebec"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 5,
+      "clue": "Dámský oděv"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Rozpor"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 3,
+      "clue": "Snad"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Ujíždět"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Laťky kolem zahrady"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Veškerý"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Krátká zpráva (zkr.)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dodávkový vůz"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (vy)"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 8,
+      "cells": 2,
+      "clue": "Časová spojka"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Styk s veřejností (zkr.)"
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "id": "2027-08-22",
+  "date": "2027-08-22",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "P",
+      "O",
+      "P",
+      "#",
+      "O",
+      "K",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "A",
+      "K",
+      "T",
+      "#",
+      "B",
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "#",
+      "D",
+      "R",
+      "A",
+      "C",
+      "I"
+    ],
+    [
+      "N",
+      "E",
+      "#",
+      "O",
+      "N",
+      "#",
+      "#",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "V",
+      "A",
+      "N",
+      "A",
+      "#",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "I",
+      "#",
+      "#",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "S",
+      "O",
+      "K",
+      "#",
+      "#",
+      "Z",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "D",
+      "O",
+      "#",
+      "O",
+      "D",
+      "J",
+      "E",
+      "T"
+    ],
+    [
+      "U",
+      "L",
+      "#",
+      "#",
+      "B",
+      "A",
+      "#",
+      "F",
+      "I"
+    ],
+    [
+      "B",
+      "E",
+      "C",
+      "V",
+      "A",
+      "#",
+      "T",
+      "E",
+      "P"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "E",
+      "#",
+      "K",
+      "R",
+      "K",
+      "#"
+    ],
+    [
+      "T",
+      "K",
+      "A",
+      "N",
+      "#",
+      "C",
+      "I",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Pravoslavný kněz"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pauza"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Dějství"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Uchopovat"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Pouštění za větru"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zápor"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 2,
+      "clue": "Muž"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Plošná míra"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Chýlková křestním jménem"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Středová přímka"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Rok (2. p. mn. č.)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rival"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 2,
+      "clue": "Předložka"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Která osoba?"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Odcestovat"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Včelí příbytek"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. barya"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Suomi (kód)"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Přítok Moravy"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Puls"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Orient"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 3,
+      "clue": "Hrdlo"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Soubor buněk"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Emoce"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Kost kyčle"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Portugalska"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Velikán"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Plovoucí led"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Konečně"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 6,
+      "clue": "Stírat"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Dvoušroubovice (zkr.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Hlavní tým (slang.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 4,
+      "clue": "Tekutý tuk"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 6,
+      "clue": "Trhat"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Záblesk"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Jestli"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Jeden i druhý"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Účinek"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Odhad"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zpravodajci z Langley"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Pryč"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Počet mušketýrů"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Česká měna (zkr.)"
+    }
+  ]
+}

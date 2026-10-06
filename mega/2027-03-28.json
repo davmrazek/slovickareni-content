@@ -1,0 +1,452 @@
+{
+  "id": "2027-03-28",
+  "date": "2027-03-28",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "B",
+      "A",
+      "L",
+      "I",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "K",
+      "E",
+      "L",
+      "I",
+      "M",
+      "E",
+      "K",
+      "#"
+    ],
+    [
+      "S",
+      "L",
+      "Z",
+      "A",
+      "#",
+      "I",
+      "R",
+      "A",
+      "K"
+    ],
+    [
+      "J",
+      "A",
+      "#",
+      "N",
+      "I",
+      "T",
+      "#",
+      "M",
+      "G"
+    ],
+    [
+      "E",
+      "V",
+      "A",
+      "#",
+      "N",
+      "A",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "Z",
+      "I",
+      "L",
+      "A",
+      "#",
+      "C",
+      "V",
+      "U",
+      "T"
+    ],
+    [
+      "D",
+      "R",
+      "E",
+      "S",
+      "#",
+      "E",
+      "U",
+      "R",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "J",
+      "I",
+      "T",
+      "#",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "T",
+      "J",
+      "#",
+      "J",
+      "I",
+      "Z",
+      "#",
+      "Z",
+      "A"
+    ],
+    [
+      "V",
+      "E",
+      "R",
+      "S",
+      "#",
+      "I",
+      "R",
+      "I",
+      "S"
+    ],
+    [
+      "#",
+      "D",
+      "E",
+      "K",
+      "O",
+      "V",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "Y",
+      "D",
+      "E",
+      "J",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Paket"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Plastový pohárek"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kapka pláče"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mezopotámie dnes"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Vlákno příběhu"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Miligram (zn.)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Adamova družka"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Výše než"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Céva"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nejstarší technika (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Sportovní oděv"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Platidlo Slovenska"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kráčet"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zárubeň"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "To jest (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Už (kniž.)"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka s 4. a 7. pádem"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Alexandrin"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kosatec"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Vzdávat díky"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vydávání"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Předložka nedostatku"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Jméno Alda"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Tázací částice (kniž.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 7,
+      "clue": "Falzifikát"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Křovina"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 6,
+      "clue": "Pianoforte"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 3,
+      "clue": "Tázací příslovce směru"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Slalom"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kilogram (zn.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Indie"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Stromořadí"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 6,
+      "cells": 4,
+      "clue": "Královský ~"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 7,
+      "clue": "Orientální"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 6,
+      "clue": "Dotknout se cti"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 8,
+      "cells": 5,
+      "clue": "Nevěřící apoštol"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Obrazovka (zkr.)"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Toxin"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Čile"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Burácení"
+    },
+    {
+      "num": 37,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Elysium"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Předložka původu"
+    }
+  ]
+}

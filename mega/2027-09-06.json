@@ -1,0 +1,417 @@
+{
+  "id": "2027-09-06",
+  "date": "2027-09-06",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "J",
+      "I",
+      "N",
+      "A",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "T",
+      "O",
+      "L",
+      "I",
+      "K",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "A",
+      "#",
+      "P",
+      "R",
+      "O",
+      "C"
+    ],
+    [
+      "U",
+      "H",
+      "E",
+      "L",
+      "N",
+      "Y",
+      "#",
+      "C",
+      "O"
+    ],
+    [
+      "S",
+      "Y",
+      "R",
+      "I",
+      "E",
+      "#",
+      "#",
+      "A",
+      "Z"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "E",
+      "Z",
+      "#",
+      "C",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "M",
+      "Y",
+      "#",
+      "D",
+      "U",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "U",
+      "#",
+      "#",
+      "A",
+      "N",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "U",
+      "Z",
+      "#",
+      "B",
+      "R",
+      "A",
+      "N",
+      "I",
+      "T"
+    ],
+    [
+      "K",
+      "U",
+      "D",
+      "Y",
+      "#",
+      "V",
+      "E",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "V",
+      "I",
+      "T",
+      "R",
+      "I",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "I",
+      "S",
+      "T",
+      "I",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Na jiné místo"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Tolik"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pořadí"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Nač"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 6,
+      "clue": "Karbonský"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tázací zájmeno (na věc)"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Stát s Damaškem"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Časová spojka"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Dokud ne"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. chromu"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 1,
+      "cells": 2,
+      "clue": "Kolektivní já"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 4,
+      "cells": 3,
+      "clue": "Uhelná jáma"
+    },
+    {
+      "num": 21,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zde (hovor.)"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Či"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Již"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 3,
+      "cells": 6,
+      "clue": "Chránit"
+    },
+    {
+      "num": 27,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Jakou cestou"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Scientia (lat.)"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Skříňka se sklem"
+    },
+    {
+      "num": 32,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Lupení"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 7,
+      "clue": "Nukleární"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Apeninský stát"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tyrolské hory"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pokoj"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Obnažený"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 5,
+      "clue": "Povoz"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Moskvan"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Vztažné zájmeno"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Fiasko"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 6,
+      "cells": 7,
+      "clue": "Struktura"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Manželův"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Zmořit"
+    },
+    {
+      "num": 21,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Sádlo"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Chudoba"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Pavel křestním jménem"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Existence"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Část"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Srbsko (kód)"
+    }
+  ]
+}

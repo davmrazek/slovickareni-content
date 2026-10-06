@@ -1,0 +1,445 @@
+{
+  "id": "2026-11-11",
+  "date": "2026-11-11",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "P",
+      "R",
+      "O",
+      "#",
+      "H",
+      "D",
+      "P",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "U",
+      "B",
+      "O",
+      "M",
+      "I",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "C",
+      "A",
+      "S",
+      "#",
+      "L",
+      "I",
+      "T"
+    ],
+    [
+      "K",
+      "U",
+      "N",
+      "#",
+      "#",
+      "B",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "H",
+      "L",
+      "Y",
+      "#",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "R",
+      "E",
+      "V",
+      "#",
+      "M",
+      "Y"
+    ],
+    [
+      "C",
+      "D",
+      "#",
+      "U",
+      "D",
+      "A",
+      "J",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "E",
+      "#",
+      "Z",
+      "A",
+      "T",
+      "O",
+      "K",
+      "A"
+    ],
+    [
+      "O",
+      "L",
+      "G",
+      "A",
+      "#",
+      "#",
+      "G",
+      "O",
+      "L"
+    ],
+    [
+      "V",
+      "I",
+      "R",
+      "#",
+      "C",
+      "L",
+      "U",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "K",
+      "A",
+      "R",
+      "I",
+      "E",
+      "R",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "M",
+      "A",
+      "#",
+      "C",
+      "T",
+      "K",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Hrubý domácí produkt (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Lipský křestním jménem"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 1,
+      "cells": 4,
+      "clue": "Chvost"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Téci proudem"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hřebec"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Chyba (hovor.)"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 6,
+      "clue": "Útlý"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka původu"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Rod (přen.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kolektivní já"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kompaktní disk"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Informace"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Citoslovce údivu"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 6,
+      "clue": "Záliv"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Havlová křestním jménem"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Branka"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Původce nemoci"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 4,
+      "cells": 4,
+      "clue": "Bárka"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Vzestup"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Temno"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Tisková agentura (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Plavat lodí"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Osuška"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Jeden i druhý"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Nu"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Výtvor"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Zároveň"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 2,
+      "clue": "Operační systém (zkr.)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Tu"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Počet kusů (zkr.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 5,
+      "clue": "Bydlívat"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Zděšení"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Spartská královna (myt.)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pěstování zvířat"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Přečin"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Kysaný mléčný výrobek"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Brandy"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. hliníku"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Tisícina kila"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 4,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Avšak (kniž.)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    }
+  ]
+}

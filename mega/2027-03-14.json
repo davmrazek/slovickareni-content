@@ -1,0 +1,459 @@
+{
+  "id": "2027-03-14",
+  "date": "2027-03-14",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "C",
+      "O",
+      "#",
+      "S",
+      "T",
+      "O",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "Z",
+      "#",
+      "N",
+      "Y",
+      "B",
+      "R",
+      "Z",
+      "#"
+    ],
+    [
+      "S",
+      "Y",
+      "N",
+      "#",
+      "P",
+      "R",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "T",
+      "V",
+      "U",
+      "J",
+      "#",
+      "#",
+      "S",
+      "A",
+      "M"
+    ],
+    [
+      "K",
+      "A",
+      "Z",
+      "I",
+      "T",
+      "#",
+      "T",
+      "R",
+      "N"
+    ],
+    [
+      "A",
+      "T",
+      "#",
+      "N",
+      "E",
+      "C",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "Y",
+      "S",
+      "L",
+      "#",
+      "B",
+      "G"
+    ],
+    [
+      "A",
+      "B",
+      "Y",
+      "#",
+      "T",
+      "E",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "O",
+      "S",
+      "#",
+      "#",
+      "N",
+      "O",
+      "H",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "L",
+      "E",
+      "D",
+      "#",
+      "D",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "R",
+      "I",
+      "E",
+      "#",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "A",
+      "K",
+      "E",
+      "#",
+      "I",
+      "T"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Zastav!"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Teprve"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 5,
+      "clue": "Ale (kniž.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dědic"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 4,
+      "clue": "Ante (lat.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Přivlastňovací zájmeno (ty)"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Bez doprovodu"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Poškozovat"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Bodlina"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Cosi"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Rozum"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Bulharska"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojka účelová"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Takřka"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Loterijní lístek"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Končetina"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 1,
+      "cells": 4,
+      "clue": "Řada"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Poplatek"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 1,
+      "cells": 5,
+      "clue": "Sled"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. sodíku"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 2,
+      "cells": 4,
+      "clue": "Též"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Informační technologie (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 6,
+      "clue": "Suma"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Ohlašovat (~ se)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. cínu"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Model"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Velikán"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Leč"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 4,
+      "clue": "Město na Vysočině (~ nad Sázavou)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 2,
+      "cells": 3,
+      "clue": "Břitva"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Druhý"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 8,
+      "cells": 2,
+      "clue": "Mangan (zn.)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Zkouška"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Příslušník spolku"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Soudit"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Jogging"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 8,
+      "cells": 6,
+      "clue": "Český pyrop"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak aluminia"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Šéf (hovor.)"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Herní úprava"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Letopočet"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Poděkování"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Estonsko (zkr.)"
+    }
+  ]
+}

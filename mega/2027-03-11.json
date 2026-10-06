@@ -1,0 +1,431 @@
+{
+  "id": "2027-03-11",
+  "date": "2027-03-11",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "S",
+      "K",
+      "O",
+      "R",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "B",
+      "E",
+      "R",
+      "N",
+      "A",
+      "R",
+      "D",
+      "#"
+    ],
+    [
+      "D",
+      "A",
+      "N",
+      "A",
+      "#",
+      "#",
+      "I",
+      "V",
+      "O"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "#",
+      "Z",
+      "A",
+      "K",
+      "O",
+      "P"
+    ],
+    [
+      "N",
+      "A",
+      "O",
+      "P",
+      "A",
+      "K",
+      "#",
+      "J",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "A",
+      "N",
+      "C",
+      "#",
+      "I",
+      "R"
+    ],
+    [
+      "V",
+      "S",
+      "#",
+      "S",
+      "E",
+      "N",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "T",
+      "#",
+      "K",
+      "S",
+      "I",
+      "C",
+      "H",
+      "T"
+    ],
+    [
+      "T",
+      "R",
+      "V",
+      "A",
+      "T",
+      "#",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "#",
+      "#",
+      "Z",
+      "N",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "P",
+      "O",
+      "R",
+      "A",
+      "D",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "O",
+      "T",
+      "A",
+      "T",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Stav zápasu"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Horský pes"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Jméno Drábové"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Snad"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Okop"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 6,
+      "clue": "Obráceně"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Farma na prérii"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. iridia"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Proti (ve sportu)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Sušená tráva"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Informační technologie (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 3,
+      "cells": 6,
+      "clue": "Obličej (hovor.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vydržet"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Letopočet"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Horní ~"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Erb"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Doporučit"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Plést"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Starší"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Plovoucí led"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Muž"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. radia"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Satie křestním jménem"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Vězení (slang.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 5,
+      "clue": "Dvou druhů"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Poplatek"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Mlha"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Zavléct"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 5,
+      "clue": "Dynamický (o filmu)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Lepenka"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vichr"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Úlomek"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Ohodnotit"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Muzicírovat"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Nuže"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Náhle"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Jestli"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Rumunsko (kód)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    }
+  ]
+}

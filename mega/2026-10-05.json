@@ -1,0 +1,452 @@
+{
+  "id": "2026-10-05",
+  "date": "2026-10-05",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "O",
+      "N",
+      "#",
+      "#",
+      "#",
+      "J",
+      "A",
+      "K",
+      "O"
+    ],
+    [
+      "B",
+      "E",
+      "Z",
+      "#",
+      "D",
+      "O",
+      "T",
+      "A",
+      "Z"
+    ],
+    [
+      "A",
+      "S",
+      "T",
+      "M",
+      "A",
+      "#",
+      "P",
+      "S",
+      "I"
+    ],
+    [
+      "#",
+      "T",
+      "R",
+      "A",
+      "T",
+      "#",
+      "#",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "L",
+      "#",
+      "O",
+      "B",
+      "R",
+      "#"
+    ],
+    [
+      "U",
+      "S",
+      "T",
+      "I",
+      "#",
+      "D",
+      "E",
+      "N",
+      "I"
+    ],
+    [
+      "Z",
+      "L",
+      "I",
+      "N",
+      "#",
+      "Z",
+      "N",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "O",
+      "T",
+      "A",
+      "#",
+      "N",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "Z",
+      "#",
+      "#",
+      "S",
+      "A",
+      "S",
+      "A",
+      "#"
+    ],
+    [
+      "P",
+      "I",
+      "T",
+      "#",
+      "I",
+      "K",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "O",
+      "T",
+      "R",
+      "I",
+      "T",
+      "#",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "Y",
+      "N",
+      "E",
+      "#",
+      "#",
+      "#",
+      "B",
+      "I"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Muž"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Coby"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Předložka nedostatku"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Otázka"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Záducha"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kynologický"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Koleje"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 2,
+      "clue": "Znak aluminia"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Titán"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vyústění řeky"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Průběh věcí"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Baťovo město"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Vědět"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 1,
+      "cells": 3,
+      "clue": "Pavel křestním jménem"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 5,
+      "cells": 2,
+      "clue": "Zápor"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Teprve"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 4,
+      "cells": 4,
+      "clue": "Rašilov křestním jménem"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Požívat nápoj"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Pravoslavný obraz"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Utřít"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Obec"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Halloweenská plodina"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Dvoj- (předp.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dva zároveň"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Nosit"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Hovorové ano"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "A tak podobně (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Posádkové budovy"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Oživnout"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 2,
+      "cells": 7,
+      "clue": "Pohřešit"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Věnovat"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Červená bobule"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 5,
+      "cells": 6,
+      "clue": "Insignie"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 7,
+      "clue": "Středočeské okresní město"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nyní již"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Spletitý"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 8,
+      "cells": 2,
+      "clue": "Informační technologie (zkr.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "A podobně (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 4,
+      "cells": 3,
+      "clue": "Spojovat nití"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Nebo též"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Osten"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Přibližně"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Id est (zkr.)"
+    }
+  ]
+}

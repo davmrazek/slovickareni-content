@@ -1,0 +1,466 @@
+{
+  "id": "2027-06-12",
+  "date": "2027-06-12",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "K",
+      "D",
+      "O",
+      "#",
+      "S",
+      "T",
+      "A",
+      "V",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "K",
+      "#",
+      "P",
+      "A",
+      "T",
+      "Y",
+      "#"
+    ],
+    [
+      "U",
+      "L",
+      "O",
+      "Z",
+      "I",
+      "T",
+      "#",
+      "N",
+      "A"
+    ],
+    [
+      "B",
+      "E",
+      "#",
+      "U",
+      "S",
+      "A",
+      "#",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "K",
+      "U",
+      "P",
+      "E",
+      "#",
+      "A",
+      "S",
+      "I"
+    ],
+    [
+      "#",
+      "O",
+      "S",
+      "A",
+      "#",
+      "D",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "N",
+      "#",
+      "A",
+      "C",
+      "H",
+      "#"
+    ],
+    [
+      "B",
+      "A",
+      "T",
+      "#",
+      "O",
+      "R",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "U",
+      "L",
+      "#",
+      "Z",
+      "D",
+      "E",
+      "#",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "O",
+      "#",
+      "D",
+      "E",
+      "K",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "I",
+      "R",
+      "A",
+      "N",
+      "#",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "T",
+      "Y",
+      "#",
+      "O",
+      "T",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Která osoba?"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Kondice"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nátěr"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Po čtvrtém"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Zaznamenat na disk"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Belgie"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojené státy (zkr.)"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zájmeno 3. osoby"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Oddíl ve vagonu"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Snad"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 1,
+      "cells": 3,
+      "clue": "Středová přímka"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Dánska"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Chem. zn. india"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Citoslovce žalu"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Obávat se (~ se)"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Král ptáků"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Brť"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Na tomto místě"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Snížené E"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tón C (solmizace)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 3,
+      "cells": 6,
+      "clue": "Desetiletí"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 1,
+      "cells": 4,
+      "clue": "Persie"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Opak pod (předložka)"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 1,
+      "cells": 4,
+      "clue": "Róba"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Šik křestním jménem"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kroužek"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Na hony"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 5,
+      "clue": "Raději"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Otec (hovor.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Nechť"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Dekret"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 5,
+      "clue": "Hlava župy (hist.)"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Zhotovit jehlou"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 6,
+      "cells": 4,
+      "clue": "Podnik"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 5,
+      "clue": "Suvenýr"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Pátrat"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rozkaz slovesa být"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Jméno Rašína"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Oblečený"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Snít (~ se)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Komplet"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    }
+  ]
+}

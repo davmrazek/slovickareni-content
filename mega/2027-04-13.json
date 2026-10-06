@@ -1,0 +1,445 @@
+{
+  "id": "2027-04-13",
+  "date": "2027-04-13",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "U",
+      "Z",
+      "#",
+      "#",
+      "A",
+      "T",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "K",
+      "#",
+      "L",
+      "E",
+      "O",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "L",
+      "E",
+      "S",
+      "P",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "D",
+      "L",
+      "E",
+      "#",
+      "T",
+      "E",
+      "C",
+      "I"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "O",
+      "P",
+      "O",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "M",
+      "Y",
+      "S",
+      "L",
+      "#",
+      "#",
+      "C",
+      "I"
+    ],
+    [
+      "E",
+      "U",
+      "#",
+      "#",
+      "U",
+      "S",
+      "M",
+      "E",
+      "V"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "I",
+      "S",
+      "M",
+      "E",
+      "N",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "V",
+      "#",
+      "R",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "N",
+      "A",
+      "M",
+      "E",
+      "S",
+      "T",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "E",
+      "T",
+      "A",
+      "#",
+      "T",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "A",
+      "M",
+      "#",
+      "#",
+      "C",
+      "M"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Již"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "A tak podobně (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Glazura"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Blum křestním jménem"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 2,
+      "cells": 7,
+      "clue": "Nejméně"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 3,
+      "clue": "Předložka shody"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Prosakovat"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 7,
+      "clue": "Deskovka o nemovitostech"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Cit"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Unie sedmadvaceti (zkr.)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 4,
+      "cells": 5,
+      "clue": "Výraz radosti"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 7,
+      "clue": "Litera"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Situace"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ribonukleová kyselina (zkr.)"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 7,
+      "clue": "Rynek"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 4,
+      "clue": "Družstvo"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 2,
+      "cells": 3,
+      "clue": "Onde"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Setina metru (zn.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Brť"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Leč"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Kynuté ~"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Zbytek po ohni"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 2,
+      "cells": 5,
+      "clue": "Neprůhledný"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 3,
+      "clue": "Tma"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 4,
+      "clue": "Janáček křestním jménem"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. niklu"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Do rodiště"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Bohoslužba"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Klad"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 7,
+      "cells": 4,
+      "clue": "Hodnota"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Jahelka křestním jménem"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zubatá"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 5,
+      "clue": "Modifikovat"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vzpomínky"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Bartošová křestním jménem"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak stanna"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Servírovací deska"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Strýček ~ (USA)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Třebas (kniž.)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Tisíc metrů (zn.)"
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "id": "2026-11-19",
+  "date": "2026-11-19",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "P",
+      "D",
+      "F",
+      "#",
+      "S",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "C",
+      "#",
+      "L",
+      "I",
+      "G",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "P",
+      "#",
+      "#",
+      "Z",
+      "R",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "D",
+      "E",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "S",
+      "A",
+      "T",
+      "#",
+      "P",
+      "U",
+      "D"
+    ],
+    [
+      "C",
+      "R",
+      "#",
+      "N",
+      "I",
+      "#",
+      "C",
+      "C",
+      "A"
+    ],
+    [
+      "O",
+      "S",
+      "M",
+      "#",
+      "C",
+      "D",
+      "#",
+      "T",
+      "V"
+    ],
+    [
+      "Z",
+      "A",
+      "L",
+      "#",
+      "K",
+      "E",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "V",
+      "Y",
+      "S",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "L",
+      "O",
+      "#",
+      "#",
+      "K",
+      "R",
+      "B"
+    ],
+    [
+      "U",
+      "V",
+      "O",
+      "D",
+      "#",
+      "Z",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "M",
+      "A",
+      "M",
+      "A",
+      "#",
+      "S",
+      "E",
+      "M",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Přenosný dokument (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mix"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nač"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Svaz"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rada"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Vznik"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 2,
+      "cells": 4,
+      "clue": "Myšlenka"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Tvořit"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nutkání"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Naše republika (zkr.)"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Nikaraguy"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Přibližně (zkr.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet nohou pavouka"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. kadmia"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Obrazovka (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Smutek"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Země Nairobi"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Hodnota, míra"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Opus"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ohniště"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Začátek"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Úspěch"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Matka (důvěrně)"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "K nám"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Během"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Psaní"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Zkratka před Barcelonou"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Krůpěj"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pokoj"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Sebevědomí"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Park"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Portugalska"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Odvod státu"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Morální"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Plavecký styl"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 2,
+      "clue": "Osobní počítač (zkr.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 4,
+      "clue": "Respekt"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Zástup"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vztažné zájmeno"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Tisícina litru (zn.)"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Strach"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Kdesi"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Aqua (lat.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Stavba"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Bittová křestním jménem"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Těžebna kamene"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Zárubeň"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kód Brazílie"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Základní škola (zkr.)"
+    }
+  ]
+}

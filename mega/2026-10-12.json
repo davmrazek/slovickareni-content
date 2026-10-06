@@ -1,0 +1,473 @@
+{
+  "id": "2026-10-12",
+  "date": "2026-10-12",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "T",
+      "A",
+      "B",
+      "O",
+      "R",
+      "#",
+      "C",
+      "L",
+      "O"
+    ],
+    [
+      "E",
+      "T",
+      "A",
+      "P",
+      "A",
+      "#",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "O",
+      "#",
+      "O",
+      "D",
+      "M",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "M",
+      "O",
+      "R",
+      "#",
+      "R",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "B",
+      "A",
+      "V",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "V",
+      "A",
+      "#",
+      "S",
+      "K",
+      "#",
+      "I",
+      "S"
+    ],
+    [
+      "T",
+      "Y",
+      "#",
+      "Z",
+      "A",
+      "#",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "O",
+      "K",
+      "O",
+      "L",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "V",
+      "E",
+      "N",
+      "#",
+      "L",
+      "E",
+      "V",
+      "#"
+    ],
+    [
+      "D",
+      "O",
+      "M",
+      "A",
+      "C",
+      "I",
+      "#",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "#",
+      "O",
+      "V",
+      "O",
+      "C",
+      "E"
+    ],
+    [
+      "V",
+      "A",
+      "L",
+      "#",
+      "Z",
+      "A",
+      "D",
+      "E",
+      "K"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kemp"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Poplatek"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Fáze"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hvozd"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tón C (solmizace)"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Honorář"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 1,
+      "cells": 3,
+      "clue": "Epidemie"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 1,
+      "cells": 5,
+      "clue": "Tíseň"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Janžurová křestním jménem"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Slovenska"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Islámský stát (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Oslovení bez vykání"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 3,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Přibližně"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Pryč"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Král zvířat"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Tuzemský"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. hliníku"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Snad"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Plody"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hradba"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 4,
+      "cells": 5,
+      "clue": "Pozadí"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Momentálně"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Nukleární"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Dokonce (kniž.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Pilíř"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Vyznamenání"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Úd"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Sibiřská řeka"
+    },
+    {
+      "num": 8,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Středová přímka"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kupa"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Jeden i druhý"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Ale"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Itálie"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 7,
+      "cells": 7,
+      "clue": "Novinka"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kód Slovinska"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Oblast"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pivo svrchně kvašené"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 5,
+      "cells": 5,
+      "clue": "Středomořský plod"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Žlutočerný hmyz"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Zátopek křestním jménem"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Masa lidí"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Kterážto věc"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Medikament"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Předložka s 2. pádem"
+    }
+  ]
+}

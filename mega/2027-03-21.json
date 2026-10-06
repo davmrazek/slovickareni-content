@@ -1,0 +1,459 @@
+{
+  "id": "2027-03-21",
+  "date": "2027-03-21",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "U",
+      "R",
+      "A",
+      "Z",
+      "#",
+      "U",
+      "Z",
+      "#"
+    ],
+    [
+      "U",
+      "M",
+      "E",
+      "L",
+      "E",
+      "#",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "C",
+      "E",
+      "K",
+      "A",
+      "T",
+      "#",
+      "#",
+      "L",
+      "I"
+    ],
+    [
+      "E",
+      "L",
+      "A",
+      "N",
+      "#",
+      "O",
+      "C",
+      "E",
+      "L"
+    ],
+    [
+      "S",
+      "E",
+      "#",
+      "#",
+      "I",
+      "K",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "C",
+      "P",
+      "#",
+      "N",
+      "O",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "E",
+      "F",
+      "#",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "V",
+      "O",
+      "#",
+      "#",
+      "V",
+      "S"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "A",
+      "#",
+      "S",
+      "L",
+      "O",
+      "T"
+    ],
+    [
+      "A",
+      "Z",
+      "#",
+      "#",
+      "S",
+      "T",
+      "A",
+      "R",
+      "Y"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "#",
+      "M",
+      "O",
+      "B",
+      "I",
+      "L"
+    ],
+    [
+      "#",
+      "M",
+      "L",
+      "#",
+      "S",
+      "P",
+      "E",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Zranění"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Nyní již"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Synteticky"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hvozd"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vyčkávat"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tázací částice (kniž.)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zápal"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Slitina železa"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zvratné zájmeno"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Pravoslavný obraz"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 1,
+      "cells": 2,
+      "clue": "Číslo popisné (zkr.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 4,
+      "cells": 3,
+      "clue": "Frňák"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 3,
+      "clue": "Vedoucí"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 6,
+      "cells": 2,
+      "clue": "Informační technologie (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nárok"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Proti (ve sportu)"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Otec (hovor.)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Časové okno"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Teprve"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Vetchý"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ukazovací zájmeno (m. r.)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Telefon"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 1,
+      "cells": 2,
+      "clue": "Tisícina litru (zn.)"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 4,
+      "cells": 4,
+      "clue": "Chvátat (kniž.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Tvůrce"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Tok"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Jméno Alda"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Dceřin muž"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Včelí příbytek"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Listoví"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Coiffure"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 4,
+      "clue": "Energie"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 4,
+      "clue": "Leccos"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Zpráva (hovor.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Zapisovat"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Pilarová, zpěvačka"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Komponovat"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dotazovat se"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Náhle"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 8,
+      "cells": 4,
+      "clue": "Sloh"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zastav!"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Řeka z Krkonoš"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Krátká zpráva (zkr.)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Nizozemska"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "2027-07-13",
+  "date": "2027-07-13",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "P",
+      "A",
+      "S",
+      "T",
+      "#",
+      "#",
+      "K",
+      "R",
+      "K"
+    ],
+    [
+      "O",
+      "D",
+      "E",
+      "V",
+      "#",
+      "K",
+      "O",
+      "U",
+      "R"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "#",
+      "#",
+      "D",
+      "U",
+      "M",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "A",
+      "N",
+      "E",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "K",
+      "A",
+      "L",
+      "A",
+      "#",
+      "#",
+      "O",
+      "D"
+    ],
+    [
+      "K",
+      "O",
+      "N",
+      "E",
+      "C",
+      "#",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "O",
+      "U",
+      "T",
+      "#",
+      "A",
+      "T",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "K",
+      "C",
+      "#",
+      "#",
+      "S",
+      "U",
+      "K",
+      "N",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "L",
+      "E",
+      "K",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "O",
+      "Z",
+      "#",
+      "#",
+      "H",
+      "U",
+      "L"
+    ],
+    [
+      "S",
+      "I",
+      "R",
+      "E",
+      "#",
+      "C",
+      "O",
+      "S",
+      "I"
+    ],
+    [
+      "V",
+      "N",
+      "E",
+      "#",
+      "#",
+      "P",
+      "L",
+      "A",
+      "T"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Léč"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hrdlo"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Šat"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Dým"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dvojice"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Stavení"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Zápal"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 5,
+      "clue": "Útes"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka původu"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Finále"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zámezí (angl.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 4,
+      "cells": 5,
+      "clue": "Vrhač"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Česká měna (zkr.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Dámský oděv"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 5,
+      "clue": "Bílý nápoj"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Kterážto věc"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Vycházková opora"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Šířka"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Leccos"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Venku"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Gáže"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pravoslavný kněz"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Lovelaceová, průkopnice programování"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 7,
+      "clue": "Poddůstojník"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Obrazovka (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Roh místnosti"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Pirátský nápoj"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. kryptonu"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Pivo svrchně kvašené"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Nejvyšší doba"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Salto"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Trenér"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 4,
+      "clue": "Ten tamhle"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 8,
+      "cells": 4,
+      "clue": "Potomek"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 7,
+      "clue": "Líh"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Lipid"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Oceán"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dá se"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Skutek"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Spojené státy (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Téci proudem"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Svatý (zkr.)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Číslo popisné (zkr.)"
+    }
+  ]
+}

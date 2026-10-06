@@ -1,0 +1,452 @@
+{
+  "id": "2027-06-23",
+  "date": "2027-06-23",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "R",
+      "U",
+      "B",
+      "#",
+      "#",
+      "C",
+      "H",
+      "K",
+      "O"
+    ],
+    [
+      "O",
+      "M",
+      "Y",
+      "L",
+      "#",
+      "T",
+      "R",
+      "U",
+      "S"
+    ],
+    [
+      "V",
+      "Y",
+      "T",
+      "I",
+      "S",
+      "K",
+      "#",
+      "C",
+      "M"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "D",
+      "Y",
+      "#",
+      "#",
+      "H",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "S",
+      "N",
+      "O",
+      "V",
+      "Y",
+      "#"
+    ],
+    [
+      "H",
+      "O",
+      "S",
+      "T",
+      "#",
+      "Z",
+      "A",
+      "N",
+      "R"
+    ],
+    [
+      "U",
+      "D",
+      "I",
+      "V",
+      "#",
+      "D",
+      "R",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "P",
+      "R",
+      "O",
+      "T",
+      "O",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "#",
+      "#",
+      "O",
+      "B",
+      "U",
+      "V",
+      "#"
+    ],
+    [
+      "U",
+      "L",
+      "#",
+      "S",
+      "N",
+      "I",
+      "Z",
+      "I",
+      "T"
+    ],
+    [
+      "L",
+      "I",
+      "N",
+      "Y",
+      "#",
+      "T",
+      "E",
+      "L",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "R",
+      "#",
+      "#",
+      "L",
+      "A",
+      "K"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zadní strana"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Chráněná krajinná oblast (zkr.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Chyba"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Výkal"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Exemplář"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Délková jednotka (zn.)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Čili"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Citoslovce překvapení"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Fantaskní"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Strávník"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Umělecký druh"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ohromení"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pulpa"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Tedy"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Dětské sbohem"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 4,
+      "cells": 4,
+      "clue": "Škorně"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Včelí příbytek"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 3,
+      "cells": 6,
+      "clue": "Zlevnit"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zahálčivý"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Organismus"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Jedovatý pavoukovec"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nátěr"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mohyla"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Očistit"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Osm bitů"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Tisková agentura (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Personalistika (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Místnost na vaření"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Číslice"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 3,
+      "cells": 7,
+      "clue": "Homo sapiens (souhrnně)"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Dědic"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 5,
+      "cells": 7,
+      "clue": "Okrášlit"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kypění"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Maďarska"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Odstartovat"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pane (angl. oslovení)"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 8,
+      "cells": 2,
+      "clue": "Radon (zn.)"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zvuk určité výšky"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tep"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Námořní míra rychlosti"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Rodinné sídlo"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Mléčný výrobek"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Proud"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Nikaraguy"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "2027-06-24",
+  "date": "2027-06-24",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "P",
+      "U",
+      "L",
+      "S",
+      "#",
+      "J",
+      "O",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "P",
+      "I",
+      "R",
+      "#",
+      "M",
+      "S",
+      "E"
+    ],
+    [
+      "H",
+      "R",
+      "A",
+      "D",
+      "#",
+      "Z",
+      "E",
+      "M",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "R",
+      "O",
+      "B",
+      "N",
+      "Y",
+      "#"
+    ],
+    [
+      "D",
+      "L",
+      "E",
+      "#",
+      "P",
+      "R",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "O",
+      "K",
+      "O",
+      "R",
+      "A",
+      "#",
+      "K",
+      "R"
+    ],
+    [
+      "H",
+      "M",
+      "#",
+      "L",
+      "O",
+      "N",
+      "D",
+      "Y",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "O",
+      "T",
+      "#",
+      "C",
+      "C",
+      "A"
+    ],
+    [
+      "#",
+      "L",
+      "A",
+      "V",
+      "I",
+      "C",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "E",
+      "R",
+      "O",
+      "#",
+      "H",
+      "R",
+      "S",
+      "T"
+    ],
+    [
+      "T",
+      "O",
+      "N",
+      "#",
+      "R",
+      "U",
+      "K",
+      "A",
+      "V"
+    ],
+    [
+      "#",
+      "S",
+      "I",
+      "#",
+      "S",
+      "T",
+      "A",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Tep"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Jasně (hovor.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Materiál na dopis"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Liturgie"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kastel"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Planeta"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 2,
+      "cells": 6,
+      "clue": "Malý"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ve shodě s (kniž.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 6,
+      "clue": "Ponížení"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Koreje"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nu"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 6,
+      "clue": "Britská metropole"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Dřina"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Circa"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 1,
+      "cells": 6,
+      "clue": "Střídačka"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Brk"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Plná dlaň"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zvuk určité výšky"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Část kabátu"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 1,
+      "cells": 2,
+      "clue": "Kód Slovinska"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 4,
+      "cells": 4,
+      "clue": "Republika"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Dvojice"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Rozklad"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Tahoun"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. stroncia"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 5,
+      "clue": "Název"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Po sedmém"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Vodíkový exponent"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kód Estonska"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 5,
+      "clue": "Puška i meč"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Ve srovnání"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Daň ze zboží (zkr.)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Refrakce světla"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 3,
+      "cells": 5,
+      "clue": "Těžký kov"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 3,
+      "clue": "Brak"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Dítko ženského rodu"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 5,
+      "clue": "Lokomotivní (o stroji)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Janáček křestním jménem"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Vkus"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. platiny"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Roucho"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 8,
+      "cells": 2,
+      "clue": "Televize (zkr.)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Srbsko (kód)"
+    }
+  ]
+}

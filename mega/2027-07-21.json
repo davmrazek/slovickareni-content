@@ -1,0 +1,445 @@
+{
+  "id": "2027-07-21",
+  "date": "2027-07-21",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "K",
+      "L",
+      "U",
+      "B",
+      "#",
+      "#",
+      "T",
+      "J"
+    ],
+    [
+      "P",
+      "R",
+      "I",
+      "B",
+      "E",
+      "H",
+      "#",
+      "I",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "N",
+      "Y",
+      "#",
+      "R",
+      "O",
+      "S",
+      "T"
+    ],
+    [
+      "U",
+      "M",
+      "Y",
+      "T",
+      "#",
+      "D",
+      "L",
+      "E",
+      "#"
+    ],
+    [
+      "H",
+      "E",
+      "#",
+      "#",
+      "K",
+      "L",
+      "I",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "K",
+      "S",
+      "#",
+      "L",
+      "O",
+      "V",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "R",
+      "I",
+      "#",
+      "A",
+      "U",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "R",
+      "E",
+      "D",
+      "#",
+      "#",
+      "H",
+      "M"
+    ],
+    [
+      "#",
+      "R",
+      "Y",
+      "S",
+      "#",
+      "S",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      "O",
+      "V",
+      "C",
+      "I",
+      "#",
+      "P",
+      "E",
+      "S",
+      "I"
+    ],
+    [
+      "S",
+      "N",
+      "#",
+      "T",
+      "V",
+      "O",
+      "R",
+      "I",
+      "T"
+    ],
+    [
+      "N",
+      "I",
+      "#",
+      "#",
+      "S",
+      "R",
+      "S",
+      "T",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Kroužek"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Neboli (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 6,
+      "clue": "Historka"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Irska"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Časný"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mříž nad ohněm"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Očistit"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ve shodě s (kniž.)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Citoslovce údivu"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Dřevěný tvar na štípání"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 1,
+      "cells": 2,
+      "clue": "Počet kusů (zkr.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 4,
+      "cells": 3,
+      "clue": "Hon"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 3,
+      "clue": "Počet mušketýrů"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 6,
+      "cells": 2,
+      "clue": "Astronomická jednotka (zn.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Ante (lat.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nu"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Kočkovitá šelma"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Triceps"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Beraní"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Chodec"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak stanna"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 3,
+      "cells": 6,
+      "clue": "Komponovat"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. niklu"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 4,
+      "cells": 4,
+      "clue": "Kožich zvířete"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Obchůdek"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Zahálčivý"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Zmenšit se"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Belgie"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Úzkost"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Ujíždět"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pás"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 5,
+      "clue": "Krk láhve"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 5,
+      "clue": "Středomořský plod"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Mír"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 5,
+      "clue": "Strejda"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 3,
+      "cells": 5,
+      "clue": "Luštit"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Zkrotit plamen"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Premiérový"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 8,
+      "cells": 4,
+      "clue": "Šrotovat"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Konflikt"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Alexandrin"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Organizace v New Yorku (zkr.)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Versus (zkr.)"
+    }
+  ]
+}

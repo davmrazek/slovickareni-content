@@ -1,0 +1,445 @@
+{
+  "id": "2027-04-10",
+  "date": "2027-04-10",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "C",
+      "H",
+      "L",
+      "A",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "V",
+      "E",
+      "L",
+      "I",
+      "T",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "B",
+      "O",
+      "N",
+      "U",
+      "S",
+      "#",
+      "T",
+      "I",
+      "P"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "K",
+      "#",
+      "#",
+      "#",
+      "D",
+      "O"
+    ],
+    [
+      "N",
+      "I",
+      "T",
+      "#",
+      "T",
+      "O",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "C",
+      "#",
+      "J",
+      "U",
+      "N",
+      "I",
+      "O",
+      "R"
+    ],
+    [
+      "R",
+      "I",
+      "Z",
+      "E",
+      "N",
+      "I",
+      "#",
+      "Z",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "V",
+      "A",
+      "#",
+      "R",
+      "I",
+      "M"
+    ],
+    [
+      "P",
+      "T",
+      "#",
+      "#",
+      "#",
+      "Z",
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      "B",
+      "Y",
+      "K",
+      "#",
+      "V",
+      "O",
+      "D",
+      "I",
+      "C"
+    ],
+    [
+      "#",
+      "P",
+      "O",
+      "R",
+      "A",
+      "N",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "A",
+      "L",
+      "A",
+      "C",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Chasník"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Komandant"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Přídavek"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Rada"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Prosakování"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tón C (solmizace)"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vlákno příběhu"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Barevný odstín"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Koruna česká (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 3,
+      "cells": 6,
+      "clue": "Dorostenec"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 6,
+      "clue": "Volant a pedály"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Adamova družka"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Věčné město"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. platiny"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Naživo"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plemeník"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Kabel"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Zranit"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Rezidence"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Hodnotit"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Rámus"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Presa"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Nechť"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Počet prstů"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 6,
+      "clue": "Voňavý"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 3,
+      "clue": "Národ"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pevnůstka"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Tisíc kilogramů"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ti druzí"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. niklu"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Úkaz"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 6,
+      "clue": "Vzkřísit"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 8,
+      "cells": 5,
+      "clue": "Rozsah"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Spojka"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Šofér"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak plumba"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Druh"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Oblast"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Úder nohou"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Násep"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    }
+  ]
+}

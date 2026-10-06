@@ -1,0 +1,459 @@
+{
+  "id": "2026-12-05",
+  "date": "2026-12-05",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "S",
+      "M",
+      "S",
+      "#",
+      "S",
+      "L",
+      "O",
+      "N",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "#",
+      "V",
+      "E",
+      "D",
+      "A",
+      "#"
+    ],
+    [
+      "O",
+      "S",
+      "U",
+      "D",
+      "#",
+      "K",
+      "E",
+      "R",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "B",
+      "E",
+      "#",
+      "#",
+      "V",
+      "U",
+      "Z"
+    ],
+    [
+      "U",
+      "Z",
+      "#",
+      "L",
+      "V",
+      "#",
+      "#",
+      "C",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "A",
+      "L",
+      "U",
+      "Z",
+      "I",
+      "E"
+    ],
+    [
+      "P",
+      "O",
+      "S",
+      "T",
+      "A",
+      "V",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "S",
+      "#",
+      "#",
+      "S",
+      "E",
+      "#",
+      "C",
+      "H"
+    ],
+    [
+      "D",
+      "O",
+      "M",
+      "#",
+      "#",
+      "S",
+      "N",
+      "E",
+      "M"
+    ],
+    [
+      "#",
+      "L",
+      "O",
+      "M",
+      "#",
+      "T",
+      "E",
+      "L",
+      "O"
+    ],
+    [
+      "#",
+      "I",
+      "R",
+      "I",
+      "S",
+      "#",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "C",
+      "I",
+      "#",
+      "O",
+      "T",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Krátká zpráva (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Chobotnatec"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dvojice"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Scientia (lat.)"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Sudba"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Šípek"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Řeka Mělníka a Děčína"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Vagon"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Již"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Lotyšsko (kód)"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kompaktní disk"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Rolety"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 7,
+      "clue": "Hrdina"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Operační systém (zkr.)"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Švédska"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Helvetská konfederace (zkr.)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Chrám"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Shromáždění stavů"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Refrakce světla"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Trup"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 1,
+      "cells": 4,
+      "clue": "Duhovka"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Emoce"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 1,
+      "cells": 4,
+      "clue": "Prosakovat"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Šik křestním jménem"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 5,
+      "clue": "Dohromady"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Hnětení těla"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Dřevěnice"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Severovýchod (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Medikament"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Garderoba"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Paže"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 5,
+      "clue": "Konat"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 8,
+      "cells": 3,
+      "clue": "Tu"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Chloupek na temeni"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 2,
+      "cells": 2,
+      "clue": "Škola pro děti (zkr.)"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 5,
+      "clue": "Představit"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 6,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Níže než"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Posypat solí"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Odolávat"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 8,
+      "cells": 5,
+      "clue": "Materie"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Pontus (lat.)"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Leccos"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Balon"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Slovinska"
+    }
+  ]
+}

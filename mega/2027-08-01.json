@@ -1,0 +1,445 @@
+{
+  "id": "2027-08-01",
+  "date": "2027-08-01",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "Z",
+      "E",
+      "#",
+      "O",
+      "S",
+      "L",
+      "O"
+    ],
+    [
+      "#",
+      "I",
+      "N",
+      "U",
+      "#",
+      "S",
+      "T",
+      "E",
+      "P"
+    ],
+    [
+      "U",
+      "V",
+      "E",
+      "R",
+      "#",
+      "#",
+      "U",
+      "S",
+      "A"
+    ],
+    [
+      "N",
+      "A",
+      "N",
+      "O",
+      "S",
+      "#",
+      "D",
+      "I",
+      "V"
+    ],
+    [
+      "O",
+      "N",
+      "I",
+      "#",
+      "E",
+      "R",
+      "I",
+      "K",
+      "A"
+    ],
+    [
+      "R",
+      "A",
+      "#",
+      "B",
+      "R",
+      "N",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "A",
+      "V",
+      "A",
+      "#",
+      "P",
+      "O"
+    ],
+    [
+      "U",
+      "P",
+      "A",
+      "T",
+      "I",
+      "#",
+      "K",
+      "R",
+      "K"
+    ],
+    [
+      "C",
+      "I",
+      "P",
+      "#",
+      "S",
+      "A",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "#",
+      "#",
+      "L",
+      "I",
+      "T",
+      "O"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "A",
+      "#",
+      "A",
+      "S",
+      "I",
+      "#"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "T",
+      "#",
+      "N",
+      "E",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Předložka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Norská metropole"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Travnatá pláň"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Půjčka"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Země strýčka Sama (zkr.)"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Usazenina"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zázrak"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ti druzí"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Značka psacího stroje"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. radia"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Město Špilberku"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Mocca"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. polonia"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Spodek hory"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Šíje"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mikroprocesor"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Kadeřnictví"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Leč"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Škoda"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Energie"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 5,
+      "cells": 3,
+      "clue": "Přibližně"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Železnice"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 5,
+      "cells": 2,
+      "clue": "Zápor"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Text"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Platidlo Slovenska"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. osmia"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Ateliér"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Háj"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 5,
+      "clue": "Řeka Krnova"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Chýlková křestním jménem"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Druhý měsíc"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Údržba"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ribonukleová kyselina (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Strachovat (~ se)"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Soubor"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Versus"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Průhled ve zdi"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Participace"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Podpěra mostu"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Otřepaná fráze"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Jméno Alda"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    }
+  ]
+}

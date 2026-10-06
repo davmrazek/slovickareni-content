@@ -1,0 +1,459 @@
+{
+  "id": "2027-08-16",
+  "date": "2027-08-16",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "B",
+      "L",
+      "B",
+      "E",
+      "#",
+      "P",
+      "O"
+    ],
+    [
+      "J",
+      "U",
+      "L",
+      "I",
+      "U",
+      "S",
+      "#",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "M",
+      "A",
+      "#",
+      "H",
+      "O",
+      "D",
+      "N",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "#",
+      "#",
+      "#",
+      "V",
+      "E",
+      "C"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "#",
+      "S",
+      "T",
+      "A",
+      "V",
+      "#"
+    ],
+    [
+      "B",
+      "I",
+      "#",
+      "K",
+      "E",
+      "R",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "O",
+      "N",
+      "I",
+      "#",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "P",
+      "I",
+      "V",
+      "O",
+      "#",
+      "P",
+      "A",
+      "S"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "#",
+      "#",
+      "#",
+      "O",
+      "K",
+      "O"
+    ],
+    [
+      "U",
+      "D",
+      "O",
+      "L",
+      "I",
+      "#",
+      "Z",
+      "U",
+      "B"
+    ],
+    [
+      "N",
+      "A",
+      "#",
+      "E",
+      "V",
+      "R",
+      "O",
+      "P",
+      "A"
+    ],
+    [
+      "A",
+      "L",
+      "#",
+      "Z",
+      "A",
+      "N",
+      "R",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Hloupě (hovor.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Poté"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 6,
+      "clue": "Fučík křestním jménem"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nechť"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "„… mele maso“"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Spousta"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Horní ~"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Předmět"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Kondice"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. bismutu"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Šípek"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Ležák"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Cestovní doklad"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Král zvířat"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Úval"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Řezák"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 3,
+      "cells": 6,
+      "clue": "Dívka unesená býkem (myt.)"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. hliníku"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 3,
+      "cells": 4,
+      "clue": "Umělecký druh"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Rozbahněná zem"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. lithia"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Hospodin"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Nejvyšší karta"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Kost kyčle"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Páter"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Tažný pták"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Dovednost"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pár"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Otava"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Počet mušketýrů"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Železo i cín"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Koupě"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 8,
+      "cells": 5,
+      "clue": "Jedinec"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Plyn (u auta)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Výstraha"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Družice (bás.)"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Nepravda"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Janžurová křestním jménem"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. radonu"
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "id": "2027-06-15",
+  "date": "2027-06-15",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "H",
+      "M",
+      "M",
+      "#",
+      "Z",
+      "V",
+      "U",
+      "K"
+    ],
+    [
+      "K",
+      "L",
+      "A",
+      "N",
+      "#",
+      "L",
+      "I",
+      "T",
+      "R"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      "#",
+      "P",
+      "E",
+      "R",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "S",
+      "S",
+      "R",
+      "#",
+      "#",
+      "C",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "J",
+      "O",
+      "#",
+      "D",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "Z",
+      "D",
+      "E",
+      "#",
+      "K",
+      "L",
+      "I",
+      "C"
+    ],
+    [
+      "P",
+      "T",
+      "A",
+      "T",
+      "#",
+      "V",
+      "E",
+      "K",
+      "#"
+    ],
+    [
+      "V",
+      "R",
+      "T",
+      "#",
+      "H",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "A",
+      "#",
+      "#",
+      "R",
+      "T",
+      "U",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "T",
+      "A",
+      "#",
+      "K",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "I",
+      "G",
+      "A",
+      "#",
+      "H",
+      "O",
+      "M",
+      "O"
+    ],
+    [
+      "V",
+      "T",
+      "O",
+      "M",
+      "#",
+      "R",
+      "N",
+      "A",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Citoslovce pochybnosti"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hluk"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Klika"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Objemová míra"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Imperátor"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 4,
+      "clue": "Brk"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Sovětský svaz (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Délková jednotka (zn.)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Hovorové ano"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Spodek nádoby"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 3,
+      "clue": "Tady"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Otvírač zámku"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dotazovat se"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Stáří"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Sonda"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. helia"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. vápníku"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 4,
+      "cells": 4,
+      "clue": "Živé stříbro"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 1,
+      "cells": 4,
+      "clue": "Otcova sestra"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Šípek"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Soutěž družstev"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Člověk (lat.)"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Znenadání"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Votum"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Bůh války"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Mangan (zn.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Špatně"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Původce nemoci"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Agresor"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. kryptonu"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Česká měna (zkr.)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Spustit se ze svahu"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 8,
+      "cells": 3,
+      "clue": "Vláda"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ve shodě s (kniž.)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Pozbýt"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Poskytnout"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Elita"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plast (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zábava"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Úřední čin"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Námět"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Já"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Na onom místě"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 8,
+      "cells": 2,
+      "clue": "Rumunsko (kód)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Lotyšska"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Personalistika (zkr.)"
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "id": "2027-06-03",
+  "date": "2027-06-03",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "P",
+      "V",
+      "C",
+      "#",
+      "C",
+      "C",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "B",
+      "Y",
+      "T",
+      "#",
+      "A",
+      "R",
+      "C",
+      "H",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "V",
+      "U",
+      "J",
+      "#",
+      "K",
+      "A",
+      "M"
+    ],
+    [
+      "D",
+      "O",
+      "R",
+      "A",
+      "#",
+      "S",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "A",
+      "K",
+      "T",
+      "#",
+      "#",
+      "K",
+      "L",
+      "A",
+      "D"
+    ],
+    [
+      "V",
+      "Y",
+      "#",
+      "C",
+      "I",
+      "L",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "A",
+      "N",
+      "O",
+      "#",
+      "P",
+      "T"
+    ],
+    [
+      "P",
+      "L",
+      "E",
+      "S",
+      "#",
+      "#",
+      "P",
+      "R",
+      "Y"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "T",
+      "#",
+      "G",
+      "A",
+      "U",
+      "C"
+    ],
+    [
+      "E",
+      "G",
+      "O",
+      "#",
+      "V",
+      "E",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "R",
+      "E",
+      "L",
+      "#",
+      "T",
+      "A",
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "U",
+      "K",
+      "#",
+      "A",
+      "H",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Polyvinylchlorid (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Přibližně (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Obydlí"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Tiskový list"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 1,
+      "cells": 4,
+      "clue": "Vlastní"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tázací příslovce směru"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Průzkumnice z večerníčku"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Výstup jednotlivce"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nahé tělo v umění"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 5,
+      "cells": 4,
+      "clue": "Plus"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby mn. č."
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Neboli"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 4,
+      "clue": "Jitro"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Portugalska"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 4,
+      "clue": "Reprezentační večer"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jak se povídá"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Gril"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kanape"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Sebevědomí"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 4,
+      "clue": "Řídit"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 4,
+      "clue": "Katolická tělocvičná jednota"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Průvan"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 2,
+      "cells": 3,
+      "clue": "Sádlo"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hle"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. olova"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Čahounský"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Kvartál"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Nálev z lístků"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Naše republika (zkr.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Byť"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 4,
+      "clue": "Předsíň"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 2,
+      "clue": "Ukrajina (kód)"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Herní úprava"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zástup"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Průhledný materiál"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Úsek"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Indie"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Letovisko (angl.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Zdržení"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 8,
+      "cells": 3,
+      "clue": "Laťka"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spor (kniž.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Znak firmy"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 5,
+      "clue": "Mazlavá hmota"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Gruzie"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Šedá šelma"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. europia"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Citoslovce překvapení"
+    }
+  ]
+}

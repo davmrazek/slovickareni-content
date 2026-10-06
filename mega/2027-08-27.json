@@ -1,0 +1,459 @@
+{
+  "id": "2027-08-27",
+  "date": "2027-08-27",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "V",
+      "A",
+      "S",
+      "#",
+      "H",
+      "A",
+      "D",
+      "A",
+      "T"
+    ],
+    [
+      "L",
+      "I",
+      "C",
+      "#",
+      "U",
+      "D",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "K",
+      "D",
+      "E",
+      "#",
+      "#",
+      "A",
+      "L",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "N",
+      "A",
+      "D",
+      "#",
+      "U",
+      "S",
+      "B"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
+      "O",
+      "#",
+      "#",
+      "P",
+      "O"
+    ],
+    [
+      "#",
+      "P",
+      "R",
+      "I",
+      "M",
+      "O",
+      "#",
+      "O",
+      "D"
+    ],
+    [
+      "C",
+      "O",
+      "#",
+      "Z",
+      "A",
+      "K",
+      "O",
+      "N",
+      "#"
+    ],
+    [
+      "I",
+      "S",
+      "#",
+      "#",
+      "C",
+      "N",
+      "B",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "I",
+      "D",
+      "#",
+      "I",
+      "O",
+      "N",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "E",
+      "S",
+      "#",
+      "#",
+      "O",
+      "K",
+      "O"
+    ],
+    [
+      "V",
+      "A",
+      "D",
+      "I",
+      "T",
+      "#",
+      "V",
+      "A",
+      "N"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      "Y",
+      "#",
+      "A",
+      "N",
+      "I"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (vy)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tipovat"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tvář (kniž.)"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Dolina"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Pivo svrchně kvašené"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Asi"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Počítačový port (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. polonia"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 1,
+      "cells": 5,
+      "clue": "Bezprostředně"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Opak do (předložka)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 3,
+      "cells": 5,
+      "clue": "Norma"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Islandu"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Centrální banka (zkr.)"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pospolitost"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 4,
+      "cells": 4,
+      "clue": "Nabitý atom"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Hvozd"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Smyčka"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Překážet"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Dodávkový vůz"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 0,
+      "cells": 5,
+      "clue": "Letitý"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Canis lupus"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Nemoc působená HIV"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Předloha filmu"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Maďarska"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Lovelaceová, průkopnice programování"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Ke dnu"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Nejméně"
+    },
+    {
+      "num": 8,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 4,
+      "clue": "Bez toho, že"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Hostitelský"
+    },
+    {
+      "num": 17,
+      "row": 3,
+      "col": 8,
+      "cells": 3,
+      "clue": "Položka programu"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Expedovat"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Průhled ve zdi"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Meta"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Renovace"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Stařík (hovor.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Pletivo"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Pane (angl. oslovení)"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Proti (ve sportu)"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby"
+    }
+  ]
+}

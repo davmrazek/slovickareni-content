@@ -1,0 +1,452 @@
+{
+  "id": "2027-05-03",
+  "date": "2027-05-03",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "T",
+      "M",
+      "A",
+      "#",
+      "J",
+      "A"
+    ],
+    [
+      "#",
+      "Z",
+      "D",
+      "R",
+      "O",
+      "J",
+      "#",
+      "E",
+      "S"
+    ],
+    [
+      "B",
+      "A",
+      "V",
+      "I",
+      "T",
+      "#",
+      "H",
+      "D",
+      "P"
+    ],
+    [
+      "U",
+      "S",
+      "A",
+      "#",
+      "O",
+      "K",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "H",
+      "A",
+      "#",
+      "U",
+      "R",
+      "O",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "H",
+      "O",
+      "D",
+      "#",
+      "C",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "A",
+      "#",
+      "K",
+      "R",
+      "K",
+      "#"
+    ],
+    [
+      "Z",
+      "M",
+      "I",
+      "N",
+      "K",
+      "A",
+      "#",
+      "R",
+      "A"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "I",
+      "T",
+      "#",
+      "B",
+      "U",
+      "D"
+    ],
+    [
+      "O",
+      "N",
+      "I",
+      "#",
+      "E",
+      "L",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "L",
+      "I",
+      "#",
+      "P",
+      "R",
+      "E",
+      "C",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "#",
+      "B",
+      "Y",
+      "T",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Temno"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Ego"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Studnice"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 7,
+      "cells": 2,
+      "clue": "Snížené E"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rozptylovat"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Hrubý domácí produkt (zkr.)"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojené státy (zkr.)"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Kolem"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Hektar (zn.)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Stupeň"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 1,
+      "cells": 3,
+      "clue": "Svátek (Boží ~)"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 5,
+      "cells": 2,
+      "clue": "Tázací zájmeno (na věc)"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Dokonce (kniž.)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Hrdlo"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 6,
+      "clue": "Narážka"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rozdělovat"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Rozkaz slovesa být"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Výkvět"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. lithia"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 3,
+      "cells": 5,
+      "clue": "Stejně"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Třebas (kniž.)"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 3,
+      "cells": 3,
+      "clue": "Existovat"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Počet mušketýrů"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 4,
+      "cells": 5,
+      "clue": "Stroj pohonu"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Hle (zast.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Jehličnan"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 8,
+      "cells": 5,
+      "clue": "Minimálně"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Zákrok"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pár"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hospodin"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 6,
+      "cells": 5,
+      "clue": "Rozmluva"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 5,
+      "clue": "Mňoukající"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Donášení"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 2,
+      "cells": 5,
+      "clue": "Pšenice i žito"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Bezcitně"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Zespoda"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Převodník"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Jenž"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Lovelaceová, průkopnice programování"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Důtky"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Rok (2. p. mn. č.)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Znak plumba"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "2026-10-24",
+  "date": "2026-10-24",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "B",
+      "O",
+      "B",
+      "#",
+      "N",
+      "U",
+      "Z"
+    ],
+    [
+      "K",
+      "V",
+      "A",
+      "D",
+      "R",
+      "#",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "D",
+      "O",
+      "#",
+      "S",
+      "N",
+      "A",
+      "Z",
+      "I",
+      "T"
+    ],
+    [
+      "E",
+      "D",
+      "I",
+      "T",
+      "O",
+      "R",
+      "#",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "A",
+      "N",
+      "I",
+      "#",
+      "#",
+      "P",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "N",
+      "O",
+      "#",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "P",
+      "S",
+      "I",
+      "#",
+      "D",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "#",
+      "#",
+      "M",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "#",
+      "U",
+      "V",
+      "A",
+      "Z",
+      "E",
+      "K"
+    ],
+    [
+      "T",
+      "V",
+      "R",
+      "D",
+      "I",
+      "T",
+      "#",
+      "X",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "#",
+      "C",
+      "E",
+      "N",
+      "T",
+      "R"
+    ],
+    [
+      "J",
+      "I",
+      "H",
+      "#",
+      "E",
+      "R",
+      "A",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Závodní sáně"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Břitva"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Hranol"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pilarová, zpěvačka"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tón C (solmizace)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Pachtit se (~ se)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 6,
+      "clue": "Redaktor"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Ono"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Následně"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Spodek nádoby"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Šik křestním jménem"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Řecké písmeno"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 4,
+      "cells": 3,
+      "clue": "Poskytnout"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pivo svrchně kvašené"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 5,
+      "cells": 3,
+      "clue": "Vlastnit"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Rumunska"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 3,
+      "cells": 6,
+      "clue": "Pracovní poměr"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Zatvrzovat"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. xenonu"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přitakání"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Nadhoz"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Poledne (strana)"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Letopočet"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Dokonce (kniž.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Nuance"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Moravská metropole"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Srovnávací spojka"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Pozdravit"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 6,
+      "clue": "Fjord"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Aqua (lat.)"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. argonu"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 2,
+      "cells": 5,
+      "clue": "Asijská velmoc"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 6,
+      "cells": 5,
+      "clue": "Problém"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Opak do (předložka)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 6,
+      "clue": "Politická strana (hovor.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Verbální"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Laik"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Znění"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 3,
+      "cells": 2,
+      "clue": "Končetina"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 4,
+      "cells": 4,
+      "clue": "Náměstek (předp.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 8,
+      "cells": 3,
+      "clue": "Šípek"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kout"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    }
+  ]
+}

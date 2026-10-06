@@ -1,0 +1,466 @@
+{
+  "id": "2026-10-01",
+  "date": "2026-10-01",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "P",
+      "R",
+      "E",
+      "#",
+      "C",
+      "U",
+      "K",
+      "R"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "V",
+      "#",
+      "L",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "A",
+      "V",
+      "#",
+      "#",
+      "U",
+      "Z"
+    ],
+    [
+      "A",
+      "T",
+      "#",
+      "#",
+      "U",
+      "M",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "N",
+      "E",
+      "Z",
+      "#",
+      "Z",
+      "A",
+      "T",
+      "I",
+      "M"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      "N",
+      "#",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "I",
+      "#",
+      "S",
+      "P",
+      "I",
+      "S"
+    ],
+    [
+      "S",
+      "V",
+      "E",
+      "S",
+      "T",
+      "#",
+      "A",
+      "S",
+      "I"
+    ],
+    [
+      "V",
+      "I",
+      "N",
+      "A",
+      "R",
+      "#",
+      "#",
+      "L",
+      "T"
+    ],
+    [
+      "E",
+      "S",
+      "#",
+      "#",
+      "I",
+      "D",
+      "E",
+      "A",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "C",
+      "I",
+      "#",
+      "O",
+      "S",
+      "N",
+      "#"
+    ],
+    [
+      "R",
+      "T",
+      "U",
+      "T",
+      "#",
+      "M",
+      "O",
+      "D",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Spor (kniž.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Sacharóza"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 3,
+      "clue": "Burácení"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Sopečná tavenina"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 1,
+      "cells": 4,
+      "clue": "Situace"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Již"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nechť"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Strojeně"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dokud ne"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Dosud"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ten (kniž.)"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 5,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Chem. zn. lithia"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Dokument"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pokoušet"
+    },
+    {
+      "num": 30,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Přibližně"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vinohradník"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Litva (kód)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Snížené E"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 4,
+      "cells": 4,
+      "clue": "Myšlenka"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Prosakovat"
+    },
+    {
+      "num": 40,
+      "row": 10,
+      "col": 5,
+      "cells": 3,
+      "clue": "Spojené národy (zkr.)"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tekutý kov"
+    },
+    {
+      "num": 42,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Herní úprava"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Snubní kroužek"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Pysk"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Adamova družka"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. chloru"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Kód Ukrajiny"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Pro"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 5,
+      "clue": "Naráz"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Automobil"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ba"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Rudá planeta"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 6,
+      "cells": 5,
+      "clue": "Úsek"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 2,
+      "cells": 5,
+      "clue": "Tráva"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 3,
+      "cells": 4,
+      "clue": "Lužická řeka"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Ostrov gejzírů"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 8,
+      "cells": 3,
+      "clue": "Spojovat nití"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rolák"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Hrozit (přen.)"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Trojka"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Katedrála"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Mistr svého oboru"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Chem. zn. mědi"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Itálie"
+    }
+  ]
+}

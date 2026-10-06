@@ -1,0 +1,466 @@
+{
+  "id": "2027-07-07",
+  "date": "2027-07-07",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "T",
+      "J",
+      "#",
+      "#",
+      "#",
+      "P",
+      "R",
+      "S",
+      "T"
+    ],
+    [
+      "V",
+      "O",
+      "S",
+      "K",
+      "#",
+      "L",
+      "E",
+      "V",
+      "Y"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "U",
+      "Z",
+      "#",
+      "D",
+      "I",
+      "L"
+    ],
+    [
+      "#",
+      "O",
+      "S",
+      "L",
+      "A",
+      "V",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "P",
+      "B",
+      "#",
+      "T",
+      "R",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "M",
+      "#",
+      "#",
+      "S",
+      "E",
+      "N",
+      "O"
+    ],
+    [
+      "S",
+      "L",
+      "I",
+      "B",
+      "#",
+      "#",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "E",
+      "R",
+      "V",
+      "#",
+      "C",
+      "N"
+    ],
+    [
+      "#",
+      "B",
+      "I",
+      "Z",
+      "A",
+      "R",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "N",
+      "A",
+      "S",
+      "#",
+      "Z",
+      "A",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "U",
+      "S",
+      "T",
+      "I",
+      "#",
+      "H",
+      "R",
+      "A",
+      "C"
+    ],
+    [
+      "Z",
+      "A",
+      "R",
+      "E",
+      "#",
+      "#",
+      "#",
+      "J",
+      "P"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Neboli (zkr.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Ukazovák"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Včelí hmota"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Levicový"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 2,
+      "cells": 3,
+      "clue": "Choť"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Část"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 1,
+      "cells": 7,
+      "clue": "Uctít večírkem"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak plumba"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 3,
+      "cells": 4,
+      "clue": "Železnice"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zárubeň"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Otava"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Závazek"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Bor"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 2,
+      "cells": 4,
+      "clue": "Vodič vzruchů"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Číny"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 1,
+      "cells": 7,
+      "clue": "Podivný"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "„Otče …“ (modlitba)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Kormidelní konec lodi"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Město na Labi"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Sportovec"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Svit"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Japonska"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Televize (zkr.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 2,
+      "clue": "Jasně (hovor.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Polska"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 7,
+      "clue": "Vedoucí"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Jas"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Zázemí fronty"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Textovka"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 3,
+      "cells": 4,
+      "clue": "Uctívání"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Horko"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Kryt"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "„Srdečně …“ (závěr dopisu)"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hruď"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 2,
+      "cells": 7,
+      "clue": "Člen vlády"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 7,
+      "cells": 4,
+      "clue": "Čísi"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "Spojené národy (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Předložka nedostatku"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Charakter kraje"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zabiják"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Kontrabas"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Východní Německo (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kudla"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Irska"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Hle (zast.)"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Údaj na domě (zkr.)"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "2027-01-29",
+  "date": "2027-01-29",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "T",
+      "J",
+      "#",
+      "K",
+      "R",
+      "A",
+      "C",
+      "H",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "#",
+      "V",
+      "E",
+      "C",
+      "N",
+      "Y",
+      "#"
+    ],
+    [
+      "U",
+      "S",
+      "P",
+      "E",
+      "C",
+      "H",
+      "#",
+      "B",
+      "R"
+    ],
+    [
+      "P",
+      "E",
+      "S",
+      "T",
+      "#",
+      "#",
+      "P",
+      "R",
+      "Y"
+    ],
+    [
+      "#",
+      "F",
+      "I",
+      "#",
+      "S",
+      "K",
+      "R",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "N",
+      "A",
+      "R",
+      "O",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "D",
+      "R",
+      "I",
+      "N",
+      "K",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "C",
+      "E",
+      "#",
+      "F",
+      "R",
+      "#"
+    ],
+    [
+      "R",
+      "U",
+      "M",
+      "#",
+      "#",
+      "S",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "S",
+      "B",
+      "#",
+      "K",
+      "R",
+      "M",
+      "I",
+      "V",
+      "O"
+    ],
+    [
+      "#",
+      "E",
+      "L",
+      "E",
+      "N",
+      "A",
+      "#",
+      "N",
+      "L"
+    ],
+    [
+      "#",
+      "Z",
+      "V",
+      "R",
+      "A",
+      "T",
+      "#",
+      "E",
+      "E"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "To jest (zkr.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Bankrot"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Rumunsko (kód)"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 3,
+      "cells": 5,
+      "clue": "Nekonečný"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 6,
+      "clue": "Triumf"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Brazílie"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Sevřená ruka"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Údajně"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 1,
+      "cells": 2,
+      "clue": "Suomi (kód)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Almara"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 5,
+      "clue": "Pospolitost"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Míchaný nápoj"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 5,
+      "clue": "Zaměstnání"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. francia"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pirátský nápoj"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kolegium"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak stibia"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 3,
+      "cells": 6,
+      "clue": "Pícnina"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 5,
+      "clue": "Ferrante křestním jménem"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Nizozemska"
+    },
+    {
+      "num": 34,
+      "row": 11,
+      "col": 1,
+      "cells": 5,
+      "clue": "Převrat"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Estonsko (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tělo bez údů"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Pěstoun Ježíšův"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Poupě po rozvití"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Proslov"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Citoslovce žalu"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Čína (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Míšenec"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 2,
+      "cells": 3,
+      "clue": "Řecké písmeno"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Německá řeka"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Za (lat.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Rohačky"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Hrdlo"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Nula"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Slepice a husy"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kostra"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ňadro"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Federální vyšetřovatelé USA"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Přímo"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Řehtat se"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Pole"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Šípek"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Přepis genu (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Lotyšska"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "2027-09-01",
+  "date": "2027-09-01",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "P",
+      "E",
+      "C",
+      "#",
+      "D",
+      "P",
+      "H"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "S",
+      "T",
+      "#",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "O",
+      "U",
+      "T",
+      "#",
+      "#",
+      "A",
+      "L",
+      "E",
+      "#"
+    ],
+    [
+      "S",
+      "K",
+      "R",
+      "Z",
+      "#",
+      "B",
+      "O",
+      "S",
+      "S"
+    ],
+    [
+      "M",
+      "R",
+      "A",
+      "M",
+      "O",
+      "R",
+      "#",
+      "T",
+      "Y"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "E",
+      "T",
+      "A",
+      "#",
+      "O",
+      "N"
+    ],
+    [
+      "K",
+      "S",
+      "#",
+      "N",
+      "O",
+      "H",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "T",
+      "#",
+      "S",
+      "K",
+      "A",
+      "K",
+      "A",
+      "T"
+    ],
+    [
+      "M",
+      "E",
+      "Z",
+      "I",
+      "#",
+      "M",
+      "O",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "P",
+      "E",
+      "T",
+      "#",
+      "#",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "#",
+      "G",
+      "R",
+      "A",
+      "M",
+      "#"
+    ],
+    [
+      "V",
+      "N",
+      "E",
+      "#",
+      "B",
+      "A",
+      "T",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tavicí ~"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Nepřímá daň (zkr.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Úsek"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tenisové „mimo“"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Leč"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Přes"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kápo"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 6,
+      "clue": "Carrarský kámen"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 4,
+      "clue": "Tetička"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Muž"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kus (zkr.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Pracka"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 6,
+      "clue": "Poskakovat"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Uprostřed dvou"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Poslední výkřik"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Počet prstů"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zárubeň"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Strýček ~ (USA)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Jednotka hmotnosti"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mimo"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Strachovat (~ se)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Slídit"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Španělska"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Česká televize (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Kanón"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Nicméně"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Citoslovce překvapení"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Sacharóza"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet nohou pavouka"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 7,
+      "clue": "Praotec Izraelitů"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 7,
+      "clue": "Zúžit"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 8,
+      "cells": 3,
+      "clue": "Potomek"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Zduření"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce směru"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Rak křestním jménem"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Tak tak"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Evin druh"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Onde"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Svět"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Svatý (zkr.)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Británie"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. radia"
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "id": "2027-07-18",
+  "date": "2027-07-18",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "N",
+      "E",
+      "#",
+      "#",
+      "E",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "#",
+      "S",
+      "U",
+      "N",
+      "K",
+      "A"
+    ],
+    [
+      "#",
+      "O",
+      "N",
+      "I",
+      "#",
+      "S",
+      "T",
+      "O",
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "F",
+      "E",
+      "R",
+      "#",
+      "E",
+      "M",
+      "A"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "#",
+      "O",
+      "C",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "B",
+      "R",
+      "#",
+      "Z",
+      "V",
+      "L",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "R",
+      "A",
+      "M",
+      "E",
+      "N",
+      "O",
+      "#",
+      "A",
+      "Z"
+    ],
+    [
+      "#",
+      "B",
+      "Y",
+      "T",
+      "E",
+      "#",
+      "T",
+      "R",
+      "N"
+    ],
+    [
+      "S",
+      "I",
+      "T",
+      "#",
+      "Z",
+      "D",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "U",
+      "C",
+      "I",
+      "T",
+      "#",
+      "O",
+      "S",
+      "M",
+      "#"
+    ],
+    [
+      "V",
+      "E",
+      "N",
+      "E",
+      "C",
+      "#",
+      "T",
+      "I",
+      "P"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
+      "O",
+      "#",
+      "#",
+      "T",
+      "O"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. neonu"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přibližně"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Uzená kýta"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Ti druzí"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Hromada sena"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Čestný (hovor.)"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Destinnová křestním jménem"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kukadlo"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Oftalmologický"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. bromu"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 3,
+      "cells": 6,
+      "clue": "Odděleně"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 6,
+      "clue": "Páka"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Časová spojka"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 1,
+      "cells": 4,
+      "clue": "Bajt"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Osten"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojovat nití"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 4,
+      "cells": 3,
+      "clue": "Na tomto místě"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Školit"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Počet nohou pavouka"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Kytice do kruhu"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Rada"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 2,
+      "cells": 3,
+      "clue": "Ba"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Ono"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Mistr svého oboru"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Snížené E"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Moskvan"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Přijímač vln"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 2,
+      "cells": 4,
+      "clue": "Zpráva (hovor.)"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 7,
+      "clue": "Policejní důstojník"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Hle"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Irska"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Taktéž"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Titán"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 1,
+      "cells": 7,
+      "clue": "Kartón"
+    },
+    {
+      "num": 20,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Dovozní poplatek"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 3,
+      "cells": 3,
+      "clue": "Manžel dcery"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 8,
+      "cells": 3,
+      "clue": "To znamená (zkr.)"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Paseka"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 6,
+      "cells": 4,
+      "clue": "Prověrka"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Terénní osobák (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 5,
+      "cells": 2,
+      "clue": "Tón C (solmizace)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Onen"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Držet"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Tázací zájmeno (na věc)"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Poté"
+    }
+  ]
+}

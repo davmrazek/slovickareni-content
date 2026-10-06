@@ -1,0 +1,480 @@
+{
+  "id": "2027-07-24",
+  "date": "2027-07-24",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "P",
+      "R",
+      "S",
+      "#",
+      "V",
+      "R",
+      "T",
+      "#"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "T",
+      "#",
+      "S",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "R",
+      "I",
+      "J",
+      "E",
+      "N",
+      "#",
+      "D",
+      "U",
+      "B"
+    ],
+    [
+      "T",
+      "J",
+      "#",
+      "N",
+      "A",
+      "S",
+      "#",
+      "P",
+      "R"
+    ],
+    [
+      "I",
+      "E",
+      "#",
+      "A",
+      "D",
+      "E",
+      "L",
+      "A",
+      "#"
+    ],
+    [
+      "T",
+      "M",
+      "A",
+      "#",
+      "#",
+      "F",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "D",
+      "#",
+      "#",
+      "D",
+      "U",
+      "M"
+    ],
+    [
+      "#",
+      "C",
+      "H",
+      "I",
+      "L",
+      "E",
+      "#",
+      "P",
+      "A"
+    ],
+    [
+      "P",
+      "H",
+      "#",
+      "K",
+      "E",
+      "R",
+      "#",
+      "R",
+      "S"
+    ],
+    [
+      "D",
+      "A",
+      "V",
+      "#",
+      "M",
+      "I",
+      "C",
+      "E",
+      "K"
+    ],
+    [
+      "F",
+      "O",
+      "N",
+      "D",
+      "#",
+      "C",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "K",
+      "#",
+      "H",
+      "L",
+      "E",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Ňadro"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Sonda"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kovové vlákno"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Výstup jednotlivce"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Desátý měsíc"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Strom žaludů"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Neboli (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (my)"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Styk s veřejností (zkr.)"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Irska"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "… ještě nevečeřela"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Temno"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 5,
+      "cells": 2,
+      "clue": "Kód Finska"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kompaktní disk"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Stavení"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Země And"
+    },
+    {
+      "num": 31,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. protaktinia"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Vodíkový exponent"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Šípek"
+    },
+    {
+      "num": 34,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Srbsko (kód)"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Masa lidí"
+    },
+    {
+      "num": 37,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Pinpongový ~"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zásoba"
+    },
+    {
+      "num": 41,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Říše středu"
+    },
+    {
+      "num": 42,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Platební poukaz"
+    },
+    {
+      "num": 43,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ukazovací citoslovce"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Recepce"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Eden"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Přepážka"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Versus (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Mluvnický ~"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Banda"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Mačkat"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Velikán"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Opak pod (předložka)"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Vedoucí"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pospolitost"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Citoslovce žalu"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Poděkování"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Soustředěně"
+    },
+    {
+      "num": 27,
+      "row": 6,
+      "col": 8,
+      "cells": 5,
+      "clue": "Škraboška"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Nepořádek"
+    },
+    {
+      "num": 29,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Okraj"
+    },
+    {
+      "num": 30,
+      "row": 7,
+      "col": 5,
+      "cells": 5,
+      "clue": "Kästner křestním jménem"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Formát dokumentu"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Venku"
+    },
+    {
+      "num": 38,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Meta"
+    },
+    {
+      "num": 40,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Dánska"
+    }
+  ]
+}

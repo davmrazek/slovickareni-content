@@ -1,0 +1,438 @@
+{
+  "id": "2027-08-12",
+  "date": "2027-08-12",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "K",
+      "I",
+      "N",
+      "O",
+      "#",
+      "C",
+      "I"
+    ],
+    [
+      "#",
+      "S",
+      "M",
+      "R",
+      "A",
+      "D",
+      "#",
+      "A",
+      "R"
+    ],
+    [
+      "C",
+      "O",
+      "#",
+      "#",
+      "P",
+      "E",
+      "T",
+      "R",
+      "A"
+    ],
+    [
+      "P",
+      "U",
+      "L",
+      "#",
+      "O",
+      "C",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "#",
+      "R",
+      "I",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "K",
+      "T",
+      "#",
+      "S",
+      "E",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "D",
+      "A",
+      "R",
+      "#",
+      "T",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "E",
+      "V",
+      "#",
+      "I",
+      "N",
+      "U"
+    ],
+    [
+      "D",
+      "E",
+      "N",
+      "N",
+      "I",
+      "#",
+      "N",
+      "E",
+      "Z"
+    ],
+    [
+      "E",
+      "M",
+      "A",
+      "I",
+      "L",
+      "#",
+      "#",
+      "S",
+      "E"
+    ],
+    [
+      "C",
+      "M",
+      "#",
+      "N",
+      "E",
+      "B",
+      "O",
+      "T",
+      "#"
+    ],
+    [
+      "H",
+      "A",
+      "#",
+      "K",
+      "M",
+      "E",
+      "N",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Promítací sál"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Zápach"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 7,
+      "cells": 2,
+      "clue": "Plošná míra"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Kvitová křestním jménem"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Polovina"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Světové moře"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pivo svrchně kvašené"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Metropole Italie"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ohleduplnost"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Snění"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 3,
+      "clue": "Věnování"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pascaly"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Hukot"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ostatně (kniž.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Všední"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Srovnávací spojka"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Elektronická pošta"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zvratné zájmeno"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Délková jednotka (zn.)"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 3,
+      "cells": 5,
+      "clue": "Poněvadž"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Citoslovce překvapení"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 3,
+      "cells": 4,
+      "clue": "Peň"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kilometr (zn.)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. iridia"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tlak"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 7,
+      "clue": "Odpočítat"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 4,
+      "clue": "Linka"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Persie"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 6,
+      "clue": "Shoda"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Ládovat"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 6,
+      "cells": 7,
+      "clue": "Jihočeská jaderná elektrárna"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 7,
+      "clue": "Apatyka"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 3,
+      "cells": 7,
+      "clue": "Cvičení"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 6,
+      "clue": "Navrstvit"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Pokožka"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tell křestním jménem"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Závan"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Bovaryová křestním jménem"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. berylia"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Muž"
+    }
+  ]
+}

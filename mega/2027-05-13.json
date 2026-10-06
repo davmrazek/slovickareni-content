@@ -1,0 +1,480 @@
+{
+  "id": "2027-05-13",
+  "date": "2027-05-13",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "K",
+      "R",
+      "E",
+      "M",
+      "#",
+      "#",
+      "#",
+      "Z",
+      "A"
+    ],
+    [
+      "L",
+      "U",
+      "X",
+      "U",
+      "S",
+      "#",
+      "D",
+      "U",
+      "B"
+    ],
+    [
+      "I",
+      "S",
+      "#",
+      "J",
+      "A",
+      "K",
+      "O",
+      "B",
+      "Y"
+    ],
+    [
+      "C",
+      "T",
+      "#",
+      "#",
+      "T",
+      "Y",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "Z",
+      "B",
+      "Y",
+      "T",
+      "#",
+      "G",
+      "B"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      "#",
+      "A",
+      "L",
+      "P",
+      "Y"
+    ],
+    [
+      "M",
+      "O",
+      "C",
+      "I",
+      "#",
+      "R",
+      "O",
+      "S",
+      "T"
+    ],
+    [
+      "S",
+      "K",
+      "#",
+      "S",
+      "N",
+      "A",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "N",
+      "U",
+      "#",
+      "#",
+      "Z",
+      "N"
+    ],
+    [
+      "C",
+      "H",
+      "V",
+      "I",
+      "L",
+      "E",
+      "#",
+      "V",
+      "Y"
+    ],
+    [
+      "T",
+      "M",
+      "A",
+      "#",
+      "A",
+      "S",
+      "P",
+      "O",
+      "N"
+    ],
+    [
+      "K",
+      "M",
+      "#",
+      "#",
+      "#",
+      "O",
+      "C",
+      "N",
+      "I"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Plňka dortu"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Předložka (… plotem)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Přepych"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Královský strom"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Islámský stát (zkr.)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Rádoby"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Veřejnoprávní televize (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 3,
+      "clue": "Mužstvo"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Zůstat"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Gigabajt (zn.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Hvězda (angl.)"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pohoří s Mont Blancem"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Smět"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mříž nad ohněm"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Slovenska"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 3,
+      "cells": 4,
+      "clue": "Asi"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chemická značka zinku"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Moment"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zdvořilé oslovení"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Černota"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Minimálně"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tisíc metrů (zn.)"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Oftalmologický"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Otvírač zámku"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Zvětšování"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Naráz do dna"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Náležející mně"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 3,
+      "clue": "Stolička"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Kéž (zast.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Róba"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Katedrála"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 6,
+      "clue": "Španělka"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Nač"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Abdominální"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 3,
+      "clue": "Satelitní navigace (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Obydlí"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Textovka"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 1,
+      "cells": 3,
+      "clue": "Namlouvání tetřevů"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Plavidlo"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 4,
+      "cells": 4,
+      "clue": "Nic"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 3,
+      "clue": "Bittová křestním jménem"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Kampanila (součást)"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Teď"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tisková kancelář (zkr.)"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Zamyšlení (citosl.)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Mistr svého oboru"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Politicky korektní (zkr.)"
+    }
+  ]
+}

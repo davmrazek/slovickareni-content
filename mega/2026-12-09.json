@@ -1,0 +1,494 @@
+{
+  "id": "2026-12-09",
+  "date": "2026-12-09",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "P",
+      "R",
+      "O",
+      "#",
+      "#",
+      "C",
+      "L",
+      "O",
+      "#"
+    ],
+    [
+      "R",
+      "Y",
+      "S",
+      "#",
+      "P",
+      "O",
+      "U",
+      "T",
+      "O"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "V",
+      "A",
+      "#",
+      "K",
+      "R",
+      "B"
+    ],
+    [
+      "C",
+      "I",
+      "#",
+      "E",
+      "R",
+      "A",
+      "#",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "C",
+      "#",
+      "C",
+      "A",
+      "S",
+      "#"
+    ],
+    [
+      "K",
+      "D",
+      "E",
+      "#",
+      "#",
+      "H",
+      "R",
+      "A",
+      "D"
+    ],
+    [
+      "M",
+      "E",
+      "N",
+      "U",
+      "#",
+      "#",
+      "C",
+      "T",
+      "K"
+    ],
+    [
+      "#",
+      "P",
+      "A",
+      "S",
+      "#",
+      "P",
+      "H",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "R",
+      "#",
+      "B",
+      "A",
+      "R",
+      "#",
+      "S",
+      "V"
+    ],
+    [
+      "D",
+      "E",
+      "N",
+      "#",
+      "B",
+      "Y",
+      "V",
+      "A",
+      "T"
+    ],
+    [
+      "P",
+      "S",
+      "A",
+      "N",
+      "Y",
+      "#",
+      "E",
+      "G",
+      "O"
+    ],
+    [
+      "#",
+      "E",
+      "S",
+      "O",
+      "#",
+      "#",
+      "K",
+      "A",
+      "M"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Předložka se 4. pádem"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Dovozní poplatek"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Črta"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 5,
+      "clue": "Okov"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Strach"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "Ohniště"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. argonu"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 2,
+      "cells": 2,
+      "clue": "Koruna česká (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Doba"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Na kterém místě"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kastel"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nabídka programu"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tisková kancelář (zkr.)"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 1,
+      "cells": 3,
+      "clue": "Pruh (země, látky)"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 5,
+      "cells": 2,
+      "clue": "Vodíkový exponent"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Chorvatska"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Jednotka tlaku"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Severovýchod (zkr.)"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Opak noci"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 4,
+      "cells": 5,
+      "clue": "Bydlívat"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nemluvený"
+    },
+    {
+      "num": 40,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Sebevědomí"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Mistr svého oboru"
+    },
+    {
+      "num": 42,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tázací příslovce směru"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zač"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Šupinatý"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Hřídel kola"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Tázací zájmeno (na věc)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zbraň Robina Hooda"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Třást"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Několik"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 3,
+      "clue": "Titán"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Záležitost"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 5,
+      "cells": 3,
+      "clue": "Vzdech"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Africký stát"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 6,
+      "cells": 4,
+      "clue": "Papírový list"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tisíc metrů (zn.)"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Sklíčenost"
+    },
+    {
+      "num": 23,
+      "row": 5,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kód Dánska"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 3,
+      "cells": 3,
+      "clue": "Flash disk (hovor. zkr.)"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 5,
+      "cells": 3,
+      "clue": "Jak se povídá"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ukazatel ekonomiky (zkr.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 4,
+      "cells": 3,
+      "clue": "Kéž (zast.)"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Islandský epos"
+    },
+    {
+      "num": 33,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Znenadání"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "„Otče …“ (modlitba)"
+    },
+    {
+      "num": 37,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Éra"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
+    }
+  ]
+}

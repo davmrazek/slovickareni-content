@@ -1,0 +1,459 @@
+{
+  "id": "2026-10-31",
+  "date": "2026-10-31",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "N",
+      "E",
+      "Z",
+      "#",
+      "I",
+      "N",
+      "U"
+    ],
+    [
+      "D",
+      "V",
+      "E",
+      "R",
+      "E",
+      "#",
+      "T",
+      "A",
+      "K"
+    ],
+    [
+      "U",
+      "Z",
+      "#",
+      "A",
+      "N",
+      "I",
+      "#",
+      "R",
+      "O"
+    ],
+    [
+      "C",
+      "T",
+      "K",
+      "#",
+      "A",
+      "S",
+      "P",
+      "O",
+      "N"
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "A",
+      "#",
+      "L",
+      "O",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "H",
+      "E",
+      "K",
+      "T",
+      "A",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "O",
+      "I",
+      "N",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "A",
+      "R",
+      "#",
+      "D",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "V",
+      "Y",
+      "T",
+      "A",
+      "H",
+      "#",
+      "L",
+      "E",
+      "M"
+    ],
+    [
+      "A",
+      "T",
+      "#",
+      "T",
+      "R",
+      "H",
+      "#",
+      "N",
+      "I"
+    ],
+    [
+      "D",
+      "E",
+      "J",
+      "#",
+      "A",
+      "R",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "#",
+      "C",
+      "A",
+      "S",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Dokud ne"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tedy (kniž.)"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vchod"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Již"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojka záporná"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Rumunska"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tisková kancelář (zkr.)"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Přinejmenším"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Velký sál"
+    },
+    {
+      "num": 20,
+      "row": 4,
+      "col": 5,
+      "cells": 3,
+      "clue": "Plavidlo"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Sto árů"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Vyvrcholení vtipu"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 3,
+      "clue": "Několik"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 5,
+      "cells": 4,
+      "clue": "Dál"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Souhrn"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Obruba"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nechť"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Tržiště"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. niklu"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Fabule"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Pozemek s budovami"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Leč"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 4,
+      "cells": 3,
+      "clue": "Doba"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Chem. zn. neonu"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Dáma"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 6,
+      "cells": 2,
+      "clue": "Kód Itálie"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Pospolitost"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 4,
+      "clue": "Úřední čin"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Mysl"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 5,
+      "clue": "Románek"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 6,
+      "clue": "Země ságy"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 2,
+      "cells": 6,
+      "clue": "Pomlouvat"
+    },
+    {
+      "num": 17,
+      "row": 3,
+      "col": 6,
+      "cells": 6,
+      "clue": "Webová brána"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Zrovna (hovor.)"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 4,
+      "cells": 2,
+      "clue": "Oni (muži)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 7,
+      "cells": 5,
+      "clue": "Vrbová, herečka"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Vak"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 8,
+      "cells": 4,
+      "clue": "Holub křestním jménem"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kaz"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 4,
+      "cells": 4,
+      "clue": "Sportovec"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Drama"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 2,
+      "cells": 2,
+      "clue": "Tvar slovesa být"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Snížené E"
+    }
+  ]
+}

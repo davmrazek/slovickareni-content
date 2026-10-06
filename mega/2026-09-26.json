@@ -1,0 +1,466 @@
+{
+  "id": "2026-09-26",
+  "date": "2026-09-26",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "K",
+      "M",
+      "E",
+      "N",
+      "#",
+      "O",
+      "K",
+      "A",
+      "P"
+    ],
+    [
+      "R",
+      "E",
+      "P",
+      "A",
+      "#",
+      "D",
+      "R",
+      "U",
+      "H"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "#",
+      "Z",
+      "D",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "U",
+      "Z",
+      "#",
+      "D",
+      "I",
+      "L",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "C",
+      "E",
+      "L",
+      "#",
+      "B",
+      "A"
+    ],
+    [
+      "L",
+      "I",
+      "D",
+      "R",
+      "#",
+      "#",
+      "P",
+      "U",
+      "K"
+    ],
+    [
+      "Z",
+      "D",
+      "A",
+      "#",
+      "#",
+      "C",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "E",
+      "E",
+      "#",
+      "S",
+      "P",
+      "I",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "U",
+      "T",
+      "O",
+      "#",
+      "I",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "P",
+      "E",
+      "T",
+      "#",
+      "V",
+      "L",
+      "K"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "Z",
+      "#",
+      "S",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "J",
+      "I",
+      "R",
+      "I",
+      "#",
+      "V",
+      "I",
+      "N",
+      "O"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Pokolení"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Žlab"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Hlava (hovor.)"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Typ"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 4,
+      "clue": "Jevit se (~ se)"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 1,
+      "cells": 2,
+      "clue": "Již"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 4,
+      "clue": "Opus"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Kalené železo"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Dokonce (kniž.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vůdce (hovor.)"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kotouč z gumy"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Jestli"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Úsek"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Estonska"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 4,
+      "clue": "Dokument"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Fáro (hovor.)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 6,
+      "cells": 2,
+      "clue": "Kód Irska"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 1,
+      "cells": 4,
+      "clue": "Lnout"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Canis lupus"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Bez toho, aby"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Možná"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 4,
+      "clue": "Jméno Poděbradského"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mok z hroznů"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plovoucí led"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Jídelní lístek"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 7,
+      "clue": "Díl seriálu"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Předložka s 6. pádem"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Útvar"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Panovník"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Linkový vůz"
+    },
+    {
+      "num": 8,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Vodíkový exponent"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tu"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. chromu"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 8,
+      "cells": 3,
+      "clue": "Dějství"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dá se"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Bezchybný"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 7,
+      "clue": "Nečinný"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Těžko"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Dřina"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Nosferatu"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Švih"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Která osoba?"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Hle (zast.)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Severovýchod (zkr.)"
+    }
+  ]
+}

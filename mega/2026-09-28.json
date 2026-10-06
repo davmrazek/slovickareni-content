@@ -1,0 +1,473 @@
+{
+  "id": "2026-09-28",
+  "date": "2026-09-28",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "S",
+      "L",
+      "O",
+      "H",
+      "#",
+      "#",
+      "S",
+      "E"
+    ],
+    [
+      "#",
+      "L",
+      "I",
+      "D",
+      "R",
+      "#",
+      "P",
+      "A",
+      "R"
+    ],
+    [
+      "K",
+      "O",
+      "T",
+      "E",
+      "#",
+      "Z",
+      "I",
+      "M",
+      "A"
+    ],
+    [
+      "E",
+      "U",
+      "#",
+      "Z",
+      "L",
+      "A",
+      "T",
+      "O",
+      "#"
+    ],
+    [
+      "Z",
+      "P",
+      "E",
+      "V",
+      "A",
+      "K",
+      "#",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "A",
+      "K",
+      "#",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "I",
+      "V",
+      "A",
+      "#",
+      "A",
+      "S",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "Y",
+      "#",
+      "C",
+      "V",
+      "I",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "D",
+      "O",
+      "T",
+      "Y",
+      "K",
+      "#",
+      "V",
+      "Y"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "K",
+      "#",
+      "A",
+      "D",
+      "A",
+      "M"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "#",
+      "O",
+      "N",
+      "E",
+      "N",
+      "#"
+    ],
+    [
+      "M",
+      "Y",
+      "#",
+      "#",
+      "N",
+      "A",
+      "S",
+      "A",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Styl psaní"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zvratné zájmeno"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Vůdce (hovor.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Několik"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Mourek malý"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Chlad"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. europia"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 5,
+      "clue": "Prvek Au"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 6,
+      "clue": "Tenor"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tohle"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 2,
+      "cells": 3,
+      "clue": "Žok"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Výše než"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Bittová křestním jménem"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 4,
+      "cells": 3,
+      "clue": "Přibližně"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 6,
+      "clue": "Trénovat"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 1,
+      "cells": 5,
+      "clue": "Kontakt"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Zájmeno 2. osoby mn. č."
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Obrněnec"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Evin druh"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Spojka záporná"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Ten (kniž.)"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby mn. č."
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 4,
+      "cells": 4,
+      "clue": "Kosmická agentura USA (zkr.)"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Kolona"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Silně pršet"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 6,
+      "clue": "Reakce"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Personalistika (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 7,
+      "cells": 6,
+      "clue": "Stavení mimo ves"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 8,
+      "cells": 3,
+      "clue": "Epocha"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Požívat nápoj"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přací částice"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Učeň"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Přitažlivý"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Adamova družka"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 8,
+      "cells": 2,
+      "clue": "Opak do (předložka)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Vůbec žádná věc"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Informační technologie (zkr.)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Publikovaný"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 6,
+      "clue": "Buzerace"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 3,
+      "clue": "Tisková kancelář (zkr.)"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Chýlková křestním jménem"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Mužstvo"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 2,
+      "cells": 3,
+      "clue": "Ti druzí"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Onde"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Strach"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Muž"
+    }
+  ]
+}

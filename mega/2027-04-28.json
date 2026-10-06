@@ -1,0 +1,459 @@
+{
+  "id": "2027-04-28",
+  "date": "2027-04-28",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "I",
+      "V",
+      "O",
+      "#",
+      "P",
+      "A",
+      "N",
+      "#"
+    ],
+    [
+      "D",
+      "R",
+      "E",
+      "S",
+      "#",
+      "O",
+      "L",
+      "E",
+      "J"
+    ],
+    [
+      "V",
+      "I",
+      "L",
+      "A",
+      "#",
+      "#",
+      "E",
+      "M",
+      "A"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "#",
+      "S",
+      "I",
+      "J",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "I",
+      "C",
+      "H",
+      "#",
+      "C",
+      "I"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "R",
+      "E",
+      "N",
+      "#",
+      "K",
+      "R"
+    ],
+    [
+      "C",
+      "R",
+      "#",
+      "S",
+      "N",
+      "E",
+      "D",
+      "Y",
+      "#"
+    ],
+    [
+      "N",
+      "E",
+      "#",
+      "K",
+      "A",
+      "D",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "B",
+      "O",
+      "R",
+      "#",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "#",
+      "#",
+      "P",
+      "I",
+      "L",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "Z",
+      "E",
+      "#",
+      "R",
+      "V",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "T",
+      "I",
+      "S",
+      "#",
+      "S",
+      "Y",
+      "N",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Řecký bůh stád"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Trikot"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tekutý tuk"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Letohrádek"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 6,
+      "cells": 3,
+      "clue": "„… mele maso“"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Snad"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 4,
+      "clue": "Týl"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Olfaktorický smysl"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 5,
+      "clue": "Profil země"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. kryptonu"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Naše republika (zkr.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 3,
+      "cells": 5,
+      "clue": "Opálený"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Zápor"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 4,
+      "clue": "Širší výběr"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 1,
+      "cells": 4,
+      "clue": "Kolegium"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Momentálně"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet centů v euru"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Motorová ~"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 4,
+      "clue": "Základ"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Trhat"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 1,
+      "cells": 3,
+      "clue": "Jedovatý jehličnan"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 5,
+      "cells": 3,
+      "clue": "Dědic"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Duhovka"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Náramně"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Středová přímka"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. polonia"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Lipová cesta"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Germánský"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pár"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 8,
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Libreto filmu"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 5,
+      "cells": 5,
+      "clue": "Neprodleně"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Erin (bás.)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. iridia"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Pokutovat"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Čína (zkr.)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Zničující"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Nebeský"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Švih"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 8,
+      "cells": 3,
+      "clue": "Poskytnout"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 2,
+      "clue": "Znak stibia"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Ňadro"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Španělska"
+    }
+  ]
+}

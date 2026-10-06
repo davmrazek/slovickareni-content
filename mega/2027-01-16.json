@@ -1,0 +1,452 @@
+{
+  "id": "2027-01-16",
+  "date": "2027-01-16",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "S",
+      "A",
+      "B",
+      "L",
+      "O",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "B",
+      "R",
+      "A",
+      "T",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "Z",
+      "L",
+      "Y",
+      "#",
+      "P",
+      "O",
+      "T",
+      "E",
+      "#"
+    ],
+    [
+      "N",
+      "O",
+      "#",
+      "T",
+      "A",
+      "K",
+      "#",
+      "L",
+      "V"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "I",
+      "T",
+      "#",
+      "#",
+      "I",
+      "E"
+    ],
+    [
+      "S",
+      "O",
+      "U",
+      "S",
+      "#",
+      "#",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "M",
+      "H",
+      "D",
+      "#",
+      "#",
+      "C",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "R",
+      "N",
+      "#",
+      "#",
+      "R",
+      "O",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "I",
+      "#",
+      "J",
+      "I",
+      "Z",
+      "#",
+      "M",
+      "N"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "A",
+      "J",
+      "#",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "N",
+      "E",
+      "C",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "M",
+      "A",
+      "N",
+      "U",
+      "E",
+      "L",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 7,
+      "clue": "Stereotyp"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Konvertovat"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nedobrý"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 4,
+      "cells": 4,
+      "clue": "Následně"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Norska"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Lotyšska"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Tlouct"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Id est (zkr.)"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kontinent"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Bor"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hromadná doprava (zkr.)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Pekelník"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Radon (zn.)"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Léto (zast.)"
+    },
+    {
+      "num": 24,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 3,
+      "cells": 3,
+      "clue": "Už (kniž.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 7,
+      "cells": 2,
+      "clue": "Mangan (zn.)"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 1,
+      "cells": 4,
+      "clue": "Konírna"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Násep"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Kurz pro mládež"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 1,
+      "cells": 7,
+      "clue": "Jméno Swedenborga"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Výstup jednotlivce"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 3,
+      "clue": "Kéž (zast.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Kód Brazílie"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 5,
+      "clue": "Popadat"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zduření"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Vlákno příběhu"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Fotostudio"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Značka prvku s protonovým číslem 30"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Strom s červenými míšky"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 8,
+      "cells": 4,
+      "clue": "Řídit"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Spojka vylučovací (…, nebo)"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zubatá"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Táborák"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pilulka"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Vztažné zájmeno"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Měsíc revolucí"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Brejchová křestním jménem"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Zpráva (hovor.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 8,
+      "cells": 2,
+      "clue": "Kód Nizozemska"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Onde"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Mimo"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Znak kupra"
+    }
+  ]
+}

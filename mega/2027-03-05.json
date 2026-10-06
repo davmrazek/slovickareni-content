@@ -1,0 +1,452 @@
+{
+  "id": "2027-03-05",
+  "date": "2027-03-05",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "K",
+      "R",
+      "A",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "K",
+      "R",
+      "O",
+      "U",
+      "T",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "V",
+      "R",
+      "A",
+      "H",
+      "#",
+      "U",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "R",
+      "A",
+      "M",
+      "#",
+      "S",
+      "L",
+      "A",
+      "N",
+      "Y"
+    ],
+    [
+      "T",
+      "J",
+      "#",
+      "D",
+      "R",
+      "#",
+      "L",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "E",
+      "#",
+      "M",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "Z",
+      "V",
+      "O",
+      "N",
+      "#",
+      "H",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "I",
+      "H",
+      "#",
+      "C",
+      "D",
+      "#",
+      "C",
+      "L"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "R",
+      "M",
+      "#",
+      "N",
+      "E",
+      "Z"
+    ],
+    [
+      "B",
+      "E",
+      "T",
+      "A",
+      "#",
+      "D",
+      "Y",
+      "N",
+      "E"
+    ],
+    [
+      "#",
+      "M",
+      "E",
+      "N",
+      "S",
+      "I",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "C",
+      "I",
+      "L",
+      "I",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Moravský ~"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Točit"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Hrdlořez"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Bradlo"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zárubeň"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 5,
+      "clue": "Solený"
+    },
+    {
+      "num": 13,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Neboli (zkr.)"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 3,
+      "cells": 2,
+      "clue": "Doktor (zkr.)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Silně pršet"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 2,
+      "cells": 2,
+      "clue": "Kód Belgie"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Poslání"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zikmund na Svatovítské věži"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 5,
+      "cells": 2,
+      "clue": "Citoslovce údivu"
+    },
+    {
+      "num": 21,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Etanol"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kompaktní disk"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. chloru"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 5,
+      "clue": "Poplach"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Dokud ne"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Řecké písmeno"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 4,
+      "clue": "Halloweenská plodina"
+    },
+    {
+      "num": 30,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Opak většiny"
+    },
+    {
+      "num": 32,
+      "row": 11,
+      "col": 3,
+      "cells": 4,
+      "clue": "Neboli"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Obchůdek"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 3,
+      "clue": "Parůžek"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Citoslovce bolesti"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tabule"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Region"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 6,
+      "cells": 6,
+      "clue": "Vlast Dantova"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 5,
+      "clue": "Bílý sport"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hlubinný otvor"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 4,
+      "clue": "Vydatně"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 4,
+      "cells": 2,
+      "clue": "Chem. zn. stroncia"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 3,
+      "cells": 3,
+      "clue": "Doba světla"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 2,
+      "cells": 6,
+      "clue": "Hojně"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 5,
+      "cells": 3,
+      "clue": "Hromadná doprava (zkr.)"
+    },
+    {
+      "num": 18,
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Okap"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Jméno Rožmberka"
+    },
+    {
+      "num": 22,
+      "row": 7,
+      "col": 4,
+      "cells": 2,
+      "clue": "Setina metru (zn.)"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 7,
+      "cells": 4,
+      "clue": "Hodnota"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 8,
+      "cells": 3,
+      "clue": "Je možno"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Farma na prérii"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Momentálně"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Část"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Slovinska"
+    }
+  ]
+}

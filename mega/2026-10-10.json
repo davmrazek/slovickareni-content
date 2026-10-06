@@ -1,0 +1,459 @@
+{
+  "id": "2026-10-10",
+  "date": "2026-10-10",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "O",
+      "V",
+      "C",
+      "I",
+      "#",
+      "P",
+      "D",
+      "F"
+    ],
+    [
+      "#",
+      "D",
+      "L",
+      "A",
+      "N",
+      "#",
+      "R",
+      "E",
+      "C"
+    ],
+    [
+      "#",
+      "V",
+      "A",
+      "S",
+      "#",
+      "K",
+      "O",
+      "S",
+      "#"
+    ],
+    [
+      "P",
+      "E",
+      "S",
+      "T",
+      "#",
+      "U",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "U",
+      "Z",
+      "#",
+      "O",
+      "P",
+      "R",
+      "O",
+      "T",
+      "I"
+    ],
+    [
+      "L",
+      "T",
+      "#",
+      "#",
+      "O",
+      "S",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "U",
+      "L",
+      "#",
+      "#",
+      "C",
+      "R"
+    ],
+    [
+      "K",
+      "R",
+      "I",
+      "C",
+      "E",
+      "T",
+      "#",
+      "H",
+      "E"
+    ],
+    [
+      "M",
+      "O",
+      "R",
+      "E",
+      "#",
+      "U",
+      "M",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "M",
+      "O",
+      "L",
+      "#",
+      "S",
+      "I",
+      "M",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "C",
+      "#",
+      "C",
+      "I",
+      "L",
+      "I",
+      "#"
+    ],
+    [
+      "V",
+      "N",
+      "E",
+      "#",
+      "U",
+      "T",
+      "E",
+      "K",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Beraní"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Formát dokumentu"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Vnitřní plocha ruky"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Proslov"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (vy)"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Drozd černý"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zaťatá ruka"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Skalisko"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nyní již"
+    },
+    {
+      "num": 16,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Naproti"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Litvy"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 4,
+      "cells": 3,
+      "clue": "Organizace v New Yorku (zkr.)"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 3,
+      "clue": "Chlorid sodný"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Naše republika (zkr.)"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 6,
+      "clue": "Hulákat"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. helia"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Oceán"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Znát"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 1,
+      "cells": 3,
+      "clue": "Jednotka látkového množství"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Karta do mobilu"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Podnos"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 4,
+      "clue": "Aneb"
+    },
+    {
+      "num": 35,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Venku"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 4,
+      "cells": 4,
+      "clue": "Únik"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 6,
+      "clue": "Odtransportovat"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 4,
+      "clue": "Chlup na hlavě"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Mnohokrát"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Kód Indie"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Kladná částice"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 5,
+      "clue": "Tucet bez dvou"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Zkratka před Barcelonou"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Směnný poměr"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Polovina"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. křemíku"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Lán"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Rozsáhle"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 3,
+      "cells": 4,
+      "clue": "Smysl"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 7,
+      "cells": 6,
+      "clue": "Heyrovský povoláním"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 8,
+      "cells": 3,
+      "clue": "Horní ~"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kilometr (zn.)"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 1,
+      "cells": 5,
+      "clue": "Epos v próze"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 5,
+      "cells": 5,
+      "clue": "Předvídat"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 6,
+      "cells": 4,
+      "clue": "Vlídně"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Obrazovka (zkr.)"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Znak kupra"
+    }
+  ]
+}

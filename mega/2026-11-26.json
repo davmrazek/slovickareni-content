@@ -1,0 +1,473 @@
+{
+  "id": "2026-11-26",
+  "date": "2026-11-26",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "Z",
+      "P",
+      "O",
+      "D",
+      "#",
+      "#",
+      "T",
+      "M",
+      "A"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "O",
+      "S",
+      "#",
+      "V",
+      "A",
+      "Z"
+    ],
+    [
+      "O",
+      "S",
+      "A",
+      "#",
+      "B",
+      "O",
+      "O",
+      "M",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "Z",
+      "N",
+      "#",
+      "T",
+      "R",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "O",
+      "Z",
+      "A",
+      "#",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "K",
+      "A",
+      "C",
+      "A",
+      "#",
+      "#",
+      "K",
+      "M"
+    ],
+    [
+      "P",
+      "L",
+      "#",
+      "#",
+      "S",
+      "L",
+      "Z",
+      "A",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "#",
+      "L",
+      "E",
+      "O",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "Z",
+      "#",
+      "D",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "D",
+      "E",
+      "V",
+      "#",
+      "C",
+      "A",
+      "S"
+    ],
+    [
+      "I",
+      "V",
+      "A",
+      "#",
+      "S",
+      "U",
+      "K",
+      "N",
+      "E"
+    ],
+    [
+      "T",
+      "Y",
+      "M",
+      "#",
+      "#",
+      "L",
+      "A",
+      "I",
+      "K"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Předložka (~ stolu)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Temno"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "V běžném roce"
+    },
+    {
+      "num": 10,
+      "row": 1,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kloubní pouto"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Středová přímka"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 4,
+      "clue": "Rozmach"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 1,
+      "cells": 3,
+      "clue": "Čili (zkr.)"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Mnout"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 2,
+      "cells": 4,
+      "clue": "Mekotající zvíře"
+    },
+    {
+      "num": 20,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. sodíku"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 1,
+      "cells": 4,
+      "clue": "Točící se hračka"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kilometr (zn.)"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 2,
+      "clue": "Polsko (kód)"
+    },
+    {
+      "num": 24,
+      "row": 6,
+      "col": 4,
+      "cells": 4,
+      "clue": "Krůpěj"
+    },
+    {
+      "num": 27,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. radia"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 3,
+      "cells": 4,
+      "clue": "Blum křestním jménem"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Praxe v cizině"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 5,
+      "cells": 3,
+      "clue": "Poskytnout"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 1,
+      "cells": 4,
+      "clue": "Garderoba"
+    },
+    {
+      "num": 35,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Mluvnická kategorie"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 0,
+      "cells": 3,
+      "clue": "Janžurová křestním jménem"
+    },
+    {
+      "num": 38,
+      "row": 10,
+      "col": 4,
+      "cells": 5,
+      "clue": "Dámský oděv"
+    },
+    {
+      "num": 40,
+      "row": 11,
+      "col": 0,
+      "cells": 3,
+      "clue": "Družstvo"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 5,
+      "cells": 4,
+      "clue": "Amatér"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Neřest"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Sevřená ruka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 6,
+      "clue": "Dotaz"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Předložka směru"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Živočich"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 7,
+      "cells": 7,
+      "clue": "Máti"
+    },
+    {
+      "num": 7,
+      "row": 0,
+      "col": 8,
+      "cells": 2,
+      "clue": "Teprve"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 4,
+      "cells": 2,
+      "clue": "Znak stibia"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 5,
+      "cells": 3,
+      "clue": "Šik křestním jménem"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Čas spánku"
+    },
+    {
+      "num": 17,
+      "row": 3,
+      "col": 8,
+      "cells": 3,
+      "clue": "Na onom místě"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Opět"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 1,
+      "cells": 7,
+      "clue": "Pošumavské město"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ňadro"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Koráb"
+    },
+    {
+      "num": 26,
+      "row": 6,
+      "col": 6,
+      "cells": 6,
+      "clue": "Firma výrobku"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 3,
+      "cells": 3,
+      "clue": "Dá se"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Evin druh"
+    },
+    {
+      "num": 32,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Obleva"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 4,
+      "cells": 2,
+      "clue": "Proti (ve sportu)"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Platební poukaz"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 0,
+      "cells": 2,
+      "clue": "Informační technologie (zkr.)"
+    },
+    {
+      "num": 39,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Včelí příbytek"
+    }
+  ]
+}

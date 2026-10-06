@@ -1,0 +1,445 @@
+{
+  "id": "2027-07-01",
+  "date": "2027-07-01",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "H",
+      "D",
+      "P",
+      "#",
+      "Z",
+      "U",
+      "B",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "I",
+      "R",
+      "#",
+      "S",
+      "T",
+      "A",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "I",
+      "S",
+      "#",
+      "K",
+      "R",
+      "E",
+      "V"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "A",
+      "M",
+      "A",
+      "#",
+      "M",
+      "Y"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "N",
+      "A",
+      "T",
+      "#",
+      "C",
+      "D"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "E",
+      "S",
+      "#",
+      "C",
+      "I",
+      "A"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "#",
+      "A",
+      "G",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "R",
+      "O",
+      "#",
+      "S",
+      "K",
+      "A",
+      "L",
+      "A",
+      "#"
+    ],
+    [
+      "A",
+      "J",
+      "#",
+      "T",
+      "R",
+      "U",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "E",
+      "H",
+      "A",
+      "#",
+      "C",
+      "I",
+      "P",
+      "#"
+    ],
+    [
+      "#",
+      "K",
+      "U",
+      "L",
+      "T",
+      "#",
+      "U",
+      "S",
+      "B"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "E",
+      "V",
+      "#",
+      "S",
+      "I",
+      "R"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Ukazatel ekonomiky (zkr.)"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Stolička"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pokoj"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 4,
+      "cells": 4,
+      "clue": "Plachtový přístřešek"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Strom s červenými míšky"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tělní tekutina"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 2,
+      "cells": 4,
+      "clue": "Matka (důvěrně)"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kolektivní já"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 1,
+      "cells": 5,
+      "clue": "Horní komora"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kompaktní disk"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nervozita"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Americká tajná služba (zkr.)"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Trojka"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 4,
+      "cells": 5,
+      "clue": "Jednatel"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kód Rumunska"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Horolezecký terén"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Hle (zast.)"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 3,
+      "cells": 4,
+      "clue": "Hnojivo ptáků"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 4,
+      "clue": "Něžnost"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Mikroprocesor"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 1,
+      "cells": 4,
+      "clue": "Uctívání"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Flash disk (hovor. zkr.)"
+    },
+    {
+      "num": 36,
+      "row": 11,
+      "col": 2,
+      "cells": 3,
+      "clue": "Bulharská měna"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Anglický šlechtický titul"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nu"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Odehrávat se"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 7,
+      "clue": "Zastavení palby"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 2,
+      "clue": "Škola pro děti (zkr.)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 5,
+      "clue": "Střetnout se (~ se)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jednotka tlaku"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 7,
+      "clue": "Řeč Germánů"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 3,
+      "cells": 4,
+      "clue": "Rohačky"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 8,
+      "cells": 5,
+      "clue": "Odevzdat"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Jatka"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 1,
+      "cells": 7,
+      "clue": "Mechanismus hodinek"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Svah"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 6,
+      "cells": 7,
+      "clue": "Švédský fyzik stupnice"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Kanape"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Ustavičně"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Berla"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Kynologický"
+    },
+    {
+      "num": 33,
+      "row": 10,
+      "col": 4,
+      "cells": 2,
+      "clue": "Televize (zkr.)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 8,
+      "cells": 2,
+      "clue": "Chem. zn. bromu"
+    }
+  ]
+}

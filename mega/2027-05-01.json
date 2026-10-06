@@ -1,0 +1,452 @@
+{
+  "id": "2027-05-01",
+  "date": "2027-05-01",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "C",
+      "I",
+      "#",
+      "U",
+      "D",
+      "A",
+      "J",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "R",
+      "#",
+      "D",
+      "O",
+      "H",
+      "A",
+      "D",
+      "#"
+    ],
+    [
+      "Z",
+      "A",
+      "S",
+      "#",
+      "L",
+      "A",
+      "Z",
+      "N",
+      "E"
+    ],
+    [
+      "I",
+      "K",
+      "O",
+      "N",
+      "A",
+      "#",
+      "Z",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "F",
+      "E",
+      "R",
+      "#",
+      "#",
+      "S",
+      "I"
+    ],
+    [
+      "K",
+      "N",
+      "E",
+      "Z",
+      "#",
+      "#",
+      "B",
+      "E",
+      "K"
+    ],
+    [
+      "V",
+      "A",
+      "R",
+      "#",
+      "#",
+      "R",
+      "E",
+      "K",
+      "A"
+    ],
+    [
+      "U",
+      "Z",
+      "#",
+      "#",
+      "B",
+      "E",
+      "Z",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "I",
+      "D",
+      "#",
+      "R",
+      "C",
+      "E",
+      "N",
+      "I"
+    ],
+    [
+      "I",
+      "V",
+      "E",
+      "T",
+      "A",
+      "#",
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "U",
+      "C",
+      "E",
+      "N",
+      "I",
+      "#",
+      "T",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "H",
+      "N",
+      "A",
+      "T",
+      "#",
+      "O",
+      "S"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Datum"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. iridia"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 5,
+      "clue": "Spekulace"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Opět"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Místo léčivých pramenů"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pravoslavný obraz"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Dceřin muž"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Poctivý (hovor.)"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. křemíku"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 4,
+      "clue": "Farář"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 3,
+      "clue": "Obránce (sport.)"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 0,
+      "cells": 3,
+      "clue": "Kypění"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 4,
+      "clue": "Veletok"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nyní již"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 3,
+      "clue": "Keř s bílými okolíky"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pospolitost"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 4,
+      "cells": 5,
+      "clue": "Úsloví"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Bartošová křestním jménem"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Imperátor"
+    },
+    {
+      "num": 34,
+      "row": 10,
+      "col": 1,
+      "cells": 5,
+      "clue": "Doktrína"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. titanu"
+    },
+    {
+      "num": 37,
+      "row": 11,
+      "col": 2,
+      "cells": 4,
+      "clue": "Noha (hovor.)"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. osmia"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nepovědomý"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Stát s Bagdádem"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Člen těla"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 5,
+      "clue": "Měna USA"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Heuréka (citosl.)"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Swing"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 6,
+      "clue": "Současnost"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 2,
+      "cells": 5,
+      "clue": "Řidič"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 8,
+      "cells": 5,
+      "clue": "Morálka"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 3,
+      "cells": 3,
+      "clue": "Srovnávací spojka"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pro"
+    },
+    {
+      "num": 20,
+      "row": 5,
+      "col": 1,
+      "cells": 6,
+      "clue": "Přeživší"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 6,
+      "cells": 5,
+      "clue": "Sprinter"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 5,
+      "cells": 3,
+      "clue": "Proslov"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 4,
+      "cells": 5,
+      "clue": "Vrata"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Dýchání"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 7,
+      "cells": 4,
+      "clue": "Severoatlantická aliance"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Duhovka"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Ukazovací zájmeno (m. r.)"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Informační technologie (zkr.)"
+    }
+  ]
+}
