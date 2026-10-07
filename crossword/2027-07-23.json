@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
       "T",
-      "E",
-      "N"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "S",
-      "I"
-    ],
-    [
-      "P",
-      "I",
-      "L",
-      "O",
-      "T"
-    ],
-    [
-      "A",
-      "N",
-      "I",
-      "#",
+      "U",
+      "K",
       "#"
     ],
     [
+      "B",
+      "E",
       "T",
+      "O",
+      "N"
+    ],
+    [
       "U",
+      "M",
+      "E",
+      "N",
+      "I"
+    ],
+    [
+      "H",
+      "E",
       "R",
+      "E",
+      "C"
+    ],
+    [
       "#",
+      "R",
+      "Y",
+      "C",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Mastná složka potravy"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 0,
+      "cells": 5,
+      "clue": "Směs cementu, písku a vody"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kdo řídí letadlo"
+      "clue": "Malířství, hudba, sochařství — jedním slovem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "cells": 5,
+      "clue": "Ten, kdo hraje role"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
+      "clue": "Nářadí na kopání záhonu, šlape se na něj"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Nádobí, ze kterého se jí"
+      "clue": "Skoro, bezmála"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "col": 2,
+      "cells": 5,
+      "clue": "Druhý den týdne"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Opak začátku; když je dobrý, všechno je dobré"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Nejvyšší božská bytost"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Nerozhodný konec šachové partie"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Naprostá absence čehokoli"
     }
   ]
 }

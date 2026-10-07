@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "P",
-      "R",
-      "I"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "N"
-    ],
-    [
-      "V",
-      "E",
       "N",
-      "K",
-      "U"
-    ],
-    [
       "A",
-      "S",
-      "I",
-      "#",
+      "D",
       "#"
     ],
     [
-      "S",
+      "K",
+      "A",
+      "N",
       "O",
-      "T",
+      "N"
+    ],
+    [
+      "U",
+      "Z",
+      "E",
+      "M",
+      "I"
+    ],
+    [
+      "R",
+      "O",
+      "B",
+      "O",
+      "T"
+    ],
+    [
       "#",
+      "R",
+      "O",
+      "V",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "col": 0,
+      "cells": 5,
+      "clue": "Dělo z dob plachetnic"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Mimo budovu"
+      "clue": "Vymezená část země, teritorium"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "cells": 5,
+      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Knižně: hrob"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Naplňovat; nebo splňovat úkol"
+      "clue": "Osobní stanovisko"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Knižně hrdina"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Místo, kam patříme"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Místo s varhanami v kostele"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno druhé osoby množné"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "N",
-      "E",
-      "Z",
-      "#"
-    ],
-    [
-      "B",
-      "A",
-      "R",
-      "A",
-      "Z"
-    ],
-    [
-      "O",
+      "S",
       "P",
       "O",
-      "R",
-      "A"
-    ],
-    [
-      "D",
-      "O",
-      "Z",
-      "I",
-      "T"
+      "J"
     ],
     [
       "#",
-      "J",
-      "E",
       "T",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "L",
+      "O",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "cells": 4,
+      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Rozhodující zápas o postup"
+      "col": 1,
+      "cells": 4,
+      "clue": "Rovněž, taktéž"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Ten, o koho se lze opřít"
+      "clue": "Dělo z dob plachetnic"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Strávit zbytek života"
+      "cells": 4,
+      "clue": "Dravec ve státním znaku"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Pohybovat se dopravním prostředkem"
+      "col": 0,
+      "cells": 4,
+      "clue": "Výsledek tvůrčí práce"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Co se pije"
+      "clue": "Pokročilý věk"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "clue": "Plochý díl; také ovládací deska"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Vydávat jasné světlo"
+      "clue": "Kolem dokola"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tečka; nebo jednotka skóre"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Knižně sklízet obilí srpem"
+      "clue": "Pouze, nic víc; také japonská měna"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šifra; posloupnost znaků k odemčení"
     }
   ]
 }

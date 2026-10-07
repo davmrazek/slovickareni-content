@@ -4,46 +4,46 @@
   "size": 5,
   "grid": [
     [
+      "#",
       "R",
       "O",
       "K",
-      "#",
-      "#"
-    ],
-    [
-      "A",
-      "N",
-      "O",
-      "#",
       "#"
     ],
     [
       "M",
-      "I",
-      "S",
-      "T",
-      "O"
+      "A",
+      "K",
+      "A",
+      "T"
     ],
     [
-      "#",
-      "#",
-      "T",
-      "R",
-      "S"
-    ],
-    [
-      "#",
-      "#",
       "E",
-      "H",
-      "M"
+      "M",
+      "O",
+      "C",
+      "E"
+    ],
+    [
+      "Z",
+      "E",
+      "L",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "C",
+      "I",
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
       "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
@@ -51,66 +51,66 @@
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "cells": 5,
+      "clue": "Hovorově tvrdě pracovat"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Určený bod v prostoru"
+      "clue": "Cit, silné hnutí mysli"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Barva listů a trávy; městská roste v parcích"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
+      "clue": "Emoce; nebo schopnost vnímat"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Obruba obrazu"
+      "col": 1,
+      "cells": 5,
+      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "col": 2,
+      "cells": 5,
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Náčiní na zametání"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
+      "cells": 5,
+      "clue": "Porážet stromy"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hranice, kterou nelze překročit"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Číslo mezi sedmi a devíti"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     }
   ]
 }

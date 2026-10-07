@@ -13,28 +13,28 @@
     [
       "#",
       "#",
-      "R",
       "E",
-      "C"
+      "R",
+      "B"
     ],
     [
-      "P",
-      "R",
-      "A",
-      "C",
-      "H"
+      "S",
+      "E",
+      "S",
+      "T",
+      "Y"
     ],
     [
-      "R",
-      "O",
-      "H",
+      "M",
+      "S",
+      "E",
       "#",
       "#"
     ],
     [
+      "S",
       "O",
-      "D",
-      "A",
+      "T",
       "#",
       "#"
     ]
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Šlechtický znak na štítu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jemné suché částice; nebo střelný ~"
+      "clue": "Řadová číslovka po pátém"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
+      "clue": "Katolická bohoslužba"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Krátká reportáž ve zprávách"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Trasa pohybu tělesa"
+      "clue": "Počet prstů na rukou"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Předmět; nebo záležitost"
+      "clue": "Hloubený otvor do země"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Spojka účelu (~ ses učil)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Krátká textová zpráva"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ]
 }

@@ -4,38 +4,38 @@
   "size": 5,
   "grid": [
     [
-      "N",
-      "A",
-      "S",
-      "#",
-      "#"
-    ],
-    [
+      "K",
+      "D",
       "O",
-      "U",
-      "T",
       "#",
       "#"
     ],
     [
+      "R",
+      "U",
+      "B",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "O",
       "S",
       "T",
-      "A",
-      "L",
       "E"
     ],
     [
       "#",
       "#",
-      "V",
-      "I",
+      "A",
+      "U",
       "T"
     ],
     [
       "#",
       "#",
-      "A",
       "H",
+      "R",
       "A"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno (~ dům)"
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Opačná strana líce"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bez přestání"
+      "clue": "Náčiní na zametání"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Splétat věnec z kvítí"
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Zábava podle pravidel; také divadelní text"
     }
   ],
   "down": [
@@ -82,28 +82,28 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Dvojice hudebníků"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Tekutina vylisovaná z ovoce"
+      "clue": "Co je uvnitř; seznam kapitol"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
+      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
     },
     {
       "num": 7,

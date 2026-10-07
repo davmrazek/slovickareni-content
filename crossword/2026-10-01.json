@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
       "P",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "S",
-      "U",
-      "D"
-    ],
-    [
-      "Z",
-      "L",
-      "A",
-      "T",
-      "O"
-    ],
-    [
-      "L",
-      "E",
-      "C",
-      "#",
+      "O",
+      "D",
       "#"
     ],
     [
+      "R",
+      "A",
+      "K",
+      "E",
+      "V"
+    ],
+    [
       "O",
-      "N",
-      "I",
+      "S",
+      "O",
+      "B",
+      "A"
+    ],
+    [
+      "K",
+      "A",
+      "L",
+      "U",
+      "Z"
+    ],
+    [
       "#",
+      "Z",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Dřevěná nádoba na pivo"
+      "col": 0,
+      "cells": 5,
+      "clue": "Truhla, do níž se ukládá zesnulý"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Knižní spojka odporovací"
+      "cells": 5,
+      "clue": "Louže vody po dešti"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Být naživu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Určený ke psaní"
+      "clue": "Krytý průchod mezi ulicemi; také úsek textu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "col": 2,
+      "cells": 5,
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "První veřejné vystoupení umělce"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "clue": "Pruh pojiva držící kosti u sebe; před výkonem se přeje zlomit"
     }
   ]
 }

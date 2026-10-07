@@ -14,27 +14,27 @@
       "#",
       "#",
       "O",
-      "B",
+      "K",
       "R"
     ],
     [
-      "P",
-      "O",
+      "L",
       "H",
-      "Y",
-      "B"
+      "U",
+      "T",
+      "A"
     ],
     [
       "O",
-      "K",
-      "O",
+      "U",
+      "T",
       "#",
       "#"
     ],
     [
-      "D",
-      "R",
-      "N",
+      "S",
+      "T",
+      "O",
       "#",
       "#"
     ]
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Žlutohnědý přírodní pigment"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Změna polohy"
+      "clue": "Čas, do kdy je nutné něco stihnout"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Vyříznutý kus trávníku"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Co uvádí stroj do pohybu"
+      "clue": "Silný vztah; také želízka na rukou"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Dějství divadelní hry; také úřední listina"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Otevřené ohniště v obývacím pokoji"
+      "clue": "Plovoucí ledová deska"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Předložka označující nižší polohu"
+      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Závod na zpracování kovu"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "A",
-      "L",
-      "E"
+      "Z",
+      "I",
+      "T",
+      "#"
     ],
     [
-      "#",
-      "#",
-      "V",
+      "M",
       "A",
-      "R"
-    ],
-    [
-      "L",
-      "A",
-      "S",
       "K",
-      "A"
+      "A",
+      "T"
     ],
     [
       "O",
       "S",
-      "A",
-      "#",
-      "#"
+      "O",
+      "B",
+      "A"
     ],
     [
-      "D",
-      "I",
-      "K",
+      "P",
+      "A",
+      "N",
+      "A",
+      "K"
+    ],
+    [
       "#",
+      "H",
+      "A",
+      "K",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Být naživu"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Bublání vroucí vody"
+      "col": 0,
+      "cells": 5,
+      "clue": "Hovorově tvrdě pracovat"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejsilnější cit"
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "cells": 5,
+      "clue": "Malá sklenka tvrdého alkoholu; nebo figurka"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Projev vděčnosti, poděkování"
+      "clue": "Zahnutý závěs na kabát"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Trefa do cíle"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "col": 2,
+      "cells": 5,
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Náčiní na mytí podlahy"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Plavidlo; také hlavní prostor kostela"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Tímto způsobem"
     }
   ]
 }

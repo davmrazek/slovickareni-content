@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "H",
+      "R",
       "O",
-      "S",
-      "U",
-      "D"
+      "B"
     ],
     [
       "#",
-      "S",
+      "R",
       "A",
-      "L",
+      "S",
       "A"
     ],
     [
       "P",
-      "O",
-      "C",
-      "I",
+      "A",
+      "D",
+      "A",
       "T"
     ],
     [
       "O",
       "B",
       "E",
-      "C",
+      "D",
       "#"
     ],
     [
-      "T",
-      "A",
-      "K",
+      "R",
       "E",
+      "K",
+      "A",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 4,
-      "clue": "Předurčený běh života"
+      "clue": "Místo posledního odpočinku"
     },
     {
       "num": 5,
       "row": 1,
       "col": 1,
       "cells": 4,
-      "clue": "Dlouhý pruh látky kolem krku"
+      "clue": "Vodní rostlina; také chloupek u oka"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vnitřní prožitek"
+      "clue": "Klesat volným pádem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 4,
-      "clue": "Nejmenší samosprávné sídlo"
+      "clue": "Jídlo v poledne"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 4,
-      "clue": "Rovněž, taktéž"
+      "clue": "Velký vodní tok"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Jednotlivý člověk"
+      "clue": "Šlechtický titul, vyšší než baron"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Malý papírový nebo igelitový obal"
+      "clue": "Jedna vodorovná řada písmen"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Cesta mezi domy; slepá nikam nevede"
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
       "num": 4,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Pociťovat strach (~ se)"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Tekutina na kůži při horku"
+      "clue": "Zelenina podobná cibuli, do polévky"
     }
   ]
 }

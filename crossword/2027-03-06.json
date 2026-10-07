@@ -6,35 +6,35 @@
     [
       "#",
       "#",
+      "A",
       "L",
-      "Z",
       "E"
     ],
     [
       "#",
       "#",
-      "Z",
-      "E",
-      "T"
+      "G",
+      "A",
+      "G"
     ],
     [
-      "T",
-      "R",
-      "I",
-      "D",
-      "A"
-    ],
-    [
+      "J",
       "M",
       "E",
-      "C",
+      "N",
+      "O"
+    ],
+    [
+      "H",
+      "O",
+      "N",
       "#",
       "#"
     ],
     [
-      "A",
-      "V",
-      "E",
+      "O",
+      "R",
+      "T",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Je možné (~ to udělat)"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Vtipná scéna v komedii"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Skupina žáků; také kvalita"
+      "clue": "Jak se kdo nazývá"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "clue": "Štvanice na zvěř"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Latinský pozdrav v modlitbě"
+      "clue": "Vodorovná důlní chodba"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Příbor na polévku"
+      "clue": "Tajný pracovník; také zástupce"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Svislá zděná stěna"
+      "clue": "Velké souvislé pole"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Vlastní já; nafouklé bývá u hvězd"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Dřevo na krku tažného dobytka; útlak"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Hlasitý zvuk zvířete"
+      "clue": "Zhoubná nakažlivá nemoc"
     }
   ]
 }

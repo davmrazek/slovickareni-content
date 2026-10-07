@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "A",
-      "L",
-      "E",
-      "#",
-      "#"
-    ],
-    [
-      "N",
-      "I",
-      "T",
-      "#",
-      "#"
-    ],
-    [
+      "P",
+      "R",
       "O",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "H",
+      "#",
+      "#"
+    ],
+    [
       "S",
+      "K",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "#",
       "A",
-      "D",
+      "H",
       "A"
     ],
     [
       "#",
       "#",
-      "P",
-      "E",
+      "S",
+      "M",
       "S"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "N",
-      "I"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Malé sídlo, obvykle rekreační"
+      "clue": "Náklon plochy; nebo náchylnost k něčemu"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Domácí zvíře, člověku nejvěrnější"
+      "clue": "Citoslovce náhlého pochopení"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Krátká textová zpráva"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Stroj, který tlakem drtí nebo tvaruje"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "clue": "Odezva, reakce na něco"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Jednotka elektrického odporu"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Přivlastňovací zájmeno (~ dům)"
     }
   ]
 }

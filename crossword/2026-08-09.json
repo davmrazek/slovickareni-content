@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "D",
-      "U",
-      "M",
-      "#"
-    ],
-    [
-      "M",
-      "O",
-      "Z",
-      "E",
-      "K"
-    ],
-    [
-      "O",
       "P",
-      "E",
-      "R",
-      "A"
-    ],
-    [
-      "L",
-      "I",
-      "M",
-      "I",
+      "A",
+      "S",
       "T"
     ],
     [
       "#",
-      "S",
-      "I",
+      "R",
+      "U",
+      "K",
+      "A"
+    ],
+    [
+      "P",
+      "O",
       "T",
+      "O",
+      "M"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "L",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "R",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "cells": 4,
+      "clue": "Nastražené zařízení na zvíře"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Orgán myšlení"
+      "col": 1,
+      "cells": 4,
+      "clue": "Horní končetina s pěti prsty"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Zpívané jevištní dílo"
+      "clue": "Následně, později"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Nejzazší mez"
+      "cells": 4,
+      "clue": "Korálový ostrov ve tvaru prstence"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Pletivo z nití; nebo internet"
+      "col": 0,
+      "cells": 4,
+      "clue": "Otvor v látce"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Psaní v obálce"
+      "clue": "Předložka odporu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vymezená část země, teritorium"
+      "clue": "Ten, kdo dílo vytvořil"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Zjišťovat rozměr"
+      "clue": "Budova, kde se učí; podle staré komedie základ života"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Škůdce ve skříni"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Kdo vykonává popravu"
+      "clue": "Na onom místě, opak sem"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Volný ~ z výšky; čeština jich má sedm"
     }
   ]
 }

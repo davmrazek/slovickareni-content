@@ -6,36 +6,36 @@
     [
       "#",
       "M",
-      "U",
-      "J",
+      "I",
+      "T",
       "#"
     ],
     [
       "S",
-      "A",
-      "T",
-      "E",
-      "K"
+      "O",
+      "K",
+      "O",
+      "L"
     ],
     [
       "U",
+      "D",
+      "O",
       "L",
-      "E",
-      "V",
-      "A"
+      "I"
     ],
     [
       "M",
-      "I",
-      "R",
+      "E",
+      "N",
       "I",
       "T"
     ],
     [
       "#",
-      "R",
-      "Y",
-      "T",
+      "L",
+      "A",
+      "K",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "clue": "Vlastnit; nebo ~ se k světu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Čtvercový kus látky na hlavu"
+      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
+      "clue": "Níže položené místo mezi kopci"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Zaměřovat na cíl"
+      "clue": "Přetvářet do jiné podoby; také ~ peníze v bance"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "clue": "Nátěr na nehty nebo na dřevo"
     }
   ],
   "down": [
@@ -82,21 +82,21 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Druhý den týdne"
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
+      "clue": "Takové množství (~ práce)"
     },
     {
       "num": 4,
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Kdo vykonává popravu"
+      "clue": "Nalévat; nebo ~ jako z konve"
     }
   ]
 }

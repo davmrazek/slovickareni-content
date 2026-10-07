@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "T",
-      "A",
-      "K",
       "#",
-      "#"
-    ],
-    [
+      "P",
       "A",
-      "N",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "M",
-      "I",
       "S",
-      "T",
-      "O"
+      "T"
     ],
     [
       "#",
-      "#",
-      "T",
       "R",
-      "S"
+      "U",
+      "K",
+      "A"
     ],
     [
-      "#",
-      "#",
-      "E",
-      "H",
-      "M"
+      "P",
+      "O",
+      "T",
+      "O",
+      "K"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "L",
+      "#"
+    ],
+    [
+      "S",
+      "I",
+      "R",
+      "A",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tímto způsobem"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "col": 1,
+      "cells": 4,
+      "clue": "Nastražené zařízení na zvíře"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Horní končetina s pěti prsty"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Určený bod v prostoru"
+      "clue": "Malý vodní tok"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Korálový ostrov ve tvaru prstence"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
+      "col": 0,
+      "cells": 4,
+      "clue": "Žlutý prvek zapáchající po zápalkách"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "col": 1,
+      "cells": 5,
+      "clue": "Předložka odporu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Ten, kdo dílo vytvořil"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Náčiní na zametání"
+      "clue": "Budova, kde se učí; podle staré komedie základ života"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tímto způsobem"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Číslo mezi sedmi a devíti"
+      "clue": "Řemen kolem beder; také doklad na cesty"
     }
   ]
 }

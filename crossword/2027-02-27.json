@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "E",
-      "#",
-      "#"
-    ],
-    [
-      "A",
-      "U",
-      "T",
-      "#",
-      "#"
-    ],
-    [
       "Z",
-      "L",
+      "D",
       "A",
-      "T",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "O",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
       "O"
     ],
     [
       "#",
       "#",
-      "P",
-      "Y",
-      "R"
+      "R",
+      "A",
+      "K"
     ],
     [
       "#",
       "#",
-      "A",
-      "L",
-      "T"
+      "D",
+      "N",
+      "O"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Jeden doušek nápoje"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Kolem dokola"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Vytrvalý plevel s bílými oddenky"
+      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Nejnižší část nádoby či rybníka"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "clue": "Opak dobra; vybírá se vždy to menší"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "clue": "Místo v přístavu, kde se opravují lodě"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "clue": "Souzvuk více tónů"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Zadní část hlavy; také jemná průsvitná látka"
+      "clue": "Velké souvislé pole"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Zrakový orgán; také poutko na provaze"
     }
   ]
 }

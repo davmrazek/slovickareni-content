@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "J",
-      "E",
-      "N",
+      "T",
+      "M",
+      "A",
       "#",
       "#"
     ],
     [
-      "A",
-      "H",
-      "A",
+      "R",
+      "Y",
+      "K",
       "#",
       "#"
     ],
     [
       "S",
-      "M",
-      "R",
-      "A",
-      "D"
-    ],
-    [
-      "#",
-      "#",
+      "T",
       "O",
-      "B",
+      "P",
       "A"
     ],
     [
       "#",
       "#",
-      "K",
-      "Y",
-      "L"
+      "R",
+      "E",
+      "V"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "L",
+      "E"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Hromový řev davu či zvěře"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nepříjemný zápach"
+      "clue": "Otisk v blátě"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Hlasitý zvuk zvířete"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Nosný hřbet lodi pod hladinou"
+      "clue": "Knižně: podle"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Míra světlosti, svit"
+      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
+      "clue": "Zbavovat špíny vodou"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Oprávněný požadavek"
+      "clue": "Souzvuk více tónů"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Básnicky květní poprašek; přeneseně svěžest mládí"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Do větší vzdálenosti"
+      "clue": "Latinský pozdrav v modlitbě"
     }
   ]
 }

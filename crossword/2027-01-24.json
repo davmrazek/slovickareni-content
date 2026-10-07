@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
+      "P",
+      "E",
       "T",
-      "A",
-      "M"
+      "#"
     ],
     [
-      "#",
-      "#",
+      "R",
+      "A",
+      "M",
       "E",
+      "C"
+    ],
+    [
+      "O",
+      "P",
+      "O",
       "R",
       "A"
     ],
     [
-      "A",
       "V",
-      "S",
-      "A",
-      "K"
+      "E",
+      "C",
+      "E",
+      "R"
     ],
     [
-      "L",
-      "E",
-      "T",
       "#",
-      "#"
-    ],
-    [
+      "Z",
       "E",
-      "S",
-      "O",
-      "#",
+      "N",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Počet prstů na ruce"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "col": 0,
+      "cells": 5,
+      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Ten, o koho se lze opřít"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "cells": 5,
+      "clue": "Konec dne před nocí"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Buddhistický směr meditace"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Směs mouky a vody před pečením"
+      "clue": "Hlava katolické církve"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "col": 2,
+      "cells": 5,
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Povrch krajiny"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Červená polní květina; její semínka se sypou do buchet"
+      "clue": "Knižně: hrob"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Malá obec na venkově"
+      "clue": "Ruský panovník, třeba Petr Veliký"
     }
   ]
 }

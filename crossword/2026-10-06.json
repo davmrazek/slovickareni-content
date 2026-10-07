@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "J",
-      "I",
-      "Z"
+      "S",
+      "R",
+      "U",
+      "B"
     ],
     [
       "#",
-      "#",
-      "M",
-      "O",
-      "D"
-    ],
-    [
-      "Z",
-      "M",
-      "E",
+      "H",
+      "A",
       "N",
       "A"
     ],
     [
       "D",
+      "O",
+      "D",
       "A",
-      "N",
-      "#",
+      "T"
+    ],
+    [
+      "U",
+      "D",
+      "I",
+      "V",
       "#"
     ],
     [
-      "E",
-      "G",
-      "O",
-      "#",
+      "P",
+      "A",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Knižně: už"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Herní úprava od fanoušků"
+      "col": 1,
+      "cells": 4,
+      "clue": "Stavení z vodorovně kladených kmenů"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Knižně potupa, hanba"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Přechod do jiného stavu"
+      "clue": "Doplnit; doručit zboží"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Povinná platba státu"
+      "cells": 4,
+      "clue": "Podivení nad nečekaným"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Vlastní já; nafouklé bývá u hvězd"
+      "cells": 4,
+      "clue": "Zadní část chodidla"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "clue": "Souhlas dvou stran; mluvnický jev"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "col": 2,
+      "cells": 5,
+      "clue": "Dávat doporučení"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "col": 3,
+      "cells": 5,
+      "clue": "Vyčerpání po námaze"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Pociťovat strach (~ se)"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Čaroděj, kouzelník"
+      "clue": "Zvuk těžkého kroku"
     }
   ]
 }

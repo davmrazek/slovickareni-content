@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "#",
       "P",
-      "A",
-      "K",
-      "#",
-      "#"
-    ],
-    [
-      "A",
-      "N",
       "O",
-      "#",
+      "D",
       "#"
     ],
     [
-      "N",
+      "S",
+      "O",
+      "K",
+      "O",
+      "L"
+    ],
+    [
+      "E",
+      "R",
+      "O",
+      "Z",
+      "E"
+    ],
+    [
+      "K",
+      "O",
+      "L",
+      "I",
+      "K"
+    ],
+    [
+      "#",
+      "D",
       "I",
       "T",
-      "R",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "Y",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "K",
-      "T"
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "cells": 5,
+      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vnitřek věci; také lidské city"
+      "clue": "Rozrušování půdy vodou a větrem"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Tázací zájmeno na množství"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Naše největší sova s oranžovýma očima"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Odehrávat se, přihodit se"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Zdvořilé oslovení muže"
+      "col": 1,
+      "cells": 5,
+      "clue": "Příchod dítěte na svět"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Kovové zařízení držící loď na místě"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Hromový řev davu či zvěře"
+      "cells": 5,
+      "clue": "Strávit zbytek života"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Platební poukaz místo hotovosti"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Prostředek proti nemoci"
     }
   ]
 }

@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "H",
-      "R",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "C"
-    ],
-    [
       "P",
       "R",
-      "A",
-      "C",
-      "H"
+      "I"
     ],
     [
-      "L",
-      "O",
+      "#",
+      "#",
+      "S",
+      "A",
+      "N"
+    ],
+    [
       "V",
+      "Z",
+      "A",
+      "D",
+      "U"
+    ],
+    [
+      "I",
+      "O",
+      "N",
       "#",
       "#"
     ],
     [
-      "Z",
-      "D",
-      "A",
+      "S",
+      "K",
+      "I",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
+      "clue": "Předložka blízkosti (~ cestě)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Knižní spojka odporovací"
+      "clue": "Bájný drak z pohádek"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jemné suché částice; nebo střelný ~"
+      "clue": "Na zadní straně, opak vpředu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Pronásledování zvěře"
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Lyžařský, v názvech vleků a areálů"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Nejvyšší část těla"
+      "clue": "Zaznamenávání písmen; také dopis"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Cvik na hrazdě, nohy nad zemí"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Velký pytel na vlnu nebo chmel"
     }
   ]
 }

@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "J",
-      "I",
-      "Z"
+      "P",
+      "R",
+      "I"
     ],
     [
       "#",
       "#",
-      "M",
-      "O",
-      "D"
-    ],
-    [
-      "Z",
-      "M",
-      "E",
-      "N",
-      "A"
-    ],
-    [
       "L",
       "A",
+      "N"
+    ],
+    [
+      "V",
+      "E",
       "N",
+      "K",
+      "U"
+    ],
+    [
+      "A",
+      "S",
+      "I",
       "#",
       "#"
     ],
     [
-      "E",
-      "G",
+      "S",
       "O",
+      "T",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Knižně: už"
+      "clue": "Předložka blízkosti (~ cestě)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Herní úprava od fanoušků"
+      "clue": "Velké souvislé pole"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Přechod do jiného stavu"
+      "clue": "Mimo budovu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Velké souvislé pole"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Vlastní já; nafouklé bývá u hvězd"
+      "clue": "Krátká reportáž ve zprávách"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "clue": "Naplňovat; nebo splňovat úkol"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Špatně, nedobře"
+      "clue": "Přivlastňovací zájmeno druhé osoby množné"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Čaroděj, kouzelník"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ]
 }

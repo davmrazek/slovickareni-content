@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "R",
-      "O",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "B",
-      "R"
-    ],
-    [
-      "T",
-      "A",
-      "B",
-      "A",
-      "K"
-    ],
-    [
-      "E",
       "S",
-      "O",
+      "R",
+      "S",
+      "T"
+    ],
+    [
       "#",
-      "#"
+      "T",
+      "E",
+      "T",
+      "A"
     ],
     [
       "D",
+      "O",
+      "S",
+      "A",
+      "H"
+    ],
+    [
+      "U",
+      "P",
       "I",
+      "R",
+      "#"
+    ],
+    [
+      "P",
+      "A",
       "T",
-      "#",
+      "Y",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Pohádkový velikán"
+      "col": 1,
+      "cells": 4,
+      "clue": "Chlupatý pokryv zvířete"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Sestra rodiče"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Rostlina, ze které se vyrábějí cigarety"
+      "clue": "Vzdálenost, kam až sahá"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "cells": 4,
+      "clue": "Netvor sající krev"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "cells": 4,
+      "clue": "Řadová číslovka po čtvrtém"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
+      "clue": "Otisk v blátě"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "col": 2,
+      "cells": 5,
+      "clue": "Hledat východisko"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "col": 3,
+      "cells": 5,
+      "clue": "Pokročilého věku"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "V tomto okamžiku"
+      "clue": "Pohyb figurkou; nebo silné vytažení"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Zvuk těžkého kroku"
     }
   ]
 }

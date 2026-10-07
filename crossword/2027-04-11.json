@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
-      "R",
-      "H"
+      "U",
+      "D",
+      "A",
+      "J"
     ],
     [
-      "#",
       "#",
       "M",
-      "U",
-      "L"
+      "O",
+      "R",
+      "E"
     ],
     [
-      "K",
-      "L",
-      "A",
-      "S",
+      "V",
+      "E",
+      "D",
+      "E",
       "T"
     ],
     [
-      "R",
       "E",
-      "V",
-      "#",
+      "L",
+      "A",
+      "N",
       "#"
     ],
     [
       "K",
-      "D",
       "Y",
-      "#",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Řídká bavlněná tkanina na obvazy"
+      "col": 1,
+      "cells": 4,
+      "clue": "Jednotlivá informace"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Velká slaná vodní plocha"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pokládat na místo"
+      "clue": "Mít znalost o věci"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Hlasitý zvuk zvířete"
+      "cells": 4,
+      "clue": "Nadšený rozmach do práce"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Tázací příslovce času"
+      "cells": 4,
+      "clue": "Vepřové stehno na řízky i do udírny"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Málo světlý, blízký černé"
+      "clue": "Vyrobený, ne přírodní"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Obyvatel největší země světa"
+      "col": 2,
+      "cells": 5,
+      "clue": "Doplnit; doručit zboží"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "col": 3,
+      "cells": 5,
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Pohybovat se dopravním prostředkem"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Počet prožitých let"
     }
   ]
 }

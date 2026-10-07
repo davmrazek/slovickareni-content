@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
-      "E",
-      "N",
+      "P",
+      "O",
+      "D",
       "#"
     ],
     [
-      "P",
+      "L",
       "O",
-      "R",
-      "A",
-      "D"
+      "K",
+      "E",
+      "T"
     ],
     [
       "O",
-      "P",
+      "K",
       "O",
-      "R",
-      "A"
+      "L",
+      "O"
     ],
     [
-      "P",
+      "K",
       "O",
-      "Z",
-      "O",
-      "R"
+      "L",
+      "I",
+      "K"
     ],
     [
       "#",
-      "L",
-      "E",
-      "K",
+      "J",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Neustále"
+      "clue": "Kloub uprostřed paže"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Ten, o koho se lze opřít"
+      "clue": "Kolem dokola"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Varovné zvolání"
+      "clue": "Tázací zájmeno na množství"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Prostředek proti nemoci"
+      "clue": "Pohybovat se pěšky"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Štíhlý strom vysazovaný do alejí"
+      "clue": "Místnost v bytě; také klid"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Oprávněný požadavek"
+      "clue": "Rozčleňovat na části"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Hudba z rádiových hitparád"
+      "clue": "Jeden doušek nápoje"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Věc věnovaná bezplatně"
+      "clue": "Plynutí vody; nebo proud elektřiny"
     }
   ]
 }

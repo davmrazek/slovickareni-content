@@ -7,34 +7,34 @@
       "#",
       "M",
       "U",
-      "Z",
+      "J",
       "#"
     ],
     [
-      "P",
+      "V",
       "O",
-      "Z",
-      "A",
-      "R"
-    ],
-    [
-      "U",
-      "T",
+      "N",
       "E",
-      "R",
-      "Y"
+      "T"
     ],
     [
-      "L",
+      "O",
+      "B",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "Z",
       "I",
-      "M",
+      "V",
       "I",
       "T"
     ],
     [
       "#",
-      "V",
-      "I",
+      "L",
+      "A",
       "T",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Dospělý člověk, kterému se říká pán"
+      "clue": "Přivlastňovací zájmeno první osoby"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Nekontrolovaný oheň"
+      "clue": "Šířit příjemný pach"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Druhý den týdne"
+      "clue": "Strach z budoucího"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Nejzazší mez"
+      "clue": "Zajišťovat obživu"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Splétat věnec z kvítí"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Pohnutka; opakující se prvek"
+      "clue": "Telefon, který nosíme v kapse"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vymezená část země, teritorium"
+      "clue": "Vyčerpání po námaze"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Vydávat jasné světlo"
+      "clue": "Ukazovat se navenek (~ se)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Polovina (~ litru)"
+      "clue": "Povoz tažený koňmi"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "clue": "Měnit se z ledu ve vodu"
     }
   ]
 }

@@ -4,31 +4,31 @@
   "size": 5,
   "grid": [
     [
+      "R",
+      "O",
       "K",
-      "D",
-      "E",
       "#",
       "#"
     ],
     [
       "O",
-      "U",
-      "T",
+      "B",
+      "A",
       "#",
       "#"
     ],
     [
-      "S",
-      "L",
-      "A",
-      "V",
+      "H",
+      "R",
+      "U",
+      "Z",
       "A"
     ],
     [
       "#",
       "#",
-      "P",
-      "E",
+      "Z",
+      "A",
       "L"
     ],
     [
@@ -45,28 +45,28 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Široký věhlas"
+      "clue": "Zděšení, které vžene mráz po zádech"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Básnicky květní poprašek; přeneseně svěžest mládí"
+      "clue": "Hluboký smutek"
     },
     {
       "num": 9,
@@ -82,28 +82,28 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Černý pták se žlutým zobákem"
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "clue": "Sledovaný právní případ"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Počet prožitých let"
+      "clue": "Dítě, které chodí do školy"
     },
     {
       "num": 7,

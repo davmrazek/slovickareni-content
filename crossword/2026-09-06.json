@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "D",
-      "V",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "E",
-      "R",
-      "B"
-    ],
-    [
-      "S",
-      "E",
-      "S",
       "T",
-      "Y"
+      "R",
+      "U",
+      "P"
     ],
     [
-      "M",
-      "S",
-      "E",
       "#",
+      "R",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "Z",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "B",
+      "U",
+      "V",
       "#"
     ],
     [
-      "S",
-      "O",
-      "T",
-      "#",
+      "M",
+      "A",
+      "M",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Číslo mezi jedničkou a trojkou"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Šlechtický znak na štítu"
+      "col": 1,
+      "cells": 4,
+      "clue": "Tělo bez hlavy a končetin; část letadla"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Postava, kterou herec ztvárňuje"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Řadová číslovka po pátém"
+      "clue": "Být v poloze naplocho"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Katolická bohoslužba"
+      "cells": 4,
+      "clue": "Co se obouvá"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "cells": 4,
+      "clue": "Důvěrně matka"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Počet prstů na rukou"
+      "clue": "Například; nebo je nutné"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Hloubený otvor do země"
+      "col": 2,
+      "cells": 5,
+      "clue": "Schopnost uvažovat"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "col": 3,
+      "cells": 5,
+      "clue": "Pocit po odeznění tíhy"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Krátká textová zpráva"
+      "clue": "Počet prstů na ruce"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Místo těžby kamene; také ~ světla v hranolu"
     }
   ]
 }

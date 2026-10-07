@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "P",
-      "R",
+      "S",
+      "T",
       "O",
       "#",
       "#"
     ],
     [
-      "L",
-      "A",
+      "M",
+      "Y",
       "T",
       "#",
       "#"
     ],
     [
-      "Z",
-      "D",
-      "R",
-      "O",
-      "J"
+      "S",
+      "M",
+      "I",
+      "C",
+      "H"
     ],
     [
       "#",
       "#",
-      "O",
-      "B",
-      "A"
+      "S",
+      "A",
+      "L"
     ],
     [
       "#",
       "#",
       "K",
       "R",
-      "K"
+      "T"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Zbavovat špíny vodou"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Odkud něco pochází"
+      "clue": "Reakce na vtip; prý nejlepší lék"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Místnost pro ples; také pruh látky kolem krku"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Krátká textová zpráva"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Skupina hráčů či pracovníků"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Člověk držený v úplné nesvobodě"
+      "clue": "Stopa prstu na sklenici"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Ruský panovník, třeba Petr Veliký"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Jedno velké polknutí; na jeden ~"
     }
   ]
 }

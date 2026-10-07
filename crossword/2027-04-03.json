@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "A",
-      "R"
-    ],
-    [
-      "L",
-      "A",
-      "S",
-      "K",
-      "A"
-    ],
-    [
-      "O",
-      "B",
-      "A",
-      "#",
+      "M",
+      "U",
+      "J",
       "#"
     ],
     [
-      "B",
-      "Y",
-      "K",
+      "P",
+      "I",
+      "L",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "D",
+      "I",
+      "V",
+      "A",
+      "K"
+    ],
+    [
       "#",
+      "T",
+      "A",
+      "K",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Přivlastňovací zájmeno první osoby"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Bublání vroucí vody"
+      "col": 0,
+      "cells": 5,
+      "clue": "Mohutná svislá podpěra mostu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejsilnější cit"
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "cells": 5,
+      "clue": "Ten, kdo sleduje představení"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Samec skotu"
+      "clue": "Tímto způsobem"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Zaměřovat na cíl"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "col": 2,
+      "cells": 5,
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Jiným způsobem, odlišně"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Volný ~ z výšky; čeština jich má sedm"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Vysoký oblouk míčku přes soupeře"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "P",
-      "R",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "K"
-    ],
-    [
-      "K",
-      "O",
-      "N",
-      "T",
-      "O"
-    ],
-    [
-      "A",
-      "N",
-      "I",
-      "#",
+      "M",
+      "U",
+      "Z",
       "#"
     ],
     [
+      "P",
+      "O",
       "Z",
+      "A",
+      "R"
+    ],
+    [
+      "U",
+      "T",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "L",
+      "I",
+      "M",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "V",
       "I",
       "T",
-      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Dospělý člověk, kterému se říká pán"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Prostředek proti nemoci"
+      "col": 0,
+      "cells": 5,
+      "clue": "Nekontrolovaný oheň"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bankovní účet"
+      "clue": "Druhý den týdne"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "cells": 5,
+      "clue": "Nejzazší mez"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Být naživu"
+      "clue": "Splétat věnec z kvítí"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Naplňovat; nebo splňovat úkol"
+      "clue": "Pohnutka; opakující se prvek"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vymezená část země, teritorium"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Vydávat jasné světlo"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Polovina (~ litru)"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Zarývat se do země jako krtek"
     }
   ]
 }

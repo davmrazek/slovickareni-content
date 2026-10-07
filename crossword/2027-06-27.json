@@ -15,25 +15,25 @@
       "#",
       "L",
       "E",
-      "K"
+      "N"
     ],
     [
-      "K",
-      "O",
-      "N",
       "T",
-      "O"
+      "R",
+      "E",
+      "T",
+      "I"
     ],
     [
-      "A",
+      "M",
+      "Y",
       "S",
-      "I",
       "#",
       "#"
     ],
     [
-      "Z",
       "A",
+      "K",
       "T",
       "#",
       "#"
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Prostředek proti nemoci"
+      "clue": "Rostlina na plátno a olej"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bankovní účet"
+      "clue": "Řadová číslovka po druhém"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Kočičí kořist; také výběžek pevniny do moře"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně sklízet obilí srpem"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Naplňovat; nebo splňovat úkol"
+      "clue": "Splétat vlnu jehlicemi"
     },
     {
       "num": 2,
@@ -96,21 +96,21 @@
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Hromový řev davu či zvěře"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "U",
-      "J",
-      "#"
-    ],
-    [
-      "S",
-      "A",
-      "M",
+      "K",
+      "R",
       "E",
-      "C"
-    ],
-    [
-      "U",
-      "L",
-      "E",
-      "V",
-      "A"
-    ],
-    [
-      "P",
-      "I",
-      "L",
-      "I",
-      "R"
+      "V"
     ],
     [
       "#",
       "R",
-      "Y",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "D",
+      "I",
+      "C"
+    ],
+    [
+      "O",
+      "Z",
+      "I",
       "T",
+      "#"
+    ],
+    [
+      "V",
+      "E",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "cells": 4,
+      "clue": "Rudá tekutina v cévách"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Zvíře mužského pohlaví"
+      "col": 1,
+      "cells": 4,
+      "clue": "Postava, kterou herec ztvárňuje"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
+      "clue": "Ten, kdo sedí za volantem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Mohutná svislá podpěra mostu"
+      "cells": 4,
+      "clue": "Znovu se probrat k životu"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "col": 0,
+      "cells": 4,
+      "clue": "Celek zakončený tečkou"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "clue": "Vážné zhoršení poměrů"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vyrobený, ne přírodní"
+      "clue": "Přivádět na svět"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Ukazovat se navenek (~ se)"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Mrchožravý dravec"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Předmět; nebo záležitost"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Knižně: hrob"
     }
   ]
 }

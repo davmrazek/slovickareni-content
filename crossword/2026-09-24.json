@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "O",
-      "B",
-      "A"
-    ],
-    [
-      "#",
-      "#",
       "D",
       "U",
-      "B"
-    ],
-    [
-      "L",
-      "E",
-      "H",
-      "K",
-      "Y"
-    ],
-    [
-      "A",
-      "R",
-      "A",
-      "#",
+      "M",
       "#"
     ],
     [
-      "K",
+      "T",
+      "E",
+      "S",
+      "I",
+      "T"
+    ],
+    [
+      "U",
+      "L",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "N",
       "A",
-      "D",
+      "L",
+      "E",
+      "Z"
+    ],
+    [
       "#",
+      "T",
+      "I",
+      "K",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Stavba k bydlení; nebo obchodní ~"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Strom s žaludy"
+      "col": 0,
+      "cells": 5,
+      "clue": "Působit radost"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "S malou hmotností; snadný"
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "cells": 5,
+      "clue": "Objevený předmět; lékařský závěr"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Velká dřevěná nádoba na zelí"
+      "clue": "Nervový záškub oka"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Přibližné určení"
+      "clue": "Vykonávat činnost"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Listnatý strom s hladkou kůrou"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vynaložená námaha"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Malý míč, např. pingpongový"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Hluboké tiché místo v řece"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Knižně: také"
     }
   ]
 }

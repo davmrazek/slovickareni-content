@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "C",
-      "A",
-      "S"
-    ],
-    [
-      "#",
-      "#",
-      "H",
-      "L",
+      "M",
+      "I",
       "T"
     ],
     [
-      "Z",
+      "#",
+      "#",
       "L",
-      "A",
-      "T",
-      "O"
+      "O",
+      "M"
     ],
     [
-      "D",
+      "Z",
+      "M",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "L",
       "A",
-      "T",
+      "K",
       "#",
       "#"
     ],
     [
       "E",
-      "T",
-      "A",
+      "G",
+      "O",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Plyne a měříme ho hodinami"
+      "clue": "Vlastnit; nebo ~ se k světu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Místo těžby kamene; také ~ světla v hranolu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Přechod do jiného stavu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Nátěr na nehty nebo na dřevo"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Vlastní já; nafouklé bývá u hvězd"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rekreační stavení"
+      "clue": "Bílá tekutina od krávy"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Špatně, nedobře"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Čaroděj, kouzelník"
     }
   ]
 }

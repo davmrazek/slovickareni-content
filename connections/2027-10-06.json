@@ -1,0 +1,41 @@
+{
+  "id": "conn-658",
+  "groups": [
+    {
+      "name": "Kaše",
+      "words": [
+        "VLOČKY",
+        "KRUPICE",
+        "JÁHLY",
+        "POHANKA"
+      ]
+    },
+    {
+      "name": "Superpotraviny",
+      "words": [
+        "CHIA",
+        "QUINOA",
+        "AMARANT",
+        "SPIRULINA"
+      ]
+    },
+    {
+      "name": "Andské země",
+      "words": [
+        "PERU",
+        "EKVÁDOR",
+        "CHILE",
+        "ARGENTINA"
+      ]
+    },
+    {
+      "name": "Pojmenované po lidech",
+      "words": [
+        "BOLÍVIE",
+        "KOLUMBIE",
+        "AMERIKA",
+        "FILIPÍNY"
+      ]
+    }
+  ]
+}

@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "P",
+      "C",
       "A",
-      "K"
+      "S"
     ],
     [
       "#",
       "#",
-      "S",
-      "U",
-      "D"
+      "H",
+      "L",
+      "T"
     ],
     [
-      "S",
-      "V",
+      "Z",
+      "L",
       "A",
       "T",
-      "Y"
+      "O"
     ],
     [
-      "M",
-      "E",
-      "C",
+      "D",
+      "I",
+      "T",
       "#",
       "#"
     ],
     [
-      "S",
-      "K",
-      "I",
+      "A",
+      "H",
+      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Plyne a měříme ho hodinami"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Dřevěná nádoba na pivo"
+      "clue": "Jedno velké polknutí; na jeden ~"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Uctívaný církví"
+      "clue": "Drahý žlutý kov; také oslovení milované osoby"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "clue": "Odehrávat se, přihodit se"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Lyžařský, v názvech vleků a areálů"
+      "clue": "Citoslovce náhlého pochopení"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Určený ke psaní"
+      "clue": "Rekreační stavení"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Hluboký ženský hlas"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Krátká textová zpráva"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Počet prožitých let"
+      "clue": "Etanol, základ tvrdého alkoholu"
     }
   ]
 }

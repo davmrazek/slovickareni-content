@@ -6,34 +6,34 @@
     [
       "#",
       "#",
-      "V",
-      "A",
-      "S"
-    ],
-    [
-      "#",
-      "#",
-      "E",
-      "H",
-      "M"
-    ],
-    [
-      "O",
-      "B",
-      "C",
-      "A",
-      "S"
-    ],
-    [
+      "K",
       "D",
-      "O",
-      "N",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "E",
+      "J"
+    ],
+    [
+      "V",
+      "S",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "L",
+      "A",
+      "T",
       "#",
       "#"
     ],
     [
-      "A",
-      "B",
+      "K",
+      "D",
       "Y",
       "#",
       "#"
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno druhé osoby množné"
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
+      "clue": "Divoký vír tance"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jen někdy"
+      "clue": "Na všech místech"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Španělský šlechtický titul"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Trvající navždy"
+      "clue": "Nemilosrdný"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Otec rodiče"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Krátká textová zpráva"
+      "clue": "Tyč, za kterou táhne kůň vůz"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Luštěnina; také závodní sáně řítící se ledovým korytem"
+      "clue": "Vysázený ovocný porost"
     }
   ]
 }

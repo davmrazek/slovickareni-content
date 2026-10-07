@@ -11,11 +11,11 @@
       "#"
     ],
     [
-      "B",
+      "S",
       "A",
-      "R",
+      "M",
       "A",
-      "Z"
+      "N"
     ],
     [
       "O",
@@ -25,9 +25,9 @@
       "I"
     ],
     [
-      "D",
+      "T",
       "O",
-      "Z",
+      "C",
       "I",
       "T"
     ],
@@ -52,7 +52,7 @@
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Rozhodující zápas o postup"
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
       "num": 6,
@@ -66,7 +66,7 @@
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Strávit zbytek života"
+      "clue": "Otáčet dokola; natáčet film"
     },
     {
       "num": 8,
@@ -89,7 +89,7 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 3,
@@ -103,14 +103,14 @@
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Tečka; nebo jednotka skóre"
+      "clue": "Krátká reportáž ve zprávách"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Být naživu"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

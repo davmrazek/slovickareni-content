@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "D",
-      "V",
+      "T",
+      "M",
       "A",
       "#",
       "#"
     ],
     [
-      "I",
-      "O",
-      "N",
+      "R",
+      "A",
+      "K",
       "#",
       "#"
     ],
     [
-      "T",
-      "R",
-      "E",
-      "B",
+      "S",
+      "K",
+      "O",
+      "D",
       "A"
     ],
     [
       "#",
       "#",
-      "B",
-      "A",
-      "L"
+      "R",
+      "O",
+      "H"
     ],
     [
       "#",
       "#",
-      "O",
-      "R",
-      "T"
+      "D",
+      "N",
+      "A"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Číslo mezi jedničkou a trojkou"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Například; nebo je nutné"
+      "clue": "Způsobená ztráta; také mladoboleslavská značka"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Zastarale ples, taneční zábava"
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Nositelka dědičné informace"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Plavidlo svázané z klád"
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Souzvuk více tónů"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Podnik s nápoji a vysokými židlemi"
+      "clue": "Španělský šlechtický titul"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Citoslovce náhlého pochopení"
     }
   ]
 }

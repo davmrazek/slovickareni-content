@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "R",
-      "O",
       "K",
+      "N",
+      "E",
+      "Z",
       "#"
     ],
     [
-      "L",
+      "D",
       "A",
-      "K",
+      "M",
       "A",
-      "T"
+      "#"
     ],
     [
       "E",
-      "M",
+      "R",
       "O",
-      "C",
+      "Z",
       "E"
     ],
     [
-      "Z",
-      "E",
-      "L",
-      "E",
-      "N"
+      "#",
+      "U",
+      "C",
+      "I",
+      "T"
     ],
     [
       "#",
       "C",
-      "I",
+      "E",
       "T",
-      "#"
+      "A"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "col": 0,
+      "cells": 4,
+      "clue": "Duchovní v kostele"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Vábit k sobě"
+      "cells": 4,
+      "clue": "Urozená žena; také desková hra"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Předávat znalosti"
+    },
+    {
+      "num": 9,
       "row": 4,
       "col": 1,
-      "cells": 3,
-      "clue": "Emoce; nebo schopnost vnímat"
+      "cells": 4,
+      "clue": "Menší vojenská jednotka"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
+      "clue": "Objetí rozevřených paží"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Porážet stromy"
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Vědomá nepravda"
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Prožít na vlastní kůži"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ]
 }

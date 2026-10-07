@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "T",
-      "A",
-      "M",
-      "#",
-      "#"
-    ],
-    [
-      "E",
-      "S",
       "O",
+      "B",
+      "A",
       "#",
       "#"
     ],
     [
-      "N",
-      "I",
-      "T",
+      "K",
       "R",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
       "O"
     ],
     [
       "#",
       "#",
-      "T",
-      "U",
-      "K"
+      "R",
+      "A",
+      "D"
     ],
     [
       "#",
       "#",
-      "O",
-      "B",
-      "R"
+      "D",
+      "N",
+      "A"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vnitřek věci; také lidské city"
+      "clue": "Kolem dokola"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Mastná složka potravy"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Nositelka dědičné informace"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Husí pero, kterým se kdysi psalo"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Heslo či citát v čele textu"
+      "clue": "Souzvuk více tónů"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Opačná strana líce"
+      "clue": "Velké souvislé pole"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ]
 }

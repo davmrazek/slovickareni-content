@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "P",
-      "R",
-      "O",
       "#",
+      "M",
+      "U",
+      "Z",
       "#"
     ],
     [
-      "R",
-      "O",
-      "V",
-      "#",
-      "#"
-    ],
-    [
-      "S",
       "K",
+      "A",
+      "N",
+      "A",
+      "L"
+    ],
+    [
       "O",
+      "S",
+      "A",
       "D",
       "A"
     ],
     [
-      "#",
-      "#",
-      "C",
+      "D",
+      "I",
+      "V",
       "A",
-      "R"
+      "K"
     ],
     [
       "#",
-      "#",
-      "E",
+      "V",
+      "A",
       "T",
-      "A"
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Dospělý člověk, kterému se říká pán"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Knižně: hrob"
+      "cells": 5,
+      "clue": "Umělé vodní koryto; nebo stoka"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Způsobená ztráta; také mladoboleslavská značka"
+      "clue": "Malé sídlo, obvykle rekreační"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Ten, kdo sleduje představení"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Foukat, o větru"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "col": 1,
+      "cells": 5,
+      "clue": "Rozsáhlý horský celek"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vyčerpání po námaze"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Sladké plody stromů"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "cells": 5,
+      "clue": "Prosit o vyřízení"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šifra; posloupnost znaků k odemčení"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Nátěr na nehty nebo na dřevo"
     }
   ]
 }

@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "J",
-      "A",
-      "K",
       "#",
-      "#"
-    ],
-    [
-      "H",
-      "U",
-      "L",
-      "#",
-      "#"
-    ],
-    [
-      "O",
-      "T",
-      "I",
       "S",
+      "T",
+      "A",
+      "J"
+    ],
+    [
+      "#",
+      "M",
+      "I",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "E",
       "K"
     ],
     [
-      "#",
-      "#",
       "M",
-      "O",
-      "D"
+      "L",
+      "H",
+      "A",
+      "#"
     ],
     [
-      "#",
-      "#",
-      "A",
-      "B",
-      "Y"
+      "S",
+      "T",
+      "Y",
+      "L",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Opora při chůzi"
+      "col": 1,
+      "cells": 4,
+      "clue": "Přístřešek pro koně"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Rozsah, stupeň něčeho"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "clue": "Malý papírový nebo igelitový obal"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Oblak u země"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Herní úprava od fanoušků"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "col": 0,
+      "cells": 4,
+      "clue": "Osobitý způsob provedení"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Dřevo na krku tažného dobytka; útlak"
+      "col": 1,
+      "cells": 5,
+      "clue": "Sklovitý povlak na plechovém hrnci"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vydávající málo zvuku"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Dlouhodobé podnebí"
+      "clue": "Ohraničený soubor budov"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Severský jelen, který táhne saně"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Krátká textová zpráva"
     }
   ]
 }

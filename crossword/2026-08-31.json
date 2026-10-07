@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "V",
-      "O",
-      "D",
-      "A"
+      "K",
+      "R",
+      "E",
+      "V"
     ],
     [
       "#",
-      "C",
+      "R",
+      "O",
       "L",
-      "E",
-      "N"
+      "E"
     ],
     [
-      "L",
-      "E",
+      "R",
+      "I",
+      "D",
+      "I",
+      "C"
+    ],
+    [
+      "U",
+      "Z",
+      "I",
       "T",
-      "N",
-      "I"
-    ],
-    [
-      "E",
-      "L",
-      "A",
-      "N",
       "#"
     ],
     [
-      "Z",
-      "A",
-      "R",
+      "M",
       "E",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 4,
-      "clue": "Sloučenina vodíku a kyslíku"
+      "clue": "Rudá tekutina v cévách"
     },
     {
       "num": 5,
       "row": 1,
       "col": 1,
       "cells": 4,
-      "clue": "Ten, kdo patří do spolku"
+      "clue": "Postava, kterou herec ztvárňuje"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Patřící do nejteplejšího období"
+      "clue": "Ten, kdo sedí za volantem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "clue": "Upotřebit; také si vychutnat"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 4,
-      "clue": "Světelný jas na obzoru"
+      "clue": "Cíl, ke kterému směřujeme"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Hmyz, který dělá med"
+      "clue": "Vážné zhoršení poměrů"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Stůl v čele kostela"
+      "clue": "Přivádět na svět"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Každý den"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 4,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Předmět; nebo záležitost"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Vědomá nepravda"
+      "clue": "Destilát z cukrové třtiny"
     }
   ]
 }

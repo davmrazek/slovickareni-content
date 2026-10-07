@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "I",
-      "T",
-      "#"
+      "#",
+      "A",
+      "L",
+      "E"
     ],
     [
-      "Z",
+      "#",
+      "#",
+      "V",
       "A",
+      "R"
+    ],
+    [
+      "D",
+      "E",
+      "S",
       "K",
-      "A",
-      "Z"
+      "A"
     ],
     [
       "O",
       "S",
-      "O",
-      "B",
-      "A"
-    ],
-    [
-      "K",
       "A",
-      "N",
-      "A",
-      "L"
-    ],
-    [
       "#",
-      "T",
-      "A",
+      "#"
+    ],
+    [
+      "M",
+      "O",
       "K",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Úřední zápověď"
+      "col": 2,
+      "cells": 3,
+      "clue": "Bublání vroucí vody"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jednotlivý člověk"
+      "clue": "Plochý kus materiálu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Umělé vodní koryto; nebo stoka"
+      "cells": 3,
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Knižně nápoj"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Hlasitě se radovat"
+      "clue": "Knižní odporovací spojka: ale, jenže"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "col": 3,
+      "cells": 3,
+      "clue": "Nátěr na nehty nebo na dřevo"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Rostlina, ze které se vyrábějí cigarety"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Velký pytel na vlnu nebo chmel"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Hluboký smutek"
+      "clue": "Velký chrám (kolínský, milánský)"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ]
 }

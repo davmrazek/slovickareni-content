@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "K",
+      "V",
+      "O",
       "D",
-      "O"
+      "A"
     ],
     [
       "#",
-      "#",
-      "R",
+      "C",
+      "L",
       "E",
-      "J"
-    ],
-    [
-      "P",
-      "R",
-      "A",
-      "S",
-      "E"
+      "N"
     ],
     [
       "L",
-      "O",
-      "S",
-      "#",
+      "E",
+      "T",
+      "N",
+      "I"
+    ],
+    [
+      "E",
+      "L",
+      "A",
+      "N",
       "#"
     ],
     [
       "Z",
-      "D",
       "A",
-      "#",
+      "R",
+      "I",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Divoký vír tance"
+      "col": 1,
+      "cells": 4,
+      "clue": "Sloučenina vodíku a kyslíku"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Ten, kdo patří do spolku"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Domácí zvíře na zabijačku"
+      "clue": "Patřící do nejteplejšího období"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "cells": 4,
+      "clue": "Nadšený rozmach do práce"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "cells": 4,
+      "clue": "Devátý měsíc roku"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Vlastnost toho, co se líbí"
+      "clue": "Hmyz, který dělá med"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Silná hrůza"
+      "col": 2,
+      "cells": 5,
+      "clue": "Stůl v čele kostela"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Tyč, za kterou táhne kůň vůz"
+      "col": 3,
+      "cells": 5,
+      "clue": "Vztahující se k jednomu dni"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Vědomá nepravda"
     }
   ]
 }

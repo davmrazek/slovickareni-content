@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "P",
-      "R",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "K"
-    ],
-    [
-      "K",
-      "O",
       "N",
-      "T",
-      "O"
-    ],
-    [
       "A",
-      "N",
-      "I",
-      "#",
+      "S",
       "#"
     ],
     [
-      "L",
-      "I",
-      "T",
+      "B",
+      "A",
+      "R",
+      "A",
+      "Z"
+    ],
+    [
+      "U",
+      "Z",
+      "E",
+      "M",
+      "I"
+    ],
+    [
+      "S",
+      "E",
+      "N",
+      "A",
+      "T"
+    ],
+    [
       "#",
+      "V",
+      "A",
+      "N",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Přivlastňovací zájmeno (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Prostředek proti nemoci"
+      "col": 0,
+      "cells": 5,
+      "clue": "Rozhodující zápas o postup"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bankovní účet"
+      "clue": "Vymezená část země, teritorium"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "cells": 5,
+      "clue": "Horní komora parlamentu"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Slabý pohyb vzduchu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Naplňovat; nebo splňovat úkol"
+      "clue": "Pojmenování věci"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "col": 2,
+      "cells": 5,
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Hovorově autobus"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Být naživu"
     }
   ]
 }

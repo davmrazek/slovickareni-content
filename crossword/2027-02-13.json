@@ -13,28 +13,28 @@
     [
       "#",
       "#",
+      "V",
+      "A",
+      "N"
+    ],
+    [
+      "S",
+      "K",
+      "O",
+      "R",
+      "O"
+    ],
+    [
       "R",
       "E",
-      "C"
-    ],
-    [
-      "P",
-      "R",
-      "A",
-      "C",
-      "H"
-    ],
-    [
-      "R",
-      "A",
-      "M",
+      "J",
       "#",
       "#"
     ],
     [
-      "O",
-      "D",
-      "A",
+      "P",
+      "R",
+      "I",
       "#",
       "#"
     ]
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Slabý pohyb vzduchu"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jemné suché částice; nebo střelný ~"
+      "clue": "Téměř"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Obruba obrazu"
+      "clue": "Divoký vír tance"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Předložka blízkosti (~ cestě)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Divadelní hra s vážným dějem"
+      "clue": "Dvou různých druhů zároveň"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Předmět; nebo záležitost"
+      "clue": "Bublání vroucí vody"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Nízká dřevina bez kmene"
     }
   ]
 }

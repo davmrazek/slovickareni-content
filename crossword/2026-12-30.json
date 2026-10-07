@@ -11,31 +11,31 @@
       "#"
     ],
     [
-      "B",
+      "S",
       "A",
-      "R",
+      "M",
       "A",
-      "Z"
+      "N"
     ],
     [
       "O",
       "B",
       "O",
-      "J",
+      "C",
       "I"
     ],
     [
-      "D",
-      "O",
-      "Z",
-      "I",
+      "K",
+      "A",
+      "C",
+      "E",
       "T"
     ],
     [
       "#",
-      "R",
+      "K",
       "E",
-      "T",
+      "Z",
       "#"
     ]
   ],
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Rozhodující zápas o postup"
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Obou druhů zároveň"
+      "clue": "Chloupky nad okem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Strávit zbytek života"
+      "clue": "Porážet stromy"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Vyjadřuje přání: ~ by to byla pravda"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Objevit, co se dlouho hledalo"
+      "clue": "A potom, a nato"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Tečka; nebo jednotka skóre"
+      "clue": "Soupeř, protivník"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Být naživu"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "N",
-      "E",
-      "Z",
-      "#"
+      "P",
+      "L",
+      "O",
+      "T"
+    ],
+    [
+      "#",
+      "R",
+      "I",
+      "S",
+      "E"
     ],
     [
       "S",
       "A",
       "M",
-      "E",
-      "T"
+      "A",
+      "N"
     ],
     [
       "O",
-      "P",
+      "X",
       "I",
-      "L",
-      "Y"
-    ],
-    [
-      "K",
-      "A",
-      "S",
-      "E",
-      "L"
-    ],
-    [
-      "#",
       "D",
+      "#"
+    ],
+    [
+      "T",
       "E",
-      "N",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "cells": 4,
+      "clue": "Ohrazení pozemku"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
+      "col": 1,
+      "cells": 4,
+      "clue": "Velký stát ovládaný císařem"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pod vlivem alkoholu"
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Štěkavý průvodce nachlazení"
+      "cells": 4,
+      "clue": "Sloučenina s kyslíkem"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "col": 0,
+      "cells": 4,
+      "clue": "Sestra rodiče"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
+      "clue": "Zkušenost z reálné činnosti"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+      "clue": "Nejzazší mez"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Soupeř, protivník"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Zadní část hlavy; také jemná průsvitná látka"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Krátká reportáž ve zprávách"
     }
   ]
 }

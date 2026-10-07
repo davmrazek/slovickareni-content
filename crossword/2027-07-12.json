@@ -6,36 +6,36 @@
     [
       "#",
       "N",
-      "A",
-      "D",
+      "O",
+      "S",
       "#"
     ],
     [
-      "K",
+      "M",
       "A",
-      "N",
-      "A",
-      "L"
+      "S",
+      "I",
+      "V"
     ],
     [
       "O",
       "P",
-      "E",
+      "O",
       "R",
       "A"
     ],
     [
-      "D",
-      "U",
+      "K",
+      "A",
       "B",
-      "E",
-      "N"
+      "A",
+      "T"
     ],
     [
       "#",
-      "L",
-      "O",
-      "K",
+      "D",
+      "A",
+      "N",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Předložka vyšší polohy"
+      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Umělé vodní koryto; nebo stoka"
+      "clue": "Rozsáhlý horský celek"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Zpívané jevištní dílo"
+      "clue": "Ten, o koho se lze opřít"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Čtvrtý měsíc roku"
+      "clue": "Svrchní zimní oděv; také kapela z Teplic"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Jeden doušek nápoje"
+      "clue": "Povinná platba státu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Rovným dílem mezi dva"
+      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Věc pod stromečkem"
+      "clue": "Sůl kyseliny sírové"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Šifra; posloupnost znaků k odemčení"
+      "clue": "Knižně nápoj"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Velké souvislé pole"
+      "clue": "Foukat, o větru"
     }
   ]
 }

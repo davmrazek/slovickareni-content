@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "G",
-      "A",
-      "G"
-    ],
-    [
-      "J",
-      "M",
-      "E",
+      "K",
+      "U",
       "N",
-      "O"
-    ],
-    [
-      "H",
-      "O",
-      "N",
-      "#",
       "#"
     ],
     [
-      "O",
-      "R",
-      "T",
+      "S",
+      "A",
+      "L",
+      "A",
+      "M"
+    ],
+    [
+      "U",
+      "S",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "L",
+      "E",
+      "C",
+      "I",
+      "T"
+    ],
+    [
       "#",
+      "L",
+      "E",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Vtipná scéna v komedii"
+      "col": 0,
+      "cells": 5,
+      "clue": "Uzenina nakrájená na kolečka"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "clue": "Vynaložená námaha"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Štvanice na zvěř"
+      "cells": 5,
+      "clue": "Odstraňovat nemoc"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Tajný pracovník; také zástupce"
+      "clue": "Štěkavý průvodce nachlazení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Velké souvislé pole"
+      "col": 2,
+      "cells": 5,
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Naplnit sklenici až po okraj"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Vlastní já; nafouklé bývá u hvězd"
+      "clue": "Bílé krystalické koření"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Dřevo na krku tažného dobytka; útlak"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zhoubná nakažlivá nemoc"
+      "clue": "Vlastnit; nebo ~ se k světu"
     }
   ]
 }

@@ -6,35 +6,35 @@
     [
       "#",
       "#",
+      "K",
+      "D",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "O",
+      "G"
+    ],
+    [
       "P",
       "R",
-      "I"
-    ],
-    [
-      "#",
-      "#",
-      "S",
-      "A",
-      "N"
-    ],
-    [
-      "V",
-      "Z",
-      "A",
-      "D",
-      "U"
-    ],
-    [
       "I",
+      "M",
+      "O"
+    ],
+    [
+      "L",
       "O",
-      "N",
+      "M",
       "#",
       "#"
     ],
     [
-      "S",
-      "K",
-      "I",
+      "Z",
+      "D",
+      "A",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Bájný drak z pohádek"
+      "clue": "Záznam událostí v počítači"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na zadní straně, opak vpředu"
+      "clue": "Bez oklik"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Místo těžby kamene; také ~ světla v hranolu"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Lyžařský, v názvech vleků a areálů"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Zaznamenávání písmen; také dopis"
+      "clue": "Dlouhodobé podnebí"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Velký chrám (kolínský, milánský)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Vlastní já; nafouklé bývá u hvězd"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Cvik na hrazdě, nohy nad zemí"
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Velký pytel na vlnu nebo chmel"
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     }
   ]
 }

@@ -18,11 +18,11 @@
       "#"
     ],
     [
-      "V",
+      "L",
       "E",
       "T",
       "E",
-      "V"
+      "T"
     ],
     [
       "#",
@@ -36,7 +36,7 @@
       "#",
       "R",
       "O",
-      "K"
+      "J"
     ]
   ],
   "across": [
@@ -59,7 +59,7 @@
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Odbočka z kmene"
+      "clue": "Pohybovat se vzduchem"
     },
     {
       "num": 8,
@@ -73,7 +73,7 @@
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Letící včelstvo"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Zázrak, něco úžasného"
+      "clue": "Jedna část celku či seriálu"
     },
     {
       "num": 2,
@@ -110,7 +110,7 @@
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Měkký nosič na věci"
+      "clue": "Knižně: co má zůstat skryto"
     }
   ]
 }

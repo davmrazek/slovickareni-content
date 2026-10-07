@@ -13,28 +13,28 @@
     [
       "#",
       "#",
-      "E",
-      "R",
+      "O",
+      "S",
       "A"
     ],
     [
-      "A",
       "V",
-      "S",
-      "A",
-      "K"
-    ],
-    [
+      "O",
       "L",
       "I",
-      "T",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "I",
       "#",
       "#"
     ],
     [
-      "E",
       "S",
-      "O",
+      "I",
+      "K",
       "#",
       "#"
     ]
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Vhazovat lístek do urny"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Sevřený vojenský útvar; nebo elegantní"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Směs mouky a vody před pečením"
+      "clue": "Takové množství (~ práce)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Červená polní květina; její semínka se sypou do buchet"
+      "clue": "Rozhodující tah, jímž končí šachová partie"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Přivlastňovací zájmeno druhé osoby množné"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Cvik na hrazdě, nohy nad zemí"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     }
   ]
 }

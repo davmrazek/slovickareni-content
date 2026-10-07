@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "S",
+      "R",
+      "U",
+      "B"
+    ],
+    [
       "#",
-      "D",
+      "K",
+      "I",
       "N",
       "O"
     ],
     [
-      "#",
-      "#",
-      "R",
-      "A",
-      "J"
-    ],
-    [
       "V",
-      "S",
-      "U",
-      "D",
-      "E"
+      "O",
+      "J",
+      "A",
+      "K"
     ],
     [
-      "L",
+      "O",
+      "D",
       "E",
-      "H",
-      "#",
+      "V",
       "#"
     ],
     [
-      "K",
-      "D",
-      "Y",
-      "#",
+      "R",
+      "A",
+      "N",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Nejnižší část nádoby či rybníka"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Místo blaženosti, zahrada Eden"
+      "col": 1,
+      "cells": 4,
+      "clue": "Stavení z vodorovně kladených kmenů"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Sál s plátnem"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na všech místech"
+      "clue": "Příslušník armády"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Poloha na zádech při cvičení"
+      "cells": 4,
+      "clue": "Vše, co se obléká"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Tázací příslovce času"
+      "cells": 4,
+      "clue": "Poranění; také úder"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Následující po prvním"
+      "clue": "Způsobená ztráta; také mladoboleslavská značka"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Předložka vyšší polohy"
+      "col": 2,
+      "cells": 5,
+      "clue": "Desátý měsíc roku"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Tyč, za kterou táhne kůň vůz"
+      "col": 3,
+      "cells": 5,
+      "clue": "Vyčerpání po námaze"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+      "clue": "Postranní část těla"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Barva popela, mezi bílou a černou"
+      "clue": "Plavidlo svázané z klád"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "U",
+      "V",
+      "O",
+      "D"
+    ],
+    [
       "#",
-      "H",
-      "R",
+      "L",
+      "I",
+      "P",
       "A"
     ],
     [
-      "#",
-      "#",
-      "L",
-      "O",
-      "B"
+      "D",
+      "E",
+      "S",
+      "E",
+      "T"
     ],
     [
-      "P",
+      "U",
+      "V",
+      "E",
       "R",
-      "A",
-      "V",
-      "Y"
-    ],
-    [
-      "L",
-      "O",
-      "V",
-      "#",
       "#"
     ],
     [
-      "Z",
-      "D",
+      "P",
       "A",
-      "#",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Vysoký oblouk míčku přes soupeře"
+      "col": 1,
+      "cells": 4,
+      "clue": "Začátek knihy či proslovu"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Národní strom Čechů"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nefalšovaný; opak levého"
+      "clue": "Počet prstů na rukou"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Pronásledování zvěře"
+      "cells": 4,
+      "clue": "Půjčka od banky"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "cells": 4,
+      "clue": "Zadní část chodidla"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Nejvyšší část těla"
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Knižně: hrob"
+      "col": 2,
+      "cells": 5,
+      "clue": "Být zavěšen"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "col": 3,
+      "cells": 5,
+      "clue": "Zpívané jevištní dílo"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Zvuk těžkého kroku"
     }
   ]
 }

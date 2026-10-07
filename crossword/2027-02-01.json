@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "M",
-      "I",
-      "T",
       "#",
-      "#"
-    ],
-    [
-      "A",
-      "N",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "T",
+      "K",
       "U",
-      "R",
       "N",
-      "E"
+      "#"
     ],
     [
-      "#",
-      "#",
+      "V",
+      "A",
       "Z",
       "A",
-      "R"
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "K",
+      "A",
+      "M",
+      "E",
+      "N"
     ],
     [
       "#",
-      "#",
-      "O",
-      "D",
-      "A"
+      "L",
+      "I",
+      "H",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "cells": 5,
+      "clue": "Svazovat provazem"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Série vystoupení na různých místech"
+      "clue": "Vylučovací spojka (buď – ~)"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Sálavé horko z ohně"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Etanol, základ tvrdého alkoholu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Rozhodující tah, jímž končí šachová partie"
+      "col": 1,
+      "cells": 5,
+      "clue": "Umělé vodní koryto; nebo stoka"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vymezená část země, teritorium"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Neúplný celek; trup sochy bez končetin"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Předložka vyšší polohy"
+      "cells": 5,
+      "clue": "Rozběh; nebo počáteční fáze"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Měkký nosič na věci"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Zvuk určité výšky"
     }
   ]
 }

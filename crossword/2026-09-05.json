@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "#",
-      "J",
+      "B",
       "I",
-      "Z"
-    ],
-    [
-      "#",
-      "#",
-      "M",
-      "O",
-      "D"
-    ],
-    [
-      "Z",
-      "M",
-      "E",
-      "N",
-      "A"
-    ],
-    [
-      "L",
+      "D",
       "A",
-      "N",
-      "#",
       "#"
     ],
     [
-      "O",
+      "U",
       "K",
       "O",
-      "#",
+      "N",
       "#"
+    ],
+    [
+      "D",
+      "O",
+      "J",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "#",
+      "A",
+      "M",
+      "O",
+      "K"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Knižně: už"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Herní úprava od fanoušků"
+      "col": 0,
+      "cells": 4,
+      "clue": "Nouze a chudoba"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Jednotlivá provedená činnost"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Přechod do jiného stavu"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Velké souvislé pole"
+      "clue": "Dorazit na místo vozem"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Spojka vylučovací"
+    },
+    {
+      "num": 9,
       "row": 4,
-      "col": 0,
-      "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "col": 1,
+      "cells": 4,
+      "clue": "Stav nepříčetného běsnění"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "col": 0,
+      "cells": 3,
+      "clue": "Rozkaz slovesa existence; nebo spojka výběru"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "col": 1,
+      "cells": 5,
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 3,
       "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Vjem, který v nás něco zanechá"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Vylučovací spojka (buď – ~)"
+    },
+    {
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Červená polní květina; její semínka se sypou do buchet"
+      "clue": "Plynutí vody; nebo proud elektřiny"
     }
   ]
 }

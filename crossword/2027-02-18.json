@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "E",
       "#",
-      "#"
-    ],
-    [
-      "A",
-      "U",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "Z",
-      "L",
-      "A",
-      "T",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "P",
+      "N",
       "O",
-      "R"
+      "S",
+      "#"
+    ],
+    [
+      "K",
+      "A",
+      "B",
+      "A",
+      "T"
+    ],
+    [
+      "O",
+      "P",
+      "I",
+      "L",
+      "Y"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      "E",
+      "C"
     ],
     [
       "#",
-      "#",
-      "A",
+      "D",
+      "I",
       "K",
-      "T"
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "cells": 5,
+      "clue": "Svrchní zimní oděv; také kapela z Teplic"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Pod vlivem alkoholu"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nejsilnější prst na ruce"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zelenina podobná cibuli, do polévky"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Projev vděčnosti, poděkování"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "col": 1,
+      "cells": 5,
+      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "col": 2,
+      "cells": 5,
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Plynutí vody; nebo proud elektřiny"
+      "cells": 5,
+      "clue": "Nádobka na čaj s ouškem"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Úder nohou, např. do míče"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Dlouhý tenký kus dřeva či kovu"
     }
   ]
 }

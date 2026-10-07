@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "#",
+      "#",
+      "H",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "E",
+      "V"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "B",
+      "#",
+      "#"
+    ],
+    [
       "Z",
       "D",
       "E",
       "#",
       "#"
-    ],
-    [
-      "L",
-      "O",
-      "M",
-      "#",
-      "#"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "L",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "C",
-      "I",
-      "S"
-    ],
-    [
-      "#",
-      "#",
-      "E",
-      "H",
-      "M"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+      "clue": "Hlasitý zvuk zvířete"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kolem dokola"
+      "clue": "Činnost za odměnu"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vysoký oblouk míčku přes soupeře"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zvýšené c v hudbě"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
+      "clue": "Na tomto místě, tady"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
+      "col": 2,
+      "cells": 5,
+      "clue": "Šlechtický titul, vyšší než baron"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Místo v přístavu, kde se opravují lodě"
+      "clue": "Mluvený projev; také jazyk národa"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 4,
+      "cells": 3,
+      "clue": "Latinský pozdrav v modlitbě"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Číslo mezi sedmi a devíti"
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     }
   ]
 }

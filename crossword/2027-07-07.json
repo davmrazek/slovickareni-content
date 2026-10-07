@@ -13,28 +13,28 @@
     [
       "#",
       "#",
-      "L",
-      "A",
+      "R",
+      "E",
       "T"
     ],
     [
-      "E",
+      "H",
       "L",
       "I",
-      "T",
+      "N",
       "A"
     ],
     [
-      "S",
+      "R",
       "E",
-      "M",
+      "Z",
       "#",
       "#"
     ],
     [
-      "O",
-      "S",
       "A",
+      "V",
+      "E",
       "#",
       "#"
     ]
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Zemina na keramiku"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Směrem k mluvčímu"
+      "clue": "Rána vedená ostřím"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Latinský pozdrav v modlitbě"
     }
   ],
   "down": [
@@ -82,14 +82,14 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Dlouhodobé podnebí"
+      "clue": "Vážné zhoršení poměrů"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     },
     {
       "num": 3,
@@ -103,14 +103,14 @@
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Rozsáhlý porost stromů"
+      "clue": "Král zvířat"
     }
   ]
 }

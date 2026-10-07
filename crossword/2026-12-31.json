@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
+      "S",
       "T",
       "A",
+      "Z"
+    ],
+    [
+      "#",
+      "M",
+      "I",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "E",
       "K"
     ],
     [
-      "#",
-      "#",
-      "C",
+      "M",
       "L",
-      "O"
-    ],
-    [
-      "L",
-      "A",
       "H",
-      "E",
-      "V"
-    ],
-    [
-      "O",
-      "S",
       "A",
-      "#",
       "#"
     ],
     [
       "S",
-      "I",
-      "N",
-      "#",
+      "T",
+      "O",
+      "L",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Tímto způsobem"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Poplatek za dovoz zboží přes hranice"
+      "col": 1,
+      "cells": 4,
+      "clue": "Krátká praxe v cizí firmě"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Rozsah, stupeň něčeho"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Skleněná nádoba na nápoje"
+      "clue": "Malý papírový nebo igelitový obal"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "cells": 4,
+      "clue": "Oblak u země"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Velký reprezentační sál"
+      "cells": 4,
+      "clue": "Nábytek k jídlu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Otec manželky nebo manžela"
+      "clue": "Sklovitý povlak na plechovém hrnci"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "col": 2,
+      "cells": 5,
+      "clue": "Naprostý klid bez zvuku"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Lesklý tavitelný materiál, např. železo"
+      "col": 3,
+      "cells": 5,
+      "clue": "Ohraničený soubor budov"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "clue": "Dítě, které chodí do školy"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Krátká textová zpráva"
     }
   ]
 }

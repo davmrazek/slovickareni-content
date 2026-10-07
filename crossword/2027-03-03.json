@@ -6,7 +6,7 @@
     [
       "#",
       "#",
-      "Z",
+      "K",
       "D",
       "E"
     ],
@@ -18,23 +18,23 @@
       "T"
     ],
     [
-      "C",
       "H",
-      "A",
-      "T",
+      "L",
+      "I",
+      "N",
       "A"
     ],
     [
-      "O",
+      "R",
       "U",
-      "T",
+      "M",
       "#",
       "#"
     ],
     [
-      "Z",
-      "L",
-      "Y",
+      "A",
+      "H",
+      "A",
       "#",
       "#"
     ]
@@ -45,7 +45,7 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 4,
@@ -59,21 +59,21 @@
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Rekreační stavení"
+      "clue": "Zemina na keramiku"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Destilát z cukrové třtiny"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Plný zloby, nedobrý"
+      "clue": "Citoslovce náhlého pochopení"
     }
   ],
   "down": [
@@ -82,14 +82,14 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Z drahého žlutého kovu"
+      "clue": "Dlouhodobé podnebí"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Povinná platba státu"
     },
     {
       "num": 3,
@@ -103,14 +103,14 @@
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Opora při chůzi"
+      "clue": "Vlhký les a louky při řece; s háji tvoří známou dvojici"
     }
   ]
 }

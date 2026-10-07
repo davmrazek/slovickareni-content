@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "K",
-      "R",
-      "E",
-      "V"
-    ],
-    [
-      "#",
-      "R",
+      "P",
       "O",
-      "L",
-      "E"
-    ],
-    [
-      "R",
-      "I",
       "D",
-      "I",
-      "C"
-    ],
-    [
-      "U",
-      "Z",
-      "I",
-      "T",
       "#"
     ],
     [
-      "M",
+      "K",
+      "O",
+      "P",
       "E",
-      "T",
+      "C"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "D",
+      "U",
+      "R",
       "A",
+      "Z"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "T",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 4,
-      "clue": "Rudá tekutina v cévách"
+      "cells": 3,
+      "clue": "Předložka označující nižší polohu"
     },
     {
-      "num": 5,
+      "num": 4,
       "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Postava, kterou herec ztvárňuje"
+      "col": 0,
+      "cells": 5,
+      "clue": "Vyvýšenina v krajině"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Ten, kdo sedí za volantem"
+      "clue": "Kolem dokola"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Upotřebit; také si vychutnat"
+      "cells": 5,
+      "clue": "Kladený význam"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Cíl, ke kterému směřujeme"
+      "col": 1,
+      "cells": 3,
+      "clue": "Knižně oděv, roucho"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Vážné zhoršení poměrů"
+      "clue": "Zkouška, experiment"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Přivádět na svět"
+      "clue": "Ten, o koho se lze opřít"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Vykonávat činnost"
     },
     {
       "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Předmět; nebo záležitost"
-    },
-    {
-      "num": 6,
-      "row": 2,
+      "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Destilát z cukrové třtiny"
+      "clue": "Šifra; posloupnost znaků k odemčení"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     }
   ]
 }

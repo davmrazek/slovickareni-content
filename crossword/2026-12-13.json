@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "D",
-      "E",
+      "H",
       "N",
-      "#"
+      "U",
+      "J"
+    ],
+    [
+      "#",
+      "M",
+      "A",
+      "S",
+      "A"
     ],
     [
       "V",
       "O",
-      "L",
-      "A",
-      "T"
-    ],
-    [
-      "U",
-      "L",
-      "I",
-      "C",
-      "E"
-    ],
-    [
       "Z",
+      "I",
+      "K"
+    ],
+    [
       "A",
       "T",
-      "E",
-      "Z"
+      "O",
+      "L",
+      "#"
     ],
     [
-      "#",
-      "R",
-      "A",
       "Z",
+      "A",
+      "R",
+      "I",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "cells": 4,
+      "clue": "Chlévská mrva rozhazovaná na pole"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Hlasitě zvát; telefonovat"
+      "col": 1,
+      "cells": 4,
+      "clue": "Velké množství lidí či hmoty"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Cesta mezi domy; slepá nikam nevede"
+      "clue": "Malý vůz na tlačení"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Nesené břemeno; také zkouška pevnosti"
+      "cells": 4,
+      "clue": "Korálový ostrov ve tvaru prstence"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Svérázná povaha kraje nebo stavby"
+      "col": 0,
+      "cells": 4,
+      "clue": "Devátý měsíc roku"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Americká měna"
+      "clue": "Látka, z níž se skládají tělesa"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Osobní stanovisko"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "A potom, a nato"
+      "clue": "Vynaložená námaha"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Vozidlo, zejména osobní automobil"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Knižně: také"
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pruh pojiva držící kosti u sebe; před výkonem se přeje zlomit"
     }
   ]
 }

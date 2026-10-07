@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "E",
       "#",
-      "#"
-    ],
-    [
-      "D",
-      "O",
-      "M",
-      "#",
-      "#"
-    ],
-    [
-      "O",
-      "K",
-      "O",
+      "P",
+      "U",
       "L",
-      "O"
+      "#"
     ],
     [
-      "#",
-      "#",
-      "C",
+      "K",
       "A",
-      "S"
+      "S",
+      "E",
+      "L"
     ],
     [
-      "#",
-      "#",
       "E",
+      "L",
+      "I",
       "T",
       "A"
+    ],
+    [
+      "C",
+      "E",
+      "L",
+      "E",
+      "K"
+    ],
+    [
+      "#",
+      "C",
+      "I",
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Polovina (~ litru)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Velký chrám (kolínský, milánský)"
+      "cells": 5,
+      "clue": "Štěkavý průvodce nachlazení"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kolem dokola"
+      "clue": "Nejlepší vrstva ve svém oboru"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Souhrn všech částí"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Plyne a měříme ho hodinami"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Emoce; nebo schopnost vnímat"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "col": 1,
+      "cells": 5,
+      "clue": "Nejsilnější prst na ruce"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Místo v přístavu, kde se opravují lodě"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vynaložená námaha"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "cells": 5,
+      "clue": "Pohybovat se vzduchem"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nesmysl, žvást"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Nátěr na nehty nebo na dřevo"
     }
   ]
 }

@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "S",
-      "A",
-      "M",
       "#",
+      "N",
+      "O",
+      "C",
       "#"
     ],
     [
-      "T",
-      "U",
-      "N",
-      "#",
-      "#"
+      "K",
+      "A",
+      "B",
+      "E",
+      "L"
     ],
     [
       "O",
-      "T",
+      "P",
       "I",
+      "L",
+      "Y"
+    ],
+    [
       "S",
+      "A",
+      "L",
+      "E",
       "K"
     ],
     [
       "#",
-      "#",
-      "C",
-      "A",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "H",
-      "L",
-      "T"
+      "D",
+      "I",
+      "K",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Zcela bez doprovodu"
+      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Hluboké tiché místo v řece"
+      "cells": 5,
+      "clue": "Silný izolovaný vodič"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "clue": "Pod vlivem alkoholu"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nádobka na čaj s ouškem"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Projev vděčnosti, poděkování"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "col": 1,
+      "cells": 5,
+      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "col": 2,
+      "cells": 5,
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Muž žijící v klášteře podle řehole"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Místnost pro ples; také pruh látky kolem krku"
+      "cells": 5,
+      "clue": "Souhrn všech částí"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Černý pták se žlutým zobákem"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "clue": "Vodivá pletiva pod kůrou stromů (2. pád mn. č.)"
     }
   ]
 }

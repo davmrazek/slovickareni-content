@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "#",
+      "K",
       "D",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "S",
-      "A",
-      "M",
-      "A",
-      "N"
-    ],
-    [
-      "U",
-      "S",
-      "I",
-      "L",
-      "I"
-    ],
-    [
-      "D",
-      "E",
-      "S",
-      "E",
-      "T"
+      "O"
     ],
     [
       "#",
-      "N",
+      "#",
+      "R",
       "E",
+      "J"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "S",
+      "#",
+      "#"
+    ],
+    [
       "Z",
+      "D",
+      "A",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Divoký vír tance"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vynaložená námaha"
+      "clue": "Domácí zvíře na zabijačku"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Počet prstů na rukou"
+      "cells": 3,
+      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Růžová tkáň, ze které rostou zuby"
+      "clue": "Vlastnost toho, co se líbí"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+      "col": 3,
+      "cells": 3,
+      "clue": "Silná hrůza"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Objevený předmět; lékařský závěr"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Dřevěná nádoba na pivo"
+      "clue": "Tyč, za kterou táhne kůň vůz"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     }
   ]
 }

@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "S",
-      "T",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "M",
-      "Y",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "S",
-      "M",
-      "I",
-      "C",
-      "H"
-    ],
-    [
-      "#",
-      "#",
-      "S",
-      "A",
-      "L"
-    ],
-    [
       "#",
       "#",
       "K",
       "R",
-      "T"
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "O",
+      "D"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "H",
+      "Y"
+    ],
+    [
+      "N",
+      "A",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Zbavovat špíny vodou"
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Reakce na vtip; prý nejlepší lék"
+      "clue": "S vysokou cenou"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (~ dům)"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Místnost pro ples; také pruh látky kolem krku"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Krátká textová zpráva"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vlastnost toho, co se líbí"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Skupina hráčů či pracovníků"
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "col": 4,
+      "cells": 3,
+      "clue": "Tázací příslovce času"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nejnižší část nádoby či rybníka"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     }
   ]
 }

@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "#",
+      "E",
+      "S",
+      "E",
+      "J"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "A",
       "D",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "T",
+      "#"
+    ],
+    [
       "V",
       "A",
-      "#",
-      "#"
-    ],
-    [
-      "I",
-      "O",
-      "N",
-      "#",
-      "#"
-    ],
-    [
       "T",
-      "R",
-      "E",
-      "B",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "B",
-      "O",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "B",
-      "A"
+      "A",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Číslo mezi jedničkou a trojkou"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "col": 1,
+      "cells": 4,
+      "clue": "Volná úvaha na papíře"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Mládě krávy"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Například; nebo je nutné"
+      "clue": "Dávat doporučení"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Znovu, podruhé"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Suchý les s jehličím a pískem"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "col": 0,
+      "cells": 4,
+      "clue": "Chomáč bílé buničiny z lékárničky"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "col": 1,
+      "cells": 5,
+      "clue": "Úsek cesty nebo vývoje, fáze"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Plavidlo svázané z klád"
+      "col": 2,
+      "cells": 5,
+      "clue": "Spočívat na židli"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Nejlepší vrstva ve svém oboru"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pohybovat se dopravním prostředkem"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Luštěnina; také závodní sáně řítící se ledovým korytem"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Knižně: hrob"
     }
   ]
 }

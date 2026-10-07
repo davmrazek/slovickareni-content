@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "D",
-      "U",
-      "M",
-      "#"
-    ],
-    [
-      "K",
-      "O",
-      "L",
-      "E",
-      "J"
-    ],
-    [
-      "E",
-      "M",
-      "I",
+      "P",
+      "A",
       "S",
-      "E"
-    ],
-    [
-      "L",
-      "E",
-      "C",
-      "I",
       "T"
     ],
     [
       "#",
+      "R",
+      "U",
       "K",
-      "E",
-      "C",
+      "A"
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      "O",
+      "M"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "L",
+      "#"
+    ],
+    [
+      "V",
+      "I",
+      "R",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "cells": 4,
+      "clue": "Nastražené zařízení na zvíře"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Ubytovna studentů; vede po ní vlak"
+      "col": 1,
+      "cells": 4,
+      "clue": "Horní končetina s pěti prsty"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+      "clue": "Následně, později"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Odstraňovat nemoc"
+      "cells": 4,
+      "clue": "Korálový ostrov ve tvaru prstence"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nesmysl, žvást"
+      "col": 0,
+      "cells": 4,
+      "clue": "Přesvědčení bez důkazu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Malé stavení"
+      "clue": "Předložka odporu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Cesta mezi domy; slepá nikam nevede"
+      "clue": "Ten, kdo dílo vytvořil"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Dvanáctina roku; také družice Země"
+      "clue": "Budova, kde se učí; podle staré komedie základ života"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Zahnutý zub kance nebo slona"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Pohybovat se dopravním prostředkem"
+      "clue": "Na onom místě, opak sem"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pták s okatým vějířem"
     }
   ]
 }

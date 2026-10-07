@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "S",
+      "T",
+      "O",
       "#",
-      "N",
-      "E",
-      "Z",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "K",
+      "#",
       "#"
     ],
     [
       "S",
-      "A",
-      "M",
-      "A",
-      "N"
-    ],
-    [
+      "K",
       "O",
-      "B",
-      "O",
-      "C",
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "C",
-      "I",
-      "T"
+      "D",
+      "A"
     ],
     [
       "#",
-      "J",
+      "#",
+      "L",
       "E",
-      "T",
-      "#"
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "S",
+      "A"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "cells": 3,
+      "clue": "Knižně nápoj"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Chloupky nad okem"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "clue": "Způsobená ztráta; také mladoboleslavská značka"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Pohybovat se dopravním prostředkem"
+      "clue": "Poloha na zádech při cvičení"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Střelivo do zbraně"
+      "col": 0,
+      "cells": 3,
+      "clue": "Krátká textová zpráva"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 1,
+      "cells": 3,
+      "clue": "Plynutí vody; nebo proud elektřiny"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Pustit se do práce"
+      "clue": "Kolem dokola"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Silná hrůza"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Citoslovce náhlého pochopení"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
-      "A",
-      "M"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "S",
-      "A"
-    ],
-    [
       "P",
-      "A",
+      "U",
       "L",
-      "I",
-      "T"
-    ],
-    [
-      "O",
-      "N",
-      "I",
-      "#",
       "#"
     ],
     [
-      "D",
-      "O",
       "K",
+      "A",
+      "S",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "Z",
+      "E",
+      "L",
+      "E",
+      "N"
+    ],
+    [
       "#",
+      "C",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Polovina (~ litru)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "col": 0,
+      "cells": 5,
+      "clue": "Štěkavý průvodce nachlazení"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Působit žárem; destilovat"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "cells": 5,
+      "clue": "Barva listů a trávy; městská roste v parcích"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Místo v přístavu, kde se opravují lodě"
+      "clue": "Emoce; nebo schopnost vnímat"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Nejsilnější prst na ruce"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vynaložená námaha"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Pohybovat se vzduchem"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Rozhodující tah, jímž končí šachová partie"
+      "clue": "Vyjadřuje přání: ~ by to byla pravda"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Předložka označující nižší polohu"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Velké souvislé pole"
     }
   ]
 }

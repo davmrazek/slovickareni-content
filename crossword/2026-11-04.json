@@ -14,26 +14,26 @@
       "#",
       "#",
       "R",
-      "E",
-      "K"
+      "U",
+      "B"
     ],
     [
-      "Z",
-      "L",
-      "A",
       "T",
-      "O"
+      "R",
+      "A",
+      "S",
+      "A"
     ],
     [
-      "D",
-      "I",
+      "R",
+      "E",
       "V",
       "#",
       "#"
     ],
     [
-      "E",
       "S",
+      "T",
       "O",
       "#",
       "#"
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Knižně hrdina"
+      "clue": "Opačná strana líce"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Naplánovaná cesta"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Zázrak, něco úžasného"
+      "clue": "Hlasitý zvuk zvířete"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     }
   ],
   "down": [
@@ -89,28 +89,28 @@
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Obyvatel největší země světa"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Stroj, který tlakem drtí nebo tvaruje"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     }
   ]
 }

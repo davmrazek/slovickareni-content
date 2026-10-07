@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "A",
-      "R"
-    ],
-    [
-      "D",
-      "E",
-      "S",
-      "K",
-      "A"
-    ],
-    [
-      "O",
-      "S",
-      "A",
-      "#",
+      "M",
+      "U",
+      "J",
       "#"
     ],
     [
-      "M",
-      "O",
+      "V",
+      "A",
+      "D",
+      "I",
+      "T"
+    ],
+    [
+      "I",
       "K",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "A",
+      "M"
+    ],
+    [
       "#",
+      "T",
+      "I",
+      "K",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Přivlastňovací zájmeno první osoby"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Bublání vroucí vody"
+      "col": 0,
+      "cells": 5,
+      "clue": "Být na obtíž"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Plochý kus materiálu"
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "cells": 5,
+      "clue": "Uzenina nakrájená na kolečka"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Knižně nápoj"
+      "clue": "Nervový záškub oka"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Hovorově tvrdě pracovat"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "col": 2,
+      "cells": 5,
+      "clue": "Níže položené místo mezi kopci"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Jiným způsobem, odlišně"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Cvik na hrazdě, nohy nad zemí"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Velký chrám (kolínský, milánský)"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Na onom místě, opak sem"
     }
   ]
 }

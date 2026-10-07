@@ -18,23 +18,23 @@
       "A"
     ],
     [
-      "K",
-      "O",
       "V",
+      "O",
+      "J",
       "A",
-      "R"
+      "K"
     ],
     [
-      "O",
-      "B",
-      "R",
+      "A",
+      "N",
+      "I",
       "#",
       "#"
     ],
     [
       "S",
-      "A",
-      "H",
+      "I",
+      "T",
       "#",
       "#"
     ]
@@ -59,21 +59,21 @@
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Řemeslník, který kuje železo"
+      "clue": "Příslušník armády"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Stará délková míra, necelé dva metry"
+      "clue": "Pletivo z nití; nebo internet"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Předložený nápad k projednání"
+      "clue": "Objevit, co se dlouho hledalo"
     },
     {
       "num": 2,
@@ -96,21 +96,21 @@
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Sálavé horko z ohně"
+      "clue": "Dítě, které chodí do školy"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Černý pták se žlutým zobákem"
+      "clue": "Přivlastňovací zájmeno druhé osoby množné"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     }
   ]
 }

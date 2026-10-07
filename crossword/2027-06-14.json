@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "J",
-      "I",
-      "Z"
+      "P",
+      "R",
+      "I"
     ],
     [
       "#",
       "#",
-      "M",
-      "O",
-      "D"
+      "L",
+      "E",
+      "N"
     ],
     [
-      "S",
-      "T",
+      "V",
       "E",
       "N",
-      "A"
+      "K",
+      "U"
     ],
     [
-      "T",
-      "U",
-      "N",
+      "A",
+      "S",
+      "I",
       "#",
       "#"
     ],
     [
+      "S",
       "O",
-      "K",
-      "O",
+      "T",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Knižně: už"
+      "clue": "Předložka blízkosti (~ cestě)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Herní úprava od fanoušků"
+      "clue": "Rostlina na plátno a olej"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
+      "clue": "Mimo budovu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Hluboké tiché místo v řece"
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Krátká reportáž ve zprávách"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "clue": "Naplňovat; nebo splňovat úkol"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Knižně hrdina"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Přivlastňovací zájmeno druhé osoby množné"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Mastná složka potravy"
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "U",
-      "J",
-      "#"
-    ],
-    [
-      "K",
+      "S",
+      "P",
       "O",
-      "M",
-      "I",
-      "N"
+      "J"
     ],
     [
-      "U",
-      "C",
-      "E",
-      "N",
-      "I"
+      "#",
+      "L",
+      "I",
+      "P",
+      "A"
     ],
     [
       "S",
       "A",
       "L",
-      "A",
-      "T"
+      "E",
+      "K"
     ],
     [
-      "#",
-      "L",
-      "Y",
+      "O",
+      "B",
+      "O",
+      "R",
+      "#"
+    ],
+    [
       "K",
+      "Y",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "cells": 4,
+      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Odvádí kouř nad střechu"
+      "col": 1,
+      "cells": 4,
+      "clue": "Národní strom Čechů"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Osvojování znalostí"
+      "clue": "Nádobka na čaj s ouškem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Mísa nakrájené zeleniny"
+      "cells": 4,
+      "clue": "Oblast lidské činnosti"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Vodivá pletiva pod kůrou stromů (2. pád mn. č.)"
+      "col": 0,
+      "cells": 4,
+      "clue": "Vepřové stehno na řízky i do udírny"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Bažina, mokřad"
+      "clue": "Bez síly"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vyrobený, ne přírodní"
+      "clue": "Kdo řídí letadlo"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "clue": "Zpívané jevištní dílo"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Jeden odlomený či oddělený díl"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Soupeř, protivník"
     }
   ]
 }

@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "O",
       "#",
-      "#"
-    ],
-    [
-      "O",
-      "U",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "S",
       "M",
       "I",
-      "C",
-      "H"
+      "T",
+      "#"
     ],
     [
-      "#",
-      "#",
       "S",
-      "A",
+      "O",
+      "K",
+      "O",
       "L"
     ],
     [
+      "U",
+      "D",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "I",
+      "S"
+    ],
+    [
       "#",
-      "#",
+      "L",
+      "A",
       "K",
-      "R",
-      "T"
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Vlastnit; nebo ~ se k světu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "cells": 5,
+      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Reakce na vtip; prý nejlepší lék"
+      "clue": "Níže položené místo mezi kopci"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Hra s raketou přes síť"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Místnost pro ples; také pruh látky kolem krku"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "clue": "Nátěr na nehty nebo na dřevo"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Černý pták se žlutým zobákem"
+      "col": 1,
+      "cells": 5,
+      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "col": 2,
+      "cells": 5,
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Stopa prstu na sklenici"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "cells": 5,
+      "clue": "Takové množství (~ práce)"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rozpadlé zdivo, trosky"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Stroj, který tlakem drtí nebo tvaruje"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "R",
-      "O",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "B",
-      "R"
-    ],
-    [
-      "T",
-      "R",
-      "V",
-      "A",
-      "T"
-    ],
-    [
-      "I",
-      "O",
       "N",
-      "#",
+      "O",
+      "C",
       "#"
     ],
     [
       "K",
+      "A",
+      "S",
+      "E",
+      "L"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
+      "I"
+    ],
+    [
       "D",
-      "Y",
+      "U",
+      "B",
+      "E",
+      "N"
+    ],
+    [
       "#",
+      "P",
+      "A",
+      "K",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Pohádkový velikán"
+      "col": 0,
+      "cells": 5,
+      "clue": "Štěkavý průvodce nachlazení"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Mít určitou dobu"
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "cells": 5,
+      "clue": "Čtvrtý měsíc roku"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Potom, následně"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Bez zakřivení"
+      "clue": "Obstarání zboží v obchodě"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "col": 2,
+      "cells": 5,
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Souhrn všech částí"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "clue": "Šifra; posloupnost znaků k odemčení"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Nervový záškub oka"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Sladkovodní ryba se slizkou kůží"
     }
   ]
 }

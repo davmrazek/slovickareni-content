@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "P",
-      "R",
-      "O"
+      "D",
+      "O",
+      "B",
+      "A"
     ],
     [
       "#",
-      "#",
+      "C",
+      "L",
+      "U",
+      "N"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "N",
+      "I"
+    ],
+    [
+      "U",
       "R",
       "A",
-      "K"
-    ],
-    [
-      "P",
-      "R",
-      "I",
-      "M",
-      "O"
-    ],
-    [
-      "S",
-      "U",
-      "M",
-      "#",
+      "D",
       "#"
     ],
     [
+      "P",
       "A",
-      "B",
-      "Y",
-      "#",
+      "R",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Předložka vyjadřující účel"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
+      "col": 1,
+      "cells": 4,
+      "clue": "Časový úsek dějin"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Malé plavidlo s vesly"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bez oklik"
+      "clue": "Patřící do nejteplejšího období"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
+      "cells": 4,
+      "clue": "Instituce vyřizující razítka"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "cells": 4,
+      "clue": "Vodní plyn nad hrncem"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Bez zatáček; upřímný"
+      "clue": "Ženský potomek"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Obruba obrazu"
+      "col": 2,
+      "cells": 5,
+      "clue": "Stůl v čele kostela"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "col": 3,
+      "cells": 5,
+      "clue": "Vrchní oděv do chladu"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Čtyřnohý společník na vodítku (4. pád)"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Opačná strana líce"
+      "clue": "Ukořistěná věc"
     }
   ]
 }

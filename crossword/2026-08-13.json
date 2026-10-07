@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "M",
-      "I",
-      "T",
-      "#"
-    ],
-    [
-      "S",
-      "O",
       "K",
       "O",
-      "L"
+      "L",
+      "O",
+      "#"
     ],
     [
       "U",
-      "D",
-      "O",
-      "L",
-      "I"
+      "T",
+      "E",
+      "S",
+      "#"
     ],
     [
-      "M",
-      "E",
       "N",
       "I",
-      "T"
+      "K",
+      "A",
+      "M"
     ],
     [
       "#",
-      "L",
+      "S",
       "A",
+      "D",
+      "A"
+    ],
+    [
+      "#",
       "K",
-      "#"
+      "R",
+      "A",
+      "J"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "col": 0,
+      "cells": 4,
+      "clue": "Otáčivá součást vozu; také jízdní stroj"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+      "cells": 4,
+      "clue": "Strmá skalní stěna nad mořem"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Přetvářet do jiné podoby; také ~ peníze v bance"
+      "clue": "Na žádné místo"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Souprava věcí k sobě"
+    },
+    {
+      "num": 9,
       "row": 4,
       "col": 1,
-      "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "cells": 4,
+      "clue": "Územní celek s hejtmanem"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
+      "col": 0,
+      "cells": 3,
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "clue": "Stopa prstu na sklenici"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Ten, kdo léčí pacienty"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Pátý měsíc v roce; lásky čas"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "Z",
-      "D",
-      "E"
+      "H",
+      "R",
+      "E",
+      "B"
     ],
     [
-      "#",
       "#",
       "M",
-      "I",
-      "R"
-    ],
-    [
-      "S",
-      "L",
-      "E",
-      "V",
+      "A",
+      "M",
       "A"
     ],
     [
-      "I",
+      "H",
       "O",
-      "N",
-      "#",
+      "D",
+      "I",
+      "T"
+    ],
+    [
+      "U",
+      "T",
+      "E",
+      "S",
       "#"
     ],
     [
       "T",
-      "M",
       "A",
-      "#",
+      "K",
+      "E",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Na tomto místě, tady"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Stav bez války"
+      "col": 1,
+      "cells": 4,
+      "clue": "Kovová jehla zatloukaná kladivem; zlatý bývá vrcholem večera"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Důvěrně matka"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Snížení ceny"
+      "clue": "Vrhnout do dálky"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "cells": 4,
+      "clue": "Strmá skalní stěna nad mořem"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "cells": 4,
+      "clue": "Rovněž, taktéž"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Přechod do jiného stavu"
+      "clue": "Látka, z níž se skládají tělesa"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Zázrak, něco úžasného"
+      "col": 2,
+      "cells": 5,
+      "clue": "Jedna vodorovná řada písmen"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "col": 3,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Pletivo z nití; nebo internet"
+      "clue": "Pociťovat strach (~ se)"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+      "clue": "Závod na zpracování kovu"
     }
   ]
 }

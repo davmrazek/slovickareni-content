@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "Z",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
       "N",
-      "I",
-      "T"
-    ],
-    [
-      "V",
-      "R",
-      "A",
-      "T",
-      "A"
-    ],
-    [
-      "L",
       "O",
-      "M",
-      "#",
+      "C",
       "#"
     ],
     [
+      "Z",
+      "A",
+      "B",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "P",
+      "I",
+      "L",
+      "Y"
+    ],
+    [
       "K",
-      "D",
-      "Y",
+      "O",
+      "L",
+      "I",
+      "K"
+    ],
+    [
       "#",
+      "J",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "col": 0,
+      "cells": 5,
+      "clue": "Výsek obrazu kamery"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Široký vjezd do dvora"
+      "clue": "Pod vlivem alkoholu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+      "cells": 5,
+      "clue": "Tázací zájmeno na množství"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Pohybovat se pěšky"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Široce rozpoznávaný"
+      "clue": "Co se pije"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "col": 2,
+      "cells": 5,
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Postavit se problému"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Velký pytel na vlnu nebo chmel"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Hromový řev davu či zvěře"
     }
   ]
 }

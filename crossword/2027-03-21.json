@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "Z",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "M"
-    ],
-    [
+      "U",
       "V",
-      "Z",
-      "A",
-      "D",
-      "U"
+      "O",
+      "D"
     ],
     [
-      "L",
-      "A",
-      "T",
       "#",
+      "L",
+      "I",
+      "P",
+      "A"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "E",
+      "T"
+    ],
+    [
+      "U",
+      "V",
+      "E",
+      "R",
       "#"
     ],
     [
-      "K",
       "D",
-      "O",
-      "#",
+      "A",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Na tomto místě, tady"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Okraj, obruba oděvu"
+      "col": 1,
+      "cells": 4,
+      "clue": "Začátek knihy či proslovu"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Národní strom Čechů"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na zadní straně, opak vpředu"
+      "clue": "Spočívat na židli"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "cells": 4,
+      "clue": "Půjčka od banky"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "cells": 4,
+      "clue": "Uložené údaje"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Otec rodiče"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vnímat očima"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Australský neletící pták"
+      "col": 3,
+      "cells": 5,
+      "clue": "Zpívané jevištní dílo"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Kormidelní konec lodi"
+      "clue": "Dřevěná nádoba na pivo"
     }
   ]
 }

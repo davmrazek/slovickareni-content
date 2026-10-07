@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "C",
+      "P",
       "L",
-      "O"
+      "O",
+      "D"
     ],
     [
-      "L",
-      "A",
-      "H",
-      "E",
-      "V"
-    ],
-    [
-      "E",
+      "#",
       "R",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "S",
       "A",
-      "#",
+      "M",
+      "A",
+      "N"
+    ],
+    [
+      "O",
+      "X",
+      "I",
+      "D",
       "#"
     ],
     [
-      "P",
+      "T",
+      "E",
+      "T",
       "A",
-      "N",
-      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Tímto způsobem"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Poplatek za dovoz zboží přes hranice"
+      "col": 1,
+      "cells": 4,
+      "clue": "Co uzraje na stromě"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Velký stát ovládaný císařem"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Skleněná nádoba na nápoje"
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "cells": 4,
+      "clue": "Sloučenina s kyslíkem"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Zdvořilé oslovení muže"
+      "cells": 4,
+      "clue": "Sestra rodiče"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Otec manželky nebo manžela"
+      "clue": "Zkušenost z reálné činnosti"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "col": 2,
+      "cells": 5,
+      "clue": "Nejzazší mez"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Lesklý tavitelný materiál, např. železo"
+      "col": 3,
+      "cells": 5,
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Vazká nástraha na mouchy; sednout někomu na ~"
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Krátká reportáž ve zprávách"
     }
   ]
 }

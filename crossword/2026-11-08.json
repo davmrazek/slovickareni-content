@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "S",
+      "A",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "U",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "T",
+      "I",
+      "S",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      "#",
       "#",
       "H",
-      "N",
-      "E",
-      "D"
-    ],
-    [
-      "#",
-      "M",
-      "A",
-      "M",
-      "A"
-    ],
-    [
-      "P",
-      "O",
-      "C",
-      "I",
+      "L",
       "T"
-    ],
-    [
-      "U",
-      "T",
-      "E",
-      "S",
-      "#"
-    ],
-    [
-      "B",
-      "A",
-      "Z",
-      "E",
-      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Bez odkladu"
+      "col": 0,
+      "cells": 3,
+      "clue": "Zcela bez doprovodu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hluboké tiché místo v řece"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Důvěrně matka"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vnitřní prožitek"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 4,
-      "clue": "Strmá skalní stěna nad mořem"
+      "clue": "Stopa prstu na sklenici"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Ruský panovník, třeba Petr Veliký"
+    },
+    {
+      "num": 9,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Základna; opak kyseliny"
+      "col": 2,
+      "cells": 3,
+      "clue": "Jedno velké polknutí; na jeden ~"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Látka, z níž se skládají tělesa"
+      "col": 0,
+      "cells": 3,
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "A potom, a nato"
+      "col": 1,
+      "cells": 3,
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
-    },
-    {
-      "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Muž žijící v klášteře podle řehole"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 3,
       "cells": 3,
-      "clue": "Anglická hospoda"
+      "clue": "Místnost pro ples; také pruh látky kolem krku"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
     }
   ]
 }

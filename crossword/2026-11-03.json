@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "T",
+      "S",
       "A",
       "M",
       "#",
       "#"
     ],
     [
-      "E",
-      "R",
-      "A",
+      "O",
+      "N",
+      "I",
       "#",
       "#"
     ],
     [
-      "D",
-      "A",
-      "L",
       "K",
-      "A"
+      "O",
+      "S",
+      "T",
+      "E"
     ],
     [
       "#",
       "#",
-      "B",
-      "U",
-      "K"
+      "T",
+      "R",
+      "H"
     ],
     [
       "#",
       "#",
-      "A",
-      "L",
-      "T"
+      "O",
+      "S",
+      "M"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Zcela bez doprovodu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Velká vzdálenost"
+      "clue": "Náčiní na zametání"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Listnatý strom s hladkou kůrou"
+      "clue": "Místo, kde se prodává a nakupuje"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Číslo mezi sedmi a devíti"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "V tomto okamžiku"
+      "clue": "Soupeř, protivník"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Obraz nanesený barvami"
+      "clue": "Určený bod v prostoru"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Zaražená dřevěná opora"
+      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
     }
   ]
 }

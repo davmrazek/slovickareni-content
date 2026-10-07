@@ -14,26 +14,26 @@
       "#",
       "#",
       "A",
+      "R",
+      "A"
+    ],
+    [
       "S",
-      "I"
-    ],
-    [
-      "P",
-      "I",
+      "K",
       "L",
-      "O",
-      "T"
+      "A",
+      "D"
     ],
     [
-      "O",
-      "N",
+      "T",
+      "R",
       "I",
       "#",
       "#"
     ],
     [
-      "T",
-      "U",
+      "O",
+      "B",
       "R",
       "#",
       "#"
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kdo řídí letadlo"
+      "clue": "Hala, kde se ukládá zboží"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Počet nohou stativu"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
+      "clue": "Pohádkový velikán"
     }
   ],
   "down": [
@@ -89,28 +89,28 @@
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Tekutina na kůži při horku"
+      "clue": "Deset desítek; také bankovka s Karlem IV."
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Otevřené ohniště v obývacím pokoji"
     }
   ]
 }

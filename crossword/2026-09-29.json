@@ -11,31 +11,31 @@
       "#"
     ],
     [
-      "S",
+      "B",
       "A",
-      "T",
-      "E",
-      "K"
-    ],
-    [
-      "U",
-      "V",
+      "R",
       "A",
-      "H",
-      "A"
-    ],
-    [
-      "P",
-      "A",
-      "P",
-      "E",
       "Z"
+    ],
+    [
+      "O",
+      "V",
+      "O",
+      "C",
+      "E"
+    ],
+    [
+      "B",
+      "A",
+      "Z",
+      "E",
+      "N"
     ],
     [
       "#",
       "T",
-      "A",
-      "T",
+      "E",
+      "Z",
       "#"
     ]
   ],
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Čtvercový kus látky na hlavu"
+      "clue": "Rozhodující zápas o postup"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Promýšlení věci; slohový útvar"
+      "clue": "Sladké plody stromů"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Hlava katolické církve"
+      "clue": "Nádrž na plavání"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Knižně: také"
     }
   ],
   "down": [
@@ -89,28 +89,28 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Rohovitý útvar na konci prstu"
+      "clue": "A potom, a nato"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Mrchožravý dravec"
+      "clue": "Luštěnina; také závodní sáně řítící se ledovým korytem"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "clue": "Buddhistický směr meditace"
     }
   ]
 }

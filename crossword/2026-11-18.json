@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "M",
-      "I",
-      "T"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "O",
-      "M"
-    ],
-    [
-      "Z",
-      "M",
-      "E",
-      "N",
-      "A"
-    ],
-    [
-      "L",
-      "A",
       "K",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "E",
+      "J"
+    ],
+    [
+      "V",
+      "S",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "T",
       "#",
       "#"
     ],
     [
-      "O",
       "K",
-      "O",
+      "D",
+      "Y",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+      "clue": "Divoký vír tance"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Přechod do jiného stavu"
+      "clue": "Na všech místech"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Bílá tekutina od krávy"
+      "clue": "Nemilosrdný"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Otec rodiče"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Tyč, za kterou táhne kůň vůz"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Červená polní květina; její semínka se sypou do buchet"
+      "clue": "Barva popela, mezi bílou a černou"
     }
   ]
 }

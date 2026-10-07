@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "O",
-      "B",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "B",
-      "O",
-      "A"
-    ],
-    [
-      "A",
-      "K",
-      "O",
-      "R",
-      "D"
-    ],
-    [
-      "L",
-      "E",
-      "C",
-      "#",
+      "M",
+      "U",
+      "J",
       "#"
     ],
     [
+      "S",
+      "A",
       "T",
+      "E",
+      "K"
+    ],
+    [
+      "U",
+      "L",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "M",
+      "I",
       "R",
       "I",
+      "T"
+    ],
+    [
       "#",
+      "R",
+      "Y",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Přivlastňovací zájmeno první osoby"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Škrtič z pralesa; také péřový šál"
+      "col": 0,
+      "cells": 5,
+      "clue": "Čtvercový kus látky na hlavu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Souzvuk více tónů"
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Knižní spojka odporovací"
+      "cells": 5,
+      "clue": "Zaměřovat na cíl"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Počet nohou stativu"
+      "clue": "Zarývat se do země jako krtek"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Chloupky nad okem"
+      "clue": "Kdo maluje obrazy nebo stěny"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Suchý les s jehličím a pískem"
+      "col": 2,
+      "cells": 5,
+      "clue": "Druhý den týdne"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Ukazovat se navenek (~ se)"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Hluboký ženský hlas"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "clue": "Kdo vykonává popravu"
     }
   ]
 }

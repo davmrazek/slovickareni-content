@@ -5,7 +5,7 @@
   "grid": [
     [
       "#",
-      "M",
+      "V",
       "U",
       "Z",
       "#"
@@ -13,29 +13,29 @@
     [
       "S",
       "A",
-      "L",
-      "A",
-      "T"
-    ],
-    [
-      "E",
-      "L",
-      "I",
-      "T",
-      "A"
-    ],
-    [
       "M",
-      "I",
-      "C",
+      "A",
+      "N"
+    ],
+    [
+      "U",
+      "Z",
       "E",
-      "K"
+      "M",
+      "I"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "E",
+      "C"
     ],
     [
       "#",
-      "R",
-      "E",
-      "Z",
+      "T",
+      "I",
+      "K",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Dospělý člověk, kterému se říká pán"
+      "clue": "Vozidlo, zejména osobní automobil"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Mísa nakrájené zeleniny"
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Vymezená část země, teritorium"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Malý míč, např. pingpongový"
+      "clue": "Rytmický pohyb do hudby"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Rána vedená ostřím"
+      "clue": "Nervový záškub oka"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "clue": "Svazovat provazem"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Cesta mezi domy; slepá nikam nevede"
+      "clue": "Malířství, hudba, sochařství — jedním slovem"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Nesené břemeno; také zkouška pevnosti"
+      "clue": "Šlechtické sídlo; nebo zařízení na klíč"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Směrem k mluvčímu"
+      "clue": "Rozpadlé zdivo, trosky"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Naprostá absence čehokoli"
     }
   ]
 }

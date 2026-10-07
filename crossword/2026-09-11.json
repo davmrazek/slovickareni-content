@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
+      "R",
+      "O",
       "K",
-      "D",
-      "E"
+      "#"
     ],
     [
-      "#",
-      "#",
-      "L",
+      "K",
+      "A",
+      "B",
       "A",
       "T"
     ],
     [
       "E",
-      "L",
-      "I",
-      "T",
-      "A"
-    ],
-    [
-      "R",
-      "U",
       "M",
-      "#",
-      "#"
+      "I",
+      "S",
+      "E"
     ],
     [
-      "A",
-      "H",
-      "A",
+      "Z",
+      "E",
+      "L",
+      "E",
+      "N"
+    ],
+    [
       "#",
+      "C",
+      "I",
+      "L",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "col": 0,
+      "cells": 5,
+      "clue": "Svrchní zimní oděv; také kapela z Teplic"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Destilát z cukrové třtiny"
+      "cells": 5,
+      "clue": "Barva listů a trávy; městská roste v parcích"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Místo, kam směřuje cesta; meta"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Dlouhodobé podnebí"
+      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "col": 2,
+      "cells": 5,
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Štěkavý průvodce nachlazení"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Vyjadřuje přání: ~ by to byla pravda"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Vlhký les a louky při řece; s háji tvoří známou dvojici"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     }
   ]
 }

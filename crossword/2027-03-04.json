@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "C",
+      "A",
+      "S",
       "#",
-      "P",
-      "O",
-      "D",
       "#"
     ],
     [
-      "Z",
-      "A",
-      "B",
-      "I",
-      "T"
-    ],
-    [
+      "L",
       "U",
-      "N",
-      "A",
-      "V",
-      "A"
+      "P",
+      "#",
+      "#"
     ],
     [
-      "B",
-      "A",
-      "V",
+      "O",
+      "T",
       "I",
-      "T"
+      "S",
+      "K"
     ],
     [
       "#",
-      "K",
-      "A",
+      "#",
+      "S",
+      "I",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "E",
       "T",
-      "#"
+      "A"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Předložka označující nižší polohu"
+      "clue": "Plyne a měříme ho hodinami"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Připravit o život"
+      "cells": 3,
+      "clue": "Ukořistěná věc"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vyčerpání po námaze"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Poskytovat zábavu"
+      "clue": "Stopa prstu na sklenici"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Kdo vykonává popravu"
+      "clue": "Anglické zdvořilé oslovení muže"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Sedmé písmeno řecké abecedy"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Malá sklenka tvrdého alkoholu; nebo figurka"
+      "col": 0,
+      "cells": 3,
+      "clue": "Poplatek za dovoz zboží přes hranice"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Strach z budoucího"
+      "col": 1,
+      "cells": 3,
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Být překvapen (~ se)"
+      "clue": "Pravděpodobněji"
     },
     {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "num": 6,
+      "row": 2,
+      "col": 3,
       "cells": 3,
-      "clue": "Nástroj ke kousání v ústech"
+      "clue": "Pletivo z nití; nebo internet"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Plovoucí ledová deska"
     }
   ]
 }

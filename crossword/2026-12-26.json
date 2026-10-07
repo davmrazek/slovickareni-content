@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "D",
-      "O",
-      "B",
-      "A"
-    ],
-    [
-      "#",
-      "C",
-      "L",
+      "M",
       "U",
-      "N"
-    ],
-    [
-      "L",
-      "E",
-      "T",
-      "N",
-      "I"
-    ],
-    [
-      "U",
-      "R",
-      "A",
-      "D",
+      "Z",
       "#"
     ],
     [
-      "P",
+      "S",
       "A",
+      "L",
+      "A",
+      "M"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "M",
+      "I",
+      "C",
+      "E",
+      "K"
+    ],
+    [
+      "#",
       "R",
-      "A",
+      "E",
+      "Z",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 4,
-      "clue": "Časový úsek dějin"
+      "cells": 3,
+      "clue": "Dospělý člověk, kterému se říká pán"
     },
     {
-      "num": 5,
+      "num": 4,
       "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Malé plavidlo s vesly"
+      "col": 0,
+      "cells": 5,
+      "clue": "Uzenina nakrájená na kolečka"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Patřící do nejteplejšího období"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Instituce vyřizující razítka"
+      "cells": 5,
+      "clue": "Malý míč, např. pingpongový"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Vodní plyn nad hrncem"
+      "col": 1,
+      "cells": 3,
+      "clue": "Rána vedená ostřím"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Ženský potomek"
+      "clue": "Kdo maluje obrazy nebo stěny"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Stůl v čele kostela"
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Vrchní oděv do chladu"
+      "clue": "Nesené břemeno; také zkouška pevnosti"
     },
     {
       "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
-    },
-    {
-      "num": 6,
-      "row": 2,
+      "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Ukořistěná věc"
+      "clue": "Směrem k mluvčímu"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
     }
   ]
 }

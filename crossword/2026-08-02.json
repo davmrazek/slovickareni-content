@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "R",
       "O",
-      "K",
-      "#"
-    ],
-    [
-      "K",
-      "A",
-      "B",
-      "A",
-      "T"
-    ],
-    [
-      "E",
-      "M",
-      "I",
       "S",
-      "E"
-    ],
-    [
-      "Z",
-      "E",
-      "L",
-      "E",
-      "N"
+      "U",
+      "D"
     ],
     [
       "#",
+      "S",
+      "A",
+      "L",
+      "A"
+    ],
+    [
+      "P",
+      "O",
       "C",
       "I",
-      "L",
+      "T"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "C",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "K",
+      "E",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "cells": 4,
+      "clue": "Předurčený běh života"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Svrchní zimní oděv; také kapela z Teplic"
+      "col": 1,
+      "cells": 4,
+      "clue": "Dlouhý pruh látky kolem krku"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+      "clue": "Vnitřní prožitek"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
+      "cells": 4,
+      "clue": "Nejmenší samosprávné sídlo"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Místo, kam směřuje cesta; meta"
+      "col": 0,
+      "cells": 4,
+      "clue": "Rovněž, taktéž"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Pšenice, žito a podobné plodiny"
+      "clue": "Malý papírový nebo igelitový obal"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Štěkavý průvodce nachlazení"
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Vyjadřuje přání: ~ by to byla pravda"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Poskytnout, věnovat"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tekutina na kůži při horku"
     }
   ]
 }

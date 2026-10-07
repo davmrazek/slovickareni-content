@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "N",
-      "I",
-      "C"
+      "Z",
+      "E",
+      "D",
+      "#"
     ],
     [
-      "#",
-      "#",
-      "A",
       "N",
-      "O"
-    ],
-    [
-      "K",
       "A",
       "L",
-      "U",
+      "E",
       "Z"
     ],
     [
       "O",
-      "N",
+      "B",
       "I",
-      "#",
-      "#"
+      "L",
+      "I"
     ],
     [
-      "P",
+      "C",
       "I",
       "T",
+      "I",
+      "T"
+    ],
+    [
       "#",
+      "T",
+      "A",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Naprostá absence čehokoli"
+      "clue": "Svislá zděná stěna"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "col": 0,
+      "cells": 5,
+      "clue": "Objevený předmět; lékařský závěr"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Louže vody po dešti"
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "cells": 5,
+      "clue": "Vnímat smysly či emocí"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Přijímat tekutinu ústy"
+      "clue": "Měnit se z ledu ve vodu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Naplnit sklenici až po okraj"
+      "clue": "Připravit o život"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Rozčleňovat na části"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
+      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Úder nohou, např. do míče"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Být naživu"
     }
   ]
 }

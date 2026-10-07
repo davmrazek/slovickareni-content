@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "S",
-      "T",
-      "O",
       "#",
+      "V",
+      "U",
+      "Z",
       "#"
     ],
     [
-      "M",
+      "V",
       "Y",
       "T",
-      "#",
-      "#"
+      "A",
+      "H"
     ],
     [
-      "S",
-      "P",
-      "I",
-      "S",
-      "E"
+      "A",
+      "N",
+      "E",
+      "B",
+      "O"
     ],
     [
-      "#",
-      "#",
-      "S",
-      "I",
-      "T"
-    ],
-    [
-      "#",
-      "#",
       "K",
+      "O",
       "R",
-      "A"
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "S",
+      "Y",
+      "R",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Vozidlo, zejména osobní automobil"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Zbavovat špíny vodou"
+      "cells": 5,
+      "clue": "Zdvihá lidi mezi patry"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pravděpodobněji"
+      "clue": "Vylučovací spojka (buď – ~)"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Podzemní část rostliny"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Pletivo z nití; nebo internet"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "clue": "Mléčný výrobek se zráním"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Krátká textová zpráva"
+      "col": 1,
+      "cells": 5,
+      "clue": "Zisk z investice; úřední nařízení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Druh, kategorie věci"
+      "col": 2,
+      "cells": 5,
+      "clue": "Druhý den týdne"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Stopa prstu na sklenici"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Anglické zdvořilé oslovení muže"
+      "cells": 5,
+      "clue": "Výsek obrazu kamery"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Měkký nosič na věci"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Štvanice na zvěř"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "S",
+      "T",
+      "U",
+      "D"
+    ],
+    [
       "#",
-      "H",
-      "R",
+      "P",
+      "U",
+      "S",
       "A"
     ],
     [
-      "#",
-      "#",
-      "R",
-      "O",
-      "H"
-    ],
-    [
-      "H",
-      "L",
-      "A",
-      "V",
-      "A"
-    ],
-    [
-      "L",
-      "E",
+      "C",
+      "I",
       "N",
-      "#",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "S",
+      "E",
+      "L",
       "#"
     ],
     [
-      "T",
-      "M",
-      "A",
-      "#",
+      "Z",
+      "E",
+      "L",
+      "I",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
+      "col": 1,
+      "cells": 4,
+      "clue": "Pocit trapnosti a červenání"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Polibek; hovorově ústa"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejvyšší část těla"
+      "clue": "Konat, jednat"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "cells": 4,
+      "clue": "Dlouhouchý příbuzný koně"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "cells": 4,
+      "clue": "Košťálová zelenina do sudu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Ostré rozhraní dvou ploch"
+      "clue": "Pravděpodobněji"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Knižně: hrob"
+      "col": 2,
+      "cells": 5,
+      "clue": "Průchod ražený skrz kopec"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "col": 3,
+      "cells": 5,
+      "clue": "Vynaložená námaha"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Okraj, obruba oděvu"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     }
   ]
 }

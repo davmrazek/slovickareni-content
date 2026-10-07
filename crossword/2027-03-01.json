@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "S",
-      "A",
-      "M",
+      "K",
+      "D",
+      "O",
       "#",
       "#"
     ],
     [
-      "M",
+      "O",
       "U",
-      "L",
+      "T",
       "#",
       "#"
     ],
     [
       "S",
-      "T",
+      "M",
+      "I",
+      "C",
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "S",
       "A",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "K",
       "R",
       "T"
-    ],
-    [
-      "#",
-      "#",
-      "D",
-      "Y",
-      "M"
-    ],
-    [
-      "#",
-      "#",
-      "E",
-      "T",
-      "A"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Zcela bez doprovodu"
+      "clue": "Tázací zájmeno ptající se na osobu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Řídká bavlněná tkanina na obvazy"
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Okamžik zahájení závodu"
+      "clue": "Reakce na vtip; prý nejlepší lék"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "To, co stoupá z komína"
+      "clue": "Místnost pro ples; také pruh látky kolem krku"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Krátká textová zpráva"
+      "clue": "Černý pták se žlutým zobákem"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Stavba k bydlení; nebo obchodní ~"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Potomek zvířete"
+      "clue": "Stopa prstu na sklenici"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "clue": "Ruský panovník, třeba Petr Veliký"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Jedno velké polknutí; na jeden ~"
     }
   ]
 }

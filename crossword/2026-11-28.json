@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
-      "E",
-      "D",
-      "#"
-    ],
-    [
-      "D",
-      "A",
-      "T",
-      "U",
+      "#",
+      "O",
+      "S",
       "M"
     ],
     [
-      "O",
-      "B",
-      "A",
+      "#",
+      "#",
+      "R",
+      "Y",
+      "S"
+    ],
+    [
+      "D",
       "V",
-      "A"
+      "E",
+      "R",
+      "E"
     ],
     [
       "N",
-      "A",
-      "P",
-      "O",
-      "J"
+      "I",
+      "C",
+      "#",
+      "#"
     ],
     [
-      "#",
-      "K",
       "A",
-      "D",
+      "C",
+      "H",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "V tomto okamžiku"
+      "clue": "Číslo mezi sedmi a devíti"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Den v kalendáři"
+      "col": 2,
+      "cells": 3,
+      "clue": "Šelma se štětičkami na uších; také povahová črta"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Strach z budoucího"
+      "clue": "Vstup do místnosti"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Co se pije"
+      "cells": 3,
+      "clue": "Naprostá absence čehokoli"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Velká dřevěná nádoba na zelí"
+      "clue": "Citoslovce podivu či bolesti"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Rostlina, ze které se vyrábějí cigarety"
+      "clue": "Plod v tvrdé skořápce"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "col": 3,
+      "cells": 3,
+      "clue": "Mléčný výrobek se zráním"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Příčina jednání"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Španělský šlechtický titul"
+      "clue": "Katolická bohoslužba"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Pátý měsíc v roce; lásky čas"
+      "clue": "Nositelka dědičné informace"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Ve větším množství"
     }
   ]
 }

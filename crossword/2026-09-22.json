@@ -7,35 +7,35 @@
       "#",
       "M",
       "U",
-      "Z",
+      "J",
       "#"
+    ],
+    [
+      "K",
+      "O",
+      "M",
+      "I",
+      "N"
+    ],
+    [
+      "U",
+      "C",
+      "E",
+      "N",
+      "I"
     ],
     [
       "S",
       "A",
       "L",
       "A",
-      "M"
-    ],
-    [
-      "E",
-      "L",
-      "I",
-      "T",
-      "A"
-    ],
-    [
-      "M",
-      "I",
-      "C",
-      "E",
-      "K"
+      "T"
     ],
     [
       "#",
-      "R",
-      "E",
-      "Z",
+      "L",
+      "Y",
+      "K",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Dospělý člověk, kterému se říká pán"
+      "clue": "Přivlastňovací zájmeno první osoby"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Uzenina nakrájená na kolečka"
+      "clue": "Odvádí kouř nad střechu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Osvojování znalostí"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Malý míč, např. pingpongový"
+      "clue": "Mísa nakrájené zeleniny"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Rána vedená ostřím"
+      "clue": "Vodivá pletiva pod kůrou stromů (2. pád mn. č.)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "clue": "Bažina, mokřad"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Cesta mezi domy; slepá nikam nevede"
+      "clue": "Vyrobený, ne přírodní"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Nesené břemeno; také zkouška pevnosti"
+      "clue": "Jiným způsobem, odlišně"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Směrem k mluvčímu"
+      "clue": "Jeden odlomený či oddělený díl"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Červená polní květina; její semínka se sypou do buchet"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

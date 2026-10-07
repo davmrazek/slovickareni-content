@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "C",
-      "O",
-      "Z"
+      "H",
+      "N",
+      "E",
+      "D"
     ],
     [
       "#",
-      "#",
-      "H",
-      "R",
+      "M",
+      "A",
+      "M",
       "A"
     ],
     [
-      "B",
-      "R",
-      "A",
       "T",
-      "R"
+      "O",
+      "C",
+      "I",
+      "T"
     ],
     [
-      "A",
       "U",
       "T",
-      "#",
+      "E",
+      "S",
       "#"
     ],
     [
-      "T",
-      "M",
+      "F",
       "A",
-      "#",
+      "Z",
+      "E",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
+      "col": 1,
+      "cells": 4,
+      "clue": "Bez odkladu"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Důvěrně matka"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Mužský sourozenec"
+      "clue": "Otáčet dokola; natáčet film"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "cells": 4,
+      "clue": "Strmá skalní stěna nad mořem"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "cells": 4,
+      "clue": "Etapa vývoje"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Rekreační stavení"
+      "clue": "Látka, z níž se skládají tělesa"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "col": 2,
+      "cells": 5,
+      "clue": "A potom, a nato"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Sálavé horko z ohně"
+      "col": 3,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Pociťovat strach (~ se)"
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Destilát z cukrové třtiny"
+      "clue": "Sopečná usazená hornina"
     }
   ]
 }

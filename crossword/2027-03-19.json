@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "T",
-      "A",
+      "#",
+      "#",
       "K",
-      "#",
-      "#"
+      "R",
+      "K"
     ],
     [
+      "#",
+      "#",
+      "N",
       "A",
-      "N",
-      "O",
-      "#",
-      "#"
+      "D"
     ],
     [
-      "M",
+      "K",
+      "R",
       "I",
-      "N",
-      "C",
+      "Z",
       "E"
     ],
     [
+      "R",
+      "E",
+      "Z",
       "#",
-      "#",
-      "T",
-      "A",
-      "H"
+      "#"
     ],
     [
+      "A",
+      "V",
+      "E",
       "#",
-      "#",
-      "O",
-      "S",
-      "M"
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
+      "col": 2,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kovový peníz"
+      "clue": "Vážné zhoršení poměrů"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 3,
+      "clue": "Rána vedená ostřím"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Pohyb figurkou; nebo silné vytažení"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Číslo mezi sedmi a devíti"
+      "clue": "Latinský pozdrav v modlitbě"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vysoký šlechtický titul pod králem"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Svérázná povaha kraje nebo stavby"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Bankovní účet"
+      "col": 4,
+      "cells": 3,
+      "clue": "Tázací příslovce místa"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plovoucí ledová deska"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Plyne a měříme ho hodinami"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
+      "clue": "Hlasitý zvuk zvířete"
     }
   ]
 }

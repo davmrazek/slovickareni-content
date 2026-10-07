@@ -6,36 +6,36 @@
     [
       "#",
       "T",
-      "E",
-      "D",
-      "#"
-    ],
-    [
-      "P",
-      "O",
-      "M",
-      "O",
-      "C"
-    ],
-    [
-      "E",
-      "L",
-      "I",
-      "T",
-      "A"
-    ],
-    [
-      "C",
-      "I",
-      "S",
-      "A",
-      "R"
+      "R",
+      "U",
+      "P"
     ],
     [
       "#",
-      "K",
+      "R",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "L",
       "E",
       "Z",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "B",
+      "U",
+      "V",
+      "#"
+    ],
+    [
+      "D",
+      "A",
+      "M",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "V tomto okamžiku"
+      "cells": 4,
+      "clue": "Tělo bez hlavy a končetin; část letadla"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Podpora v nouzi"
+      "col": 1,
+      "cells": 4,
+      "clue": "Postava, kterou herec ztvárňuje"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Být v poloze naplocho"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Panovník říše"
+      "cells": 4,
+      "clue": "Co se obouvá"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Vyjadřuje přání: ~ by to byla pravda"
+      "col": 0,
+      "cells": 4,
+      "clue": "Urozená žena; také desková hra"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Například; nebo je nutné"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+      "clue": "Schopnost uvažovat"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Položená otázka"
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Zděné zařízení k tavení nebo topení"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
+      "clue": "Počet prstů na ruce"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Plavidlo; také hlavní prostor kostela"
     }
   ]
 }

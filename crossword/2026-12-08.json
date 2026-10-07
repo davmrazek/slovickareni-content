@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
       "O",
-      "C",
-      "#"
-    ],
-    [
-      "K",
-      "A",
-      "B",
-      "E",
-      "L"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "L",
-      "O"
-    ],
-    [
       "S",
-      "A",
-      "C",
-      "E",
-      "K"
+      "U",
+      "D"
     ],
     [
       "#",
+      "S",
+      "A",
+      "L",
+      "A"
+    ],
+    [
+      "P",
+      "A",
+      "M",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "D",
+      "E",
+      "V",
+      "#"
+    ],
+    [
+      "P",
+      "A",
       "T",
-      "I",
-      "K",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Vládní síla; nebo velmi"
+      "cells": 4,
+      "clue": "Předurčený běh života"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Silný izolovaný vodič"
+      "col": 1,
+      "cells": 4,
+      "clue": "Dlouhý pruh látky kolem krku"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kolem dokola"
+      "clue": "Schopnost vybavit si minulé; nebo RAM v počítači"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Malý papírový nebo igelitový obal"
+      "cells": 4,
+      "clue": "Vše, co se obléká"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nervový záškub oka"
+      "col": 0,
+      "cells": 4,
+      "clue": "Zadní část chodidla"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Hovorově tvrdě pracovat"
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Chloupky nad okem"
+      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Souhrn všech částí"
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Černý pták se žlutým zobákem"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Jeden doušek nápoje"
+      "clue": "Poskytnout, věnovat"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hudba z rádiových hitparád"
     }
   ]
 }

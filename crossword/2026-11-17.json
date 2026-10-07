@@ -13,28 +13,28 @@
     [
       "#",
       "#",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      "T",
       "R",
       "E",
-      "C"
+      "S",
+      "T"
     ],
     [
-      "P",
-      "R",
-      "A",
-      "C",
-      "H"
-    ],
-    [
-      "L",
-      "O",
       "M",
+      "O",
+      "R",
       "#",
       "#"
     ],
     [
-      "Z",
-      "D",
       "A",
+      "V",
+      "E",
       "#",
       "#"
     ]
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Zemní obranné navršení"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jemné suché částice; nebo střelný ~"
+      "clue": "Postih za provinění"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+      "clue": "Zhoubná nakažlivá nemoc"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Latinský pozdrav v modlitbě"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Divadelní hra s vážným dějem"
+      "clue": "Vstup do místnosti"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Předmět; nebo záležitost"
+      "clue": "Přivlastňovací zájmeno druhé osoby množné"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Hluboký ženský hlas"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Knižně: hrob"
     }
   ]
 }

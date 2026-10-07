@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "M",
+      "K",
+      "U",
+      "N",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "A",
+      "M"
+    ],
+    [
+      "O",
+      "B",
       "I",
+      "L",
+      "I"
+    ],
+    [
+      "K",
+      "A",
+      "C",
+      "E",
       "T"
     ],
     [
       "#",
-      "#",
-      "O",
-      "N",
-      "I"
-    ],
-    [
-      "V",
-      "S",
       "T",
-      "U",
-      "P"
-    ],
-    [
-      "L",
       "E",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "K",
-      "D",
-      "O",
-      "#",
+      "Z",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "col": 0,
+      "cells": 5,
+      "clue": "Uzenina nakrájená na kolečka"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vejití; nebo poplatek za vpuštění"
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "cells": 5,
+      "clue": "Porážet stromy"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Knižně: také"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Heslo či citát v čele textu"
+      "clue": "Svrchní zimní oděv; také kapela z Teplic"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Objevený předmět; lékařský závěr"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Odhad, sázka na výsledek"
+      "clue": "Soupeř, protivník"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Barva popela, mezi bílou a černou"
+      "clue": "Vlastnit; nebo ~ se k světu"
     }
   ]
 }

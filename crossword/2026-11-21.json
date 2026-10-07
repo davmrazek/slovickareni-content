@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
-      "E",
+      "#",
+      "Z",
       "D",
-      "#"
-    ],
-    [
-      "P",
-      "A",
-      "T",
-      "E",
-      "K"
-    ],
-    [
-      "O",
-      "B",
-      "A",
-      "V",
-      "A"
-    ],
-    [
-      "P",
-      "A",
-      "P",
-      "E",
-      "Z"
+      "E"
     ],
     [
       "#",
-      "K",
+      "#",
+      "M",
       "A",
-      "T",
+      "G"
+    ],
+    [
+      "J",
+      "M",
+      "E",
+      "N",
+      "O"
+    ],
+    [
+      "H",
+      "O",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "V tomto okamžiku"
+      "clue": "Na tomto místě, tady"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Poslední pracovní den"
+      "col": 2,
+      "cells": 3,
+      "clue": "Čaroděj, kouzelník"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Strach z budoucího"
+      "clue": "Jak se kdo nazývá"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Hlava katolické církve"
+      "cells": 3,
+      "clue": "Štvanice na zvěř"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Kdo vykonává popravu"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Rostlina, ze které se vyrábějí cigarety"
+      "clue": "Přechod do jiného stavu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "col": 3,
+      "cells": 3,
+      "clue": "Povinná platba státu"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Číslo před desítkou"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Hudba z rádiových hitparád"
+      "clue": "Vlastní já; nafouklé bývá u hvězd"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "clue": "Dřevo na krku tažného dobytka; útlak"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Herní úprava od fanoušků"
     }
   ]
 }

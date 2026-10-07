@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "R",
-      "O",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "B",
-      "R"
-    ],
-    [
-      "T",
-      "A",
-      "B",
-      "A",
-      "K"
-    ],
-    [
+      "P",
       "E",
-      "S",
-      "O",
-      "#",
+      "T",
       "#"
     ],
     [
-      "N",
+      "S",
+      "A",
+      "M",
+      "A",
+      "N"
+    ],
+    [
+      "U",
+      "S",
       "I",
+      "L",
+      "I"
+    ],
+    [
       "T",
+      "E",
+      "S",
+      "I",
+      "T"
+    ],
+    [
       "#",
+      "K",
+      "E",
+      "R",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Počet prstů na ruce"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Pohádkový velikán"
+      "col": 0,
+      "cells": 5,
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Rostlina, ze které se vyrábějí cigarety"
+      "clue": "Vynaložená námaha"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "cells": 5,
+      "clue": "Působit radost"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Nízká dřevina bez kmene"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
+      "clue": "Řemen do kalhot"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Nádobí, ze kterého se jí"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Rozpadlé zdivo, trosky"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

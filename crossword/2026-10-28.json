@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "O",
-      "B",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "B",
-      "O",
-      "A"
-    ],
-    [
       "A",
-      "K",
-      "O",
-      "R",
-      "D"
+      "L",
+      "E"
     ],
     [
-      "L",
-      "U",
+      "#",
+      "#",
+      "G",
+      "A",
+      "G"
+    ],
+    [
       "J",
+      "M",
+      "E",
+      "N",
+      "O"
+    ],
+    [
+      "I",
+      "O",
+      "N",
       "#",
       "#"
     ],
     [
+      "H",
+      "L",
       "T",
-      "R",
-      "I",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Škrtič z pralesa; také péřový šál"
+      "clue": "Vtipná scéna v komedii"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Souzvuk více tónů"
+      "clue": "Jak se kdo nazývá"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Tuhý živočišný tuk, v zimě se dává ptákům"
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Počet nohou stativu"
+      "clue": "Jedno velké polknutí; na jeden ~"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Obou druhů zároveň"
+      "clue": "Tajný pracovník; také zástupce"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Suchý les s jehličím a pískem"
+      "clue": "Velké souvislé pole"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
+      "clue": "Vlastní já; nafouklé bývá u hvězd"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Světová strana proti severu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Místo s varhanami v kostele"
+      "clue": "Škůdce ve skříni"
     }
   ]
 }

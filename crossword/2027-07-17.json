@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "A",
-      "L",
-      "E",
+      "P",
+      "R",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "V",
       "#",
       "#"
     ],
     [
       "S",
-      "E",
-      "F",
-      "#",
-      "#"
-    ],
-    [
-      "I",
-      "D",
-      "E",
-      "A",
-      "L"
-    ],
-    [
-      "#",
-      "#",
       "K",
-      "R",
+      "O",
+      "D",
       "A"
     ],
     [
       "#",
       "#",
-      "T",
+      "C",
       "A",
-      "T"
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "R",
+      "A"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Nadřízený v práci"
+      "clue": "Knižně: hrob"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
+      "clue": "Způsobená ztráta; také mladoboleslavská značka"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "clue": "Ruský panovník, třeba Petr Veliký"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Dějinné období, epocha"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Výsledný účinek; také zvukový ~ ve filmu"
+      "clue": "Sladké plody stromů"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Věc věnovaná bezplatně"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Velký barevný papoušek"
     }
   ]
 }

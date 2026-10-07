@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "M",
-      "I",
-      "T",
       "#",
-      "#"
-    ],
-    [
-      "A",
-      "N",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "T",
-      "U",
+      "H",
       "R",
-      "N",
+      "O",
+      "B"
+    ],
+    [
+      "#",
+      "R",
+      "I",
+      "S",
       "E"
     ],
     [
-      "#",
-      "#",
-      "Z",
+      "O",
+      "D",
+      "K",
       "A",
-      "R"
+      "Z"
     ],
     [
-      "#",
-      "#",
+      "K",
+      "L",
+      "A",
+      "D",
+      "#"
+    ],
+    [
+      "R",
       "O",
-      "S",
-      "A"
+      "T",
+      "A",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "col": 1,
+      "cells": 4,
+      "clue": "Místo posledního odpočinku"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Velký stát ovládaný císařem"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Série vystoupení na různých místech"
+      "clue": "Poukaz na zdroj; dědictví"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dobrá stránka věci, opak záporu"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Sálavé horko z ohně"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "col": 0,
+      "cells": 4,
+      "clue": "Vojenská jednotka"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Rozhodující tah, jímž končí šachová partie"
+      "col": 1,
+      "cells": 5,
+      "clue": "Krční průchod; úzké místo"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Sdělovat slovy"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Neúplný celek; trup sochy bez končetin"
+      "clue": "Malé sídlo, obvykle rekreační"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Předložka nedostatku; také keř s bílými květy"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno (~ dům)"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Žlutohnědý přírodní pigment"
     }
   ]
 }

@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "T",
-      "A",
-      "K",
       "#",
+      "B",
+      "O",
+      "D",
       "#"
+    ],
+    [
+      "J",
+      "A",
+      "V",
+      "O",
+      "R"
     ],
     [
       "E",
       "R",
-      "A",
-      "#",
-      "#"
-    ],
-    [
-      "N",
-      "A",
-      "P",
-      "I",
-      "S"
-    ],
-    [
-      "#",
-      "#",
-      "S",
       "O",
+      "Z",
+      "E"
+    ],
+    [
+      "Z",
+      "A",
+      "C",
+      "I",
       "T"
     ],
     [
       "#",
-      "#",
-      "A",
-      "N",
-      "O"
+      "Z",
+      "E",
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Tečka; nebo jednotka skóre"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "cells": 5,
+      "clue": "Strom, jehož list zdobí kanadskou vlajku"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Text na ceduli"
+      "clue": "Rozrušování půdy vodou a větrem"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Pustit se do práce"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Pro tchána i tchyni manžel jejich dcery"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "col": 1,
+      "cells": 5,
+      "clue": "Rozhodující zápas o postup"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "col": 2,
+      "cells": 5,
+      "clue": "Sladké plody stromů"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Váček našitý na kalhotách"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "cells": 5,
+      "clue": "Strávit zbytek života"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nízká hráz přes řeku"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     }
   ]
 }

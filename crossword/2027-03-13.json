@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "K",
-      "D",
-      "O"
+      "C",
+      "O",
+      "Z"
     ],
     [
       "#",
       "#",
-      "R",
-      "E",
-      "J"
-    ],
-    [
-      "V",
-      "S",
+      "H",
       "U",
-      "D",
-      "E"
+      "L"
     ],
     [
-      "L",
-      "E",
+      "K",
+      "R",
+      "U",
       "T",
+      "Y"
+    ],
+    [
+      "R",
+      "A",
+      "Z",
       "#",
       "#"
     ],
     [
       "K",
       "D",
-      "Y",
+      "E",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Divoký vír tance"
+      "clue": "Opora při chůzi"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na všech místech"
+      "clue": "Nemilosrdný"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "clue": "Svérázná povaha kraje nebo stavby"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Tázací příslovce místa"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Nemilosrdný"
+      "clue": "Pohyb po nohou"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Otec rodiče"
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Tyč, za kterou táhne kůň vůz"
+      "clue": "Plný zloby, nedobrý"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Barva popela, mezi bílou a černou"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     }
   ]
 }

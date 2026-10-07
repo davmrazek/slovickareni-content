@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "R",
-      "E",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "K",
-      "N",
-      "I",
-      "Z",
-      "E"
-    ],
-    [
-      "#",
       "#",
       "S",
-      "A",
-      "T"
+      "N",
+      "O",
+      "P"
     ],
     [
       "#",
-      "#",
-      "K",
-      "R",
+      "M",
+      "A",
+      "P",
       "A"
+    ],
+    [
+      "T",
+      "E",
+      "R",
+      "E",
+      "N"
+    ],
+    [
+      "U",
+      "N",
+      "O",
+      "R",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "A",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "col": 1,
+      "cells": 4,
+      "clue": "Svázaná otep obilí z pole"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Zmenšený obraz krajiny"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vysoký šlechtický titul pod králem"
+      "clue": "Povrch krajiny"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nejkratší měsíc"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Knižně oděv, roucho"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "col": 0,
+      "cells": 4,
+      "clue": "Sled věcí za sebou; nebo doporučení"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "col": 1,
+      "cells": 5,
+      "clue": "Pracovní doba jedné party; ranní či noční"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "col": 2,
+      "cells": 5,
+      "clue": "Společenství lidí se společným jazykem a dějinami"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "clue": "Zpívané jevištní dílo"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zdvořilé oslovení muže"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Sálavé horko z ohně"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
     }
   ]
 }

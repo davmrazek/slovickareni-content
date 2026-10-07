@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "N",
-      "A",
-      "D",
-      "#"
-    ],
-    [
-      "K",
-      "A",
-      "N",
-      "O",
-      "N"
-    ],
-    [
-      "U",
-      "Z",
-      "E",
-      "M",
-      "I"
-    ],
-    [
-      "R",
-      "O",
-      "B",
-      "O",
-      "T"
-    ],
-    [
       "#",
       "R",
       "O",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "B",
+      "R"
+    ],
+    [
       "V",
+      "A",
+      "Z",
+      "A",
+      "T"
+    ],
+    [
+      "I",
+      "N",
+      "U",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "O",
+      "M",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Předložka vyšší polohy"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Dělo z dob plachetnic"
+      "col": 2,
+      "cells": 3,
+      "clue": "Pohádkový velikán"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vymezená část země, teritorium"
+      "clue": "Svazovat provazem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
+      "cells": 3,
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Knižně: hrob"
+      "clue": "Velký chrám (kolínský, milánský)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Osobní stanovisko"
+      "clue": "Schopnost uvažovat"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "col": 3,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Místo, kam patříme"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Místo s varhanami v kostele"
+      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Mluvnická kategorie slovesa"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     }
   ]
 }

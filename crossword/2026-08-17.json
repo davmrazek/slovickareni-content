@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "#",
       "P",
-      "R",
-      "I"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "A",
-      "N"
-    ],
-    [
-      "V",
-      "E",
-      "N",
-      "K",
-      "U"
-    ],
-    [
-      "A",
+      "U",
       "S",
-      "I",
-      "#",
+      "T",
       "#"
     ],
     [
+      "U",
+      "N",
+      "O",
+      "R",
+      "#"
+    ],
+    [
+      "L",
+      "E",
+      "K",
+      "A",
+      "R"
+    ],
+    [
+      "#",
       "S",
       "O",
-      "T",
+      "V",
+      "A"
+    ],
+    [
       "#",
-      "#"
+      "T",
+      "L",
+      "A",
+      "K"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Velké souvislé pole"
+      "col": 0,
+      "cells": 4,
+      "clue": "Doba odříkání před Velikonocemi"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nejkratší měsíc"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Mimo budovu"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Ten, kdo léčí pacienty"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Noční pták s velkýma očima"
+    },
+    {
+      "num": 9,
       "row": 4,
-      "col": 0,
-      "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "col": 1,
+      "cells": 4,
+      "clue": "Síla na jednotku plochy"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Naplňovat; nebo splňovat úkol"
+      "col": 0,
+      "cells": 3,
+      "clue": "Polovina (~ litru)"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
+      "col": 1,
+      "cells": 5,
+      "clue": "Zvednout břemeno; odvléct člověka"
     },
     {
       "num": 3,
       "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Zelený porost louky"
+    },
+    {
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Přivlastňovací zájmeno druhé osoby množné"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
     }
   ]
 }

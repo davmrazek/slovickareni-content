@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "D",
-      "V",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "A",
-      "N"
-    ],
-    [
-      "O",
-      "K",
-      "O",
+      "P",
+      "U",
       "L",
-      "O"
-    ],
-    [
-      "R",
-      "E",
-      "J",
-      "#",
       "#"
     ],
     [
-      "T",
-      "R",
+      "K",
+      "A",
+      "S",
+      "E",
+      "L"
+    ],
+    [
+      "U",
+      "L",
       "I",
+      "C",
+      "E"
+    ],
+    [
+      "N",
+      "A",
+      "L",
+      "I",
+      "T"
+    ],
+    [
       "#",
+      "C",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Číslo mezi jedničkou a trojkou"
+      "clue": "Polovina (~ litru)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Slabý pohyb vzduchu"
+      "col": 0,
+      "cells": 5,
+      "clue": "Štěkavý průvodce nachlazení"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kolem dokola"
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Divoký vír tance"
+      "cells": 5,
+      "clue": "Naplnit sklenici až po okraj"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Počet nohou stativu"
+      "clue": "Emoce; nebo schopnost vnímat"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Dvou různých druhů zároveň"
+      "clue": "Honosná městská budova"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Zemní obranné navršení"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vynaložená námaha"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Odstraňovat nemoc"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     }
   ]
 }

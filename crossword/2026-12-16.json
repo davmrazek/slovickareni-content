@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "C",
-      "O",
-      "Z"
-    ],
-    [
-      "#",
-      "#",
-      "H",
       "U",
-      "L"
+      "D",
+      "A",
+      "J"
     ],
     [
-      "Z",
+      "#",
+      "M",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "E",
+      "T"
+    ],
+    [
+      "E",
       "L",
       "A",
-      "T",
-      "Y"
-    ],
-    [
-      "D",
-      "I",
-      "T",
-      "#",
+      "N",
       "#"
     ],
     [
+      "K",
+      "Y",
+      "T",
       "A",
-      "H",
-      "A",
-      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Opora při chůzi"
+      "col": 1,
+      "cells": 4,
+      "clue": "Jednotlivá informace"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Velká slaná vodní plocha"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Z drahého žlutého kovu"
+      "clue": "Spočívat na židli"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "cells": 4,
+      "clue": "Nadšený rozmach do práce"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "cells": 4,
+      "clue": "Vepřové stehno na řízky i do udírny"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Rekreační stavení"
+      "clue": "Vyrobený, ne přírodní"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Doplnit; doručit zboží"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Plný zloby, nedobrý"
+      "col": 3,
+      "cells": 5,
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Pohybovat se dopravním prostředkem"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
+      "clue": "Platební poukaz místo hotovosti"
     }
   ]
 }

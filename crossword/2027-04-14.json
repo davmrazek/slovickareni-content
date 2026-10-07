@@ -4,46 +4,46 @@
   "size": 5,
   "grid": [
     [
+      "#",
       "T",
       "E",
       "N",
-      "#",
       "#"
     ],
     [
-      "A",
+      "P",
+      "O",
       "R",
       "A",
-      "#",
-      "#"
+      "D"
     ],
     [
-      "K",
-      "A",
+      "O",
       "P",
-      "S",
+      "O",
+      "R",
       "A"
     ],
     [
-      "#",
-      "#",
-      "I",
+      "P",
       "O",
-      "N"
+      "Z",
+      "O",
+      "R"
     ],
     [
       "#",
-      "#",
-      "S",
+      "L",
+      "E",
       "K",
-      "I"
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
       "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
@@ -51,66 +51,66 @@
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "cells": 5,
+      "clue": "Neustále"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Váček našitý na kalhotách"
+      "clue": "Ten, o koho se lze opřít"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Varovné zvolání"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Elektricky nabitá částice"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Lyžařský, v názvech vleků a areálů"
+      "clue": "Prostředek proti nemoci"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tímto způsobem"
+      "col": 1,
+      "cells": 5,
+      "clue": "Štíhlý strom vysazovaný do alejí"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "col": 2,
+      "cells": 5,
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Text na ceduli"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Soupeř, protivník"
+      "cells": 5,
+      "clue": "Oprávněný požadavek"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hudba z rádiových hitparád"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Věc věnovaná bezplatně"
     }
   ]
 }

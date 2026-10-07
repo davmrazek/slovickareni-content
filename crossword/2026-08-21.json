@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "P",
-      "R",
-      "I",
       "#",
-      "#"
-    ],
-    [
-      "R",
-      "Y",
-      "K",
-      "#",
-      "#"
-    ],
-    [
-      "S",
-      "T",
       "O",
-      "P",
+      "S",
+      "U",
+      "D"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "L",
       "A"
     ],
     [
-      "#",
-      "#",
-      "N",
+      "P",
       "A",
-      "S"
+      "M",
+      "E",
+      "T"
     ],
     [
-      "#",
-      "#",
+      "O",
+      "D",
+      "E",
+      "V",
+      "#"
+    ],
+    [
+      "T",
       "A",
-      "N",
-      "I"
+      "T",
+      "A",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Hromový řev davu či zvěře"
+      "col": 1,
+      "cells": 4,
+      "clue": "Předurčený běh života"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Dlouhý pruh látky kolem krku"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Otisk v blátě"
+      "clue": "Schopnost vybavit si minulé; nebo RAM v počítači"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vše, co se obléká"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Přivlastňovací zájmeno (~ dům)"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "col": 0,
+      "cells": 4,
+      "clue": "Důvěrně otec"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "col": 1,
+      "cells": 5,
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "col": 2,
+      "cells": 5,
+      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "clue": "Pocit po odeznění tíhy"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Zdvořilé oslovení muže"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Tekutina na kůži při horku"
     }
   ]
 }

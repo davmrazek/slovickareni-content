@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "J",
-      "I",
-      "Z",
       "#",
-      "#"
-    ],
-    [
-      "O",
-      "N",
-      "I",
-      "#",
-      "#"
-    ],
-    [
-      "D",
-      "U",
-      "V",
-      "O",
-      "D"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "B",
-      "A"
-    ],
-    [
-      "#",
-      "#",
+      "P",
+      "E",
       "T",
-      "R",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "A",
       "N"
+    ],
+    [
+      "U",
+      "S",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "I",
+      "C"
+    ],
+    [
+      "#",
+      "K",
+      "E",
+      "R",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Knižně: už"
+      "clue": "Počet prstů na ruce"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "cells": 5,
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Příčina jednání"
+      "clue": "Vynaložená námaha"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Dvanáctina roku; také družice Země"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Ostrý výrůstek na růži"
+      "clue": "Nízká dřevina bez kmene"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Prvek v dezinfekci ran"
+      "col": 1,
+      "cells": 5,
+      "clue": "Řemen do kalhot"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Opak smrti"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Pohádkový velikán"
+      "cells": 5,
+      "clue": "Nádobí, ze kterého se jí"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Povinná platba státu"
+      "clue": "Naprostá absence čehokoli"
     }
   ]
 }

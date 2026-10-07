@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "#",
-      "C",
-      "O",
-      "Z"
-    ],
-    [
-      "#",
-      "#",
-      "H",
-      "U",
-      "L"
-    ],
-    [
-      "S",
-      "V",
-      "A",
       "T",
-      "Y"
+      "R",
+      "U",
+      "P",
+      "#"
     ],
     [
       "R",
-      "E",
-      "T",
-      "#",
+      "A",
+      "D",
+      "A",
       "#"
     ],
     [
-      "P",
-      "S",
-      "A",
+      "I",
+      "K",
+      "O",
+      "N",
+      "A"
+    ],
+    [
       "#",
-      "#"
+      "E",
+      "L",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "V",
+      "I",
+      "K",
+      "O"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Opora při chůzi"
+      "col": 0,
+      "cells": 4,
+      "clue": "Tělo bez hlavy a končetin; část letadla"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Sled věcí za sebou; nebo doporučení"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Uctívaný církví"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Nadšený rozmach do práce"
+    },
+    {
+      "num": 9,
       "row": 4,
-      "col": 0,
-      "cells": 3,
-      "clue": "Čtyřnohý společník na vodítku (4. pád)"
+      "col": 1,
+      "cells": 4,
+      "clue": "Uzávěr hrnce"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rekreační stavení"
+      "col": 0,
+      "cells": 3,
+      "clue": "Počet nohou stativu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "col": 1,
+      "cells": 5,
+      "clue": "Truhla, do níž se ukládá zesnulý"
     },
     {
       "num": 3,
       "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Níže položené místo mezi kopci"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Malá sklenka tvrdého alkoholu; nebo figurka"
+    },
+    {
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Plný zloby, nedobrý"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Malá obec na venkově"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     }
   ]
 }

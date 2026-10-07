@@ -6,34 +6,34 @@
     [
       "#",
       "#",
-      "O",
-      "K",
+      "S",
+      "A",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "L",
       "O"
     ],
     [
-      "#",
-      "#",
-      "P",
-      "A",
+      "S",
+      "V",
+      "E",
+      "T",
       "R"
     ],
     [
-      "S",
-      "P",
+      "I",
       "O",
-      "R",
-      "T"
-    ],
-    [
-      "T",
-      "U",
-      "R",
+      "N",
       "#",
       "#"
     ],
     [
-      "O",
-      "D",
+      "K",
+      "R",
       "A",
       "#",
       "#"
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Zcela bez doprovodu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Dva k sobě patřící; nebo několik málo"
+      "clue": "Poplatek za dovoz zboží přes hranice"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pohybová soutěž"
+      "clue": "Pletený oděv na zimu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Plovoucí ledová deska"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Ten, o koho se lze opřít"
+      "clue": "Výjev ve hře; žárlivci je rádi dělají"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Ledovcový kotel v horách"
+      "clue": "Hluboký ženský hlas"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Zhoubná nakažlivá nemoc"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Sevřený vojenský útvar; nebo elegantní"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Vrozený nutkavý sklon"
+      "clue": "Plavidlo svázané z klád"
     }
   ]
 }

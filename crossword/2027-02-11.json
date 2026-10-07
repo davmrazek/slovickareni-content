@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "R",
-      "O",
-      "K",
       "#",
+      "N",
+      "O",
+      "S",
       "#"
     ],
     [
-      "O",
+      "K",
+      "A",
       "B",
       "A",
-      "#",
-      "#"
+      "T"
     ],
     [
-      "H",
-      "R",
-      "U",
-      "Z",
-      "A"
+      "O",
+      "P",
+      "I",
+      "L",
+      "Y"
     ],
     [
-      "#",
-      "#",
-      "Z",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
+      "S",
       "A",
       "L",
-      "T"
+      "A",
+      "M"
+    ],
+    [
+      "#",
+      "D",
+      "I",
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "cells": 5,
+      "clue": "Svrchní zimní oděv; také kapela z Teplic"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Zděšení, které vžene mráz po zádech"
+      "clue": "Pod vlivem alkoholu"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Uzenina nakrájená na kolečka"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Dítě, které chodí do školy"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Odehrávat se, přihodit se"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
+      "col": 1,
+      "cells": 5,
+      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Pohádkový velikán"
+      "col": 2,
+      "cells": 5,
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Sledovaný právní případ"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Hluboký smutek"
+      "cells": 5,
+      "clue": "Mísa nakrájené zeleniny"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Černý pták se žlutým zobákem"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Skupina hráčů či pracovníků"
     }
   ]
 }

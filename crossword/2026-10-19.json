@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
       "T",
-      "A",
-      "M"
-    ],
-    [
-      "#",
-      "#",
       "O",
-      "S",
-      "A"
-    ],
-    [
-      "V",
-      "O",
-      "L",
-      "I",
-      "T"
-    ],
-    [
-      "A",
       "N",
-      "I",
-      "#",
       "#"
     ],
     [
-      "S",
-      "I",
+      "Z",
+      "A",
+      "P",
+      "A",
+      "S"
+    ],
+    [
+      "O",
+      "B",
+      "O",
+      "C",
+      "I"
+    ],
+    [
       "K",
+      "O",
+      "R",
+      "E",
+      "N"
+    ],
+    [
       "#",
+      "R",
+      "A",
+      "Z",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Zvuk určité výšky"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "col": 0,
+      "cells": 5,
+      "clue": "Utkání dvou soupeřů"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vhazovat lístek do urny"
+      "clue": "Chloupky nad okem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "cells": 5,
+      "clue": "Podzemní část rostliny"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Sevřený vojenský útvar; nebo elegantní"
+      "clue": "Svérázná povaha kraje nebo stavby"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 2,
+      "cells": 5,
+      "clue": "Ten, o koho se lze opřít"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "A potom, a nato"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Rozhodující tah, jímž končí šachová partie"
+      "clue": "Velký pytel na vlnu nebo chmel"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno druhé osoby množné"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Velký reprezentační sál"
     }
   ]
 }

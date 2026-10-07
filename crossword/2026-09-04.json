@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "#",
+      "V",
       "K",
-      "D",
-      "E",
-      "#",
-      "#"
-    ],
-    [
-      "A",
       "U",
-      "T",
-      "#",
-      "#"
+      "S"
     ],
     [
+      "#",
       "Z",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "S",
+      "A",
       "L",
       "A",
-      "T",
-      "O"
+      "M"
     ],
     [
-      "#",
-      "#",
-      "P",
       "U",
-      "K"
+      "D",
+      "I",
+      "V",
+      "#"
     ],
     [
-      "#",
-      "#",
+      "M",
+      "U",
+      "K",
       "A",
-      "N",
-      "O"
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tázací příslovce místa"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "col": 1,
+      "cells": 4,
+      "clue": "Cit pro krásné"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Vymezené pásmo"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Uzenina nakrájená na kolečka"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Podivení nad nečekaným"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Kotouček v ledním hokeji"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "col": 0,
+      "cells": 4,
+      "clue": "Dlouhé a těžké utrpení"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Vada; také díra v zubu"
+      "col": 1,
+      "cells": 5,
+      "clue": "Na zadní straně, opak vpředu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "col": 2,
+      "cells": 5,
+      "clue": "Tázací zájmeno na množství"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
+      "clue": "Vyčerpání po námaze"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zcela bez doprovodu"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Hluboké tiché místo v řece"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
     }
   ]
 }

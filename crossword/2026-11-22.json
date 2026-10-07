@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "H",
-      "N",
-      "E",
-      "D"
+      "#",
+      "Z",
+      "D",
+      "E"
     ],
     [
       "#",
-      "M",
-      "A",
-      "M",
-      "A"
-    ],
-    [
-      "T",
-      "O",
-      "C",
-      "I",
-      "T"
-    ],
-    [
+      "#",
+      "B",
       "U",
-      "T",
-      "E",
+      "M"
+    ],
+    [
       "S",
+      "P",
+      "O",
+      "L",
+      "U"
+    ],
+    [
+      "R",
+      "A",
+      "Z",
+      "#",
       "#"
     ],
     [
-      "F",
-      "A",
-      "Z",
-      "E",
+      "P",
+      "R",
+      "I",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Bez odkladu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Na tomto místě, tady"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zvuk výbuchu"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Důvěrně matka"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "clue": "Společně"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Strmá skalní stěna nad mořem"
+      "cells": 3,
+      "clue": "Svérázná povaha kraje nebo stavby"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 4,
-      "clue": "Etapa vývoje"
+      "cells": 3,
+      "clue": "Předložka blízkosti (~ cestě)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Látka, z níž se skládají tělesa"
+      "clue": "Co se prodává v regálech"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "A potom, a nato"
+      "col": 3,
+      "cells": 3,
+      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
-    },
-    {
-      "num": 4,
-      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Australský neletící pták"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Sopečná usazená hornina"
+      "clue": "Dva k sobě patřící; nebo několik málo"
     }
   ]
 }

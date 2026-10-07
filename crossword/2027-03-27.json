@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "S",
+      "#",
       "T",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "M",
-      "Y",
-      "S",
-      "#",
+      "E",
+      "N",
       "#"
     ],
     [
       "S",
-      "M",
       "A",
-      "L",
+      "M",
+      "E",
       "T"
     ],
     [
-      "#",
-      "#",
-      "D",
       "U",
-      "M"
+      "L",
+      "O",
+      "H",
+      "A"
+    ],
+    [
+      "M",
+      "I",
+      "C",
+      "E",
+      "K"
     ],
     [
       "#",
-      "#",
-      "A",
-      "H",
-      "A"
+      "R",
+      "E",
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Kočičí kořist; také výběžek pevniny do moře"
+      "cells": 5,
+      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Sklovitý povlak na plechovém hrnci"
+      "clue": "Zadání k řešení; nebo role"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Malý míč, např. pingpongový"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Krátká textová zpráva"
+      "col": 1,
+      "cells": 5,
+      "clue": "Nádobí, ze kterého se jí"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Skupina hráčů či pracovníků"
+      "col": 2,
+      "cells": 5,
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Malé sídlo, obvykle rekreační"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Vlhký les a louky při řece; s háji tvoří známou dvojici"
+      "cells": 5,
+      "clue": "Rohovitý útvar na konci prstu"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Tímto způsobem"
     }
   ]
 }

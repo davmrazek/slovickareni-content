@@ -28,15 +28,15 @@
       "#",
       "#",
       "B",
-      "E",
-      "H"
+      "A",
+      "L"
     ],
     [
       "#",
       "#",
       "O",
-      "S",
-      "A"
+      "R",
+      "T"
     ]
   ],
   "across": [
@@ -66,14 +66,14 @@
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Rychlý pohyb po nohou"
+      "clue": "Zastarale ples, taneční zábava"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Vodorovná důlní chodba"
     }
   ],
   "down": [
@@ -103,14 +103,14 @@
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Zlý duch; nebo zuřivé řádění"
+      "clue": "Podnik s nápoji a vysokými židlemi"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Hluboký ženský hlas"
     }
   ]
 }

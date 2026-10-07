@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
       "T",
       "E",
-      "N"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "R",
-      "A"
-    ],
-    [
-      "S",
-      "K",
-      "L",
-      "A",
-      "D"
-    ],
-    [
-      "T",
-      "R",
-      "I",
-      "#",
+      "N",
       "#"
     ],
     [
-      "O",
-      "B",
+      "D",
+      "A",
       "R",
+      "E",
+      "K"
+    ],
+    [
+      "U",
+      "L",
+      "O",
+      "H",
+      "A"
+    ],
+    [
+      "M",
+      "I",
+      "Z",
+      "E",
+      "T"
+    ],
+    [
       "#",
+      "R",
+      "E",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
       "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "col": 0,
+      "cells": 5,
+      "clue": "Věc pod stromečkem"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Hala, kde se ukládá zboží"
+      "clue": "Zadání k řešení; nebo role"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Počet nohou stativu"
+      "cells": 5,
+      "clue": "Ztrácet se z dohledu"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
       "clue": "Nádobí, ze kterého se jí"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "col": 2,
+      "cells": 5,
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Rohovitý útvar na konci prstu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Předložka vyšší polohy"
+      "clue": "Stavba k bydlení; nebo obchodní ~"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Otevřené ohniště v obývacím pokoji"
+      "clue": "Kdo vykonává popravu"
     }
   ]
 }

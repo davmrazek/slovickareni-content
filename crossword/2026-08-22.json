@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "T",
+      "P",
       "A",
-      "M",
-      "#",
+      "K",
+      "A",
       "#"
     ],
     [
+      "U",
+      "K",
       "O",
-      "S",
-      "A",
-      "#",
+      "R",
       "#"
     ],
     [
-      "N",
-      "I",
-      "T",
-      "R",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "K",
+      "L",
+      "O",
+      "V",
       "E",
-      "R"
+      "C"
     ],
     [
       "#",
-      "#",
+      "R",
       "A",
-      "K",
-      "T"
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "D",
+      "R",
+      "A",
+      "P"
     ]
   ],
   "across": [
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 0,
-      "cells": 3,
-      "clue": "Na onom místě, opak sem"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "cells": 4,
+      "clue": "Jednoduchý stroj na zvedání břemen"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Na újmu (na ~ kvality)"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vnitřek věci; také lidské city"
+      "clue": "Ten, kdo stopuje a skolí zvěř"
     },
     {
       "num": 8,
       "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "col": 1,
+      "cells": 4,
+      "clue": "Poranění; také úder"
     },
     {
       "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "col": 1,
+      "cells": 4,
+      "clue": "Ostrý nehet kočky nebo dravce"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "clue": "Polovina (~ litru)"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "cells": 5,
+      "clue": "Souzvuk více tónů"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Ženský rodič"
+      "clue": "Řemeslník, který kuje železo"
     },
     {
-      "num": 6,
-      "row": 2,
+      "num": 4,
+      "row": 0,
       "col": 3,
-      "cells": 3,
-      "clue": "Knižně hrdina"
+      "cells": 5,
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Bílý pták s dlouhým zobákem"
     }
   ]
 }

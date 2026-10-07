@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
+      "K",
+      "U",
+      "S",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "C",
+      "A",
+      "L"
+    ],
+    [
+      "U",
+      "M",
+      "E",
+      "L",
+      "Y"
+    ],
+    [
+      "J",
+      "I",
+      "N",
       "A",
       "K"
     ],
     [
       "#",
-      "#",
-      "O",
-      "S",
-      "A"
-    ],
-    [
-      "M",
-      "A",
-      "L",
-      "I",
-      "R"
-    ],
-    [
-      "O",
       "N",
       "I",
-      "#",
-      "#"
-    ],
-    [
-      "D",
-      "I",
-      "K",
-      "#",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Jeden odlomený či oddělený díl"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "col": 0,
+      "cells": 5,
+      "clue": "Bažina, mokřad"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kdo maluje obrazy nebo stěny"
+      "clue": "Vyrobený, ne přírodní"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "cells": 5,
+      "clue": "Jiným způsobem, odlišně"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Projev vděčnosti, poděkování"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Odvádí kouř nad střechu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 2,
+      "cells": 5,
+      "clue": "Osvojování znalostí"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Mísa nakrájené zeleniny"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Ledovcový kotel v horách"
+      "clue": "Přivlastňovací zájmeno první osoby"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Herní úprava od fanoušků"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Vodivá pletiva pod kůrou stromů (2. pád mn. č.)"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
       "P",
-      "R",
-      "O"
+      "E",
+      "S",
+      "#"
     ],
     [
-      "#",
-      "#",
-      "L",
+      "S",
+      "A",
+      "T",
       "E",
       "K"
     ],
     [
-      "K",
-      "O",
+      "U",
       "N",
-      "T",
-      "O"
-    ],
-    [
       "A",
-      "N",
-      "I",
-      "#",
-      "#"
+      "V",
+      "A"
     ],
     [
       "P",
-      "I",
-      "T",
+      "A",
+      "P",
+      "E",
+      "Z"
+    ],
+    [
       "#",
+      "K",
+      "A",
+      "R",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Domácí zvíře, člověku nejvěrnější"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Prostředek proti nemoci"
+      "col": 0,
+      "cells": 5,
+      "clue": "Čtvercový kus látky na hlavu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bankovní účet"
+      "clue": "Vyčerpání po námaze"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "cells": 5,
+      "clue": "Hlava katolické církve"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Přijímat tekutinu ústy"
+      "clue": "Ledovcový kotel v horách"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Naplňovat; nebo splňovat úkol"
+      "clue": "Malá sklenka tvrdého alkoholu; nebo figurka"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "col": 2,
+      "cells": 5,
+      "clue": "Úsek cesty nebo vývoje, fáze"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Světová strana proti jihu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Mrchožravý dravec"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Zvuk padající krůpěje"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Vada; také díra v zubu"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "N",
-      "I",
-      "C"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "N",
-      "I"
-    ],
-    [
-      "N",
-      "A",
-      "P",
-      "U",
-      "L"
-    ],
-    [
+      "S",
       "E",
-      "R",
-      "A",
-      "#",
+      "M",
       "#"
+    ],
+    [
+      "M",
+      "A",
+      "L",
+      "I",
+      "R"
+    ],
+    [
+      "U",
+      "L",
+      "I",
+      "C",
+      "E"
     ],
     [
       "Z",
       "A",
-      "D",
+      "T",
+      "E",
+      "Z"
+    ],
+    [
       "#",
+      "M",
+      "A",
+      "K",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Naprostá absence čehokoli"
+      "clue": "Směrem k mluvčímu"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "col": 0,
+      "cells": 5,
+      "clue": "Kdo maluje obrazy nebo stěny"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Rovným dílem mezi dva"
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "cells": 5,
+      "clue": "Nesené břemeno; také zkouška pevnosti"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Kormidelní konec lodi"
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
+      "clue": "Uzenina nakrájená na kolečka"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Malý míč, např. pingpongový"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Místo, kam směřuje cesta; meta"
+      "clue": "Dospělý člověk, kterému se říká pán"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Rána vedená ostřím"
     }
   ]
 }

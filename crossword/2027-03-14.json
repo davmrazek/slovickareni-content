@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "C",
+      "T",
+      "R",
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "M",
       "O",
-      "Z"
+      "R"
     ],
     [
-      "#",
-      "#",
-      "H",
-      "U",
-      "L"
-    ],
-    [
-      "Z",
+      "V",
       "L",
       "A",
-      "T",
-      "Y"
+      "D",
+      "A"
     ],
     [
       "L",
-      "I",
-      "T",
+      "O",
+      "V",
       "#",
       "#"
     ],
     [
-      "O",
+      "K",
       "D",
-      "A",
+      "Y",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
+      "clue": "Místo, kde se prodává a nakupuje"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Opora při chůzi"
+      "clue": "Zhoubná nakažlivá nemoc"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Z drahého žlutého kovu"
+      "clue": "Sbor ministrů"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Pronásledování zvěře"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rekreační stavení"
+      "clue": "Málo světlý, blízký černé"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Plný zloby, nedobrý"
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Obyvatelstvo země"
+      "clue": "Plavidlo; také hlavní prostor kostela"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "P",
-      "A",
-      "K",
-      "#"
-    ],
-    [
-      "K",
-      "O",
-      "N",
-      "A",
+      "S",
+      "M",
+      "R",
       "T"
     ],
     [
+      "T",
       "A",
-      "R",
-      "E",
-      "N",
+      "L",
+      "I",
+      "R"
+    ],
+    [
+      "V",
+      "L",
+      "A",
+      "D",
       "A"
     ],
     [
       "R",
       "O",
-      "B",
-      "O",
+      "D",
+      "I",
       "T"
     ],
     [
-      "#",
-      "D",
-      "O",
+      "Z",
       "N",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Potom, následně"
+      "cells": 4,
+      "clue": "Konec života"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Uskutečňovat čin"
+      "clue": "Nádobí, ze kterého se jí"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "clue": "Sbor ministrů"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
+      "clue": "Přivádět na svět"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Španělský šlechtický titul"
+      "col": 0,
+      "cells": 4,
+      "clue": "Vydávat zvuk"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Příchod dítěte na svět"
+      "clue": "Reprezentační pokoj; provozovna"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Období mladého věku"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Dělo z dob plachetnic"
+      "clue": "Ovládat vůz; vést podnik"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Ledovcový kotel v horách"
+      "row": 0,
+      "col": 4,
+      "cells": 4,
+      "clue": "Železniční cesta; také délka závodu"
     },
     {
       "num": 5,
       "row": 1,
-      "col": 4,
-      "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "col": 0,
+      "cells": 4,
+      "clue": "Malé opevněné sídlo zemana"
     }
   ]
 }

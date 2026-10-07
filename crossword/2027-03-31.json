@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "V",
-      "T",
-      "I",
-      "P"
-    ],
-    [
-      "#",
-      "L",
-      "E",
-      "D",
-      "A"
-    ],
-    [
-      "B",
-      "A",
-      "S",
-      "E",
-      "N"
-    ],
-    [
+      "M",
       "U",
-      "S",
-      "T",
-      "A",
+      "Z",
       "#"
     ],
     [
       "S",
-      "T",
-      "O",
+      "A",
       "L",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "M",
+      "I",
+      "C",
+      "E",
+      "K"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "Z",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 4,
-      "clue": "Krátký příběh k zasmání"
+      "cells": 3,
+      "clue": "Dospělý člověk, kterému se říká pán"
     },
     {
-      "num": 5,
+      "num": 4,
       "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Nanejvýš, jedině"
+      "col": 0,
+      "cells": 5,
+      "clue": "Mísa nakrájené zeleniny"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dílo ve verších"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Otvor s rty a zuby"
+      "cells": 5,
+      "clue": "Malý míč, např. pingpongový"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Nábytek k jídlu"
+      "col": 1,
+      "cells": 3,
+      "clue": "Rána vedená ostřím"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Rodná země"
+      "clue": "Kdo maluje obrazy nebo stěny"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Směs mouky a vody před pečením"
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
+      "clue": "Nesené břemeno; také zkouška pevnosti"
     },
     {
       "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Zdvořilé oslovení muže"
-    },
-    {
-      "num": 6,
-      "row": 2,
+      "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Hovorově autobus"
+      "clue": "Směrem k mluvčímu"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tímto způsobem"
     }
   ]
 }

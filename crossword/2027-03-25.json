@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "M",
-      "U",
-      "J",
-      "#"
-    ],
-    [
       "P",
-      "I",
       "L",
-      "I",
-      "R"
-    ],
-    [
-      "A",
-      "R",
-      "E",
-      "N",
-      "A"
-    ],
-    [
-      "D",
-      "I",
-      "V",
-      "A",
-      "K"
+      "O",
+      "T"
     ],
     [
       "#",
-      "T",
+      "R",
+      "E",
+      "P",
+      "A"
+    ],
+    [
+      "S",
       "A",
-      "K",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "U",
+      "N",
+      "O",
+      "R",
+      "#"
+    ],
+    [
+      "M",
+      "I",
+      "S",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Přivlastňovací zájmeno první osoby"
+      "cells": 4,
+      "clue": "Ohrazení pozemku"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Mohutná svislá podpěra mostu"
+      "col": 1,
+      "cells": 4,
+      "clue": "Kořenová zelenina, ze které se vaří cukr"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "clue": "Čtvercový kus látky na hlavu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Ten, kdo sleduje představení"
+      "cells": 4,
+      "clue": "Nejkratší měsíc"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Tímto způsobem"
+      "col": 0,
+      "cells": 4,
+      "clue": "Široká nádoba na jídlo"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Zaměřovat na cíl"
+      "clue": "Blahopřejná slova k svátku"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
+      "clue": "V tomto roce"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "clue": "Zpívané jevištní dílo"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Volný ~ z výšky; čeština jich má sedm"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
+      "clue": "Tímto způsobem"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nežádoucí zvuk v pozadí; také ~ lesa"
     }
   ]
 }

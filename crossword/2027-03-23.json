@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "T",
-      "A",
-      "M",
       "#",
-      "#"
-    ],
-    [
-      "O",
-      "S",
-      "A",
-      "#",
-      "#"
-    ],
-    [
-      "N",
-      "I",
-      "K",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "A",
       "U",
+      "V",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "L",
+      "I",
+      "P",
+      "A"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "E",
       "T"
     ],
     [
-      "#",
-      "#",
+      "U",
+      "V",
+      "E",
+      "R",
+      "#"
+    ],
+    [
+      "P",
+      "A",
       "T",
-      "M",
-      "A"
+      "A",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Na onom místě, opak sem"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "col": 1,
+      "cells": 4,
+      "clue": "Začátek knihy či proslovu"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Národní strom Čechů"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na žádném místě"
+      "clue": "Spočívat na židli"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Půjčka od banky"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "col": 0,
+      "cells": 4,
+      "clue": "Zadní část chodidla"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "col": 1,
+      "cells": 5,
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vnímat očima"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Hovorově tvrdě pracovat"
+      "clue": "Zpívané jevištní dílo"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Mrchožravý dravec"
     }
   ]
 }

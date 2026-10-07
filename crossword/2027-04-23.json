@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "P",
+      "#",
+      "J",
       "A",
       "K",
-      "#",
       "#"
+    ],
+    [
+      "S",
+      "I",
+      "R",
+      "A",
+      "N"
     ],
     [
       "A",
       "N",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "N",
-      "I",
-      "T",
-      "R",
+      "E",
+      "B",
       "O"
     ],
     [
-      "#",
-      "#",
-      "V",
+      "T",
       "A",
-      "R"
+      "N",
+      "E",
+      "C"
     ],
     [
       "#",
-      "#",
-      "A",
       "K",
-      "T"
+      "A",
+      "L",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "cells": 5,
+      "clue": "Sůl kyseliny sírové"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vnitřek věci; také lidské city"
+      "clue": "Vylučovací spojka (buď – ~)"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Rytmický pohyb do hudby"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Bublání vroucí vody"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Usazenina, bahno na dně"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Zdvořilé oslovení muže"
+      "col": 1,
+      "cells": 5,
+      "clue": "Jiným způsobem, odlišně"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Kovové zařízení držící loď na místě"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
+      "cells": 5,
+      "clue": "Silný izolovaný vodič"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Knižně oděv, roucho"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
     }
   ]
 }

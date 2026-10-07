@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "C",
+      "S",
+      "T",
       "A",
-      "S"
-    ],
-    [
-      "#",
-      "#",
-      "H",
-      "L",
       "T"
     ],
     [
-      "Z",
-      "L",
-      "A",
-      "T",
-      "O"
+      "#",
+      "M",
+      "I",
+      "R",
+      "A"
     ],
     [
+      "S",
+      "A",
+      "C",
+      "E",
+      "K"
+    ],
+    [
+      "M",
       "L",
-      "I",
-      "T",
-      "#",
+      "H",
+      "A",
       "#"
     ],
     [
+      "S",
+      "T",
       "O",
-      "D",
-      "A",
-      "#",
+      "L",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Plyne a měříme ho hodinami"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "col": 1,
+      "cells": 4,
+      "clue": "Země s vládou a hranicemi; nebo se odehrát"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Rozsah, stupeň něčeho"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Malý papírový nebo igelitový obal"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "cells": 4,
+      "clue": "Oblak u země"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "cells": 4,
+      "clue": "Nábytek k jídlu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Rekreační stavení"
+      "clue": "Sklovitý povlak na plechovém hrnci"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "col": 2,
+      "cells": 5,
+      "clue": "Naprostý klid bez zvuku"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "col": 3,
+      "cells": 5,
+      "clue": "Ohraničený soubor budov"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Obyvatelstvo země"
+      "clue": "Krátká textová zpráva"
     }
   ]
 }

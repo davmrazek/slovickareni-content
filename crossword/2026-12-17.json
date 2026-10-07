@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "C",
-      "O",
-      "Z"
-    ],
-    [
-      "#",
-      "#",
-      "H",
+      "D",
       "U",
-      "L"
-    ],
-    [
-      "Z",
-      "L",
-      "A",
-      "T",
-      "Y"
-    ],
-    [
-      "L",
-      "E",
-      "T",
-      "#",
+      "M",
       "#"
     ],
     [
+      "M",
       "O",
-      "D",
-      "A",
+      "Z",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "L",
+      "I",
+      "M",
+      "I",
+      "T"
+    ],
+    [
       "#",
+      "S",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
+      "clue": "Stavba k bydlení; nebo obchodní ~"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Opora při chůzi"
+      "col": 0,
+      "cells": 5,
+      "clue": "Orgán myšlení"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Z drahého žlutého kovu"
+      "clue": "Zpívané jevištní dílo"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "cells": 5,
+      "clue": "Nejzazší mez"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Pletivo z nití; nebo internet"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Rekreační stavení"
+      "clue": "Psaní v obálce"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vymezená část země, teritorium"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Zjišťovat rozměr"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Plný zloby, nedobrý"
+      "clue": "Škůdce ve skříni"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Kdo vykonává popravu"
     }
   ]
 }

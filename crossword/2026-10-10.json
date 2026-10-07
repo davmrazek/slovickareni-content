@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
-      "R",
-      "H"
-    ],
-    [
-      "#",
-      "#",
-      "M",
-      "O",
-      "R"
-    ],
-    [
-      "V",
-      "L",
-      "A",
-      "D",
-      "A"
-    ],
-    [
-      "L",
-      "O",
-      "V",
-      "#",
+      "B",
+      "U",
+      "H",
       "#"
     ],
     [
+      "T",
+      "E",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "U",
+      "T",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
       "K",
-      "D",
-      "Y",
+      "O",
+      "N",
+      "E",
+      "C"
+    ],
+    [
       "#",
+      "N",
+      "I",
+      "C",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
+      "clue": "Nejvyšší božská bytost"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zhoubná nakažlivá nemoc"
+      "col": 0,
+      "cells": 5,
+      "clue": "Skoro, bezmála"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Sbor ministrů"
+      "clue": "Druhý den týdne"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Pronásledování zvěře"
+      "cells": 5,
+      "clue": "Opak začátku; když je dobrý, všechno je dobré"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Naprostá absence čehokoli"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Málo světlý, blízký černé"
+      "clue": "Směs cementu, písku a vody"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "col": 2,
+      "cells": 5,
+      "clue": "Malířství, hudba, sochařství — jedním slovem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Ten, kdo hraje role"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
+      "clue": "Mastná složka potravy"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Plavidlo; také hlavní prostor kostela"
+      "clue": "Nářadí na kopání záhonu, šlape se na něj"
     }
   ]
 }

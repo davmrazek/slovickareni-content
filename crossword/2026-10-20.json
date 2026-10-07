@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "P",
-      "R",
-      "O",
       "#",
-      "#"
+      "S",
+      "T",
+      "U",
+      "D"
     ],
     [
-      "R",
-      "O",
-      "V",
       "#",
+      "T",
+      "E",
+      "M",
+      "A"
+    ],
+    [
+      "K",
+      "A",
+      "M",
+      "E",
+      "N"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "L",
       "#"
     ],
     [
       "S",
-      "K",
-      "O",
-      "D",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "C",
-      "A",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "E",
+      "I",
       "R",
-      "A"
+      "Y",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Předložka vyjadřující účel"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Knižně: hrob"
+      "col": 1,
+      "cells": 4,
+      "clue": "Pocit trapnosti a červenání"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "O čem se mluví"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Způsobená ztráta; také mladoboleslavská značka"
+      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dravec ve státním znaku"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Ruský panovník, třeba Petr Veliký"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "col": 0,
+      "cells": 4,
+      "clue": "Knižně rozlehlý, nedozírný"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "col": 1,
+      "cells": 5,
+      "clue": "Pokročilý věk"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "col": 2,
+      "cells": 5,
+      "clue": "Skoro, bezmála"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Sladké plody stromů"
+      "clue": "Vyrobený, ne přírodní"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Povinná platba státu"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Věc věnovaná bezplatně"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Černý pták se žlutým zobákem"
     }
   ]
 }

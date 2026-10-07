@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "S",
-      "A",
-      "M",
       "#",
+      "C",
+      "O",
+      "Z",
       "#"
     ],
     [
-      "M",
-      "U",
       "L",
-      "#",
-      "#"
+      "I",
+      "S",
+      "I",
+      "T"
     ],
     [
+      "O",
       "S",
       "T",
-      "E",
-      "N",
-      "A"
+      "R",
+      "E"
     ],
     [
-      "#",
-      "#",
-      "K",
+      "G",
       "A",
-      "R"
+      "R",
+      "A",
+      "Z"
     ],
     [
       "#",
-      "#",
-      "O",
-      "D",
-      "A"
+      "R",
+      "Y",
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Zcela bez doprovodu"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Řídká bavlněná tkanina na obvazy"
+      "cells": 5,
+      "clue": "Být odlišný"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
+      "clue": "Prudce a rázně"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Přístřešek pro auto"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Ledovcový kotel v horách"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Zarývat se do země jako krtek"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Krátká textová zpráva"
+      "col": 1,
+      "cells": 5,
+      "clue": "Panovník říše"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "col": 2,
+      "cells": 5,
+      "clue": "Dobře řezající; také pálivý"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Bílá tekutina od krávy"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Předložka vyšší polohy"
+      "cells": 5,
+      "clue": "Upřeně a udiveně hledět"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Záznam událostí v počítači"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Knižně: také"
     }
   ]
 }

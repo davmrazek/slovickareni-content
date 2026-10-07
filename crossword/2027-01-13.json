@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "N",
-      "I",
-      "C"
-    ],
-    [
-      "#",
-      "#",
+      "M",
       "O",
-      "N",
-      "I"
-    ],
-    [
-      "P",
-      "O",
-      "S",
-      "U",
-      "N"
-    ],
-    [
-      "A",
-      "S",
-      "I",
-      "#",
+      "C",
       "#"
     ],
     [
-      "D",
+      "K",
       "A",
-      "T",
+      "B",
+      "E",
+      "L"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "E",
+      "K"
+    ],
+    [
       "#",
+      "T",
+      "I",
+      "K",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Naprostá absence čehokoli"
+      "clue": "Vládní síla; nebo velmi"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "col": 0,
+      "cells": 5,
+      "clue": "Silný izolovaný vodič"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Přesun o kus dál"
+      "clue": "Kolem dokola"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "cells": 5,
+      "clue": "Malý papírový nebo igelitový obal"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Nervový záškub oka"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Přemísťovat opakovaně; mít na sobě"
+      "clue": "Hovorově tvrdě pracovat"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Chloupky nad okem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Souhrn všech částí"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Skutek, konání; také kov na pocínování"
+      "clue": "Černý pták se žlutým zobákem"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Volný ~ z výšky; čeština jich má sedm"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Jeden doušek nápoje"
     }
   ]
 }

@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "N",
-      "I",
-      "T"
-    ],
-    [
       "Z",
-      "M",
-      "E",
-      "N",
+      "D",
       "A"
     ],
     [
+      "#",
+      "#",
       "L",
-      "O",
-      "B",
+      "E",
+      "V"
+    ],
+    [
+      "V",
+      "S",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "L",
+      "A",
+      "T",
       "#",
       "#"
     ],
     [
-      "O",
       "K",
-      "O",
+      "D",
+      "Y",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Král zvířat"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Přechod do jiného stavu"
+      "clue": "Na všech místech"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Vysoký oblouk míčku přes soupeře"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Barvy citronu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Sladkovodní ryba se slizkou kůží"
+      "clue": "Otec rodiče"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Latinský pozdrav v modlitbě"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Knižně nápoj"
+      "clue": "Vysázený ovocný porost"
     }
   ]
 }

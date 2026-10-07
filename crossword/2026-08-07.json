@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "P",
-      "R",
-      "O"
+      "V",
+      "O",
+      "D",
+      "A"
     ],
     [
       "#",
-      "#",
+      "C",
       "L",
       "E",
       "N"
     ],
     [
-      "T",
-      "R",
+      "L",
       "E",
       "T",
+      "N",
       "I"
     ],
     [
-      "M",
       "E",
-      "C",
-      "#",
+      "L",
+      "A",
+      "N",
       "#"
     ],
     [
+      "Z",
       "A",
-      "C",
-      "H",
-      "#",
+      "R",
+      "E",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Předložka vyjadřující účel"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Rostlina na plátno a olej"
+      "col": 1,
+      "cells": 4,
+      "clue": "Sloučenina vodíku a kyslíku"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Ten, kdo patří do spolku"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Řadová číslovka po druhém"
+      "clue": "Patřící do nejteplejšího období"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "cells": 4,
+      "clue": "Nadšený rozmach do práce"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "cells": 4,
+      "clue": "Světelný jas na obzoru"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Hmyz, který dělá med"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "col": 2,
+      "cells": 5,
+      "clue": "Stůl v čele kostela"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "col": 3,
+      "cells": 5,
+      "clue": "Každý den"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Vědomá nepravda"
     }
   ]
 }

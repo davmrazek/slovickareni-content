@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "D",
-      "V",
-      "A"
-    ],
-    [
-      "#",
-      "#",
+      "T",
       "R",
-      "E",
-      "C"
-    ],
-    [
-      "P",
-      "L",
-      "E",
-      "C",
       "H"
     ],
     [
+      "#",
+      "#",
+      "M",
+      "U",
+      "L"
+    ],
+    [
+      "K",
+      "L",
+      "A",
+      "S",
+      "T"
+    ],
+    [
       "R",
-      "E",
+      "O",
       "V",
       "#",
       "#"
     ],
     [
-      "S",
-      "T",
-      "O",
+      "A",
+      "B",
+      "Y",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Číslo mezi jedničkou a trojkou"
+      "clue": "Místo, kde se prodává a nakupuje"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "clue": "Řídká bavlněná tkanina na obvazy"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Pokládat na místo"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Hlasitý zvuk zvířete"
+      "clue": "Knižně: hrob"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Spojka účelu (~ ses učil)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Materiál z kmene"
+      "clue": "Málo světlý, blízký černé"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Předmět; nebo záležitost"
+      "clue": "Obyvatel největší země světa"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Jedno velké polknutí; na jeden ~"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "clue": "Plovoucí ledová deska"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "clue": "Vysoký oblouk míčku přes soupeře"
     }
   ]
 }

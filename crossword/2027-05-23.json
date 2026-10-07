@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "R",
-      "O",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "B",
-      "R"
-    ],
-    [
-      "T",
-      "A",
-      "B",
-      "A",
-      "K"
-    ],
-    [
-      "E",
-      "S",
-      "O",
-      "#",
+      "P",
+      "U",
+      "L",
       "#"
     ],
     [
-      "Z",
+      "K",
+      "O",
+      "M",
       "I",
-      "T",
+      "N"
+    ],
+    [
+      "U",
+      "Z",
+      "E",
+      "M",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "L",
+      "I",
+      "T"
+    ],
+    [
       "#",
+      "R",
+      "Y",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Polovina (~ litru)"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Pohádkový velikán"
+      "col": 0,
+      "cells": 5,
+      "clue": "Odvádí kouř nad střechu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Rostlina, ze které se vyrábějí cigarety"
+      "clue": "Vymezená část země, teritorium"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "cells": 5,
+      "clue": "Naplnit sklenici až po okraj"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Být naživu"
+      "clue": "Zarývat se do země jako krtek"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
+      "clue": "Nekontrolovaný oheň"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vyrobený, ne přírodní"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Nejzazší mez"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Knižně: také"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

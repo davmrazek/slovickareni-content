@@ -11,32 +11,32 @@
       "#"
     ],
     [
-      "E",
-      "S",
       "O",
+      "S",
+      "A",
       "#",
       "#"
     ],
     [
       "N",
       "I",
-      "Z",
-      "K",
+      "T",
+      "R",
       "O"
     ],
     [
       "#",
       "#",
-      "N",
-      "A",
-      "S"
+      "K",
+      "E",
+      "R"
     ],
     [
       "#",
       "#",
       "A",
-      "R",
-      "A"
+      "K",
+      "T"
     ]
   ],
   "across": [
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Blízko země, opak vysoko"
+      "clue": "Vnitřek věci; také lidské city"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno (~ dům)"
+      "clue": "Nízká dřevina bez kmene"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Zvuk určité výšky"
     },
     {
       "num": 2,
@@ -96,21 +96,21 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Snad, je to pravděpodobné"
+      "clue": "Ženský rodič"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Ledovcový kotel v horách"
+      "clue": "Knižně hrdina"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Vodorovná důlní chodba"
     }
   ]
 }

@@ -18,24 +18,24 @@
       "#"
     ],
     [
-      "M",
+      "D",
       "I",
-      "S",
-      "K",
+      "L",
+      "N",
       "A"
     ],
     [
       "#",
       "#",
-      "T",
-      "A",
-      "H"
+      "M",
+      "O",
+      "R"
     ],
     [
       "#",
       "#",
-      "E",
-      "T",
+      "O",
+      "S",
       "A"
     ]
   ],
@@ -59,21 +59,21 @@
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Menší nádoba na jídlo"
+      "clue": "Místnost pro řemeslnou práci"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Pohyb figurkou; nebo silné vytažení"
+      "clue": "Zhoubná nakažlivá nemoc"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Obruba obrazu"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     },
     {
       "num": 2,
@@ -96,21 +96,21 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náčiní na zametání"
+      "clue": "V pravém úhlu k něčemu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Kdo vykonává popravu"
+      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Velký barevný papoušek"
     }
   ]
 }

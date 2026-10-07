@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "J",
+      "I",
+      "Z",
       "#",
-      "#",
-      "O",
-      "S",
-      "M"
+      "#"
     ],
     [
+      "O",
+      "N",
+      "I",
       "#",
-      "#",
-      "R",
-      "Y",
-      "S"
+      "#"
     ],
     [
       "D",
+      "U",
       "V",
-      "E",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "K",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "T",
       "R",
-      "E"
-    ],
-    [
-      "N",
-      "I",
-      "C",
-      "#",
-      "#"
-    ],
-    [
-      "A",
-      "C",
-      "H",
-      "#",
-      "#"
+      "N"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Číslo mezi sedmi a devíti"
+      "clue": "Knižně: už"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Šelma se štětičkami na uších; také povahová črta"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vstup do místnosti"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Naprostá absence čehokoli"
+      "clue": "Příčina jednání"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 2,
       "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "clue": "Zrakový orgán; také poutko na provaze"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 2,
+      "cells": 3,
+      "clue": "Ostrý výrůstek na růži"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Plod v tvrdé skořápce"
+      "col": 0,
+      "cells": 3,
+      "clue": "Prvek v dezinfekci ran"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
+      "col": 1,
       "cells": 3,
-      "clue": "Mléčný výrobek se zráním"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Katolická bohoslužba"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Nositelka dědičné informace"
+      "col": 2,
+      "cells": 5,
+      "clue": "Opak smrti"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Ve větším množství"
+      "clue": "Žlutohnědý přírodní pigment"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Španělský šlechtický titul"
     }
   ]
 }

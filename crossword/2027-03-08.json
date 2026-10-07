@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
-      "R",
-      "U",
-      "P"
+      "#",
+      "C",
+      "O",
+      "Z"
     ],
     [
       "#",
+      "#",
+      "H",
       "R",
-      "O",
-      "L",
-      "E"
+      "A"
     ],
     [
-      "L",
-      "E",
-      "Z",
-      "E",
-      "T"
-    ],
-    [
-      "O",
       "B",
+      "R",
+      "A",
+      "T",
+      "R"
+    ],
+    [
+      "A",
       "U",
-      "V",
+      "T",
+      "#",
       "#"
     ],
     [
-      "D",
-      "A",
+      "T",
       "M",
       "A",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Tělo bez hlavy a končetin; část letadla"
+      "col": 2,
+      "cells": 3,
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Postava, kterou herec ztvárňuje"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Být v poloze naplocho"
+      "clue": "Mužský sourozenec"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Co se obouvá"
+      "cells": 3,
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 4,
-      "clue": "Urozená žena; také desková hra"
+      "cells": 3,
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Například; nebo je nutné"
+      "clue": "Rekreační stavení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Schopnost uvažovat"
+      "col": 3,
+      "cells": 3,
+      "clue": "Vodorovná důlní chodba"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
-    },
-    {
-      "num": 4,
-      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Počet prstů na ruce"
+      "clue": "Sálavé horko z ohně"
+    },
+    {
+      "num": 5,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pociťovat strach (~ se)"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Plavidlo; také hlavní prostor kostela"
+      "clue": "Destilát z cukrové třtiny"
     }
   ]
 }

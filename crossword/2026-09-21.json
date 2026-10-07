@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "S",
-      "P",
-      "O",
-      "J"
-    ],
-    [
-      "#",
-      "T",
-      "A",
-      "K",
-      "E"
-    ],
-    [
-      "K",
-      "A",
-      "N",
-      "O",
-      "N"
-    ],
-    [
-      "O",
-      "R",
+      "J",
       "E",
-      "L",
+      "N",
       "#"
     ],
     [
-      "P",
-      "I",
-      "V",
+      "B",
+      "A",
+      "R",
+      "A",
+      "Z"
+    ],
+    [
       "O",
+      "K",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "D",
+      "O",
+      "Z",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "Z",
+      "E",
+      "T",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 4,
-      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
+      "cells": 3,
+      "clue": "Pouze, nic víc; také japonská měna"
     },
     {
-      "num": 5,
+      "num": 4,
       "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Rovněž, taktéž"
+      "col": 0,
+      "cells": 5,
+      "clue": "Rozhodující zápas o postup"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Dělo z dob plachetnic"
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 4,
-      "clue": "Dravec ve státním znaku"
+      "cells": 5,
+      "clue": "Strávit zbytek života"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Nápoj z chmele a sladu"
+      "col": 1,
+      "cells": 3,
+      "clue": "Pro tchána i tchyni manžel jejich dcery"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Pokročilý věk"
+      "clue": "Knižně: a rovněž, a též"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Nádoba na smažení"
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Kolem dokola"
+      "clue": "Naplnit sklenici až po okraj"
     },
     {
       "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
-    },
-    {
-      "num": 6,
-      "row": 2,
+      "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Úder nohou, např. do míče"
+      "clue": "Tečka; nebo jednotka skóre"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Být naživu"
     }
   ]
 }

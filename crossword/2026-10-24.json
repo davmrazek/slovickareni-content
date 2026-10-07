@@ -6,28 +6,28 @@
     [
       "#",
       "#",
-      "H",
-      "R",
-      "A"
+      "K",
+      "D",
+      "E"
     ],
     [
       "#",
       "#",
       "R",
-      "O",
-      "H"
-    ],
-    [
-      "S",
-      "T",
-      "A",
-      "V",
-      "A"
-    ],
-    [
       "E",
-      "R",
-      "B",
+      "T"
+    ],
+    [
+      "H",
+      "L",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "M",
+      "E",
+      "Z",
       "#",
       "#"
     ],
@@ -45,28 +45,28 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
+      "clue": "Tázací příslovce místa"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tekutina vylisovaná z ovoce"
+      "clue": "Zemina na keramiku"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Šlechtický znak na štítu"
+      "clue": "Hranice, kterou nelze překročit"
     },
     {
       "num": 8,
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Šlechtický titul, vyšší než baron"
+      "clue": "Vážné zhoršení poměrů"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Knižně: hrob"
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Sedmé písmeno řecké abecedy"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Směrem k mluvčímu"
+      "clue": "Citoslovce zamyšlení či váhání"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
+      "clue": "Rozsáhlý porost stromů"
     }
   ]
 }

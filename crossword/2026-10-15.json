@@ -4,7 +4,7 @@
   "size": 5,
   "grid": [
     [
-      "T",
+      "P",
       "A",
       "K",
       "#",
@@ -18,25 +18,25 @@
       "#"
     ],
     [
-      "M",
+      "N",
       "I",
-      "S",
       "T",
+      "R",
       "O"
     ],
     [
       "#",
       "#",
-      "T",
-      "I",
-      "K"
+      "V",
+      "A",
+      "R"
     ],
     [
       "#",
       "#",
-      "E",
-      "S",
-      "O"
+      "A",
+      "K",
+      "T"
     ]
   ],
   "across": [
@@ -45,7 +45,7 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Potom, následně"
     },
     {
       "num": 4,
@@ -59,21 +59,21 @@
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Určený bod v prostoru"
+      "clue": "Vnitřek věci; také lidské city"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Nervový záškub oka"
+      "clue": "Bublání vroucí vody"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Zdvořilé oslovení muže"
     },
     {
       "num": 2,
@@ -96,21 +96,21 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náčiní na zametání"
+      "clue": "Kovové zařízení držící loď na místě"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Jehličnatý strom s červenými plody"
+      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Vodorovná důlní chodba"
     }
   ]
 }

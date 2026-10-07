@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "J",
+      "A",
+      "K",
       "#",
-      "S",
-      "R",
-      "S",
-      "T"
+      "#"
     ],
     [
-      "#",
-      "K",
+      "E",
+      "S",
       "O",
-      "T",
-      "E"
+      "#",
+      "#"
     ],
     [
+      "V",
+      "I",
+      "C",
       "K",
-      "A",
-      "M",
-      "E",
-      "N"
+      "O"
     ],
     [
-      "E",
+      "#",
+      "#",
+      "K",
+      "Y",
+      "J"
+    ],
+    [
+      "#",
+      "#",
+      "A",
       "L",
-      "A",
-      "N",
-      "#"
-    ],
-    [
-      "R",
-      "A",
-      "N",
-      "A",
-      "#"
+      "E"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 4,
-      "clue": "Chlupatý pokryv zvířete"
+      "col": 0,
+      "cells": 3,
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 1,
-      "cells": 4,
-      "clue": "Mládě, které si hraje s klubkem"
-    },
-    {
-      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "clue": "Uzávěr sklenice; kryje oko"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Prostá dřevěná zbraň pravěku"
+    },
+    {
+      "num": 9,
       "row": 4,
-      "col": 0,
-      "cells": 4,
-      "clue": "Poranění; také úder"
+      "col": 2,
+      "cells": 3,
+      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Holý kamenný útvar; pevný jako ~"
+      "col": 0,
+      "cells": 3,
+      "clue": "Něco, co se projevuje či děje"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rozsáhlé prozaické dílo"
+      "col": 1,
+      "cells": 3,
+      "clue": "Snad, pravděpodobně"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
-    },
-    {
-      "num": 4,
-      "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Domácí mazlíček, který přede"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 0,
+      "col": 3,
       "cells": 3,
-      "clue": "Nízká dřevina bez kmene"
+      "clue": "Nosný hřbet lodi pod hladinou"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tyč, za kterou táhne kůň vůz"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
       "P",
       "A",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "R",
+      "U",
+      "K",
+      "A"
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      "O",
       "K"
     ],
     [
-      "#",
-      "#",
-      "S",
-      "U",
-      "D"
-    ],
-    [
-      "S",
-      "V",
       "A",
       "T",
-      "Y"
-    ],
-    [
-      "R",
-      "Y",
-      "C",
-      "#",
+      "O",
+      "L",
       "#"
     ],
     [
-      "P",
-      "R",
+      "D",
       "I",
-      "#",
+      "R",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Potom, následně"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Dřevěná nádoba na pivo"
+      "col": 1,
+      "cells": 4,
+      "clue": "Nastražené zařízení na zvíře"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Horní končetina s pěti prsty"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Uctívaný církví"
+      "clue": "Malý vodní tok"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Nářadí na kopání záhonu, šlape se na něj"
+      "cells": 4,
+      "clue": "Korálový ostrov ve tvaru prstence"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
+      "cells": 4,
+      "clue": "Otvor v látce"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Určený ke psaní"
+      "clue": "Předložka odporu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "col": 2,
+      "cells": 5,
+      "clue": "Ten, kdo dílo vytvořil"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Tázací příslovce času"
+      "col": 3,
+      "cells": 5,
+      "clue": "Budova, kde se učí; podle staré komedie základ života"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Naše největší sova s oranžovýma očima"
+      "clue": "Volný ~ z výšky; čeština jich má sedm"
     }
   ]
 }

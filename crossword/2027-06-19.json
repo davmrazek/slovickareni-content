@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "M",
-      "I",
-      "T"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "N",
-      "I"
-    ],
-    [
-      "V",
-      "S",
-      "T",
+      "K",
       "U",
-      "P"
-    ],
-    [
-      "L",
-      "A",
-      "T",
-      "#",
+      "N",
       "#"
     ],
     [
+      "S",
+      "A",
+      "M",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "B",
+      "O"
+    ],
+    [
       "K",
-      "D",
+      "A",
+      "N",
       "O",
+      "N"
+    ],
+    [
       "#",
+      "L",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "col": 0,
+      "cells": 5,
+      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vejití; nebo poplatek za vpuštění"
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "cells": 5,
+      "clue": "Dělo z dob plachetnic"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Nalévat; nebo ~ jako z konve"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Heslo či citát v čele textu"
+      "clue": "Umělé vodní koryto; nebo stoka"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Malířství, hudba, sochařství — jedním slovem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Spojka příčiny: protože, vždyť"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Odhad, sázka na výsledek"
+      "clue": "Rybářská síť na tyči"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Vysázený ovocný porost"
+      "clue": "Zvuk určité výšky"
     }
   ]
 }

@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "#",
+      "P",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "R",
+      "U",
       "K",
-      "D",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "D",
-      "I",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "E",
-      "L",
-      "I",
-      "T",
       "A"
     ],
     [
-      "#",
-      "#",
-      "S",
-      "U",
-      "L"
+      "P",
+      "O",
+      "T",
+      "O",
+      "K"
     ],
     [
-      "#",
-      "#",
-      "K",
+      "A",
+      "T",
+      "O",
+      "L",
+      "#"
+    ],
+    [
+      "V",
+      "I",
       "R",
-      "T"
+      "A",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "col": 1,
+      "cells": 4,
+      "clue": "Nastražené zařízení na zvíře"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Horní končetina s pěti prsty"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Malý vodní tok"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Korálový ostrov ve tvaru prstence"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Bílé krystalické koření"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Podzemní hrabáč se sametovým kožichem (postaru)"
+      "col": 0,
+      "cells": 4,
+      "clue": "Přesvědčení bez důkazu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "col": 1,
+      "cells": 5,
+      "clue": "Předložka odporu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Jedna část celku či seriálu"
+      "col": 2,
+      "cells": 5,
+      "clue": "Ten, kdo dílo vytvořil"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "clue": "Budova, kde se učí; podle staré komedie základ života"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Tímto způsobem"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "clue": "Pták s okatým vějířem"
     }
   ]
 }

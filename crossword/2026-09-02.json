@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "U",
-      "D",
-      "A",
+      "S",
+      "P",
+      "O",
       "J"
     ],
     [
       "#",
-      "M",
-      "O",
-      "R",
+      "T",
+      "A",
+      "K",
       "E"
     ],
     [
-      "L",
-      "E",
-      "D",
-      "E",
+      "K",
+      "A",
+      "N",
+      "O",
       "N"
     ],
     [
+      "O",
+      "R",
       "E",
       "L",
-      "A",
-      "N",
       "#"
     ],
     [
-      "K",
-      "Y",
-      "T",
-      "A",
+      "P",
+      "I",
+      "V",
+      "O",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 4,
-      "clue": "Jednotlivá informace"
+      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
     },
     {
       "num": 5,
       "row": 1,
       "col": 1,
       "cells": 4,
-      "clue": "Velká slaná vodní plocha"
+      "clue": "Rovněž, taktéž"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "První měsíc roku"
+      "clue": "Dělo z dob plachetnic"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "clue": "Dravec ve státním znaku"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 4,
-      "clue": "Vepřové stehno na řízky i do udírny"
+      "clue": "Nápoj z chmele a sladu"
     }
   ],
   "down": [
@@ -82,21 +82,21 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Vyrobený, ne přírodní"
+      "clue": "Pokročilý věk"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Doplnit; doručit zboží"
+      "clue": "Nádoba na smažení"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "clue": "Kolem dokola"
     },
     {
       "num": 4,
@@ -110,7 +110,7 @@
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Prostředek proti nemoci"
+      "clue": "Úder nohou, např. do míče"
     }
   ]
 }

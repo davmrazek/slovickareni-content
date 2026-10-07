@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "R",
-      "O",
-      "K",
+      "P",
+      "U",
+      "D",
+      "A",
       "#"
     ],
     [
-      "D",
       "U",
-      "V",
-      "O",
-      "D"
-    ],
-    [
-      "I",
-      "K",
-      "O",
       "N",
-      "A"
+      "O",
+      "R",
+      "#"
     ],
     [
-      "K",
-      "A",
-      "C",
+      "L",
+      "E",
+      "T",
       "E",
       "T"
     ],
     [
       "#",
-      "V",
+      "S",
       "E",
-      "C",
-      "#"
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "T",
+      "K",
+      "A",
+      "N"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "col": 0,
+      "cells": 4,
+      "clue": "Zemina; také prostor pod střechou"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
       "col": 0,
-      "cells": 5,
-      "clue": "Příčina jednání"
+      "cells": 4,
+      "clue": "Nejkratší měsíc"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 5,
-      "clue": "Porážet stromy"
+      "clue": "Pohybovat se vzduchem"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Usušená tráva pro dobytek"
+    },
+    {
+      "num": 9,
       "row": 4,
       "col": 1,
-      "cells": 3,
-      "clue": "Předmět; nebo záležitost"
+      "cells": 4,
+      "clue": "Vrstva buněk stejné funkce"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Část oděvu na paži"
+      "col": 0,
+      "cells": 3,
+      "clue": "Polovina (~ litru)"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Sladké plody stromů"
+      "clue": "Zvednout břemeno; odvléct člověka"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Opak začátku; když je dobrý, všechno je dobré"
+      "clue": "Lehké přiložení prstů"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Projev vděčnosti, poděkování"
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
-      "num": 5,
-      "row": 1,
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Zvuk určité výšky"
     }
   ]
 }

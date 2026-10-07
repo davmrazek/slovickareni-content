@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "Z",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "B",
-      "U",
-      "M"
-    ],
-    [
       "S",
+      "B",
+      "O",
+      "R"
+    ],
+    [
+      "#",
+      "K",
+      "A",
+      "S",
+      "A"
+    ],
+    [
       "P",
       "O",
-      "L",
-      "U"
-    ],
-    [
       "R",
       "A",
-      "Z",
-      "#",
+      "D"
+    ],
+    [
+      "U",
+      "R",
+      "A",
+      "D",
       "#"
     ],
     [
-      "P",
-      "R",
-      "I",
-      "#",
+      "K",
+      "O",
+      "Z",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Na tomto místě, tady"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zvuk výbuchu"
+      "col": 1,
+      "cells": 4,
+      "clue": "Skupina společně zpívajících"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Pokladna"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Společně"
+      "clue": "Neustále"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Svérázná povaha kraje nebo stavby"
+      "cells": 4,
+      "clue": "Instituce vyřizující razítka"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
+      "cells": 4,
+      "clue": "Domácí zvíře s rohy a bradkou"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Co se prodává v regálech"
+      "clue": "Téměř"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "col": 2,
+      "cells": 5,
+      "clue": "Rozhodující zápas o postup"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Australský neletící pták"
+      "col": 3,
+      "cells": 5,
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
+      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Dva k sobě patřící; nebo několik málo"
+      "clue": "Kotouček v ledním hokeji"
     }
   ]
 }

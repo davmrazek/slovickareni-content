@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "P",
-      "R",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "K"
-    ],
-    [
       "K",
-      "O",
+      "U",
       "N",
-      "T",
-      "O"
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "M",
+      "E",
+      "T"
     ],
     [
       "A",
       "N",
-      "I",
-      "#",
-      "#"
+      "E",
+      "B",
+      "O"
     ],
     [
-      "D",
+      "K",
+      "A",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "L",
       "I",
       "T",
-      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Prostředek proti nemoci"
+      "col": 0,
+      "cells": 5,
+      "clue": "Schopnost vybavit si minulé; nebo RAM v počítači"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bankovní účet"
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "cells": 5,
+      "clue": "Dělo z dob plachetnic"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "clue": "Nalévat; nebo ~ jako z konve"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Naplňovat; nebo splňovat úkol"
+      "clue": "Umělé vodní koryto; nebo stoka"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "col": 2,
+      "cells": 5,
+      "clue": "Malířství, hudba, sochařství — jedním slovem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Spojka příčiny: protože, vždyť"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Potom, následně"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Velká dřevěná nádoba na zelí"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Zvuk určité výšky"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
       "T",
       "R",
-      "H"
-    ],
-    [
-      "#",
-      "#",
-      "M",
       "U",
-      "L"
+      "P"
     ],
     [
-      "K",
+      "#",
+      "R",
+      "O",
       "L",
-      "A",
-      "S",
+      "E"
+    ],
+    [
+      "B",
+      "E",
+      "Z",
+      "E",
       "T"
     ],
     [
-      "R",
       "O",
+      "B",
+      "U",
       "V",
-      "#",
       "#"
     ],
     [
+      "J",
       "A",
-      "B",
-      "Y",
-      "#",
+      "M",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Řídká bavlněná tkanina na obvazy"
+      "col": 1,
+      "cells": 4,
+      "clue": "Tělo bez hlavy a končetin; část letadla"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Postava, kterou herec ztvárňuje"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pokládat na místo"
+      "clue": "Rychle se pohybovat po nohou"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Knižně: hrob"
+      "cells": 4,
+      "clue": "Co se obouvá"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "cells": 4,
+      "clue": "Vykopaný důlek v zemi"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Málo světlý, blízký černé"
+      "clue": "Například; nebo je nutné"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Obyvatel největší země světa"
+      "col": 2,
+      "cells": 5,
+      "clue": "Schopnost uvažovat"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "col": 3,
+      "cells": 5,
+      "clue": "Pocit po odeznění tíhy"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "clue": "Počet prstů na ruce"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Vysoký oblouk míčku přes soupeře"
+      "clue": "Ozbrojený střet"
     }
   ]
 }

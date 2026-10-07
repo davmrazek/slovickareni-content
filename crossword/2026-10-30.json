@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "R",
-      "O",
-      "K",
-      "#"
-    ],
-    [
-      "M",
-      "A",
-      "K",
-      "A",
-      "T"
-    ],
-    [
-      "E",
-      "M",
-      "O",
-      "C",
-      "E"
-    ],
-    [
-      "Z",
-      "E",
-      "L",
-      "E",
-      "N"
+      "#",
+      "J",
+      "I",
+      "Z"
     ],
     [
       "#",
-      "C",
-      "I",
-      "T",
+      "#",
+      "M",
+      "O",
+      "D"
+    ],
+    [
+      "Z",
+      "M",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "L",
+      "A",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Knižně: už"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Hovorově tvrdě pracovat"
+      "col": 2,
+      "cells": 3,
+      "clue": "Herní úprava od fanoušků"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "clue": "Přechod do jiného stavu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Barva listů a trávy; městská roste v parcích"
+      "cells": 3,
+      "clue": "Velké souvislé pole"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Emoce; nebo schopnost vnímat"
+      "clue": "Zrakový orgán; také poutko na provaze"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
+      "clue": "Jak se kdo nazývá"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
+      "col": 3,
+      "cells": 3,
+      "clue": "Elektricky nabitá částice"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Porážet stromy"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Hranice, kterou nelze překročit"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Opak dobra; vybírá se vždy to menší"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Červená polní květina; její semínka se sypou do buchet"
     }
   ]
 }

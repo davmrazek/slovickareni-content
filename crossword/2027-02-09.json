@@ -13,28 +13,28 @@
     [
       "#",
       "#",
+      "L",
+      "E",
+      "N"
+    ],
+    [
+      "T",
       "R",
       "E",
-      "K"
-    ],
-    [
-      "Z",
-      "L",
-      "A",
       "T",
-      "O"
+      "I"
     ],
     [
-      "L",
+      "M",
       "E",
-      "V",
+      "C",
       "#",
       "#"
     ],
     [
-      "E",
-      "S",
-      "O",
+      "A",
+      "C",
+      "H",
       "#",
       "#"
     ]
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Knižně hrdina"
+      "clue": "Rostlina na plátno a olej"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Řadová číslovka po druhém"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Král zvířat"
+      "clue": "Chladná zbraň rytířů"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Citoslovce podivu či bolesti"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Soubor zákonů; nárok"
+      "clue": "Tenký kovový list; také na pečení"
     },
     {
       "num": 2,
@@ -96,21 +96,21 @@
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Osobní zájmeno pro více osob rodu mužského"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Špatně, nedobře"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Rozsáhlý porost stromů"
+      "clue": "Mluvený projev; také jazyk národa"
     }
   ]
 }

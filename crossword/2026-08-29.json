@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "#",
-      "D",
+      "P",
       "A",
-      "T"
+      "K",
+      "A",
+      "#"
     ],
     [
-      "#",
-      "#",
+      "U",
+      "K",
       "O",
-      "S",
-      "A"
-    ],
-    [
       "R",
+      "#"
+    ],
+    [
+      "L",
       "O",
-      "D",
-      "I",
+      "V",
+      "E",
       "C"
     ],
     [
-      "O",
-      "B",
-      "A",
       "#",
-      "#"
+      "R",
+      "A",
+      "N",
+      "O"
     ],
     [
-      "V",
-      "R",
-      "T",
       "#",
-      "#"
+      "D",
+      "R",
+      "A",
+      "P"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Poskytnout, věnovat"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "col": 0,
+      "cells": 4,
+      "clue": "Jednoduchý stroj na zvedání břemen"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Na újmu (na ~ kvality)"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Matka nebo otec"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Ten, kdo stopuje a skolí zvěř"
     },
     {
       "num": 8,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Začátek dne"
+    },
+    {
+      "num": 9,
       "row": 4,
-      "col": 0,
-      "cells": 3,
-      "clue": "Hloubený otvor do země"
+      "col": 1,
+      "cells": 4,
+      "clue": "Ostrý nehet kočky nebo dravce"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Doplnit; doručit zboží"
+      "col": 0,
+      "cells": 3,
+      "clue": "Polovina (~ litru)"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 1,
+      "cells": 5,
+      "clue": "Souzvuk více tónů"
     },
     {
       "num": 3,
       "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Řemeslník, který kuje železo"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Kruhové jeviště pro zápasy a představení"
+    },
+    {
+      "num": 7,
+      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Podnos na roznášení"
-    },
-    {
-      "num": 5,
-      "row": 2,
-      "col": 0,
-      "cells": 3,
-      "clue": "Knižně: hrob"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Spletené vlasy"
     }
   ]
 }

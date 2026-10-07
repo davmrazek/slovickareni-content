@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "N",
-      "E",
+      "#",
       "Z",
-      "#"
-    ],
-    [
-      "B",
-      "A",
-      "R",
-      "A",
-      "Z"
-    ],
-    [
-      "O",
-      "B",
-      "O",
-      "J",
-      "I"
-    ],
-    [
       "D",
-      "O",
-      "Z",
-      "I",
-      "T"
+      "E"
     ],
     [
       "#",
-      "J",
+      "#",
+      "L",
+      "E",
+      "M"
+    ],
+    [
+      "V",
+      "Z",
+      "A",
+      "D",
+      "U"
+    ],
+    [
+      "L",
       "E",
       "T",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "D",
+      "Y",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "clue": "Na tomto místě, tady"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Rozhodující zápas o postup"
+      "col": 2,
+      "cells": 3,
+      "clue": "Okraj, obruba oděvu"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Obou druhů zároveň"
+      "clue": "Na zadní straně, opak vpředu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Strávit zbytek života"
+      "cells": 3,
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Pohybovat se dopravním prostředkem"
+      "clue": "Tázací příslovce času"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Střelivo do zbraně"
+      "clue": "Z drahého žlutého kovu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "col": 3,
+      "cells": 3,
+      "clue": "Otec rodiče"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Vypravit se kousek dál"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Tečka; nebo jednotka skóre"
+      "clue": "Australský neletící pták"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Být naživu"
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Svislá zděná stěna"
     }
   ]
 }

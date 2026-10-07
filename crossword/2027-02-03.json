@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "T",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "C",
-      "L",
-      "O"
-    ],
-    [
-      "L",
-      "A",
-      "H",
+      "J",
       "E",
-      "V"
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "R",
+      "A"
     ],
     [
       "O",
       "B",
+      "R",
       "A",
+      "D"
+    ],
+    [
+      "S",
+      "A",
+      "N",
       "#",
       "#"
     ],
     [
+      "A",
       "S",
-      "Y",
-      "N",
+      "I",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Pouze, nic víc; také japonská měna"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Poplatek za dovoz zboží přes hranice"
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Skleněná nádoba na nápoje"
+      "clue": "Slavnostní akt s pravidly"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Bájný drak z pohádek"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Mužský potomek"
+      "clue": "Snad, pravděpodobně"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Otec manželky nebo manžela"
+      "clue": "Patřící do období rozkvětu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Lesklý tavitelný materiál, např. železo"
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Nejhlubší mužský hlas"
     }
   ]
 }

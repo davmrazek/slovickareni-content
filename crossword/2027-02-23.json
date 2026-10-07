@@ -4,32 +4,32 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
+      "P",
+      "R",
       "O",
       "#",
       "#"
     ],
     [
-      "D",
-      "I",
+      "A",
+      "U",
       "T",
       "#",
       "#"
     ],
     [
-      "E",
-      "L",
+      "S",
+      "M",
       "I",
-      "T",
-      "A"
+      "C",
+      "H"
     ],
     [
       "#",
       "#",
       "S",
-      "U",
-      "K"
+      "A",
+      "L"
     ],
     [
       "#",
@@ -45,28 +45,28 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Reakce na vtip; prý nejlepší lék"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Tvrdé místo po větvi v prkně"
+      "clue": "Místnost pro ples; také pruh látky kolem krku"
     },
     {
       "num": 9,
@@ -82,14 +82,14 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Řemen kolem beder; také doklad na cesty"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Jedna část celku či seriálu"
+      "clue": "Destilát z cukrové třtiny"
     },
     {
       "num": 3,
@@ -103,14 +103,14 @@
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
+      "clue": "Ruský panovník, třeba Petr Veliký"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Jedno velké polknutí; na jeden ~"
     }
   ]
 }

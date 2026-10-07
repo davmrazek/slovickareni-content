@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "B",
+      "#",
+      "P",
       "A",
-      "R",
-      "A",
-      "Z"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "D",
-      "O",
-      "Z",
-      "I",
-      "T"
+      "K"
     ],
     [
       "#",
-      "Z",
+      "#",
+      "O",
+      "B",
+      "A"
+    ],
+    [
       "E",
-      "T",
+      "N",
+      "Z",
+      "Y",
+      "M"
+    ],
+    [
+      "H",
+      "O",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "S",
+      "E",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Pouze, nic víc; také japonská měna"
+      "clue": "Potom, následně"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Rozhodující zápas o postup"
+      "col": 2,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
+      "clue": "Bílkovina urychlující chemické děje v těle"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Strávit zbytek života"
+      "cells": 3,
+      "clue": "Vržení předmětu do dálky"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Pro tchána i tchyni manžel jejich dcery"
+      "clue": "Katolická bohoslužba"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Knižně: a rovněž, a též"
+      "clue": "Po stanovené době, opak slova brzy"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojka účelu (~ ses učil)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Naplnit sklenici až po okraj"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Tečka; nebo jednotka skóre"
+      "clue": "Tázací příslovce směru"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Být naživu"
+      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
     }
   ]
 }

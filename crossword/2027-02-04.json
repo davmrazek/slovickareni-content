@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "R",
+      "N",
       "O",
-      "K",
+      "S",
       "#"
+    ],
+    [
+      "K",
+      "A",
+      "B",
+      "A",
+      "T"
+    ],
+    [
+      "O",
+      "P",
+      "I",
+      "L",
+      "Y"
     ],
     [
       "P",
       "A",
-      "S",
-      "A",
-      "Z"
-    ],
-    [
-      "O",
-      "K",
-      "O",
       "L",
-      "I"
-    ],
-    [
-      "D",
-      "E",
-      "B",
-      "U",
-      "T"
+      "A",
+      "C"
     ],
     [
       "#",
-      "V",
-      "A",
-      "Z",
+      "D",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Krytý průchod mezi ulicemi; také úsek textu"
+      "clue": "Svrchní zimní oděv; také kapela z Teplic"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Prostředí kolem nějakého místa"
+      "clue": "Pod vlivem alkoholu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "První veřejné vystoupení umělce"
+      "clue": "Honosná městská budova"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Pruh pojiva držící kosti u sebe; před výkonem se přeje zlomit"
+      "clue": "Odehrávat se, přihodit se"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Truhla, do níž se ukládá zesnulý"
+      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Jednotlivý člověk"
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Louže vody po dešti"
+      "clue": "Mísa nakrájené zeleniny"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Předložka označující nižší polohu"
+      "clue": "Úder nohou, např. do míče"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Být naživu"
+      "clue": "Dlouhý tenký kus dřeva či kovu"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "C",
-      "A",
-      "S"
-    ],
-    [
-      "#",
-      "#",
-      "H",
+      "P",
       "L",
+      "O",
       "T"
     ],
     [
-      "Z",
-      "L",
-      "A",
-      "T",
-      "O"
+      "#",
+      "R",
+      "E",
+      "P",
+      "A"
     ],
     [
-      "L",
-      "E",
+      "S",
+      "A",
       "T",
-      "#",
+      "E",
+      "K"
+    ],
+    [
+      "U",
+      "V",
+      "E",
+      "R",
       "#"
     ],
     [
-      "O",
-      "D",
+      "K",
+      "Y",
+      "T",
       "A",
-      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Plyne a měříme ho hodinami"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "col": 1,
+      "cells": 4,
+      "clue": "Ohrazení pozemku"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Kořenová zelenina, ze které se vaří cukr"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Čtvercový kus látky na hlavu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "cells": 4,
+      "clue": "Půjčka od banky"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "cells": 4,
+      "clue": "Vepřové stehno na řízky i do udírny"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Rekreační stavení"
+      "clue": "Nefalšovaný; opak levého"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "col": 2,
+      "cells": 5,
+      "clue": "Pohybovat se vzduchem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "col": 3,
+      "cells": 5,
+      "clue": "Zpívané jevištní dílo"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Tvrdé místo po větvi v prkně"
     }
   ]
 }

@@ -26,14 +26,14 @@
     ],
     [
       "O",
-      "S",
+      "B",
       "A",
       "#",
       "#"
     ],
     [
-      "S",
-      "I",
+      "B",
+      "Y",
       "K",
       "#",
       "#"
@@ -66,14 +66,14 @@
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Sevřený vojenský útvar; nebo elegantní"
+      "clue": "Samec skotu"
     }
   ],
   "down": [
@@ -103,14 +103,14 @@
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "clue": "Vysoký oblouk míčku přes soupeře"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Spojka účelu (~ ses učil)"
     }
   ]
 }

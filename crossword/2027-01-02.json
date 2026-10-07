@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "A",
+      "D",
+      "E",
       "N",
-      "O"
-    ],
-    [
-      "M",
-      "A",
-      "S",
-      "I",
-      "V"
-    ],
-    [
-      "S",
-      "U",
-      "K",
-      "#",
       "#"
     ],
     [
+      "S",
+      "A",
+      "T",
       "E",
+      "K"
+    ],
+    [
+      "U",
+      "V",
+      "A",
+      "H",
+      "A"
+    ],
+    [
+      "P",
+      "A",
+      "P",
+      "E",
+      "Z"
+    ],
+    [
+      "#",
       "T",
       "A",
-      "#",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "col": 0,
+      "cells": 5,
+      "clue": "Čtvercový kus látky na hlavu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Rozsáhlý horský celek"
+      "clue": "Promýšlení věci; slohový útvar"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Tvrdé místo po větvi v prkně"
+      "cells": 5,
+      "clue": "Hlava katolické církve"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Měnit se z ledu ve vodu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Nosí se v ní nákup"
+      "clue": "Poskytovat, věnovat"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Úsek cesty nebo vývoje, fáze"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Rohovitý útvar na konci prstu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Lesklý tavitelný materiál, např. železo"
+      "clue": "Mrchožravý dravec"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Katolická bohoslužba"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Vada; také díra v zubu"
     }
   ]
 }

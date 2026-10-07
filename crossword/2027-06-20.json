@@ -15,14 +15,14 @@
       "#",
       "A",
       "N",
-      "I"
+      "O"
     ],
     [
-      "N",
+      "K",
       "A",
-      "P",
+      "L",
       "U",
-      "L"
+      "Z"
     ],
     [
       "O",
@@ -32,8 +32,8 @@
       "#"
     ],
     [
-      "S",
-      "O",
+      "D",
+      "I",
       "T",
       "#",
       "#"
@@ -52,14 +52,14 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Rovným dílem mezi dva"
+      "clue": "Louže vody po dešti"
     },
     {
       "num": 7,
@@ -73,7 +73,7 @@
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Odehrávat se, přihodit se"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Uhasit žízeň"
+      "clue": "Naplnit sklenici až po okraj"
     },
     {
       "num": 2,
@@ -96,21 +96,21 @@
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Místo, kam směřuje cesta; meta"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
+      "clue": "Šifra; posloupnost znaků k odemčení"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ]
 }

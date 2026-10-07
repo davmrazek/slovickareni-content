@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "Z",
-      "D",
-      "A",
       "#",
-      "#"
-    ],
-    [
-      "L",
+      "U",
+      "V",
       "O",
-      "K",
-      "#",
-      "#"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "L",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "R",
-      "A",
       "D"
     ],
     [
       "#",
-      "#",
-      "D",
-      "N",
+      "L",
+      "I",
+      "P",
       "A"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "E",
+      "T"
+    ],
+    [
+      "U",
+      "V",
+      "E",
+      "R",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "A",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Jeden doušek nápoje"
+      "col": 1,
+      "cells": 4,
+      "clue": "Začátek knihy či proslovu"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Národní strom Čechů"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kolem dokola"
+      "clue": "Spočívat na židli"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Půjčka od banky"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Vyznamenání za zásluhy; nebo mnišské společenství"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Nositelka dědičné informace"
+      "col": 0,
+      "cells": 4,
+      "clue": "Důvěrně otec"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
+      "col": 1,
+      "cells": 5,
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Místo v přístavu, kde se opravují lodě"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vnímat očima"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Souzvuk více tónů"
+      "clue": "Zpívané jevištní dílo"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 3,
+      "col": 0,
       "cells": 3,
-      "clue": "Velké souvislé pole"
-    },
-    {
-      "num": 7,
-      "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Rozpadlé zdivo, trosky"
     }
   ]
 }

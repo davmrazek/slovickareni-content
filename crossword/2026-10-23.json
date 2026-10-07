@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
-      "T",
-      "A",
-      "K",
+      "D",
+      "E",
+      "N",
       "#",
       "#"
     ],
     [
-      "E",
-      "S",
-      "O",
+      "A",
+      "R",
+      "A",
       "#",
       "#"
     ],
     [
       "N",
-      "I",
-      "T",
+      "A",
       "R",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "K",
       "O"
     ],
     [
       "#",
       "#",
-      "V",
-      "A",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "A",
       "K",
-      "T"
+      "R",
+      "K"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Velký barevný papoušek"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vnitřek věci; také lidské city"
+      "clue": "Společenství lidí se společným jazykem a dějinami"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Bublání vroucí vody"
+      "clue": "Zrakový orgán; také poutko na provaze"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Povinná platba státu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Dějinné období, epocha"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Kovové zařízení držící loď na místě"
+      "clue": "Oprávněný požadavek"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
+      "clue": "Žlutohnědý přírodní pigment"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Místo v přístavu, kde se opravují lodě"
     }
   ]
 }

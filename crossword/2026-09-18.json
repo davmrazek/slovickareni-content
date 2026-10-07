@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "E",
       "#",
-      "#"
-    ],
-    [
+      "R",
       "O",
-      "U",
-      "T",
-      "#",
+      "K",
       "#"
     ],
     [
-      "V",
-      "L",
+      "N",
       "A",
-      "D",
-      "A"
-    ],
-    [
-      "#",
-      "#",
       "P",
+      "O",
+      "J"
+    ],
+    [
+      "U",
+      "D",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "Z",
+      "I",
+      "R",
       "A",
-      "V"
+      "T"
     ],
     [
       "#",
-      "#",
+      "T",
       "A",
-      "L",
-      "E"
+      "C",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "cells": 5,
+      "clue": "Co se pije"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Sbor ministrů"
+      "clue": "Níže položené místo mezi kopci"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Upřeně a udiveně hledět"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Pták s okatým vějířem"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Podnos na roznášení"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Lesklý tavitelný materiál, např. železo"
+      "col": 1,
+      "cells": 5,
+      "clue": "Dávat doporučení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "col": 2,
+      "cells": 5,
+      "clue": "Ten, o koho se lze opřít"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Do větší vzdálenosti"
+      "cells": 5,
+      "clue": "Kulaté pečivo s tvarohem a povidly"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Nástroj ke krájení"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Latinský pozdrav v modlitbě"
+      "clue": "Pohybovat se pěšky"
     }
   ]
 }

@@ -11,24 +11,24 @@
       "#"
     ],
     [
-      "D",
+      "S",
       "A",
-      "R",
-      "E",
-      "K"
-    ],
-    [
-      "U",
-      "L",
-      "O",
-      "H",
-      "A"
-    ],
-    [
       "M",
+      "A",
+      "N"
+    ],
+    [
+      "O",
+      "B",
+      "O",
+      "J",
+      "I"
+    ],
+    [
+      "T",
+      "O",
+      "C",
       "I",
-      "Z",
-      "E",
       "T"
     ],
     [
@@ -52,21 +52,21 @@
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Věc pod stromečkem"
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Zadání k řešení; nebo role"
+      "clue": "Obou druhů zároveň"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Ztrácet se z dohledu"
+      "clue": "Otáčet dokola; natáčet film"
     },
     {
       "num": 8,
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Nádobí, ze kterého se jí"
+      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Rohovitý útvar na konci prstu"
+      "clue": "Objevit, co se dlouho hledalo"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Stavba k bydlení; nebo obchodní ~"
+      "clue": "Krátká reportáž ve zprávách"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Kdo vykonává popravu"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

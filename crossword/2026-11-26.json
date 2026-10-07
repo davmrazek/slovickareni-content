@@ -6,35 +6,35 @@
     [
       "#",
       "#",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "G",
-      "A",
-      "G"
-    ],
-    [
-      "J",
+      "T",
       "M",
-      "E",
-      "N",
-      "O"
+      "A"
     ],
     [
-      "I",
-      "O",
-      "N",
+      "#",
+      "#",
+      "R",
+      "E",
+      "C"
+    ],
+    [
+      "P",
+      "L",
+      "E",
+      "C",
+      "H"
+    ],
+    [
+      "A",
+      "U",
+      "T",
       "#",
       "#"
     ],
     [
-      "H",
-      "L",
-      "T",
+      "S",
+      "K",
+      "I",
       "#",
       "#"
     ]
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Nepřítomnost světla; bojí se jí děti"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Vtipná scéna v komedii"
+      "clue": "Mluvený projev; také jazyk národa"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "clue": "Tenký kovový list; také na pečení"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Míč za postranní čárou"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "clue": "Lyžařský, v názvech vleků a areálů"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Tajný pracovník; také zástupce"
+      "clue": "Řadová číslovka po druhém"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Velké souvislé pole"
+      "clue": "Chladná zbraň rytířů"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Vlastní já; nafouklé bývá u hvězd"
+      "clue": "Citoslovce podivu či bolesti"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Světová strana proti severu"
+      "clue": "Řemen kolem beder; také doklad na cesty"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Škůdce ve skříni"
+      "clue": "Napjatá zbraň k vystřelování šípů"
     }
   ]
 }

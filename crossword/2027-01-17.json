@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "C",
-      "L",
-      "O"
-    ],
-    [
-      "L",
-      "A",
-      "H",
+      "D",
       "E",
-      "V"
-    ],
-    [
-      "O",
-      "S",
-      "A",
-      "#",
+      "N",
       "#"
     ],
     [
-      "G",
+      "V",
+      "O",
+      "L",
+      "A",
+      "T"
+    ],
+    [
+      "U",
+      "L",
       "I",
-      "N",
+      "C",
+      "E"
+    ],
+    [
+      "Z",
+      "A",
+      "T",
+      "E",
+      "Z"
+    ],
+    [
       "#",
+      "R",
+      "A",
+      "Z",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Poplatek za dovoz zboží přes hranice"
+      "col": 0,
+      "cells": 5,
+      "clue": "Hlasitě zvát; telefonovat"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Skleněná nádoba na nápoje"
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "cells": 5,
+      "clue": "Nesené břemeno; také zkouška pevnosti"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Destilát s jalovcem"
+      "clue": "Svérázná povaha kraje nebo stavby"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Otec manželky nebo manžela"
+      "clue": "Americká měna"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "col": 2,
+      "cells": 5,
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "A potom, a nato"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Lesklý tavitelný materiál, např. železo"
+      "clue": "Vozidlo, zejména osobní automobil"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Záznam událostí v počítači"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Knižně: také"
     }
   ]
 }

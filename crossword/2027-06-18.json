@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "P",
-      "R",
-      "O",
       "#",
-      "#"
-    ],
-    [
-      "R",
-      "O",
-      "H",
-      "#",
-      "#"
-    ],
-    [
-      "S",
       "K",
-      "L",
-      "E",
-      "P"
+      "U",
+      "N",
+      "#"
     ],
     [
-      "#",
-      "#",
+      "V",
       "A",
-      "S",
-      "I"
+      "Z",
+      "A",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "Z",
+      "A",
+      "M",
+      "E",
+      "K"
     ],
     [
       "#",
-      "#",
-      "S",
-      "O",
-      "T"
+      "L",
+      "I",
+      "H",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
+      "cells": 5,
+      "clue": "Svazovat provazem"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Prostor pod domem"
+      "clue": "Vylučovací spojka (buď – ~)"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Šlechtické sídlo; nebo zařízení na klíč"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
+      "clue": "Etanol, základ tvrdého alkoholu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "col": 1,
+      "cells": 5,
+      "clue": "Umělé vodní koryto; nebo stoka"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vymezená část země, teritorium"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Odezva, reakce na něco"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "cells": 5,
+      "clue": "Rozběh; nebo počáteční fáze"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Pruh pojiva držící kosti u sebe; před výkonem se přeje zlomit"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Přijímat tekutinu ústy"
+      "clue": "Plynutí vody; nebo proud elektřiny"
     }
   ]
 }

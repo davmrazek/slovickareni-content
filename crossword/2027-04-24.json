@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "J",
-      "I",
+      "T",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "P",
+      "A",
+      "P",
+      "E",
       "Z"
     ],
     [
       "#",
-      "#",
-      "M",
-      "O",
-      "D"
-    ],
-    [
-      "S",
-      "T",
-      "E",
-      "N",
-      "A"
-    ],
-    [
-      "T",
-      "O",
-      "N",
-      "#",
-      "#"
-    ],
-    [
-      "O",
       "K",
-      "O",
-      "#",
+      "A",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Knižně: už"
+      "clue": "V tomto okamžiku"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Herní úprava od fanoušků"
+      "col": 0,
+      "cells": 5,
+      "clue": "Poslední pracovní den"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Svislá plocha místnosti; také lezecká"
+      "clue": "Strach z budoucího"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "cells": 5,
+      "clue": "Hlava katolické církve"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Kdo vykonává popravu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Jak se kdo nazývá"
+      "clue": "Rostlina, ze které se vyrábějí cigarety"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "col": 2,
+      "cells": 5,
+      "clue": "Úsek cesty nebo vývoje, fáze"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Číslo před desítkou"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Hudba z rádiových hitparád"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Plynutí vody; nebo proud elektřiny"
+      "clue": "Vada; také díra v zubu"
     }
   ]
 }

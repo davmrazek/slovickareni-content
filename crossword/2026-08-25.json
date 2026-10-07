@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
+      "S",
+      "T",
+      "A",
+      "J"
+    ],
+    [
+      "#",
       "M",
       "I",
-      "T",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "E",
+      "K"
+    ],
+    [
+      "M",
+      "L",
+      "H",
+      "A",
       "#"
     ],
     [
       "S",
-      "O",
-      "K",
-      "O",
-      "L"
-    ],
-    [
-      "U",
-      "D",
-      "O",
-      "L",
-      "I"
-    ],
-    [
       "T",
-      "E",
-      "N",
-      "I",
-      "S"
-    ],
-    [
-      "#",
+      "O",
       "L",
-      "A",
-      "K",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "cells": 4,
+      "clue": "Přístřešek pro koně"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+      "col": 1,
+      "cells": 4,
+      "clue": "Rozsah, stupeň něčeho"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
+      "clue": "Malý papírový nebo igelitový obal"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Hra s raketou přes síť"
+      "cells": 4,
+      "clue": "Oblak u země"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "col": 0,
+      "cells": 4,
+      "clue": "Nábytek k jídlu"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
+      "clue": "Sklovitý povlak na plechovém hrnci"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
+      "clue": "Naprostý klid bez zvuku"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Ohraničený soubor budov"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Rozpadlé zdivo, trosky"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Stroj, který tlakem drtí nebo tvaruje"
+      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Krátká textová zpráva"
     }
   ]
 }

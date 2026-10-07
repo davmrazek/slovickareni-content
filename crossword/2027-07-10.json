@@ -12,31 +12,31 @@
     ],
     [
       "I",
-      "O",
       "N",
+      "U",
       "#",
       "#"
     ],
     [
-      "T",
-      "R",
+      "L",
       "E",
-      "B",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "B",
-      "U",
-      "H"
+      "T",
+      "A",
+      "T"
     ],
     [
       "#",
       "#",
       "O",
-      "S",
-      "A"
+      "B",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "Y",
+      "S"
     ]
   ],
   "across": [
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "clue": "Citoslovce smíření (~, co se dá dělat)"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Například; nebo je nutné"
+      "clue": "Opakovaně se pohybovat vzduchem"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Nejvyšší božská bytost"
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Šelma se štětičkami na uších; také povahová črta"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "clue": "Jedna část celku či seriálu"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Plavidlo svázané z klád"
+      "clue": "Venku, mimo; opak uvnitř"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Ten, kdo dílo vytvořil"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Hovorově autobus"
+      "clue": "Spojka účelu (~ ses učil)"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Chomáč rostlin vyrůstající z jednoho místa"
     }
   ]
 }

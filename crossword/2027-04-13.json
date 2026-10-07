@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "P",
-      "R",
-      "I",
       "#",
+      "N",
+      "A",
+      "D",
       "#"
     ],
     [
-      "R",
-      "E",
       "K",
-      "#",
-      "#"
+      "A",
+      "N",
+      "A",
+      "L"
     ],
     [
-      "S",
-      "T",
       "O",
       "P",
+      "E",
+      "R",
       "A"
     ],
     [
-      "#",
-      "#",
-      "N",
-      "A",
-      "S"
+      "D",
+      "U",
+      "B",
+      "E",
+      "N"
     ],
     [
       "#",
-      "#",
-      "A",
-      "N",
-      "I"
+      "L",
+      "O",
+      "K",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Předložka blízkosti (~ cestě)"
+      "clue": "Předložka vyšší polohy"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Knižně hrdina"
+      "cells": 5,
+      "clue": "Umělé vodní koryto; nebo stoka"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Otisk v blátě"
+      "clue": "Zpívané jevištní dílo"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Čtvrtý měsíc roku"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Přivlastňovací zájmeno (~ dům)"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Jeden doušek nápoje"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "col": 1,
+      "cells": 5,
+      "clue": "Rovným dílem mezi dva"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Náboženský obraz; nebo symbol na displeji"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Zdvořilé oslovení muže"
+      "cells": 5,
+      "clue": "Věc pod stromečkem"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Šifra; posloupnost znaků k odemčení"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Velké souvislé pole"
     }
   ]
 }

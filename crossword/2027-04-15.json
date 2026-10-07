@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "T",
-      "A",
-      "K",
       "#",
-      "#"
-    ],
-    [
-      "A",
-      "N",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "M",
-      "I",
-      "S",
-      "K",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "T",
-      "U",
-      "R"
-    ],
-    [
-      "#",
-      "#",
+      "D",
       "E",
-      "R",
-      "A"
+      "N",
+      "#"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "A",
+      "N"
+    ],
+    [
+      "U",
+      "S",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "Z",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "cells": 5,
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Menší nádoba na jídlo"
+      "clue": "Vynaložená námaha"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Počet prstů na rukou"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Rohatý přežvýkavec, příbuzný zubra i domácího skotu"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Spojka ve srovnání (větší ~ ty)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "col": 1,
+      "cells": 5,
+      "clue": "Růžová tkáň, ze které rostou zuby"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Náčiní na zametání"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Místo s varhanami v kostele"
+      "cells": 5,
+      "clue": "Objevený předmět; lékařský závěr"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Dřevěná nádoba na pivo"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

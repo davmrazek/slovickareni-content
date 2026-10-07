@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
-      "E",
       "N",
+      "E",
+      "Z",
       "#"
     ],
     [
-      "P",
-      "O",
-      "R",
+      "S",
       "A",
-      "D"
+      "M",
+      "E",
+      "T"
     ],
     [
       "O",
       "P",
-      "O",
-      "R",
-      "A"
+      "I",
+      "L",
+      "Y"
     ],
     [
-      "P",
-      "O",
-      "Z",
-      "O",
-      "R"
+      "K",
+      "A",
+      "S",
+      "E",
+      "L"
     ],
     [
       "#",
-      "L",
-      "E",
       "D",
+      "E",
+      "N",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Spojka ve srovnání (větší ~ ty)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Neustále"
+      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Ten, o koho se lze opřít"
+      "clue": "Pod vlivem alkoholu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Varovné zvolání"
+      "clue": "Štěkavý průvodce nachlazení"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Doba mezi dvěma nocemi, 24 hodin"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Štíhlý strom vysazovaný do alejí"
+      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Rozrušování půdy vodou a větrem"
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Společenství lidí se společným jazykem a dějinami"
+      "clue": "Barva listů a trávy; městská roste v parcích"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Hudba z rádiových hitparád"
+      "clue": "Soupeř, protivník"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Věc věnovaná bezplatně"
+      "clue": "Zadní část hlavy; také jemná průsvitná látka"
     }
   ]
 }

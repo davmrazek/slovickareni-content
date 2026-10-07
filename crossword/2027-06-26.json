@@ -25,8 +25,8 @@
       "P"
     ],
     [
+      "L",
       "A",
-      "U",
       "T",
       "#",
       "#"
@@ -66,7 +66,7 @@
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Míč za postranní čárou"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     },
     {
       "num": 8,
@@ -103,14 +103,14 @@
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Měkký nosič na věci"
+      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Dřevěná nádoba na pivo"
+      "clue": "Vysázený ovocný porost"
     }
   ]
 }

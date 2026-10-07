@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "H",
-      "R",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "V"
-    ],
-    [
-      "P",
-      "R",
+      "T",
       "A",
-      "C",
-      "E"
-    ],
-    [
-      "L",
-      "O",
-      "V",
-      "#",
+      "K",
       "#"
     ],
     [
-      "Z",
-      "D",
+      "K",
       "A",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "U",
+      "Z",
+      "E",
+      "M",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "B",
+      "E",
+      "H"
+    ],
+    [
       "#",
+      "T",
+      "O",
+      "N",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
+      "clue": "Tímto způsobem"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Král zvířat"
+      "col": 0,
+      "cells": 5,
+      "clue": "Umělé vodní koryto; nebo stoka"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Činnost za odměnu"
+      "clue": "Vymezená část země, teritorium"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Pronásledování zvěře"
+      "cells": 5,
+      "clue": "Rozběh; nebo počáteční fáze"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Zvuk určité výšky"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Nejvyšší část těla"
+      "clue": "Klást otázky, ptát se"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Tvrdý kus horniny; spadl mi ze srdce"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Latinský pozdrav v modlitbě"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Etanol, základ tvrdého alkoholu"
     }
   ]
 }

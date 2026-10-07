@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
-      "R",
-      "H"
-    ],
-    [
-      "#",
-      "#",
-      "M",
+      "S",
+      "P",
       "O",
-      "R"
+      "J"
     ],
     [
-      "V",
-      "L",
+      "#",
+      "K",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "D",
+      "O",
+      "D",
+      "A",
+      "T"
+    ],
+    [
+      "U",
+      "R",
       "A",
       "D",
-      "A"
-    ],
-    [
-      "L",
-      "E",
-      "V",
-      "#",
       "#"
     ],
     [
-      "K",
-      "D",
-      "Y",
-      "#",
+      "B",
+      "O",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Místo, kde se prodává a nakupuje"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zhoubná nakažlivá nemoc"
+      "col": 1,
+      "cells": 4,
+      "clue": "Místo, kde se dvě části stýkají; také autobus, který právě ujel"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Rozvařená hustá strava"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Sbor ministrů"
+      "clue": "Doplnit; doručit zboží"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Král zvířat"
+      "cells": 4,
+      "clue": "Instituce vyřizující razítka"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Tázací příslovce času"
+      "cells": 4,
+      "clue": "Obuv na nohu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Málo světlý, blízký černé"
+      "clue": "Téměř"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "col": 2,
+      "cells": 5,
+      "clue": "Klesat volným pádem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Zábava podle pravidel; také divadelní text"
+      "col": 3,
+      "cells": 5,
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+      "clue": "Pohybovat se dopravním prostředkem"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Strom s žaludy"
     }
   ]
 }

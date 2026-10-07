@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "J",
-      "A",
-      "K",
+      "N",
+      "E",
+      "Z",
       "#"
     ],
     [
       "S",
-      "I",
-      "R",
+      "A",
+      "M",
       "A",
       "N"
     ],
     [
-      "A",
-      "N",
-      "E",
+      "O",
       "B",
-      "O"
+      "O",
+      "J",
+      "I"
     ],
     [
       "T",
-      "A",
-      "N",
-      "E",
-      "C"
+      "O",
+      "C",
+      "I",
+      "T"
     ],
     [
       "#",
-      "K",
-      "A",
-      "L",
+      "J",
+      "E",
+      "T",
       "#"
     ]
   ],
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce způsobu; nebo tibetský tur"
+      "clue": "Spojka ve srovnání (větší ~ ty)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 5,
-      "clue": "Sůl kyseliny sírové"
+      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Obou druhů zároveň"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 5,
-      "clue": "Rytmický pohyb do hudby"
+      "clue": "Otáčet dokola; natáčet film"
     },
     {
       "num": 8,
       "row": 4,
       "col": 1,
       "cells": 3,
-      "clue": "Usazenina, bahno na dně"
+      "clue": "Pohybovat se dopravním prostředkem"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Jiným způsobem, odlišně"
+      "clue": "Střelivo do zbraně"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Silný izolovaný vodič"
+      "clue": "Vypravit se kousek dál"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně oděv, roucho"
+      "clue": "Krátká reportáž ve zprávách"
     },
     {
       "num": 5,
       "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

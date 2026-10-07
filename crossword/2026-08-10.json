@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "S",
+      "U",
+      "D",
       "A",
-      "M",
-      "A",
-      "N"
-    ],
-    [
-      "O",
-      "B",
-      "O",
-      "J",
-      "I"
-    ],
-    [
-      "T",
-      "O",
-      "C",
-      "I",
       "T"
     ],
     [
       "#",
+      "M",
+      "O",
       "R",
+      "E"
+    ],
+    [
+      "L",
       "E",
+      "D",
+      "E",
+      "N"
+    ],
+    [
+      "E",
+      "L",
+      "A",
+      "N",
+      "#"
+    ],
+    [
+      "K",
+      "Y",
       "T",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "cells": 4,
+      "clue": "Oznámit na někoho; prodat"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "col": 1,
+      "cells": 4,
+      "clue": "Velká slaná vodní plocha"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Obou druhů zároveň"
+      "clue": "První měsíc roku"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Otáčet dokola; natáčet film"
+      "cells": 4,
+      "clue": "Nadšený rozmach do práce"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "col": 0,
+      "cells": 4,
+      "clue": "Vepřové stehno na řízky i do udírny"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
+      "clue": "Vyrobený, ne přírodní"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "clue": "Doplnit; doručit zboží"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Objevit, co se dlouho hledalo"
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Krátká reportáž ve zprávách"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Prostředek proti nemoci"
     }
   ]
 }

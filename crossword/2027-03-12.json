@@ -6,33 +6,33 @@
     [
       "#",
       "#",
-      "K",
-      "D",
-      "O"
+      "C",
+      "O",
+      "Z"
     ],
     [
       "#",
       "#",
-      "R",
-      "E",
-      "J"
+      "H",
+      "U",
+      "L"
     ],
     [
-      "P",
-      "R",
+      "Z",
+      "L",
       "A",
-      "S",
-      "E"
+      "T",
+      "Y"
     ],
     [
       "L",
-      "O",
-      "V",
+      "I",
+      "T",
       "#",
       "#"
     ],
     [
-      "Z",
+      "O",
       "D",
       "A",
       "#",
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 2,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Vztažné zájmeno: řekl to nahlas, ~ nikdo nečekal"
     },
     {
       "num": 4,
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Divoký vír tance"
+      "clue": "Opora při chůzi"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Domácí zvíře na zabijačku"
+      "clue": "Z drahého žlutého kovu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Pronásledování zvěře"
+      "clue": "Nalévat; nebo ~ jako z konve"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Dojnice na pastvě"
+      "clue": "Rekreační stavení"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Silná hrůza"
+      "clue": "Míč mimo hřiště (anglicky)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Tyč, za kterou táhne kůň vůz"
+      "clue": "Plný zloby, nedobrý"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Opak dobra; vybírá se vždy to menší"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Obyvatelstvo země"
     }
   ]
 }

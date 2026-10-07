@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "R",
       "O",
-      "K",
-      "#"
-    ],
-    [
-      "N",
-      "A",
-      "P",
-      "O",
-      "J"
-    ],
-    [
+      "S",
       "U",
-      "D",
-      "O",
-      "L",
-      "I"
-    ],
-    [
-      "Z",
-      "I",
-      "R",
-      "A",
-      "T"
+      "D"
     ],
     [
       "#",
-      "T",
+      "S",
+      "A",
+      "L",
+      "A"
+    ],
+    [
+      "K",
       "A",
       "C",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "D",
+      "E",
+      "V",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "K",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "cells": 4,
+      "clue": "Předurčený běh života"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Co se pije"
+      "col": 1,
+      "cells": 4,
+      "clue": "Dlouhý pruh látky kolem krku"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Níže položené místo mezi kopci"
+      "clue": "Porážet stromy"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Upřeně a udiveně hledět"
+      "cells": 4,
+      "clue": "Vše, co se obléká"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Podnos na roznášení"
+      "col": 0,
+      "cells": 4,
+      "clue": "Jednoduchý stroj na zvedání břemen"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Dávat doporučení"
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Ten, o koho se lze opřít"
+      "clue": "Malý papírový nebo igelitový obal"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Kulaté pečivo s tvarohem a povidly"
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Nástroj ke krájení"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Pohybovat se pěšky"
+      "clue": "Poskytnout, věnovat"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Úder nohou, např. do míče"
     }
   ]
 }

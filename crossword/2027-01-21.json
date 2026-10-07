@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
       "P",
-      "A",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "I",
-      "N",
-      "U"
-    ],
-    [
-      "S",
-      "K",
-      "L",
       "O",
-      "N"
-    ],
-    [
-      "T",
-      "R",
-      "I",
-      "#",
+      "D",
       "#"
     ],
     [
-      "O",
+      "K",
+      "A",
       "B",
-      "R",
+      "E",
+      "L"
+    ],
+    [
+      "U",
+      "S",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "L",
+      "I",
+      "T"
+    ],
+    [
       "#",
+      "Z",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "col": 0,
+      "cells": 5,
+      "clue": "Silný izolovaný vodič"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Náklon plochy; nebo náchylnost k něčemu"
+      "clue": "Vynaložená námaha"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Počet nohou stativu"
+      "cells": 5,
+      "clue": "Naplnit sklenici až po okraj"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Pohádkový velikán"
+      "clue": "Být naživu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Mohutná svislá podpěra mostu"
+      "clue": "Krytý průchod mezi ulicemi; také úsek textu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "col": 2,
+      "cells": 5,
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Rozčleňovat na části"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
       "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Otevřené ohniště v obývacím pokoji"
+      "clue": "Nalévat; nebo ~ jako z konve"
     }
   ]
 }

@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "#",
       "P",
-      "R",
       "O",
-      "#",
-      "#"
-    ],
-    [
-      "R",
-      "O",
-      "H",
-      "#",
+      "D",
       "#"
     ],
     [
       "S",
+      "O",
       "K",
-      "L",
       "O",
-      "N"
+      "L"
     ],
     [
-      "#",
-      "#",
-      "A",
+      "E",
+      "R",
+      "O",
+      "Z",
+      "E"
+    ],
+    [
       "N",
-      "I"
-    ],
-    [
-      "#",
-      "#",
-      "S",
+      "A",
+      "L",
       "I",
       "T"
+    ],
+    [
+      "#",
+      "D",
+      "I",
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Předložka vyjadřující účel"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
+      "cells": 5,
+      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Náklon plochy; nebo náchylnost k něčemu"
+      "clue": "Rozrušování půdy vodou a větrem"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Naplnit sklenici až po okraj"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Pletivo z nití; nebo internet"
+      "clue": "Odehrávat se, přihodit se"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "col": 1,
+      "cells": 5,
+      "clue": "Neustále"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "col": 2,
+      "cells": 5,
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Odezva, reakce na něco"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "cells": 5,
+      "clue": "Strávit zbytek života"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Obrazy ve spánku; nebo velká touha"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     }
   ]
 }

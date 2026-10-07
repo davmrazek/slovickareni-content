@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "C",
-      "A",
-      "S"
-    ],
-    [
-      "#",
-      "#",
-      "H",
-      "L",
-      "T"
-    ],
-    [
-      "Z",
-      "L",
-      "A",
-      "T",
-      "O"
-    ],
-    [
+      "P",
+      "O",
       "D",
-      "I",
-      "T",
-      "#",
       "#"
     ],
     [
+      "K",
       "A",
-      "H",
+      "B",
+      "E",
+      "L"
+    ],
+    [
+      "U",
+      "S",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "S",
       "A",
+      "L",
+      "A",
+      "T"
+    ],
+    [
       "#",
+      "Z",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Plyne a měříme ho hodinami"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Jedno velké polknutí; na jeden ~"
+      "col": 0,
+      "cells": 5,
+      "clue": "Silný izolovaný vodič"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Vynaložená námaha"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Odehrávat se, přihodit se"
+      "cells": 5,
+      "clue": "Mísa nakrájené zeleniny"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "clue": "Být naživu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Rekreační stavení"
+      "clue": "Krytý průchod mezi ulicemi; také úsek textu"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Hluboký ženský hlas"
+      "col": 2,
+      "cells": 5,
+      "clue": "Pšenice, žito a podobné plodiny"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Vykonávat činnost"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
+      "clue": "Jeden odlomený či oddělený díl"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Etanol, základ tvrdého alkoholu"
+      "clue": "Nalévat; nebo ~ jako z konve"
     }
   ]
 }

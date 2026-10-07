@@ -12,31 +12,31 @@
     ],
     [
       "R",
-      "E",
-      "K",
+      "O",
+      "V",
       "#",
       "#"
     ],
     [
       "S",
-      "T",
+      "H",
       "O",
-      "P",
+      "D",
       "A"
     ],
     [
       "#",
       "#",
-      "L",
+      "C",
       "A",
-      "K"
+      "R"
     ],
     [
       "#",
       "#",
-      "O",
+      "E",
       "R",
-      "T"
+      "A"
     ]
   ],
   "across": [
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Knižně hrdina"
+      "clue": "Knižně: hrob"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Otisk v blátě"
+      "clue": "Souhlas dvou stran; mluvnický jev"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "clue": "Ruský panovník, třeba Petr Veliký"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
+      "clue": "Dějinné období, epocha"
     }
   ],
   "down": [
@@ -89,28 +89,28 @@
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Výrůstek na hlavě zvířete; na lesní se hraje v orchestru"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Kolem dokola"
+      "clue": "Sladké plody stromů"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Dva k sobě patřící; nebo několik málo"
+      "clue": "Věc věnovaná bezplatně"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Dějství divadelní hry; také úřední listina"
+      "clue": "Velký barevný papoušek"
     }
   ]
 }

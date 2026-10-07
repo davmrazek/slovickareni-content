@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "Z",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "M"
-    ],
-    [
+      "U",
       "V",
-      "Z",
-      "A",
-      "D",
-      "U"
+      "O",
+      "D"
     ],
     [
-      "L",
-      "E",
-      "T",
       "#",
+      "L",
+      "I",
+      "P",
+      "A"
+    ],
+    [
+      "R",
+      "O",
+      "D",
+      "I",
+      "T"
+    ],
+    [
+      "U",
+      "H",
+      "E",
+      "L",
       "#"
     ],
     [
-      "K",
-      "D",
-      "O",
-      "#",
+      "S",
+      "A",
+      "T",
+      "Y",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Na tomto místě, tady"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Okraj, obruba oděvu"
+      "col": 1,
+      "cells": 4,
+      "clue": "Začátek knihy či proslovu"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Národní strom Čechů"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na zadní straně, opak vpředu"
+      "clue": "Přivádět na svět"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "cells": 4,
+      "clue": "Rozevření dvou přímek"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "cells": 4,
+      "clue": "Dámský oděv jednodílný"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Drahý žlutý kov; také oslovení milované osoby"
+      "clue": "Zadání k řešení; nebo role"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Otec rodiče"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vnímat očima"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Australský neletící pták"
+      "col": 3,
+      "cells": 5,
+      "clue": "Pod vlivem alkoholu"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
+      "clue": "Poskytnout, věnovat"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Svislá zděná stěna"
+      "clue": "Obyvatel největší země světa"
     }
   ]
 }

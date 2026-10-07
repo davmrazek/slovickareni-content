@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
-      "M",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "R",
-      "E",
-      "C"
-    ],
-    [
-      "P",
-      "L",
-      "E",
+      "O",
       "C",
-      "H"
+      "A",
+      "S"
     ],
     [
-      "R",
-      "Y",
-      "T",
       "#",
+      "P",
+      "E",
+      "R",
+      "I"
+    ],
+    [
+      "L",
+      "O",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "U",
+      "R",
+      "A",
+      "N",
       "#"
     ],
     [
-      "S",
-      "K",
-      "I",
-      "#",
+      "P",
+      "A",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Mluvený projev; také jazyk národa"
+      "col": 1,
+      "cells": 4,
+      "clue": "Zadní přívěsek zvířete"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Pokryv ptačího těla"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Tenký kovový list; také na pečení"
+      "clue": "Kloub uprostřed paže"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Zarývat se do země jako krtek"
+      "cells": 4,
+      "clue": "Radioaktivní kov z Jáchymova; také planeta"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
-      "cells": 3,
-      "clue": "Lyžařský, v názvech vleků a areálů"
+      "cells": 4,
+      "clue": "Zadní část chodidla"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Řadová číslovka po druhém"
+      "clue": "Ten, o koho se lze opřít"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Chladná zbraň rytířů"
+      "col": 2,
+      "cells": 5,
+      "clue": "Trpělivě vyhlížet"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Citoslovce podivu či bolesti"
+      "col": 3,
+      "cells": 5,
+      "clue": "Kruhové jeviště pro zápasy a představení"
     },
     {
-      "num": 5,
-      "row": 2,
-      "col": 0,
+      "num": 4,
+      "row": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Část hrudníku; v množném čísle plavecký styl"
+      "clue": "Pletivo z nití; nebo internet"
     },
     {
       "num": 6,
       "row": 2,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Vodivá pletiva pod kůrou stromů (2. pád mn. č.)"
+      "clue": "Ukořistěná věc"
     }
   ]
 }

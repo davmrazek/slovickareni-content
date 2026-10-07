@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "N",
-      "E",
-      "Z",
       "#",
+      "L",
+      "O",
+      "D",
       "#"
     ],
     [
+      "V",
       "A",
-      "H",
-      "A",
-      "#",
-      "#"
-    ],
-    [
       "S",
-      "M",
-      "R",
+      "E",
+      "N"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "Z",
       "A",
-      "D"
-    ],
-    [
-      "#",
-      "#",
+      "B",
       "I",
-      "N",
-      "U"
+      "T"
     ],
     [
-      "#",
       "#",
       "T",
-      "I",
-      "P"
+      "A",
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Spojka ve srovnání (větší ~ ty)"
+      "clue": "Plavidlo; také hlavní prostor kostela"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Citoslovce náhlého pochopení"
+      "cells": 5,
+      "clue": "Silná zaujatost"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nepříjemný zápach"
+      "clue": "Prostředí kolem nějakého místa"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Připravit o život"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Odhad, sázka na výsledek"
+      "clue": "Měnit se z ledu ve vodu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Přivlastňovací zájmeno (~ dům)"
+      "col": 1,
+      "cells": 5,
+      "clue": "Vábit k sobě"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
+      "col": 2,
+      "cells": 5,
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vydávat jasné světlo"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "cells": 5,
+      "clue": "Rozčleňovat na části"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Povoz tažený koňmi"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Zvuk těžkého kroku"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

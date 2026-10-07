@@ -13,28 +13,28 @@
     [
       "#",
       "#",
-      "L",
+      "R",
       "E",
       "K"
     ],
     [
-      "K",
-      "O",
-      "N",
+      "Z",
+      "L",
+      "A",
       "T",
       "O"
     ],
     [
+      "D",
       "A",
-      "S",
-      "I",
+      "V",
       "#",
       "#"
     ],
     [
-      "T",
       "A",
-      "T",
+      "N",
+      "O",
       "#",
       "#"
     ]
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Prostředek proti nemoci"
+      "clue": "Knižně hrdina"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bankovní účet"
+      "clue": "Drahý žlutý kov; také oslovení milované osoby"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "clue": "Velké množství lidí pohromadě"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Měnit se z ledu ve vodu"
+      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
     }
   ],
   "down": [
@@ -82,7 +82,7 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Naplňovat; nebo splňovat úkol"
+      "clue": "Soubor zákonů; nárok"
     },
     {
       "num": 2,
@@ -103,14 +103,14 @@
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Kdo vykonává popravu"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "clue": "Velké souvislé pole"
     }
   ]
 }

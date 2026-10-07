@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
+      "L",
+      "O",
+      "D",
+      "#"
+    ],
+    [
+      "D",
+      "A",
+      "S",
       "E",
       "N"
     ],
     [
-      "#",
-      "#",
-      "A",
-      "S",
+      "O",
+      "K",
+      "O",
+      "L",
       "I"
     ],
     [
-      "P",
-      "I",
-      "L",
-      "O",
+      "K",
+      "A",
+      "B",
+      "A",
       "T"
     ],
     [
+      "#",
+      "T",
       "A",
-      "N",
-      "I",
-      "#",
-      "#"
-    ],
-    [
-      "K",
-      "U",
-      "R",
-      "#",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Plavidlo; také hlavní prostor kostela"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 0,
+      "cells": 5,
+      "clue": "Růžová tkáň, ze které rostou zuby"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kdo řídí letadlo"
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "cells": 5,
+      "clue": "Svrchní zimní oděv; také kapela z Teplic"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Místo s varhanami v kostele"
+      "clue": "Měnit se z ledu ve vodu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Nádobí, ze kterého se jí"
+      "clue": "Vábit k sobě"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "col": 2,
+      "cells": 5,
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Vykonávat činnost"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Místo v přístavu, kde se opravují lodě"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Potom, následně"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Citoslovce smíření (~, co se dá dělat)"
+      "clue": "Tenké vlákno na šití; také ~ příběhu"
     }
   ]
 }

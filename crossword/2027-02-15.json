@@ -4,8 +4,8 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
+      "P",
+      "R",
       "O",
       "#",
       "#"
@@ -13,30 +13,30 @@
     [
       "R",
       "E",
-      "T",
+      "K",
       "#",
       "#"
     ],
     [
-      "K",
-      "N",
-      "I",
-      "H",
-      "A"
-    ],
-    [
-      "#",
-      "#",
       "S",
-      "A",
-      "L"
+      "T",
+      "R",
+      "O",
+      "M"
     ],
     [
       "#",
       "#",
-      "K",
-      "D",
-      "E"
+      "A",
+      "B",
+      "Y"
+    ],
+    [
+      "#",
+      "#",
+      "J",
+      "A",
+      "S"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Předložka vyjadřující účel"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "clue": "Knižně hrdina"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Svázané listy ke čtení"
+      "clue": "Rostlina s kmenem a korunou"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Místnost pro ples; také pruh látky kolem krku"
+      "clue": "Spojka účelu (~ ses učil)"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Míra světlosti, svit"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Doba mezi dvěma nocemi, 24 hodin"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Stopa prstu na sklenici"
+      "clue": "Vnější hrana"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Beznohý plaz, třeba zmije nebo užovka"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Kočičí kořist; také výběžek pevniny do moře"
     }
   ]
 }

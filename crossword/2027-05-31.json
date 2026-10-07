@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
-      "E",
-      "N"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "S",
-      "I"
-    ],
-    [
-      "N",
-      "E",
-      "B",
+      "L",
       "O",
-      "T"
-    ],
-    [
-      "A",
-      "R",
-      "A",
-      "#",
+      "D",
       "#"
     ],
     [
-      "S",
-      "A",
       "K",
+      "O",
+      "P",
+      "E",
+      "C"
+    ],
+    [
+      "O",
+      "K",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "V",
+      "E",
+      "R",
+      "I",
+      "T"
+    ],
+    [
       "#",
+      "T",
+      "A",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Plavidlo; také hlavní prostor kostela"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 0,
+      "cells": 5,
+      "clue": "Vyvýšenina v krajině"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Spojka příčiny: protože, vždyť"
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "cells": 5,
+      "clue": "Být přesvědčen bez důkazu"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Rybářská síť na tyči"
+      "clue": "Měnit se z ledu ve vodu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Rostlina, ze které se vyrábějí cigarety"
+      "clue": "Kloub uprostřed paže"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "col": 2,
+      "cells": 5,
+      "clue": "Ten, o koho se lze opřít"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Rozčleňovat na části"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Lesklý tavitelný materiál, např. železo"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno (~ dům)"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Emoce; nebo schopnost vnímat"
     }
   ]
 }

@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
       "D",
-      "V",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "A",
-      "N"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "L",
-      "O"
-    ],
-    [
-      "R",
-      "A",
-      "J",
-      "#",
+      "U",
+      "M",
       "#"
     ],
     [
-      "T",
+      "M",
+      "O",
+      "D",
+      "E",
+      "L"
+    ],
+    [
+      "O",
+      "P",
+      "O",
       "R",
+      "A"
+    ],
+    [
+      "P",
+      "A",
+      "L",
       "I",
+      "T"
+    ],
+    [
       "#",
+      "D",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Číslo mezi jedničkou a trojkou"
+      "clue": "Stavba k bydlení; nebo obchodní ~"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Slabý pohyb vzduchu"
+      "col": 0,
+      "cells": 5,
+      "clue": "Zmenšená napodobenina; nebo osoba předvádějící oděvy"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kolem dokola"
+      "clue": "Ten, o koho se lze opřít"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Místo blaženosti, zahrada Eden"
+      "cells": 5,
+      "clue": "Působit žárem; destilovat"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Počet nohou stativu"
+      "clue": "Odehrávat se, přihodit se"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Dvou různých druhů zároveň"
+      "clue": "Náraz na zem; také důsledek"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Zemní obranné navršení"
+      "col": 2,
+      "cells": 5,
+      "clue": "Níže položené místo mezi kopci"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Zjišťovat rozměr"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Náčiní na mytí podlahy"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Vodorovná důlní chodba"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Ledovcový kotel v horách"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     }
   ]
 }

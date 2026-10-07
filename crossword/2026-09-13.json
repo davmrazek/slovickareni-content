@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "T",
-      "U",
-      "N",
-      "A",
-      "#"
+      "#",
+      "E",
+      "S",
+      "E",
+      "J"
     ],
     [
+      "#",
+      "T",
       "E",
       "L",
+      "E"
+    ],
+    [
+      "R",
       "A",
-      "N",
+      "D",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "T",
       "#"
     ],
     [
       "D",
-      "E",
-      "V",
-      "E",
-      "T"
-    ],
-    [
-      "#",
-      "V",
-      "R",
-      "B",
-      "A"
-    ],
-    [
-      "#",
       "A",
-      "H",
-      "O",
-      "J"
+      "T",
+      "A",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 4,
-      "clue": "Tisíc kilogramů"
+      "clue": "Volná úvaha na papíře"
     },
     {
       "num": 5,
       "row": 1,
-      "col": 0,
+      "col": 1,
       "cells": 4,
-      "clue": "Nadšený rozmach do práce"
+      "clue": "Mládě krávy"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Číslo před desítkou"
+      "clue": "Dávat doporučení"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Znovu, podruhé"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 1,
-      "cells": 4,
-      "clue": "Strom u vody, z jeho proutí se plete košík"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 4,
-      "clue": "Neformální pozdrav"
+      "clue": "Uložené údaje"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "V tomto okamžiku"
+      "col": 1,
+      "cells": 5,
+      "clue": "Úsek cesty nebo vývoje, fáze"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Pocit po odeznění tíhy"
+      "clue": "Spočívat na židli"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
+      "col": 3,
       "cells": 5,
-      "clue": "Předložený nápad k projednání"
+      "clue": "Nejlepší vrstva ve svém oboru"
     },
     {
       "num": 4,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
-    },
-    {
-      "num": 7,
-      "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Knižně: co má zůstat skryto"
+      "clue": "Pohybovat se dopravním prostředkem"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
     }
   ]
 }

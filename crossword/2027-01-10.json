@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "N",
-      "O",
-      "C",
-      "#"
-    ],
-    [
-      "K",
-      "A",
-      "B",
-      "E",
-      "L"
-    ],
-    [
-      "O",
-      "P",
-      "I",
-      "L",
-      "Y"
-    ],
-    [
       "S",
-      "A",
-      "L",
-      "E",
-      "K"
+      "R",
+      "U",
+      "B"
     ],
     [
       "#",
+      "H",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "P",
+      "O",
+      "D",
+      "A",
+      "T"
+    ],
+    [
+      "U",
       "D",
       "I",
-      "K",
+      "V",
+      "#"
+    ],
+    [
+      "D",
+      "A",
+      "T",
+      "A",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+      "cells": 4,
+      "clue": "Stavení z vodorovně kladených kmenů"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Silný izolovaný vodič"
+      "col": 1,
+      "cells": 4,
+      "clue": "Knižně potupa, hanba"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Pod vlivem alkoholu"
+      "clue": "Přinést a předat"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Nádobka na čaj s ouškem"
+      "cells": 4,
+      "clue": "Podivení nad nečekaným"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Projev vděčnosti, poděkování"
+      "col": 0,
+      "cells": 4,
+      "clue": "Uložené údaje"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Nová myšlenka; rozsvítí se nad hlavou"
+      "clue": "Souhlas dvou stran; mluvnický jev"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Pšenice, žito a podobné plodiny"
+      "clue": "Dávat doporučení"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "Souhrn všech částí"
+      "clue": "Vyčerpání po námaze"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Černý pták se žlutým zobákem"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Vodivá pletiva pod kůrou stromů (2. pád mn. č.)"
+      "clue": "Pociťovat strach (~ se)"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vrozený nutkavý sklon"
     }
   ]
 }

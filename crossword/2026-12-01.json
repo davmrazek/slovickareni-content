@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "K",
-      "D",
-      "E",
       "#",
-      "#"
-    ],
-    [
-      "O",
-      "U",
-      "T",
-      "#",
-      "#"
-    ],
-    [
       "S",
+      "M",
+      "R",
+      "T"
+    ],
+    [
+      "T",
+      "A",
+      "L",
+      "I",
+      "R"
+    ],
+    [
+      "V",
       "L",
       "A",
-      "V",
+      "D",
       "A"
     ],
     [
-      "#",
-      "#",
-      "P",
+      "R",
       "A",
-      "V"
+      "D",
+      "I",
+      "T"
     ],
     [
-      "#",
-      "#",
-      "A",
-      "L",
-      "E"
+      "Z",
+      "M",
+      "E",
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Tázací příslovce místa"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Míč mimo hřiště (anglicky)"
+      "col": 1,
+      "cells": 4,
+      "clue": "Konec života"
     },
     {
       "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Nádobí, ze kterého se jí"
+    },
+    {
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Široký věhlas"
+      "clue": "Sbor ministrů"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Dávat doporučení"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Pták s okatým vějířem"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "col": 0,
+      "cells": 4,
+      "clue": "Nepřehledná spleť věcí"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Černý pták se žlutým zobákem"
+      "col": 1,
+      "cells": 5,
+      "clue": "Uzenina nakrájená na kolečka"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "col": 2,
+      "cells": 5,
+      "clue": "Potomek zvířete"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Úsek cesty nebo vývoje, fáze"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Zemní obranné navršení"
+      "cells": 5,
+      "clue": "Ovládat vůz; vést podnik"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 0,
       "col": 4,
-      "cells": 3,
-      "clue": "Latinský pozdrav v modlitbě"
+      "cells": 4,
+      "clue": "Železniční cesta; také délka závodu"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Malé opevněné sídlo zemana"
     }
   ]
 }

@@ -21,22 +21,22 @@
       "L",
       "E",
       "T",
-      "A",
-      "T"
+      "O",
+      "S"
     ],
     [
       "#",
       "#",
       "O",
       "B",
-      "A"
+      "R"
     ],
     [
       "#",
       "#",
       "R",
-      "Y",
-      "K"
+      "A",
+      "P"
     ]
   ],
   "across": [
@@ -59,21 +59,21 @@
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Opakovaně se pohybovat vzduchem"
+      "clue": "V tomto roce"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "clue": "Pohádkový velikán"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Hromový řev davu či zvěře"
+      "clue": "Rytmicky mluvený hudební styl"
     }
   ],
   "down": [
@@ -103,14 +103,14 @@
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Tímto způsobem"
+      "clue": "Zahnutý nástroj na obilí; s kladivem v sovětském znaku"
     }
   ]
 }

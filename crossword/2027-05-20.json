@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "T",
+      "#",
+      "Z",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "S",
       "A",
       "M",
-      "#",
-      "#"
-    ],
-    [
       "E",
-      "S",
+      "T"
+    ],
+    [
       "O",
-      "#",
-      "#"
-    ],
-    [
-      "N",
+      "P",
       "I",
-      "Z",
-      "K",
-      "O"
+      "L",
+      "Y"
+    ],
+    [
+      "T",
+      "I",
+      "S",
+      "I",
+      "C"
     ],
     [
       "#",
-      "#",
-      "N",
-      "A",
-      "D"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "R",
-      "A"
+      "S",
+      "E",
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Svislá zděná stěna"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "cells": 5,
+      "clue": "Měkká tkanina s hustým vlasem; nebo revoluce z roku 1989"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Blízko země, opak vysoko"
+      "clue": "Pod vlivem alkoholu"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Deset set"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Předložka vyšší polohy"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "clue": "Část tenisového zápasu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "col": 1,
+      "cells": 5,
+      "clue": "Písemný záznam schůze"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Snad, je to pravděpodobné"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Ledovcový kotel v horách"
+      "cells": 5,
+      "clue": "Rozčleňovat na části"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Krátká reportáž ve zprávách"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Dlouhý tenký kus dřeva či kovu"
     }
   ]
 }

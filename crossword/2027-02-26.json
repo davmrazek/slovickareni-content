@@ -14,27 +14,27 @@
       "#",
       "#",
       "L",
-      "O",
-      "S"
-    ],
-    [
-      "P",
-      "R",
       "I",
-      "M",
-      "O"
+      "T"
     ],
     [
+      "H",
       "L",
-      "O",
-      "M",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "R",
+      "Y",
+      "S",
       "#",
       "#"
     ],
     [
-      "Z",
-      "D",
       "A",
+      "K",
+      "T",
       "#",
       "#"
     ]
@@ -52,28 +52,28 @@
       "row": 1,
       "col": 2,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
+      "clue": "Nalévat; nebo ~ jako z konve"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Bez oklik"
+      "clue": "Nejvyšší část těla"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+      "clue": "Šelma se štětičkami na uších; také povahová črta"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
+      "clue": "Dějství divadelní hry; také úřední listina"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Dlouhodobé podnebí"
+      "clue": "Pokládat na místo"
     },
     {
       "num": 2,
       "row": 0,
       "col": 3,
       "cells": 3,
-      "clue": "Velký chrám (kolínský, milánský)"
+      "clue": "Zázrak, něco úžasného"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
+      "clue": "Sedmé písmeno řecké abecedy"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Měkkýš, třeba slimák nebo hlemýžď"
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Příbuzenská linie; také mluvnická kategorie"
+      "clue": "Vodivá pletiva pod kůrou stromů (2. pád mn. č.)"
     }
   ]
 }

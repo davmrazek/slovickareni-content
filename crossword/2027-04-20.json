@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "V",
-      "A",
-      "R"
-    ],
-    [
-      "L",
-      "A",
-      "S",
-      "K",
-      "A"
-    ],
-    [
-      "O",
-      "B",
-      "A",
-      "#",
+      "M",
+      "U",
+      "Z",
       "#"
     ],
     [
-      "S",
-      "Y",
       "K",
+      "A",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "O",
+      "S",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "D",
+      "I",
+      "V",
+      "A",
+      "T"
+    ],
+    [
       "#",
+      "V",
+      "A",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Dospělý člověk, kterému se říká pán"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Bublání vroucí vody"
+      "col": 0,
+      "cells": 5,
+      "clue": "Umělé vodní koryto; nebo stoka"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejsilnější cit"
+      "clue": "Malé sídlo, obvykle rekreační"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Ten i druhý, dva dohromady"
+      "cells": 5,
+      "clue": "Upírat zrak"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Zvuk hada"
+      "clue": "Foukat, o větru"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Knižní odporovací spojka: ale, jenže"
+      "clue": "Rozsáhlý horský celek"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Nátěr na nehty nebo na dřevo"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vyčerpání po námaze"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Prosit o vyřízení"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "clue": "Šifra; posloupnost znaků k odemčení"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Severský sudokopytník s lopatovitými parohy; nebo lístek do loterie"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Spojka účelu (~ ses učil)"
+      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
     }
   ]
 }

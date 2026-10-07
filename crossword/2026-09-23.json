@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
+      "#",
+      "J",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "L",
+      "E",
       "K",
-      "D",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "R",
       "A",
-      "P",
-      "#",
-      "#"
+      "R"
     ],
     [
+      "E",
+      "R",
+      "O",
+      "Z",
+      "E"
+    ],
+    [
+      "P",
       "A",
       "N",
-      "E",
+      "A",
+      "K"
+    ],
+    [
+      "#",
       "B",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "R",
       "A",
-      "J"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "L",
-      "E"
+      "T",
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací zájmeno ptající se na osobu"
+      "clue": "Pohybovat se pěšky"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
-      "cells": 3,
-      "clue": "Rytmicky mluvený hudební styl"
+      "cells": 5,
+      "clue": "Ten, kdo léčí pacienty"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "clue": "Rozrušování půdy vodou a větrem"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Malá sklenka tvrdého alkoholu; nebo figurka"
     },
     {
       "num": 8,
-      "row": 3,
-      "col": 2,
-      "cells": 3,
-      "clue": "Místo blaženosti, zahrada Eden"
-    },
-    {
-      "num": 9,
       "row": 4,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Pociťovat strach (~ se)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
-      "cells": 3,
-      "clue": "Plovoucí ledová deska"
+      "col": 1,
+      "cells": 5,
+      "clue": "Zvedací stavební stroj; také pták s dlouhým krkem"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Povinná platba státu"
+      "col": 2,
+      "cells": 5,
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Zpívané jevištní dílo"
-    },
-    {
-      "num": 6,
-      "row": 2,
       "col": 3,
-      "cells": 3,
-      "clue": "Zastarale ples, taneční zábava"
+      "cells": 5,
+      "clue": "Klást otázky, ptát se"
     },
     {
-      "num": 7,
-      "row": 2,
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Vazká nástraha na mouchy; sednout někomu na ~"
+    },
+    {
+      "num": 5,
+      "row": 1,
       "col": 4,
       "cells": 3,
-      "clue": "Tyč, za kterou táhne kůň vůz"
+      "clue": "Knižně hrdina"
     }
   ]
 }

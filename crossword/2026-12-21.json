@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "Z",
       "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "B",
       "U",
-      "M"
-    ],
-    [
-      "S",
-      "P",
-      "O",
-      "L",
-      "U"
-    ],
-    [
       "M",
-      "U",
-      "Z",
-      "#",
       "#"
     ],
     [
-      "S",
-      "K",
+      "T",
+      "A",
+      "L",
       "I",
+      "R"
+    ],
+    [
+      "E",
+      "R",
+      "O",
+      "Z",
+      "E"
+    ],
+    [
+      "N",
+      "E",
+      "H",
+      "E",
+      "T"
+    ],
+    [
       "#",
+      "K",
+      "A",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Stavba k bydlení; nebo obchodní ~"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Zvuk výbuchu"
+      "col": 0,
+      "cells": 5,
+      "clue": "Nádobí, ze kterého se jí"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Společně"
+      "clue": "Rozrušování půdy vodou a větrem"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Dospělý člověk, kterému se říká pán"
+      "cells": 5,
+      "clue": "Rohovitý útvar na konci prstu"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Lyžařský, v názvech vleků a areálů"
+      "clue": "Kdo vykonává popravu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Co se prodává v regálech"
+      "clue": "Věc pod stromečkem"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Šachta, kde se pod zemí těží uhlí nebo ruda"
+      "col": 2,
+      "cells": 5,
+      "clue": "Zadání k řešení; nebo role"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Ztrácet se z dohledu"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Australský neletící pták"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Krátká textová zpráva"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Kotouček v ledním hokeji"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     }
   ]
 }

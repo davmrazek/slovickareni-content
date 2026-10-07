@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
-      "A",
-      "M"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "S",
-      "A"
+      "Z",
+      "E",
+      "D",
+      "#"
     ],
     [
       "P",
       "A",
-      "L",
-      "I",
+      "M",
+      "E",
       "T"
     ],
     [
       "O",
-      "N",
+      "P",
       "I",
-      "#",
-      "#"
+      "L",
+      "Y"
     ],
     [
-      "D",
+      "T",
       "I",
-      "K",
+      "S",
+      "I",
+      "C"
+    ],
+    [
       "#",
+      "S",
+      "E",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "clue": "Svislá zděná stěna"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Přímka souměrnosti; pomyslná čára otáčení"
+      "col": 0,
+      "cells": 5,
+      "clue": "Schopnost vybavit si minulé; nebo RAM v počítači"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Působit žárem; destilovat"
+      "clue": "Pod vlivem alkoholu"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "cells": 5,
+      "clue": "Deset set"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Projev vděčnosti, poděkování"
+      "clue": "Část tenisového zápasu"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Takové množství (~ práce)"
+      "clue": "Písemný záznam schůze"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Snad, pravděpodobně"
+      "col": 2,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Rozčleňovat na části"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Rozhodující tah, jímž končí šachová partie"
+      "clue": "Tekutina na kůži při horku"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Předložka označující nižší polohu"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zesilující zápor (~ ryba, ~ rak)"
+      "clue": "Dlouhý tenký kus dřeva či kovu"
     }
   ]
 }

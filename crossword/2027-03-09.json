@@ -26,14 +26,14 @@
     ],
     [
       "D",
-      "A",
+      "I",
       "T",
       "#",
       "#"
     ],
     [
-      "E",
-      "T",
+      "A",
+      "H",
       "A",
       "#",
       "#"
@@ -66,14 +66,14 @@
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "clue": "Odehrávat se, přihodit se"
     },
     {
       "num": 8,
       "row": 4,
       "col": 0,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Citoslovce náhlého pochopení"
     }
   ],
   "down": [
@@ -103,14 +103,14 @@
       "row": 2,
       "col": 0,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Spojka uvozující otázku (nevím, ~ přijde)"
     },
     {
       "num": 6,
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Etanol, základ tvrdého alkoholu"
     }
   ]
 }

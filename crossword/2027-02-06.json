@@ -26,7 +26,7 @@
     ],
     [
       "L",
-      "A",
+      "E",
       "T",
       "#",
       "#"
@@ -66,7 +66,7 @@
       "row": 3,
       "col": 0,
       "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     },
     {
       "num": 8,
@@ -110,7 +110,7 @@
       "row": 2,
       "col": 1,
       "cells": 3,
-      "clue": "Přivlastňovací zájmeno druhé osoby množné"
+      "clue": "Malá obec na venkově"
     }
   ]
 }

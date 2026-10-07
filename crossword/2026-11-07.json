@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
-      "E",
-      "N",
-      "#"
-    ],
-    [
-      "S",
+      "#",
+      "P",
       "A",
-      "M",
-      "A",
-      "N"
-    ],
-    [
-      "O",
-      "B",
-      "O",
-      "C",
-      "I"
-    ],
-    [
-      "K",
-      "A",
-      "C",
-      "E",
-      "T"
+      "K"
     ],
     [
       "#",
-      "K",
+      "#",
+      "O",
+      "B",
+      "A"
+    ],
+    [
       "E",
+      "N",
       "Z",
+      "Y",
+      "M"
+    ],
+    [
+      "H",
+      "A",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "S",
+      "E",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Potom, následně"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Léčitel kmene, který bubnuje a upadá do transu"
+      "col": 2,
+      "cells": 3,
+      "clue": "Ten i druhý, dva dohromady"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Chloupky nad okem"
+      "clue": "Bílkovina urychlující chemické děje v těle"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Porážet stromy"
+      "cells": 3,
+      "clue": "Beznohý plaz, třeba zmije nebo užovka"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Vyjadřuje přání: ~ by to byla pravda"
+      "clue": "Katolická bohoslužba"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Rostlina, ze které se vyrábějí cigarety"
+      "clue": "Po stanovené době, opak slova brzy"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Cit, silné hnutí mysli"
+      "col": 3,
+      "cells": 3,
+      "clue": "Spojka účelu (~ ses učil)"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "A potom, a nato"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Soupeř, protivník"
+      "clue": "Tázací příslovce směru"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Tenké vlákno na šití; také ~ příběhu"
+      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (~ dům)"
     }
   ]
 }

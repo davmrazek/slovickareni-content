@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "M",
+      "K",
+      "U",
+      "N",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      "A",
+      "C"
+    ],
+    [
+      "U",
+      "S",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "L",
+      "E",
+      "C",
       "I",
       "T"
     ],
     [
       "#",
-      "#",
       "L",
-      "O",
-      "M"
-    ],
-    [
-      "Z",
-      "M",
       "E",
-      "N",
-      "A"
-    ],
-    [
-      "L",
-      "O",
-      "K",
-      "#",
-      "#"
-    ],
-    [
-      "O",
-      "K",
-      "O",
-      "#",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Vlastnit; nebo ~ se k světu"
+      "clue": "Domácí kopytník tažný a jezdecký"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Místo těžby kamene; také ~ světla v hranolu"
+      "col": 0,
+      "cells": 5,
+      "clue": "Honosná městská budova"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Přechod do jiného stavu"
+      "clue": "Vynaložená námaha"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Jeden doušek nápoje"
+      "cells": 5,
+      "clue": "Odstraňovat nemoc"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Zrakový orgán; také poutko na provaze"
+      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Bílá tekutina od krávy"
+      "clue": "Štěkavý průvodce nachlazení"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Elektricky nabitá částice"
+      "col": 2,
+      "cells": 5,
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Naplnit sklenici až po okraj"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Nepřítomnost světla; bojí se jí děti"
+      "clue": "Polovina (~ litru)"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Opak dobra; vybírá se vždy to menší"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Knižně nápoj"
+      "clue": "Emoce; nebo schopnost vnímat"
     }
   ]
 }

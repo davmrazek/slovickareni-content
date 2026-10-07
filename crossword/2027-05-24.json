@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "T",
-      "E",
-      "N"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "R",
-      "A"
-    ],
-    [
-      "S",
-      "K",
-      "L",
-      "A",
-      "D"
-    ],
-    [
-      "T",
-      "R",
-      "I",
-      "#",
+      "P",
+      "O",
+      "D",
       "#"
     ],
     [
+      "P",
       "O",
-      "K",
-      "R",
+      "P",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "M",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "C",
+      "E",
+      "L",
+      "E",
+      "K"
+    ],
+    [
       "#",
+      "R",
+      "Y",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
+      "clue": "Předložka označující nižší polohu"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Velký barevný papoušek"
+      "col": 0,
+      "cells": 5,
+      "clue": "Šedý zbytek po ohni"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Hala, kde se ukládá zboží"
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Počet nohou stativu"
+      "cells": 5,
+      "clue": "Souhrn všech částí"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Žlutohnědý přírodní pigment"
+      "clue": "Zarývat se do země jako krtek"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Nádobí, ze kterého se jí"
+      "clue": "Vztah dvou veličin"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Dějinné období, epocha"
+      "col": 2,
+      "cells": 5,
+      "clue": "Pod vlivem alkoholu"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Počet prstů na rukou"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Předložka vyšší polohy"
+      "clue": "Zděné zařízení k tavení nebo topení"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Část těla mezi hlavou a trupem; také chorvatský ostrov"
+      "clue": "Prostředek proti nemoci"
     }
   ]
 }

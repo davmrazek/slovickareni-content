@@ -4,113 +4,113 @@
   "size": 5,
   "grid": [
     [
-      "#",
-      "P",
-      "A",
-      "S",
-      "T"
-    ],
-    [
-      "#",
-      "R",
+      "T",
       "U",
-      "K",
-      "A"
-    ],
-    [
-      "P",
-      "O",
-      "T",
-      "O",
-      "M"
-    ],
-    [
+      "N",
       "A",
-      "T",
-      "O",
+      "#"
+    ],
+    [
+      "E",
       "L",
+      "A",
+      "N",
       "#"
     ],
     [
       "D",
-      "I",
+      "E",
+      "V",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "V",
       "R",
+      "B",
+      "A"
+    ],
+    [
+      "#",
       "A",
-      "#"
+      "H",
+      "O",
+      "J"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 0,
       "cells": 4,
-      "clue": "Nastražené zařízení na zvíře"
+      "clue": "Tisíc kilogramů"
     },
     {
       "num": 5,
       "row": 1,
-      "col": 1,
+      "col": 0,
       "cells": 4,
-      "clue": "Horní končetina s pěti prsty"
+      "clue": "Nadšený rozmach do práce"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Následně, později"
-    },
-    {
-      "num": 7,
-      "row": 3,
-      "col": 0,
-      "cells": 4,
-      "clue": "Korálový ostrov ve tvaru prstence"
+      "clue": "Číslo před desítkou"
     },
     {
       "num": 8,
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 1,
       "cells": 4,
-      "clue": "Otvor v látce"
+      "clue": "Strom u vody, z jeho proutí se plete košík"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Neformální pozdrav"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 5,
-      "clue": "Předložka odporu"
+      "col": 0,
+      "cells": 3,
+      "clue": "V tomto okamžiku"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Ten, kdo dílo vytvořil"
+      "clue": "Pocit po odeznění tíhy"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 5,
-      "clue": "Budova, kde se učí; podle staré komedie základ života"
+      "clue": "Předložený nápad k projednání"
     },
     {
       "num": 4,
       "row": 0,
-      "col": 4,
-      "cells": 3,
-      "clue": "Na onom místě, opak sem"
+      "col": 3,
+      "cells": 5,
+      "clue": "Vylučovací spojka (buď – ~)"
     },
     {
-      "num": 6,
+      "num": 7,
       "row": 2,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Volný ~ z výšky; čeština jich má sedm"
+      "clue": "Knižně: co má zůstat skryto"
     }
   ]
 }

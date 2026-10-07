@@ -4,39 +4,39 @@
   "size": 5,
   "grid": [
     [
+      "P",
       "R",
-      "O",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "E",
       "K",
       "#",
       "#"
     ],
     [
-      "A",
-      "N",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "M",
-      "I",
-      "N",
-      "C",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "T",
-      "A",
-      "H"
-    ],
-    [
-      "#",
-      "#",
-      "O",
       "S",
-      "M"
+      "T",
+      "O",
+      "P",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "A",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "N",
+      "I"
     ]
   ],
   "across": [
@@ -45,35 +45,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
+      "clue": "Předložka blízkosti (~ cestě)"
     },
     {
       "num": 4,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Kladná odpověď; u oltáře to nejdůležitější slovo"
+      "clue": "Knižně hrdina"
     },
     {
       "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Kovový peníz"
+      "clue": "Otisk v blátě"
     },
     {
       "num": 8,
       "row": 3,
       "col": 2,
       "cells": 3,
-      "clue": "Pohyb figurkou; nebo silné vytažení"
+      "clue": "Přivlastňovací zájmeno (~ dům)"
     },
     {
       "num": 9,
       "row": 4,
       "col": 2,
       "cells": 3,
-      "clue": "Číslo mezi sedmi a devíti"
+      "clue": "Zesilující zápor (~ ryba, ~ rak)"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 0,
       "cells": 3,
-      "clue": "Obruba obrazu"
+      "clue": "Část hrudníku; v množném čísle plavecký styl"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
       "cells": 3,
-      "clue": "Osobní zájmeno pro více osob rodu mužského"
+      "clue": "Okraj úst, kouše se do něj při rozpacích"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Bankovní účet"
+      "clue": "Náboženský obraz; nebo symbol na displeji"
     },
     {
       "num": 6,
       "row": 2,
       "col": 3,
       "cells": 3,
-      "clue": "Plyne a měříme ho hodinami"
+      "clue": "Zdvořilé oslovení muže"
     },
     {
       "num": 7,
       "row": 2,
       "col": 4,
       "cells": 3,
-      "clue": "Citoslovce odkašlání pro upoutání pozornosti"
+      "clue": "Snad, pravděpodobně"
     }
   ]
 }

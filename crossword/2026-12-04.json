@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "A",
-      "L",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "R",
-      "E",
-      "T"
-    ],
-    [
-      "S",
-      "L",
-      "E",
-      "V",
-      "A"
-    ],
-    [
-      "T",
-      "O",
       "N",
-      "#",
+      "U",
+      "Z",
       "#"
     ],
     [
+      "T",
+      "E",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "U",
+      "M",
+      "E",
+      "L",
+      "Y"
+    ],
+    [
+      "K",
       "O",
-      "D",
-      "A",
+      "N",
+      "E",
+      "C"
+    ],
+    [
       "#",
+      "C",
+      "I",
+      "N",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Odporovací spojka; také svrchně kvašené anglické pivo"
+      "clue": "Nástroj ke krájení"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Okraj úst, kouše se do něj při rozpacích"
+      "col": 0,
+      "cells": 5,
+      "clue": "Skoro, bezmála"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Snížení ceny"
+      "clue": "Vyrobený, ne přírodní"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "cells": 5,
+      "clue": "Opak začátku; když je dobrý, všechno je dobré"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Skutek, konání; také kov na pocínování"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Kruhové jeviště pro zápasy a představení"
+      "clue": "Porucha zdraví"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Král zvířat"
+      "col": 2,
+      "cells": 5,
+      "clue": "Malířství, hudba, sochařství — jedním slovem"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Barva listů a trávy; městská roste v parcích"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Mastná složka potravy"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Deset desítek; také bankovka s Karlem IV."
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Plavidlo; také hlavní prostor kostela"
+      "clue": "Nářadí na kopání záhonu, šlape se na něj"
     }
   ]
 }

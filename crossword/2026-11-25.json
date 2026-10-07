@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "P",
-      "A",
-      "K",
-      "#"
-    ],
-    [
-      "K",
-      "A",
-      "N",
-      "A",
-      "L"
-    ],
-    [
-      "U",
-      "M",
-      "E",
-      "N",
-      "I"
-    ],
-    [
-      "N",
-      "E",
-      "B",
-      "O",
-      "T"
+      "#",
+      "H",
+      "R",
+      "A"
     ],
     [
       "#",
-      "T",
-      "O",
+      "#",
+      "R",
+      "U",
+      "B"
+    ],
+    [
+      "Z",
       "N",
+      "A",
+      "M",
+      "Y"
+    ],
+    [
+      "L",
+      "A",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "#",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 3,
-      "clue": "Potom, následně"
+      "clue": "Zábava podle pravidel; také divadelní text"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Umělé vodní koryto; nebo stoka"
+      "col": 2,
+      "cells": 3,
+      "clue": "Opačná strana líce"
     },
     {
-      "num": 6,
+      "num": 5,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Malířství, hudba, sochařství — jedním slovem"
+      "clue": "Široce rozpoznávaný"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Spojka příčiny: protože, vždyť"
+      "cells": 3,
+      "clue": "Velké souvislé pole"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "clue": "Oslavná báseň, třeba na radost"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
+      "col": 2,
       "cells": 5,
-      "clue": "Schopnost vybavit si minulé; nebo RAM v počítači"
+      "clue": "Ostré rozhraní dvou ploch"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 5,
-      "clue": "Vylučovací spojka (buď – ~)"
+      "col": 3,
+      "cells": 3,
+      "clue": "Destilát z cukrové třtiny"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Dělo z dob plachetnic"
-    },
-    {
-      "num": 4,
-      "row": 1,
-      "col": 0,
+      "col": 4,
       "cells": 3,
-      "clue": "Domácí kopytník tažný a jezdecký"
+      "clue": "Spojka účelu (~ ses učil)"
     },
     {
       "num": 5,
-      "row": 1,
-      "col": 4,
+      "row": 2,
+      "col": 0,
       "cells": 3,
-      "clue": "Nalévat; nebo ~ jako z konve"
+      "clue": "Opak dobra; vybírá se vždy to menší"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 1,
+      "cells": 3,
+      "clue": "Předložka vyšší polohy"
     }
   ]
 }

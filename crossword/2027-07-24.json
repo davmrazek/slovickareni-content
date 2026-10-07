@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "K",
-      "D",
-      "E"
+      "N",
+      "O",
+      "S",
+      "#"
     ],
     [
-      "#",
-      "#",
-      "L",
+      "J",
+      "A",
+      "S",
       "A",
       "T"
     ],
     [
-      "E",
-      "L",
-      "I",
-      "T",
-      "A"
-    ],
-    [
-      "S",
-      "E",
-      "M",
-      "#",
-      "#"
-    ],
-    [
       "O",
+      "K",
+      "O",
+      "L",
+      "O"
+    ],
+    [
       "D",
-      "A",
+      "U",
+      "B",
+      "E",
+      "N"
+    ],
+    [
       "#",
+      "P",
+      "A",
+      "K",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce místa"
+      "clue": "Čichový orgán; nafoukanec ho ohrnuje"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Tenká dřevěná lišta v plotě; nebo káravě vyčítat"
+      "col": 0,
+      "cells": 5,
+      "clue": "Hlasitě se radovat"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Nejlepší vrstva ve svém oboru"
+      "clue": "Kolem dokola"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Směrem k mluvčímu"
+      "cells": 5,
+      "clue": "Čtvrtý měsíc roku"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Oslavná báseň, třeba na radost"
+      "clue": "Potom, následně"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Dlouhodobé podnebí"
+      "clue": "Obstarání zboží v obchodě"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Poskytnout, věnovat"
+      "col": 2,
+      "cells": 5,
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Nádobka na čaj s ouškem"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Sedmé písmeno řecké abecedy"
+      "clue": "Prvek v dezinfekci ran"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Nejvyšší hrací karta; nebo špičkový odborník"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Zmrzlá voda; v nápoji chrastí"
+      "clue": "Zvuk určité výšky"
     }
   ]
 }

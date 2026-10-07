@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "#",
-      "Z",
-      "D",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "M"
-    ],
-    [
-      "V",
-      "Z",
-      "A",
-      "D",
-      "U"
-    ],
-    [
-      "L",
-      "E",
-      "T",
-      "#",
+      "R",
+      "O",
+      "K",
       "#"
     ],
     [
+      "L",
+      "A",
       "K",
-      "D",
-      "Y",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "M",
+      "O",
+      "C",
+      "E"
+    ],
+    [
+      "Z",
+      "E",
+      "L",
+      "E",
+      "N"
+    ],
+    [
       "#",
+      "C",
+      "I",
+      "T",
       "#"
     ]
   ],
@@ -43,74 +43,74 @@
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 3,
-      "clue": "Na tomto místě, tady"
+      "clue": "Období dvanácti měsíců; nový vítá ohňostroj"
     },
     {
       "num": 4,
       "row": 1,
-      "col": 2,
-      "cells": 3,
-      "clue": "Okraj, obruba oděvu"
+      "col": 0,
+      "cells": 5,
+      "clue": "Vábit k sobě"
     },
     {
-      "num": 5,
+      "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Na zadní straně, opak vpředu"
+      "clue": "Cit, silné hnutí mysli"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 3,
-      "clue": "Pohyb vzduchem; nebo pět ~ (od slova rok)"
+      "cells": 5,
+      "clue": "Barva listů a trávy; městská roste v parcích"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Tázací příslovce času"
+      "clue": "Emoce; nebo schopnost vnímat"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 2,
+      "col": 1,
       "cells": 5,
-      "clue": "Z drahého žlutého kovu"
+      "clue": "Vymezení rozsahu; v jakém ~i se to odehrává"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 3,
-      "cells": 3,
-      "clue": "Otec rodiče"
+      "col": 2,
+      "cells": 5,
+      "clue": "Prostředí kolem nějakého místa"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 4,
+      "col": 3,
+      "cells": 5,
+      "clue": "Porážet stromy"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
       "cells": 3,
-      "clue": "Australský neletící pták"
+      "clue": "Vědomá nepravda"
     },
     {
       "num": 5,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 4,
       "cells": 3,
-      "clue": "Šelma příbuzná psovi; má se nažrat, a koza zůstat celá"
-    },
-    {
-      "num": 6,
-      "row": 2,
-      "col": 1,
-      "cells": 3,
-      "clue": "Svislá zděná stěna"
+      "clue": "Ukazovací zájmeno rodu mužského (~ dům)"
     }
   ]
 }
