@@ -1,0 +1,42 @@
+{
+  "id": "conn-300",
+  "groups": [
+    {
+      "name": "Voda v domácnosti",
+      "words": [
+        "VODOMĚR",
+        "KOHOUTEK",
+        "SPRCHA",
+        "SPLACHOVÁNÍ"
+      ]
+    },
+    {
+      "name": "Vodárenství",
+      "words": [
+        "ÚPRAVNA",
+        "VODOJEM",
+        "PŘIVADĚČ",
+        "CHLOR"
+      ]
+    },
+    {
+      "name": "Kanalizace",
+      "words": [
+        "ŠACHTA",
+        "STOKA",
+        "ČISTÍRNA",
+        "KAL"
+      ]
+    },
+    {
+      "name": "Pitná ___",
+      "words": [
+        "VODA",
+        "KÚRA",
+        "FONTÁNA",
+        "LÉČBA"
+      ]
+    }
+  ],
+  "date": "2026-10-13"
+}

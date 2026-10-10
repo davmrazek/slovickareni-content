@@ -1,0 +1,431 @@
+{
+  "id": "2026-10-13",
+  "date": "2026-10-13",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "#",
+      "#",
+      "S",
+      "K",
+      "R",
+      "I",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "R",
+      "E",
+      "Z",
+      "I",
+      "N",
+      "#"
+    ],
+    [
+      "T",
+      "U",
+      "#",
+      "U",
+      "T",
+      "O",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "V",
+      "R",
+      "C",
+      "H",
+      "#",
+      "L",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "#",
+      "P",
+      "A",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "#",
+      "U",
+      "R",
+      "C",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "J",
+      "U",
+      "L",
+      "I",
+      "E",
+      "#",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "O",
+      "D",
+      "#",
+      "S",
+      "U",
+      "T"
+    ],
+    [
+      "M",
+      "R",
+      "A",
+      "Z",
+      "#",
+      "C",
+      "I",
+      "Z",
+      "I"
+    ],
+    [
+      "N",
+      "E",
+      "D",
+      "E",
+      "L",
+      "E",
+      "#",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "V",
+      "E",
+      "N",
+      "O",
+      "V",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "K",
+      "Y",
+      "V",
+      "A",
+      "T",
+      "#",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Almara"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 7,
+      "clue": "Ghetto u Litoměřic"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tady"
+    },
+    {
+      "num": 9,
+      "row": 2,
+      "col": 3,
+      "cells": 6,
+      "clue": "Atakovat"
+    },
+    {
+      "num": 11,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Kopec"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 5,
+      "cells": 4,
+      "clue": "Doba žní"
+    },
+    {
+      "num": 14,
+      "row": 4,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zesílený zápor"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 3,
+      "clue": "Řecký bůh stád"
+    },
+    {
+      "num": 16,
+      "row": 5,
+      "col": 0,
+      "cells": 2,
+      "clue": "Chem. zn. radia"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 5,
+      "clue": "Stanovit"
+    },
+    {
+      "num": 19,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Kapuletovna"
+    },
+    {
+      "num": 21,
+      "row": 6,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. osmia"
+    },
+    {
+      "num": 23,
+      "row": 7,
+      "col": 2,
+      "cells": 3,
+      "clue": "Níže než"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kamení pod skálou"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zima pod nulou"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Neznámý"
+    },
+    {
+      "num": 28,
+      "row": 9,
+      "col": 0,
+      "cells": 6,
+      "clue": "Den Páně"
+    },
+    {
+      "num": 30,
+      "row": 9,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Indie"
+    },
+    {
+      "num": 31,
+      "row": 10,
+      "col": 1,
+      "cells": 7,
+      "clue": "Dedikovat"
+    },
+    {
+      "num": 33,
+      "row": 11,
+      "col": 2,
+      "cells": 5,
+      "clue": "Houpat"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 2,
+      "cells": 2,
+      "clue": "Zvratné zájmeno"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Kroužek zájmový"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Horní ~"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 5,
+      "cells": 7,
+      "clue": "Karanténa"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 6,
+      "cells": 6,
+      "clue": "Destrukce"
+    },
+    {
+      "num": 6,
+      "row": 1,
+      "col": 1,
+      "cells": 6,
+      "clue": "Soutěž"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 7,
+      "cells": 3,
+      "clue": "Příze"
+    },
+    {
+      "num": 8,
+      "row": 2,
+      "col": 0,
+      "cells": 4,
+      "clue": "Forma"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 8,
+      "cells": 2,
+      "clue": "Tohle"
+    },
+    {
+      "num": 12,
+      "row": 3,
+      "col": 2,
+      "cells": 2,
+      "clue": "Nebo (kniž.)"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Špice lodi"
+    },
+    {
+      "num": 17,
+      "row": 5,
+      "col": 3,
+      "cells": 7,
+      "clue": "Uschovaný"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 7,
+      "cells": 6,
+      "clue": "Prahnout"
+    },
+    {
+      "num": 20,
+      "row": 6,
+      "col": 2,
+      "cells": 6,
+      "clue": "Rozklad"
+    },
+    {
+      "num": 22,
+      "row": 6,
+      "col": 8,
+      "cells": 4,
+      "clue": "Tma za předmětem"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 6,
+      "cells": 2,
+      "clue": "Chem. zn. křemíku"
+    },
+    {
+      "num": 25,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Mangan (zn.)"
+    },
+    {
+      "num": 26,
+      "row": 8,
+      "col": 1,
+      "cells": 3,
+      "clue": "Hukot"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Tepna"
+    },
+    {
+      "num": 29,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Hon"
+    },
+    {
+      "num": 32,
+      "row": 10,
+      "col": 6,
+      "cells": 2,
+      "clue": "Kód Rakouska"
+    }
+  ]
+}
