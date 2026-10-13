@@ -1,0 +1,445 @@
+{
+  "id": "2026-10-16",
+  "date": "2026-10-16",
+  "rows": 12,
+  "cols": 9,
+  "grid": [
+    [
+      "A",
+      "Z",
+      "#",
+      "S",
+      "N",
+      "A",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "M",
+      "#",
+      "N",
+      "A",
+      "K",
+      "U",
+      "P",
+      "#"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "#",
+      "S",
+      "T",
+      "E",
+      "R",
+      "K"
+    ],
+    [
+      "E",
+      "S",
+      "E",
+      "J",
+      "#",
+      "#",
+      "L",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "T",
+      "R",
+      "E",
+      "S",
+      "T",
+      "#",
+      "C",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "N",
+      "V",
+      "A",
+      "Z",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "M",
+      "E",
+      "Z",
+      "E",
+      "R",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "U",
+      "#",
+      "E",
+      "T",
+      "I",
+      "K",
+      "A",
+      "#"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "#",
+      "#",
+      "F",
+      "A",
+      "U",
+      "L"
+    ],
+    [
+      "M",
+      "E",
+      "R",
+      "I",
+      "T",
+      "#",
+      "Z",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "N",
+      "E",
+      "C",
+      "#",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "U",
+      "D",
+      "A",
+      "#",
+      "T",
+      "O"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 2,
+      "clue": "Teprve"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 4,
+      "clue": "Možná"
+    },
+    {
+      "num": 7,
+      "row": 1,
+      "col": 0,
+      "cells": 2,
+      "clue": "Kilometr (zn.)"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 3,
+      "cells": 5,
+      "clue": "Pořízení"
+    },
+    {
+      "num": 10,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Mluvnická kategorie"
+    },
+    {
+      "num": 12,
+      "row": 2,
+      "col": 4,
+      "cells": 5,
+      "clue": "Drobné kamení"
+    },
+    {
+      "num": 14,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Literární rozprava"
+    },
+    {
+      "num": 16,
+      "row": 3,
+      "col": 6,
+      "cells": 3,
+      "clue": "Kostky do drinku"
+    },
+    {
+      "num": 17,
+      "row": 4,
+      "col": 1,
+      "cells": 5,
+      "clue": "Postih"
+    },
+    {
+      "num": 20,
+      "row": 4,
+      "col": 7,
+      "cells": 2,
+      "clue": "Chem. zn. kobaltu"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 2,
+      "cells": 6,
+      "clue": "Nájezd"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 1,
+      "cells": 6,
+      "clue": "Proluka"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Tady"
+    },
+    {
+      "num": 25,
+      "row": 7,
+      "col": 3,
+      "cells": 5,
+      "clue": "Mravouka"
+    },
+    {
+      "num": 27,
+      "row": 8,
+      "col": 0,
+      "cells": 3,
+      "clue": "Snad"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 5,
+      "cells": 4,
+      "clue": "Zákrok proti pravidlům"
+    },
+    {
+      "num": 31,
+      "row": 9,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vyměřovat"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 6,
+      "cells": 3,
+      "clue": "Jestli"
+    },
+    {
+      "num": 35,
+      "row": 10,
+      "col": 1,
+      "cells": 5,
+      "clue": "Valčík i polka"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Indie"
+    },
+    {
+      "num": 38,
+      "row": 11,
+      "col": 2,
+      "cells": 4,
+      "clue": "Jednotvárnost"
+    },
+    {
+      "num": 39,
+      "row": 11,
+      "col": 7,
+      "cells": 2,
+      "clue": "Tohle"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zátah"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Oklamat"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 2,
+      "clue": "Chem. zn. cínu"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Přivlastňovací zájmeno (my)"
+    },
+    {
+      "num": 5,
+      "row": 0,
+      "col": 5,
+      "cells": 3,
+      "clue": "Dějství"
+    },
+    {
+      "num": 6,
+      "row": 0,
+      "col": 6,
+      "cells": 4,
+      "clue": "Utkání dvou"
+    },
+    {
+      "num": 9,
+      "row": 1,
+      "col": 7,
+      "cells": 5,
+      "clue": "Stejně"
+    },
+    {
+      "num": 11,
+      "row": 2,
+      "col": 2,
+      "cells": 5,
+      "clue": "Řada"
+    },
+    {
+      "num": 13,
+      "row": 2,
+      "col": 8,
+      "cells": 3,
+      "clue": "Která osoba?"
+    },
+    {
+      "num": 15,
+      "row": 3,
+      "col": 3,
+      "cells": 5,
+      "clue": "Nicméně"
+    },
+    {
+      "num": 18,
+      "row": 4,
+      "col": 4,
+      "cells": 4,
+      "clue": "Zeměkoule"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 5,
+      "cells": 5,
+      "clue": "Sazba"
+    },
+    {
+      "num": 22,
+      "row": 5,
+      "col": 6,
+      "cells": 5,
+      "clue": "Zápověď"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 1,
+      "cells": 5,
+      "clue": "Být nucen"
+    },
+    {
+      "num": 24,
+      "row": 7,
+      "col": 0,
+      "cells": 3,
+      "clue": "Na onom místě"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 7,
+      "cells": 5,
+      "clue": "Prověrka"
+    },
+    {
+      "num": 28,
+      "row": 8,
+      "col": 2,
+      "cells": 4,
+      "clue": "Stát ajatolláhů"
+    },
+    {
+      "num": 30,
+      "row": 8,
+      "col": 8,
+      "cells": 4,
+      "clue": "Horolezecká jistota"
+    },
+    {
+      "num": 32,
+      "row": 9,
+      "col": 3,
+      "cells": 3,
+      "clue": "Ostatně (kniž.)"
+    },
+    {
+      "num": 33,
+      "row": 9,
+      "col": 4,
+      "cells": 3,
+      "clue": "Momentálně"
+    },
+    {
+      "num": 36,
+      "row": 10,
+      "col": 5,
+      "cells": 2,
+      "clue": "Chem. zn. vápníku"
+    }
+  ]
+}
