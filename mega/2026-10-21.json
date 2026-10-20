@@ -5,136 +5,136 @@
   "cols": 9,
   "grid": [
     [
-      "S",
-      "K",
+      "P",
       "R",
-      "Z",
+      "O",
       "#",
-      "#",
-      "M",
-      "H",
-      "D"
+      "P",
+      "R",
+      "S",
+      "T",
+      "#"
     ],
     [
-      "V",
+      "R",
       "U",
-      "N",
-      "E",
-      "#",
-      "V",
-      "U",
-      "L",
-      "E"
-    ],
-    [
-      "U",
-      "Z",
+      "B",
       "#",
       "B",
-      "R",
-      "E",
-      "Z",
-      "E",
-      "N"
+      "Y",
+      "T",
+      "I",
+      "#"
     ],
     [
-      "J",
-      "E",
-      "#",
-      "R",
-      "A",
       "S",
-      "A",
+      "M",
+      "E",
+      "R",
       "#",
+      "N",
+      "O",
+      "S",
       "#"
     ],
     [
       "#",
       "#",
+      "T",
+      "E",
+      "D",
+      "#",
       "L",
+      "E",
+      "C"
+    ],
+    [
+      "T",
+      "U",
+      "#",
+      "N",
+      "O",
+      "S",
+      "E",
+      "N",
+      "I"
+    ],
+    [
       "O",
       "Z",
-      "E",
-      "#",
-      "Z",
-      "N"
-    ],
-    [
-      "B",
-      "E",
-      "Z",
-      "#",
-      "#",
+      "N",
+      "A",
+      "C",
+      "I",
       "T",
-      "E",
-      "L",
-      "O"
-    ],
-    [
-      "U",
-      "H",
-      "E",
-      "L",
-      "#",
-      "#",
-      "M",
-      "Y",
-      "S"
-    ],
-    [
-      "H",
-      "M",
-      "#",
-      "Z",
-      "A",
-      "B",
-      "A",
       "#",
       "#"
     ],
     [
       "#",
       "#",
-      "V",
-      "I",
-      "C",
-      "E",
-      "#",
-      "C",
-      "H"
-    ],
-    [
-      "K",
-      "S",
-      "I",
-      "C",
-      "H",
+      "A",
       "T",
-      "#",
-      "H",
+      "E",
+      "L",
+      "I",
+      "E",
       "R"
     ],
     [
-      "R",
-      "E",
       "N",
+      "A",
+      "D",
+      "A",
+      "L",
       "E",
       "#",
-      "O",
-      "B",
-      "E",
-      "D"
+      "U",
+      "A"
     ],
     [
-      "K",
-      "D",
+      "O",
+      "S",
+      "A",
+      "#",
+      "A",
+      "N",
       "O",
       "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "V",
+      "C",
+      "#",
+      "E",
+      "R",
+      "I",
+      "K"
+    ],
+    [
+      "#",
+      "O",
+      "K",
+      "A",
+      "P",
+      "#",
+      "E",
+      "V",
+      "A"
+    ],
+    [
       "#",
       "N",
-      "E",
-      "B",
-      "E"
+      "A",
+      "S",
+      "A",
+      "#",
+      "L",
+      "O",
+      "M"
     ]
   ],
   "across": [
@@ -142,169 +142,155 @@
       "num": 1,
       "row": 0,
       "col": 0,
-      "cells": 4,
-      "clue": "Přes"
+      "cells": 3,
+      "clue": "Za (lat.)"
     },
     {
-      "num": 5,
+      "num": 4,
       "row": 0,
-      "col": 6,
-      "cells": 3,
-      "clue": "Tramvaje a autobusy (zkr.)"
+      "col": 4,
+      "cells": 4,
+      "clue": "Malíček"
     },
     {
       "num": 8,
       "row": 1,
       "col": 0,
-      "cells": 4,
-      "clue": "Buket"
+      "cells": 3,
+      "clue": "Zadní strana"
     },
     {
       "num": 9,
       "row": 1,
-      "col": 5,
+      "col": 4,
       "cells": 4,
-      "clue": "Odhodlání"
+      "clue": "Existence"
     },
     {
       "num": 10,
       "row": 2,
       "col": 0,
-      "cells": 2,
-      "clue": "Již"
+      "cells": 4,
+      "clue": "Kurz"
     },
     {
-      "num": 11,
+      "num": 12,
       "row": 2,
-      "col": 3,
-      "cells": 6,
-      "clue": "Třetí měsíc"
+      "col": 5,
+      "cells": 3,
+      "clue": "Frňák"
     },
     {
       "num": 13,
       "row": 3,
-      "col": 0,
-      "cells": 2,
-      "clue": "Tvar slovesa být"
-    },
-    {
-      "num": 14,
-      "row": 3,
-      "col": 3,
-      "cells": 4,
-      "clue": "Plemeno"
+      "col": 2,
+      "cells": 3,
+      "clue": "Momentálně"
     },
     {
       "num": 15,
-      "row": 4,
-      "col": 2,
-      "cells": 4,
-      "clue": "Kavalec"
-    },
-    {
-      "num": 16,
-      "row": 4,
-      "col": 7,
-      "cells": 2,
-      "clue": "Chemická značka zinku"
-    },
-    {
-      "num": 18,
-      "row": 5,
-      "col": 0,
-      "cells": 3,
-      "clue": "Keř s bílými okolíky"
-    },
-    {
-      "num": 20,
-      "row": 5,
-      "col": 5,
-      "cells": 4,
-      "clue": "Organismus"
-    },
-    {
-      "num": 22,
-      "row": 6,
-      "col": 0,
-      "cells": 4,
-      "clue": "Palivo"
-    },
-    {
-      "num": 24,
-      "row": 6,
+      "row": 3,
       "col": 6,
       "cells": 3,
-      "clue": "Hlodavec"
+      "clue": "Avšak (kniž.)"
     },
     {
-      "num": 25,
-      "row": 7,
+      "num": 17,
+      "row": 4,
       "col": 0,
       "cells": 2,
-      "clue": "Nu"
+      "clue": "Zde (hovor.)"
+    },
+    {
+      "num": 19,
+      "row": 4,
+      "col": 3,
+      "cells": 6,
+      "clue": "Přenášení"
+    },
+    {
+      "num": 21,
+      "row": 5,
+      "col": 0,
+      "cells": 7,
+      "clue": "Pojmenovat"
+    },
+    {
+      "num": 23,
+      "row": 6,
+      "col": 2,
+      "cells": 7,
+      "clue": "Fotostudio"
     },
     {
       "num": 26,
       "row": 7,
-      "col": 3,
-      "cells": 4,
-      "clue": "Obojživelník"
+      "col": 0,
+      "cells": 6,
+      "clue": "Dále"
+    },
+    {
+      "num": 28,
+      "row": 7,
+      "col": 7,
+      "cells": 2,
+      "clue": "Kód Ukrajiny"
     },
     {
       "num": 29,
       "row": 8,
-      "col": 2,
-      "cells": 4,
-      "clue": "Hojněji"
+      "col": 0,
+      "cells": 3,
+      "clue": "Středová přímka"
     },
     {
       "num": 30,
       "row": 8,
-      "col": 7,
-      "cells": 2,
-      "clue": "Helvetská konfederace (zkr.)"
+      "col": 4,
+      "cells": 3,
+      "clue": "Přitakání"
     },
     {
       "num": 32,
       "row": 9,
-      "col": 0,
-      "cells": 6,
-      "clue": "Ciferník (slang.)"
+      "col": 1,
+      "cells": 3,
+      "clue": "Plast (zkr.)"
     },
     {
       "num": 34,
       "row": 9,
-      "col": 7,
-      "cells": 2,
-      "clue": "Kód Chorvatska"
-    },
-    {
-      "num": 35,
-      "row": 10,
-      "col": 0,
-      "cells": 4,
-      "clue": "Descartes křestním jménem"
-    },
-    {
-      "num": 36,
-      "row": 10,
       "col": 5,
       "cells": 4,
-      "clue": "Polední jídlo"
+      "clue": "Satie křestním jménem"
     },
     {
-      "num": 38,
-      "row": 11,
-      "col": 0,
-      "cells": 3,
-      "clue": "Která osoba?"
+      "num": 37,
+      "row": 10,
+      "col": 1,
+      "cells": 4,
+      "clue": "Žlab"
     },
     {
       "num": 39,
+      "row": 10,
+      "col": 6,
+      "cells": 3,
+      "clue": "Pilarová, zpěvačka"
+    },
+    {
+      "num": 40,
       "row": 11,
-      "col": 5,
+      "col": 1,
       "cells": 4,
-      "clue": "Firmament"
+      "clue": "Kosmická agentura USA (zkr.)"
+    },
+    {
+      "num": 41,
+      "row": 11,
+      "col": 6,
+      "cells": 3,
+      "clue": "Refrakce světla"
     }
   ],
   "down": [
@@ -312,169 +298,162 @@
       "num": 1,
       "row": 0,
       "col": 0,
-      "cells": 4,
-      "clue": "Náležející sobě"
+      "cells": 3,
+      "clue": "Ňadro"
     },
     {
       "num": 2,
       "row": 0,
       "col": 1,
-      "cells": 4,
-      "clue": "Pokožka"
+      "cells": 3,
+      "clue": "Pirátský nápoj"
     },
     {
       "num": 3,
       "row": 0,
       "col": 2,
-      "cells": 2,
-      "clue": "Chem. zn. radonu"
+      "cells": 4,
+      "clue": "Dar bohům"
     },
     {
       "num": 4,
       "row": 0,
-      "col": 3,
-      "cells": 5,
-      "clue": "Kost hrudníku"
+      "col": 4,
+      "cells": 2,
+      "clue": "Znak plumba"
     },
     {
       "num": 5,
       "row": 0,
-      "col": 6,
-      "cells": 4,
-      "clue": "Erató či Kalliopé"
+      "col": 5,
+      "cells": 3,
+      "clue": "Německá řeka"
     },
     {
       "num": 6,
       "row": 0,
-      "col": 7,
-      "cells": 3,
-      "clue": "Ukazovací citoslovce"
+      "col": 6,
+      "cells": 7,
+      "clue": "Věk"
     },
     {
       "num": 7,
       "row": 0,
-      "col": 8,
-      "cells": 3,
-      "clue": "Opak noci"
-    },
-    {
-      "num": 9,
-      "row": 1,
-      "col": 5,
+      "col": 7,
       "cells": 5,
-      "clue": "Pověšovat"
+      "clue": "Stísněnost"
     },
     {
-      "num": 12,
+      "num": 11,
       "row": 2,
-      "col": 4,
-      "cells": 3,
-      "clue": "Charakter kraje"
+      "col": 3,
+      "cells": 6,
+      "clue": "Znovuzrozená (ženské jméno)"
     },
     {
-      "num": 15,
-      "row": 4,
-      "col": 2,
-      "cells": 3,
-      "clue": "Dá se"
+      "num": 14,
+      "row": 3,
+      "col": 4,
+      "cells": 6,
+      "clue": "Úplně"
     },
     {
       "num": 16,
-      "row": 4,
-      "col": 7,
-      "cells": 3,
-      "clue": "Zlomyslný"
+      "row": 3,
+      "col": 8,
+      "cells": 2,
+      "clue": "Vylučovací spojka"
     },
     {
       "num": 17,
       "row": 4,
-      "col": 8,
-      "cells": 3,
-      "clue": "Frňák"
+      "col": 0,
+      "cells": 2,
+      "clue": "Ono"
     },
     {
       "num": 18,
-      "row": 5,
-      "col": 0,
-      "cells": 3,
-      "clue": "Hospodin"
-    },
-    {
-      "num": 19,
-      "row": 5,
+      "row": 4,
       "col": 1,
-      "cells": 3,
-      "clue": "Rozpačitý zvuk"
+      "cells": 2,
+      "clue": "Již"
     },
     {
-      "num": 21,
+      "num": 20,
+      "row": 4,
+      "col": 5,
+      "cells": 6,
+      "clue": "Bláznivě"
+    },
+    {
+      "num": 22,
       "row": 5,
-      "col": 6,
-      "cells": 3,
-      "clue": "„… mele maso“"
+      "col": 2,
+      "cells": 7,
+      "clue": "Urážka"
     },
     {
-      "num": 23,
+      "num": 24,
       "row": 6,
-      "col": 3,
-      "cells": 5,
-      "clue": "Polévkový příbor"
+      "col": 7,
+      "cells": 2,
+      "clue": "Unie sedmadvaceti (zkr.)"
+    },
+    {
+      "num": 25,
+      "row": 6,
+      "col": 8,
+      "cells": 2,
+      "clue": "Egyptský bůh slunce"
+    },
+    {
+      "num": 26,
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Nuže (hovor.)"
     },
     {
       "num": 27,
       "row": 7,
-      "col": 4,
-      "cells": 3,
-      "clue": "Citoslovce žalu"
-    },
-    {
-      "num": 28,
-      "row": 7,
-      "col": 5,
+      "col": 1,
       "cells": 5,
-      "clue": "Nepropustná obrana (sport. slang.)"
-    },
-    {
-      "num": 29,
-      "row": 8,
-      "col": 2,
-      "cells": 4,
-      "clue": "Ryzlink"
-    },
-    {
-      "num": 30,
-      "row": 8,
-      "col": 7,
-      "cells": 4,
-      "clue": "Město na Ohři"
+      "clue": "Minimálně"
     },
     {
       "num": 31,
       "row": 8,
-      "col": 8,
+      "col": 6,
       "cells": 4,
-      "clue": "Pyšně"
-    },
-    {
-      "num": 32,
-      "row": 9,
-      "col": 0,
-      "cells": 3,
-      "clue": "Hrdlo"
+      "clue": "Katolická tělocvičná jednota"
     },
     {
       "num": 33,
       "row": 9,
-      "col": 1,
+      "col": 3,
       "cells": 3,
-      "clue": "Popelavá barva"
+      "clue": "Mluvnická kategorie"
     },
     {
-      "num": 37,
+      "num": 35,
+      "row": 9,
+      "col": 7,
+      "cells": 3,
+      "clue": "Viktor, brankář"
+    },
+    {
+      "num": 36,
+      "row": 9,
+      "col": 8,
+      "cells": 3,
+      "clue": "Kterým směrem"
+    },
+    {
+      "num": 38,
       "row": 10,
-      "col": 6,
+      "col": 4,
       "cells": 2,
-      "clue": "Kód Belgie"
+      "clue": "Chem. zn. protaktinia"
     }
   ]
 }

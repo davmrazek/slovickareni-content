@@ -5,448 +5,455 @@
   "cols": 9,
   "grid": [
     [
-      "#",
-      "A",
-      "D",
-      "A",
-      "#",
-      "I",
+      "T",
       "V",
-      "O",
+      "U",
+      "J",
+      "#",
+      "J",
+      "A",
+      "#",
       "#"
     ],
     [
+      "R",
+      "Y",
+      "Z",
+      "E",
       "#",
-      "N",
-      "A",
-      "D",
-      "#",
-      "S",
       "O",
-      "L",
+      "S",
+      "U",
+      "D"
+    ],
+    [
+      "V",
+      "Z",
+      "I",
+      "T",
+      "#",
+      "#",
+      "I",
+      "V",
       "O"
     ],
     [
-      "V",
+      "A",
       "K",
-      "L",
-      "A",
-      "D",
-      "#",
-      "D",
-      "O",
-      "M"
-    ],
-    [
-      "S",
-      "E",
-      "#",
-      "M",
-      "I",
-      "R",
-      "O",
-      "V",
-      "Y"
-    ],
-    [
-      "A",
       "T",
       "#",
-      "#",
-      "T",
-      "O",
-      "P",
-      "O",
-      "L"
-    ],
-    [
-      "K",
-      "A",
-      "M",
-      "#",
-      "#",
-      "H",
-      "A",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "Z",
-      "#",
-      "#",
-      "D",
-      "A",
-      "T"
-    ],
-    [
-      "R",
-      "O",
-      "M",
-      "A",
-      "N",
-      "#",
-      "#",
-      "F",
-      "E"
-    ],
-    [
-      "O",
-      "R",
-      "I",
+      "V",
       "S",
-      "E",
-      "K",
       "#",
-      "R",
+      "E",
       "S"
     ],
     [
-      "S",
-      "E",
-      "N",
+      "T",
+      "U",
       "#",
-      "Z",
-      "A",
-      "C",
-      "I",
+      "#",
+      "S",
+      "P",
+      "O",
+      "R",
       "T"
     ],
     [
-      "A",
-      "C",
-      "K",
-      "O",
       "#",
-      "D",
-      "I",
-      "K",
+      "M",
+      "E",
+      "S",
+      "T",
+      "A",
+      "N",
+      "#",
       "#"
     ],
     [
       "#",
-      "H",
+      "#",
+      "M",
+      "A",
+      "R",
+      "T",
+      "I",
+      "N",
+      "#"
+    ],
+    [
+      "M",
+      "L",
       "A",
       "D",
+      "I",
       "#",
-      "R",
-      "N",
+      "#",
       "A",
-      "#"
+      "U"
+    ],
+    [
+      "I",
+      "E",
+      "#",
+      "A",
+      "C",
+      "#",
+      "D",
+      "P",
+      "H"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "#",
+      "#",
+      "S",
+      "B",
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "O",
+      "U",
+      "D",
+      "#",
+      "M",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "O",
+      "#",
+      "S",
+      "T",
+      "I",
+      "T"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Lovelaceová, průkopnice programování"
+      "col": 0,
+      "cells": 4,
+      "clue": "Přivlastňovací zájmeno (ty)"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 0,
       "col": 5,
-      "cells": 3,
-      "clue": "Viktor, brankář"
+      "cells": 2,
+      "clue": "Zájmeno 1. osoby"
     },
     {
       "num": 7,
       "row": 1,
-      "col": 1,
-      "cells": 3,
-      "clue": "Opak pod (předložka)"
+      "col": 0,
+      "cells": 4,
+      "clue": "Rizoto (základ)"
     },
     {
       "num": 8,
       "row": 1,
       "col": 5,
       "cells": 4,
-      "clue": "Výstup jednotlivce"
+      "clue": "Úděl"
     },
     {
-      "num": 10,
+      "num": 11,
       "row": 2,
       "col": 0,
-      "cells": 5,
-      "clue": "Investice"
+      "cells": 4,
+      "clue": "Sebrat"
     },
     {
       "num": 12,
       "row": 2,
       "col": 6,
       "cells": 3,
-      "clue": "Chrám"
+      "clue": "Viktor, brankář"
     },
     {
       "num": 13,
       "row": 3,
       "col": 0,
-      "cells": 2,
-      "clue": "Zvratné zájmeno"
+      "cells": 3,
+      "clue": "Dějství"
     },
     {
       "num": 14,
       "row": 3,
-      "col": 3,
-      "cells": 6,
-      "clue": "Nevojenský"
+      "col": 4,
+      "cells": 2,
+      "clue": "Proti (ve sportu)"
     },
     {
       "num": 16,
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 7,
       "cells": 2,
-      "clue": "Kód Rakouska"
+      "clue": "Kód Španělska"
     },
     {
       "num": 17,
       "row": 4,
-      "col": 4,
-      "cells": 5,
-      "clue": "Osika"
+      "col": 0,
+      "cells": 2,
+      "clue": "Tady"
     },
     {
       "num": 18,
-      "row": 5,
-      "col": 0,
-      "cells": 3,
-      "clue": "Kterým směrem"
+      "row": 4,
+      "col": 4,
+      "cells": 5,
+      "clue": "Tělovýchova"
     },
     {
       "num": 20,
       "row": 5,
-      "col": 5,
-      "cells": 2,
-      "clue": "Citoslovce překvapení"
-    },
-    {
-      "num": 21,
-      "row": 6,
-      "col": 2,
-      "cells": 2,
-      "clue": "Teprve"
+      "col": 1,
+      "cells": 6,
+      "clue": "Purkmistrův poddaný"
     },
     {
       "num": 23,
       "row": 6,
-      "col": 6,
-      "cells": 3,
-      "clue": "Poskytnout"
+      "col": 2,
+      "cells": 6,
+      "clue": "Luther křestním jménem"
     },
     {
-      "num": 26,
+      "num": 25,
       "row": 7,
       "col": 0,
       "cells": 5,
-      "clue": "Velké prozaické dílo"
+      "clue": "Jaro života"
     },
     {
-      "num": 29,
+      "num": 27,
       "row": 7,
       "col": 7,
       "cells": 2,
-      "clue": "Chem. zn. železa"
+      "clue": "Astronomická jednotka (zn.)"
+    },
+    {
+      "num": 29,
+      "row": 8,
+      "col": 0,
+      "cells": 2,
+      "clue": "Id est (zkr.)"
     },
     {
       "num": 30,
       "row": 8,
-      "col": 0,
-      "cells": 6,
-      "clue": "Plod lísky"
+      "col": 3,
+      "cells": 2,
+      "clue": "Ačkoli (kniž.)"
+    },
+    {
+      "num": 31,
+      "row": 8,
+      "col": 6,
+      "cells": 3,
+      "clue": "Daň ze zboží (zkr.)"
     },
     {
       "num": 32,
-      "row": 8,
-      "col": 7,
-      "cells": 2,
-      "clue": "Kód Srbska"
-    },
-    {
-      "num": 33,
       "row": 9,
       "col": 0,
       "cells": 3,
-      "clue": "Snění"
+      "clue": "Deset desítek"
     },
     {
       "num": 34,
       "row": 9,
-      "col": 4,
-      "cells": 5,
-      "clue": "Spustit"
+      "col": 5,
+      "cells": 4,
+      "clue": "Sbírání"
     },
     {
-      "num": 36,
+      "num": 35,
       "row": 10,
       "col": 0,
       "cells": 4,
-      "clue": "Hlavní tým (slang.)"
+      "clue": "Úsudek"
+    },
+    {
+      "num": 37,
+      "row": 10,
+      "col": 5,
+      "cells": 4,
+      "clue": "Peprmint"
     },
     {
       "num": 38,
-      "row": 10,
-      "col": 5,
-      "cells": 3,
-      "clue": "Poděkování"
+      "row": 11,
+      "col": 2,
+      "cells": 2,
+      "clue": "Tohle"
     },
     {
       "num": 39,
       "row": 11,
-      "col": 1,
-      "cells": 3,
-      "clue": "Užovka"
-    },
-    {
-      "num": 40,
-      "row": 11,
       "col": 5,
-      "cells": 3,
-      "clue": "Přepis genu (zkr.)"
+      "cells": 4,
+      "clue": "Pavéza"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 1,
-      "cells": 6,
-      "clue": "Dotazník"
+      "col": 0,
+      "cells": 5,
+      "clue": "Vydržet"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 2,
-      "cells": 3,
-      "clue": "Kupředu"
+      "col": 1,
+      "cells": 6,
+      "clue": "Bádání"
     },
     {
       "num": 3,
       "row": 0,
-      "col": 3,
+      "col": 2,
       "cells": 4,
-      "clue": "Evin druh"
+      "clue": "Vychutnat"
     },
     {
       "num": 4,
       "row": 0,
-      "col": 5,
-      "cells": 2,
-      "clue": "Kód Islandu"
+      "col": 3,
+      "cells": 3,
+      "clue": "Ujíždět"
     },
     {
       "num": 5,
       "row": 0,
-      "col": 6,
-      "cells": 7,
-      "clue": "Kaskáda"
+      "col": 5,
+      "cells": 2,
+      "clue": "Hovorové ano"
     },
     {
       "num": 6,
       "row": 0,
-      "col": 7,
-      "cells": 5,
-      "clue": "Plumbum"
+      "col": 6,
+      "cells": 3,
+      "clue": "Snad"
     },
     {
       "num": 9,
       "row": 1,
-      "col": 8,
+      "col": 7,
       "cells": 4,
-      "clue": "Mýlka"
+      "clue": "Půjčka"
     },
     {
       "num": 10,
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 8,
       "cells": 4,
-      "clue": "Ale"
+      "clue": "Dosyta"
     },
     {
-      "num": 11,
-      "row": 2,
+      "num": 14,
+      "row": 3,
       "col": 4,
-      "cells": 3,
-      "clue": "Konat se"
+      "cells": 6,
+      "clue": "Oproti"
     },
     {
       "num": 15,
       "row": 3,
       "col": 5,
-      "cells": 3,
-      "clue": "Kout"
+      "cells": 4,
+      "clue": "Hajat"
     },
     {
       "num": 19,
+      "row": 4,
+      "col": 6,
+      "cells": 3,
+      "clue": "Zájmeno 3. osoby mn. č."
+    },
+    {
+      "num": 21,
       "row": 5,
       "col": 2,
-      "cells": 7,
-      "clue": "Máti"
+      "cells": 3,
+      "clue": "„… mele maso“"
     },
     {
       "num": 22,
-      "row": 6,
+      "row": 5,
       "col": 3,
-      "cells": 3,
-      "clue": "Opět"
+      "cells": 4,
+      "clue": "Komplet"
     },
     {
       "num": 24,
       "row": 6,
       "col": 7,
       "cells": 6,
-      "clue": "Světadíl Kilimandžára"
+      "clue": "Tenze"
     },
     {
       "num": 25,
-      "row": 6,
-      "col": 8,
+      "row": 7,
+      "col": 0,
       "cells": 4,
-      "clue": "Prověrka"
+      "clue": "Královna krásy"
     },
     {
       "num": 26,
       "row": 7,
-      "col": 0,
-      "cells": 4,
-      "clue": "Ranní krůpěje"
-    },
-    {
-      "num": 27,
-      "row": 7,
       "col": 1,
-      "cells": 5,
-      "clue": "Oříšek"
+      "cells": 4,
+      "clue": "Doba žní"
     },
     {
       "num": 28,
       "row": 7,
-      "col": 4,
-      "cells": 3,
-      "clue": "Srovnávací spojka"
+      "col": 8,
+      "cells": 5,
+      "clue": "Vydřít"
     },
     {
       "num": 31,
       "row": 8,
-      "col": 5,
-      "cells": 4,
-      "clue": "Širší výběr"
-    },
-    {
-      "num": 35,
-      "row": 9,
       "col": 6,
-      "cells": 3,
-      "clue": "Skutek"
+      "cells": 4,
+      "clue": "Hledět si"
     },
     {
-      "num": 37,
+      "num": 33,
+      "row": 9,
+      "col": 2,
+      "cells": 3,
+      "clue": "Zámezí (angl.)"
+    },
+    {
+      "num": 34,
+      "row": 9,
+      "col": 5,
+      "cells": 3,
+      "clue": "Krátká zpráva (zkr.)"
+    },
+    {
+      "num": 36,
       "row": 10,
       "col": 3,
       "cells": 2,
-      "clue": "Předložka s 2. pádem"
+      "clue": "Předložka směru"
     }
   ]
 }

@@ -5,448 +5,434 @@
   "cols": 9,
   "grid": [
     [
+      "#",
       "O",
-      "N",
-      "#",
-      "#",
       "D",
-      "P",
+      "#",
       "H",
+      "U",
+      "L",
       "#",
-      "#"
-    ],
-    [
-      "K",
-      "E",
-      "R",
-      "#",
-      "K",
-      "A",
-      "R",
-      "A",
       "#"
     ],
     [
       "O",
-      "Z",
-      "I",
-      "T",
-      "#",
+      "B",
       "R",
-      "A",
-      "N",
+      "#",
+      "O",
+      "L",
+      "O",
+      "V",
       "O"
     ],
     [
-      "#",
-      "#",
-      "Z",
-      "I",
-      "S",
-      "K",
-      "#",
+      "N",
       "A",
-      "C"
+      "Z",
+      "O",
+      "R",
+      "#",
+      "S",
+      "Y",
+      "R"
     ],
     [
-      "S",
-      "P",
+      "#",
+      "#",
       "I",
-      "S",
-      "E",
+      "V",
+      "O",
       "#",
       "#",
       "L",
       "I"
     ],
     [
+      "#",
+      "S",
       "T",
-      "A",
-      "K",
       "E",
+      "R",
+      "K",
       "#",
-      "#",
-      "B",
-      "Y",
-      "T"
+      "I",
+      "S"
     ],
     [
-      "A",
-      "N",
+      "S",
+      "M",
+      "E",
+      "R",
+      "#",
       "O",
-      "#",
-      "#",
       "V",
-      "A",
-      "Z",
-      "A"
+      "C",
+      "E"
     ],
     [
-      "V",
+      "C",
+      "I",
+      "L",
+      "I",
+      "#",
+      "U",
+      "N",
+      "I",
+      "K"
+    ],
+    [
+      "E",
       "S",
       "#",
-      "#",
-      "D",
-      "E",
-      "L",
-      "A",
-      "T"
+      "T",
+      "O",
+      "P",
+      "I",
+      "T",
+      "#"
     ],
     [
-      "A",
-      "T",
-      "#",
-      "K",
-      "O",
-      "T",
+      "N",
       "E",
+      "#",
+      "#",
+      "S",
+      "E",
+      "M",
       "#",
       "#"
     ],
     [
-      "T",
-      "V",
       "A",
+      "N",
+      "O",
+      "#",
+      "T",
+      "L",
+      "A",
+      "M",
+      "A"
+    ],
+    [
       "R",
+      "Y",
+      "T",
+      "I",
+      "R",
+      "#",
+      "N",
+      "I",
+      "C"
+    ],
+    [
+      "#",
       "#",
       "A",
       "N",
-      "E",
-      "B"
-    ],
-    [
+      "I",
       "#",
       "I",
-      "D",
-      "O",
-      "L",
-      "#",
-      "I",
-      "V",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "K",
       "T",
-      "#",
-      "#",
-      "A",
-      "J"
+      "#"
     ]
   ],
   "across": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 2,
-      "clue": "Muž"
+      "clue": "Opak do (předložka)"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Nepřímá daň (zkr.)"
+      "clue": "Vycházková opora"
     },
     {
       "num": 6,
       "row": 1,
       "col": 0,
       "cells": 3,
-      "clue": "Křovina"
+      "clue": "Velikán"
     },
     {
-      "num": 8,
+      "num": 7,
       "row": 1,
       "col": 4,
-      "cells": 4,
-      "clue": "Trakař"
+      "cells": 5,
+      "clue": "Těžký kov"
     },
     {
       "num": 10,
       "row": 2,
       "col": 0,
-      "cells": 4,
-      "clue": "Obživnout"
+      "cells": 5,
+      "clue": "Stanovisko"
     },
     {
       "num": 12,
       "row": 2,
-      "col": 5,
-      "cells": 4,
-      "clue": "Úsvit"
+      "col": 6,
+      "cells": 3,
+      "clue": "Mléčný výrobek"
+    },
+    {
+      "num": 13,
+      "row": 3,
+      "col": 2,
+      "cells": 3,
+      "clue": "Viktor, brankář"
     },
     {
       "num": 14,
       "row": 3,
-      "col": 2,
-      "cells": 4,
-      "clue": "Výnos"
-    },
-    {
-      "num": 16,
-      "row": 3,
       "col": 7,
       "cells": 2,
-      "clue": "Ačkoli (kniž.)"
+      "clue": "Chem. zn. lithia"
+    },
+    {
+      "num": 15,
+      "row": 4,
+      "col": 1,
+      "cells": 5,
+      "clue": "Drobné kamení"
     },
     {
       "num": 17,
       "row": 4,
-      "col": 0,
-      "cells": 5,
-      "clue": "Raději"
-    },
-    {
-      "num": 19,
-      "row": 4,
       "col": 7,
       "cells": 2,
-      "clue": "Tázací částice (kniž.)"
+      "clue": "Islámský stát (zkr.)"
     },
     {
-      "num": 20,
+      "num": 18,
       "row": 5,
       "col": 0,
       "cells": 4,
-      "clue": "Též"
+      "clue": "Orientace"
+    },
+    {
+      "num": 19,
+      "row": 5,
+      "col": 5,
+      "cells": 4,
+      "clue": "Bečící zvíře"
     },
     {
       "num": 21,
-      "row": 5,
-      "col": 6,
-      "cells": 3,
-      "clue": "Obydlí"
+      "row": 6,
+      "col": 0,
+      "cells": 4,
+      "clue": "Aneb"
     },
     {
       "num": 22,
       "row": 6,
-      "col": 0,
-      "cells": 3,
-      "clue": "Ba"
+      "col": 5,
+      "cells": 4,
+      "clue": "Útěk"
     },
     {
       "num": 23,
-      "row": 6,
-      "col": 5,
-      "cells": 4,
-      "clue": "Amfora"
+      "row": 7,
+      "col": 0,
+      "cells": 2,
+      "clue": "Snížené E"
     },
     {
       "num": 24,
       "row": 7,
-      "col": 0,
-      "cells": 2,
-      "clue": "Proti (ve sportu)"
-    },
-    {
-      "num": 25,
-      "row": 7,
-      "col": 4,
+      "col": 3,
       "cells": 5,
-      "clue": "Tvořit"
+      "clue": "Vytápět"
     },
     {
       "num": 26,
       "row": 8,
       "col": 0,
       "cells": 2,
-      "clue": "Kód Rakouska"
+      "clue": "Chem. zn. neonu"
     },
     {
       "num": 27,
       "row": 8,
-      "col": 3,
-      "cells": 4,
-      "clue": "Kočičí mládě"
+      "col": 4,
+      "cells": 3,
+      "clue": "Na toto místo"
     },
     {
       "num": 28,
       "row": 9,
       "col": 0,
-      "cells": 4,
-      "clue": "Forma"
+      "cells": 3,
+      "clue": "Přitakání"
     },
     {
       "num": 30,
       "row": 9,
-      "col": 5,
-      "cells": 4,
-      "clue": "Čili"
+      "col": 4,
+      "cells": 5,
+      "clue": "Chřtán zvířete"
     },
     {
       "num": 33,
       "row": 10,
-      "col": 1,
-      "cells": 4,
-      "clue": "Modla"
+      "col": 0,
+      "cells": 5,
+      "clue": "Obrněný jezdec"
     },
     {
       "num": 35,
       "row": 10,
       "col": 6,
       "cells": 3,
-      "clue": "Jahelka křestním jménem"
+      "clue": "Nula"
     },
     {
       "num": 36,
       "row": 11,
       "col": 2,
       "cells": 3,
-      "clue": "Nahé tělo v umění"
+      "clue": "Zesílený zápor"
     },
     {
       "num": 37,
       "row": 11,
-      "col": 7,
+      "col": 6,
       "cells": 2,
-      "clue": "Slovenské „i“"
+      "clue": "Kód Itálie"
     }
   ],
   "down": [
     {
       "num": 1,
       "row": 0,
-      "col": 0,
+      "col": 1,
       "cells": 3,
-      "clue": "Kukadlo"
+      "clue": "Jeden i druhý"
     },
     {
       "num": 2,
       "row": 0,
-      "col": 1,
-      "cells": 3,
-      "clue": "Dokud ne"
+      "col": 2,
+      "cells": 7,
+      "clue": "Majitel"
     },
     {
       "num": 3,
       "row": 0,
       "col": 4,
-      "cells": 2,
-      "clue": "Jutská země (kód)"
+      "cells": 5,
+      "clue": "Film hrůzy"
     },
     {
       "num": 4,
       "row": 0,
       "col": 5,
-      "cells": 4,
-      "clue": "Obora"
+      "cells": 2,
+      "clue": "Brť"
     },
     {
       "num": 5,
       "row": 0,
       "col": 6,
       "cells": 3,
-      "clue": "Drama"
+      "clue": "Loterijní lístek"
     },
     {
-      "num": 7,
+      "num": 6,
       "row": 1,
-      "col": 2,
-      "cells": 6,
-      "clue": "Nebezpečí"
+      "col": 0,
+      "cells": 2,
+      "clue": "Zájmeno 3. osoby"
+    },
+    {
+      "num": 8,
+      "row": 1,
+      "col": 7,
+      "cells": 7,
+      "clue": "Vykreslit"
     },
     {
       "num": 9,
       "row": 1,
-      "col": 7,
-      "cells": 7,
-      "clue": "Rozklad celku"
+      "col": 8,
+      "cells": 6,
+      "clue": "Tvrdý problém (hovor.)"
     },
     {
       "num": 11,
       "row": 2,
       "col": 3,
-      "cells": 4,
-      "clue": "Potichu"
-    },
-    {
-      "num": 13,
-      "row": 2,
-      "col": 8,
       "cells": 6,
-      "clue": "Objevovat se (~ se)"
+      "clue": "Zkontrolovat"
     },
     {
       "num": 15,
-      "row": 3,
-      "col": 4,
-      "cells": 2,
-      "clue": "Zvratné zájmeno"
-    },
-    {
-      "num": 17,
-      "row": 4,
-      "col": 0,
-      "cells": 6,
-      "clue": "Přihodit se (~ se)"
-    },
-    {
-      "num": 18,
       "row": 4,
       "col": 1,
       "cells": 7,
-      "clue": "Doména"
+      "clue": "Namíchaný"
     },
     {
-      "num": 21,
+      "num": 16,
+      "row": 4,
+      "col": 5,
+      "cells": 6,
+      "clue": "Lázeň"
+    },
+    {
+      "num": 18,
+      "row": 5,
+      "col": 0,
+      "cells": 6,
+      "clue": "Předloha filmu"
+    },
+    {
+      "num": 20,
       "row": 5,
       "col": 6,
-      "cells": 6,
-      "clue": "Obal"
-    },
-    {
-      "num": 23,
-      "row": 6,
-      "col": 5,
-      "cells": 4,
-      "clue": "Souvětí (část)"
+      "cells": 7,
+      "clue": "Smyslové poznání"
     },
     {
       "num": 25,
       "row": 7,
       "col": 4,
-      "cells": 2,
-      "clue": "Předložka směru"
-    },
-    {
-      "num": 27,
-      "row": 8,
-      "col": 3,
-      "cells": 4,
-      "clue": "Šlépěj"
+      "cells": 5,
+      "clue": "Čepel"
     },
     {
       "num": 29,
       "row": 9,
       "col": 2,
       "cells": 3,
-      "clue": "Programovací jazyk"
+      "clue": "Šik křestním jménem"
     },
     {
       "num": 31,
       "row": 9,
       "col": 7,
       "cells": 3,
-      "clue": "Adamova družka"
+      "clue": "Vlastnit"
     },
     {
       "num": 32,
       "row": 9,
       "col": 8,
-      "cells": 3,
-      "clue": "Půtka"
+      "cells": 2,
+      "clue": "Třebas (kniž.)"
     },
     {
       "num": 34,
       "row": 10,
-      "col": 4,
+      "col": 3,
       "cells": 2,
-      "clue": "Kód Litvy"
+      "clue": "Chem. zn. india"
     }
   ]
 }

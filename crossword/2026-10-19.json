@@ -5,37 +5,37 @@
   "grid": [
     [
       "#",
-      "T",
       "O",
-      "N",
-      "#"
+      "S",
+      "U",
+      "D"
     ],
     [
-      "Z",
+      "#",
+      "S",
       "A",
+      "L",
+      "A"
+    ],
+    [
       "P",
-      "A",
-      "S"
+      "O",
+      "C",
+      "I",
+      "T"
     ],
     [
       "O",
       "B",
-      "O",
-      "C",
-      "I"
-    ],
-    [
-      "K",
-      "O",
-      "R",
       "E",
-      "N"
+      "C",
+      "#"
     ],
     [
-      "#",
-      "R",
+      "T",
       "A",
-      "Z",
+      "K",
+      "E",
       "#"
     ]
   ],
@@ -44,36 +44,36 @@
       "num": 1,
       "row": 0,
       "col": 1,
-      "cells": 3,
-      "clue": "Zvuk určité výšky"
+      "cells": 4,
+      "clue": "Předurčený běh života"
     },
     {
-      "num": 4,
+      "num": 5,
       "row": 1,
-      "col": 0,
-      "cells": 5,
-      "clue": "Utkání dvou soupeřů"
+      "col": 1,
+      "cells": 4,
+      "clue": "Dlouhý pruh látky kolem krku"
     },
     {
       "num": 6,
       "row": 2,
       "col": 0,
       "cells": 5,
-      "clue": "Chloupky nad okem"
+      "clue": "Vnitřní prožitek"
     },
     {
       "num": 7,
       "row": 3,
       "col": 0,
-      "cells": 5,
-      "clue": "Podzemní část rostliny"
+      "cells": 4,
+      "clue": "Nejmenší samosprávné sídlo"
     },
     {
       "num": 8,
       "row": 4,
-      "col": 1,
-      "cells": 3,
-      "clue": "Svérázná povaha kraje nebo stavby"
+      "col": 0,
+      "cells": 4,
+      "clue": "Rovněž, taktéž"
     }
   ],
   "down": [
@@ -82,35 +82,35 @@
       "row": 0,
       "col": 1,
       "cells": 5,
-      "clue": "Letní pobyt dětí ve stanech; také husitské město na Lužnici"
+      "clue": "Jednotlivý člověk"
     },
     {
       "num": 2,
       "row": 0,
       "col": 2,
       "cells": 5,
-      "clue": "Ten, o koho se lze opřít"
+      "clue": "Malý papírový nebo igelitový obal"
     },
     {
       "num": 3,
       "row": 0,
       "col": 3,
       "cells": 5,
-      "clue": "A potom, a nato"
+      "clue": "Cesta mezi domy; slepá nikam nevede"
     },
     {
       "num": 4,
-      "row": 1,
-      "col": 0,
-      "cells": 3,
-      "clue": "Velký pytel na vlnu nebo chmel"
-    },
-    {
-      "num": 5,
-      "row": 1,
+      "row": 0,
       "col": 4,
       "cells": 3,
-      "clue": "Velký reprezentační sál"
+      "clue": "Poskytnout, věnovat"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Tekutina na kůži při horku"
     }
   ]
 }
