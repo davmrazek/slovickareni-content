@@ -1,0 +1,116 @@
+{
+  "id": "2026-10-25",
+  "date": "2026-10-25",
+  "size": 5,
+  "grid": [
+    [
+      "T",
+      "U",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "E",
+      "L",
+      "A",
+      "N",
+      "#"
+    ],
+    [
+      "D",
+      "E",
+      "V",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "V",
+      "R",
+      "B",
+      "A"
+    ],
+    [
+      "#",
+      "A",
+      "H",
+      "O",
+      "J"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Tisíc kilogramů"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nadšený rozmach do práce"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Číslo před desítkou"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Strom u vody, z jeho proutí se plete košík"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Neformální pozdrav"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "V tomto okamžiku"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Pocit po odeznění tíhy"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Předložený nápad k projednání"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Vylučovací spojka (buď – ~)"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Knižně: co má zůstat skryto"
+    }
+  ]
+}
