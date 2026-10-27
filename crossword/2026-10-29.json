@@ -1,0 +1,116 @@
+{
+  "id": "2026-10-29",
+  "date": "2026-10-29",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "R",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "#",
+      "O",
+      "P",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "T",
+      "A"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Opak slova za"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Vojenská jednotka"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Strach z budoucího"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Lehká mlha nad krajinou; také puchýřek na rtu"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Důvěrně otec"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Předložka vyjadřující účel"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Stroj konající práci za člověka; české slovo, které dobylo svět"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Úsek cesty nebo vývoje, fáze"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Poskytovat, věnovat"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Velký barevný papoušek"
+    }
+  ]
+}
