@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-03",
+  "date": "2026-11-03",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "U",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "U",
+      "N",
+      "O",
+      "R",
+      "#"
+    ],
+    [
+      "L",
+      "E",
+      "K",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "S",
+      "O",
+      "V",
+      "A"
+    ],
+    [
+      "#",
+      "T",
+      "L",
+      "A",
+      "K"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 4,
+      "clue": "Doba odříkání před Velikonocemi"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nejkratší měsíc"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Ten, kdo léčí pacienty"
+    },
+    {
+      "num": 8,
+      "row": 3,
+      "col": 1,
+      "cells": 4,
+      "clue": "Noční pták s velkýma očima"
+    },
+    {
+      "num": 9,
+      "row": 4,
+      "col": 1,
+      "cells": 4,
+      "clue": "Síla na jednotku plochy"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 0,
+      "cells": 3,
+      "clue": "Polovina (~ litru)"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Zvednout břemeno; odvléct člověka"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Dravý pták; nebo česká tělovýchovná organizace"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Zelený porost louky"
+    },
+    {
+      "num": 7,
+      "row": 2,
+      "col": 4,
+      "cells": 3,
+      "clue": "Sladkovodní korýš; znamení zvěrokruhu"
+    }
+  ]
+}
