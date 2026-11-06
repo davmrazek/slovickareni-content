@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-09",
+  "date": "2026-11-09",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "S",
+      "R",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "P",
+      "A",
+      "K",
+      "A"
+    ],
+    [
+      "N",
+      "I",
+      "K",
+      "A",
+      "M"
+    ],
+    [
+      "O",
+      "S",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "C",
+      "E",
+      "V",
+      "A",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Chlupatý pokryv zvířete"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Jednoduchý stroj na zvedání břemen"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Na žádné místo"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Dlouhouchý příbuzný koně"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Trubice pro krev"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Pravděpodobněji"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Truhla, do níž se ukládá zesnulý"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Holý kamenný útvar; pevný jako ~"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Na onom místě, opak sem"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Doba mezi večerem a ránem; bývá svatební i probdělá"
+    }
+  ]
+}
