@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-17",
+  "date": "2026-11-17",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "K",
+      "R",
+      "E",
+      "V"
+    ],
+    [
+      "#",
+      "R",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "D",
+      "I",
+      "C"
+    ],
+    [
+      "U",
+      "Z",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "M",
+      "E",
+      "T",
+      "A",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Rudá tekutina v cévách"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Postava, kterou herec ztvárňuje"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Ten, kdo sedí za volantem"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Upotřebit; také si vychutnat"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Cíl, ke kterému směřujeme"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Vážné zhoršení poměrů"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Přivádět na svět"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Nejlepší vrstva ve svém oboru"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Předmět; nebo záležitost"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Destilát z cukrové třtiny"
+    }
+  ]
+}
