@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-24",
+  "date": "2026-11-24",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "D",
+      "U",
+      "M",
+      "#"
+    ],
+    [
+      "K",
+      "O",
+      "L",
+      "E",
+      "J"
+    ],
+    [
+      "E",
+      "M",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "K",
+      "E",
+      "C",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 3,
+      "clue": "Stavba k bydlení; nebo obchodní ~"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 5,
+      "clue": "Ubytovna studentů; vede po ní vlak"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Vypouštění zplodin; nebo vydání nových akcií"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 5,
+      "clue": "Odstraňovat nemoc"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 1,
+      "cells": 3,
+      "clue": "Nesmysl, žvást"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Malé stavení"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Cesta mezi domy; slepá nikam nevede"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Dvanáctina roku; také družice Země"
+    },
+    {
+      "num": 4,
+      "row": 1,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zahnutý zub kance nebo slona"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pohybovat se dopravním prostředkem"
+    }
+  ]
+}
