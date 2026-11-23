@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-26",
+  "date": "2026-11-26",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "V",
+      "T",
+      "I",
+      "P"
+    ],
+    [
+      "#",
+      "L",
+      "E",
+      "D",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "E",
+      "N"
+    ],
+    [
+      "U",
+      "S",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "L",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Krátký příběh k zasmání"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Nanejvýš, jedině"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Dílo ve verších"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Otvor s rty a zuby"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Nábytek k jídlu"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Rodná země"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Směs mouky a vody před pečením"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Vzor dokonalosti, kterého nelze dosáhnout"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Zdvořilé oslovení muže"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Hovorově autobus"
+    }
+  ]
+}
