@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-27",
+  "date": "2026-11-27",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "K",
+      "L",
+      "U",
+      "B"
+    ],
+    [
+      "#",
+      "R",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "D",
+      "I",
+      "V",
+      "I",
+      "T"
+    ],
+    [
+      "U",
+      "Z",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "P",
+      "E",
+      "C",
+      "I",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Sportovní či zájmový spolek"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Kapky na trávě za svítání"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Být překvapen (~ se)"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Zavázaný provaz"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Připravovat pokrm v troubě"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Vážné zhoršení poměrů"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Ten, kdo stopuje a skolí zvěř"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Vynaložená námaha"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pociťovat strach (~ se)"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Zvuk těžkého kroku"
+    }
+  ]
+}
