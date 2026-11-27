@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-30",
+  "date": "2026-11-30",
+  "size": 5,
+  "grid": [
+    [
+      "#",
+      "E",
+      "S",
+      "E",
+      "J"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "D",
+      "A",
+      "T",
+      "A",
+      "#"
+    ]
+  ],
+  "across": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 4,
+      "clue": "Volná úvaha na papíře"
+    },
+    {
+      "num": 5,
+      "row": 1,
+      "col": 1,
+      "cells": 4,
+      "clue": "Mládě krávy"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 5,
+      "clue": "Dávat doporučení"
+    },
+    {
+      "num": 7,
+      "row": 3,
+      "col": 0,
+      "cells": 4,
+      "clue": "Znovu, podruhé"
+    },
+    {
+      "num": 8,
+      "row": 4,
+      "col": 0,
+      "cells": 4,
+      "clue": "Uložené údaje"
+    }
+  ],
+  "down": [
+    {
+      "num": 1,
+      "row": 0,
+      "col": 1,
+      "cells": 5,
+      "clue": "Úsek cesty nebo vývoje, fáze"
+    },
+    {
+      "num": 2,
+      "row": 0,
+      "col": 2,
+      "cells": 5,
+      "clue": "Spočívat na židli"
+    },
+    {
+      "num": 3,
+      "row": 0,
+      "col": 3,
+      "cells": 5,
+      "clue": "Nejlepší vrstva ve svém oboru"
+    },
+    {
+      "num": 4,
+      "row": 0,
+      "col": 4,
+      "cells": 3,
+      "clue": "Pohybovat se dopravním prostředkem"
+    },
+    {
+      "num": 6,
+      "row": 2,
+      "col": 0,
+      "cells": 3,
+      "clue": "Příbuzenská linie; také mluvnická kategorie"
+    }
+  ]
+}
